@@ -1,0 +1,6564 @@
+/* Bakugan Battle Brawlers — fan katalog (Sezon 1–4, wiki görselleri) */
+window.BAKU_DATA = {
+  "attributes": {
+    "pyrus": {
+      "name": "Pyrus",
+      "tr": "Ateş",
+      "color": "#e23b2e",
+      "desc": "Saldırı gücü ve yakıcı enerji"
+    },
+    "aquos": {
+      "name": "Aquos",
+      "tr": "Su",
+      "color": "#2b6de5",
+      "desc": "Akışkan savunma ve basınç"
+    },
+    "ventus": {
+      "name": "Ventus",
+      "tr": "Rüzgar",
+      "color": "#2f9e4a",
+      "desc": "Hız, çeviklik ve hava üstünlüğü"
+    },
+    "subterra": {
+      "name": "Subterra",
+      "tr": "Toprak",
+      "color": "#a86a2d",
+      "desc": "Dayanıklılık ve ezici güç"
+    },
+    "haos": {
+      "name": "Haos",
+      "tr": "Işık",
+      "color": "#e8d24a",
+      "desc": "Denge, keskinlik ve kutsal enerji"
+    },
+    "darkus": {
+      "name": "Darkus",
+      "tr": "Karanlık",
+      "color": "#6b4fd6",
+      "desc": "Gölge, kaos ve yıkım"
+    }
+  },
+  "seasons": [
+    {
+      "id": 1,
+      "code": "BB",
+      "title": "Battle Brawlers",
+      "years": "2007–08",
+      "blurb": "Vestroia’nın kapıları açılır; altı savaşçı bakuganlarıyla Naga’ya karşı birleşir."
+    },
+    {
+      "id": 2,
+      "code": "NV",
+      "title": "New Vestroia",
+      "years": "2009–10",
+      "blurb": "Vexos tehdidi ve mekanik bakugan çağı; Drago Evolution’a uyanır."
+    },
+    {
+      "id": 3,
+      "code": "GI",
+      "title": "Gundalian Invaders",
+      "years": "2010–11",
+      "blurb": "Gundalia–Neathia savaşı; DNA kodları ve DNA Attribute dönüşümleri."
+    },
+    {
+      "id": 4,
+      "code": "MS",
+      "title": "Mechtanium Surge",
+      "years": "2011–12",
+      "blurb": "Mechtogan’lar uyanır; Chaos Bakugan ve Mag Mel tehdidi."
+    }
+  ],
+  "warriors": [
+    {
+      "id": "dan",
+      "name": "Dan Kuso",
+      "role": "Lider · Pyrus",
+      "seasons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "attribute": "pyrus",
+      "partner": "Dragonoid (Drago)",
+      "style": "Cesur, atılgan, kalpten savaşır",
+      "bio": "Battle Brawlers’ın ateşli lideri. Drago ile bağı serinin omurgasıdır; her sezonda daha güçlü formlara evrilir.",
+      "traits": [
+        "Cesaret",
+        "Liderlik",
+        "Evrim odaklı"
+      ],
+      "signature": "Pyrus Strike / Dragonoid Evolution",
+      "image": "https://static.wikia.nocookie.net/bakugan/images/f/f7/Bakugan_Dan.png/revision/latest?cb=20180107114724"
+    },
+    {
+      "id": "shun",
+      "name": "Shun Kazami",
+      "role": "Ninja · Ventus",
+      "seasons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "attribute": "ventus",
+      "partner": "Skyress → Ingram → Hawktor → Taylean",
+      "style": "Sessiz, hesaplı, rüzgâr gibi",
+      "bio": "Takımın en stratejik savaşçısı. Ninja eğitimi ve Ventus hızı birleşince rakipler çoğu zaman fark edemez.",
+      "traits": [
+        "Strateji",
+        "Çeviklik",
+        "Disiplin"
+      ],
+      "signature": "Ventus Shadow Dive",
+      "image": "https://static.wikia.nocookie.net/bakugan/images/c/c5/Shun_kazami.png/revision/latest?cb=20171018114453"
+    },
+    {
+      "id": "marucho",
+      "name": "Marucho Marukura",
+      "role": "Teknisyen · Aquos",
+      "seasons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "attribute": "aquos",
+      "partner": "Preyas → Elfin → Akwimos → Trister",
+      "style": "Akıllı, destekleyici, veri odaklı",
+      "bio": "Brawler HQ’nun beyni. Aquos esnekliği ve taktik zekâsıyla savaş alanını okur.",
+      "traits": [
+        "Analiz",
+        "Destek",
+        "Teknoloji"
+      ],
+      "signature": "Aquos Cascade Trap",
+      "image": "https://static.wikia.nocookie.net/bakugan/images/4/43/Marucho_transparent.png/revision/latest?cb=20210812185132"
+    },
+    {
+      "id": "runo",
+      "name": "Runo Misaki",
+      "role": "Savaşçı · Haos",
+      "seasons": [
+        1,
+        2
+      ],
+      "attribute": "haos",
+      "partner": "Tigrerra → Blade Tigrerra",
+      "style": "Kararlı, rekabetçi, ışık gibi keskin",
+      "bio": "Haos’un gururlu temsilcisi. Tigrerra ile birlikte denge ve adalet duygusunu sahaya taşır.",
+      "traits": [
+        "Kararlılık",
+        "Adalet",
+        "Keskin refleks"
+      ],
+      "signature": "Haos Lightning Claw",
+      "image": "https://static.wikia.nocookie.net/bakugan/images/c/cc/Image3.png/revision/latest?cb=20241104172152"
+    },
+    {
+      "id": "julie",
+      "name": "Julie Makimoto",
+      "role": "Güç · Subterra",
+      "seasons": [
+        1,
+        2
+      ],
+      "attribute": "subterra",
+      "partner": "Gorem → Hammer Gorem",
+      "style": "Neşeli ama ezici güç",
+      "bio": "Subterra’nın kayaları kadar sağlam. Gorem’in ham gücüyle cepheyi tutar.",
+      "traits": [
+        "Dayanıklılık",
+        "Moral",
+        "Kaba kuvvet"
+      ],
+      "signature": "Subterra Quake Smash",
+      "image": "https://static.wikia.nocookie.net/bakugan/images/c/c3/Julie.png/revision/latest?cb=20241104211023"
+    },
+    {
+      "id": "alice",
+      "name": "Alice Gehabich",
+      "role": "Gölge / Işık · Darkus",
+      "seasons": [
+        1,
+        2
+      ],
+      "attribute": "darkus",
+      "partner": "Hydranoid → Dual / Alpha Hydranoid",
+      "style": "Çift kişilik: Alice & Masquerade",
+      "bio": "Masquerade olarak Darkus’un korkulu rüyası; Alice olarak takımın kalbi. Hydranoid’in evrimi efsaneleşir.",
+      "traits": [
+        "İkilem",
+        "Karanlık güç",
+        "Kefaret"
+      ],
+      "signature": "Darkus Chaos Hydra",
+      "image": "https://static.wikia.nocookie.net/bakugan/images/8/84/AliceTransparent.png/revision/latest?cb=20180314174503"
+    },
+    {
+      "id": "mira",
+      "name": "Mira Fermin",
+      "role": "Direniş · Subterra",
+      "seasons": [
+        2
+      ],
+      "attribute": "subterra",
+      "partner": "Wilda → Magma Wilda",
+      "style": "Kararlı isyancı lider",
+      "bio": "Vestal Resistance’ın öncülerinden. Kardeşi Spectra’ya rağmen adalet için savaşır.",
+      "traits": [
+        "Direniş",
+        "Cesaret",
+        "Toprak gücü"
+      ],
+      "signature": "Subterra Magma Burst",
+      "image": "https://static.wikia.nocookie.net/bakugan/images/c/c9/Mira.jpg/revision/latest?cb=20120207184113"
+    },
+    {
+      "id": "ace",
+      "name": "Ace Grit",
+      "role": "Gölge avcısı · Darkus",
+      "seasons": [
+        2
+      ],
+      "attribute": "darkus",
+      "partner": "Percival → Knight Percival",
+      "style": "Soğukkanlı, gururlu",
+      "bio": "New Vestroia’nın Darkus savaşçısı. Percival ile şövalyevari bir karanlık gücü temsil eder.",
+      "traits": [
+        "Gurur",
+        "Sadakat",
+        "Karanlık zırh"
+      ],
+      "signature": "Darkus Knight Slash",
+      "image": "https://static.wikia.nocookie.net/bakugan/images/5/5b/Image29.png/revision/latest?cb=20110407184158"
+    },
+    {
+      "id": "baron",
+      "name": "Baron Leltoy",
+      "role": "Şövalye · Haos",
+      "seasons": [
+        2
+      ],
+      "attribute": "haos",
+      "partner": "Nemus → Saint Nemus",
+      "style": "İdealist, koruyucu",
+      "bio": "Haos şövalyesi ruhuyla savaşır. Nemus’un kutsal kalkanı takımı korur.",
+      "traits": [
+        "Koruma",
+        "İnanç",
+        "Şövalyelik"
+      ],
+      "signature": "Haos Sacred Shield",
+      "image": "https://static.wikia.nocookie.net/bakugan/images/4/40/Image28.png/revision/latest?cb=20110407184254"
+    },
+    {
+      "id": "spectra",
+      "name": "Spectra Phantom",
+      "role": "Anti-kahraman · Pyrus",
+      "seasons": [
+        2,
+        3
+      ],
+      "attribute": "pyrus",
+      "partner": "Helios → Cyborg / Infinity Helios",
+      "style": "Mükemmeliyetçi, mekanik evrim",
+      "bio": "Keith Fermin’in maskeli yüzü. Helios ile Drago’nun ezeli rakibi; sonra müttefik olur.",
+      "traits": [
+        "Evrim takıntısı",
+        "Güç",
+        "Kefaret"
+      ],
+      "signature": "Pyrus Farum / Helios Nova",
+      "image": "https://static.wikia.nocookie.net/bakugan/images/8/82/Spectra_Phantom_Status.png/revision/latest?cb=20170128123500"
+    },
+    {
+      "id": "ren",
+      "name": "Ren Krawler",
+      "role": "Çift ajan · Darkus",
+      "seasons": [
+        3
+      ],
+      "attribute": "darkus",
+      "partner": "Linehalt",
+      "style": "Gölgede yürüyen stratejist",
+      "bio": "Gundalia ajanıyken Neathia tarafına geçer. Linehalt’ın yasaklı gücü savaşı değiştirir.",
+      "traits": [
+        "İhanet/dönüş",
+        "Gölge",
+        "İç çatışma"
+      ],
+      "signature": "Darkus Forbidden Power",
+      "image": "https://static.wikia.nocookie.net/bakugan/images/b/b5/Ren_GI.png/revision/latest?cb=20171224095309"
+    },
+    {
+      "id": "fabia",
+      "name": "Fabia Sheen",
+      "role": "Prenses · Haos",
+      "seasons": [
+        3
+      ],
+      "attribute": "haos",
+      "partner": "Aranaut",
+      "style": "Asil, kararlı komutan",
+      "bio": "Neathia prensesi. Aranaut ile kutsal toprakları Gundalia’ya karşı savunur.",
+      "traits": [
+        "Liderlik",
+        "Onur",
+        "Koruma"
+      ],
+      "signature": "Haos Battle Gear Assault",
+      "image": "https://static.wikia.nocookie.net/bakugan/images/5/55/Fabia_sheen2.png/revision/latest?cb=20230630165334"
+    },
+    {
+      "id": "jake",
+      "name": "Jake Vallory",
+      "role": "Güç · Subterra",
+      "seasons": [
+        3,
+        4
+      ],
+      "attribute": "subterra",
+      "partner": "Coredem",
+      "style": "Saf güç, sadık dost",
+      "bio": "Dan’in yanına katılan Subterra savaşçısı. Coredem’in kaya yumrukları cepheyi parçalar.",
+      "traits": [
+        "Güç",
+        "Sadakat",
+        "Dayanıklılık"
+      ],
+      "signature": "Subterra Rock Hammer",
+      "image": "https://static.wikia.nocookie.net/bakugan/images/d/d6/Jake_Vallory.png/revision/latest?cb=20181029052400"
+    },
+    {
+      "id": "anubias",
+      "name": "Anubias",
+      "role": "Chaos · Darkus",
+      "seasons": [
+        4
+      ],
+      "attribute": "darkus",
+      "partner": "Horridian / Chaos Bakugan",
+      "style": "Agresif, kışkırtıcı",
+      "bio": "Mechtanium Surge’ün karanlık yüzü. Mag Mel’in gölgesinde Chaos gücünü yayar.",
+      "traits": [
+        "Kaos",
+        "Tahrik",
+        "Güç hırsı"
+      ],
+      "signature": "Darkus Chaos Reign",
+      "image": "https://static.wikia.nocookie.net/bakugan/images/5/5c/Bak_anubias_174x252.png/revision/latest?cb=20180628125240"
+    },
+    {
+      "id": "sellon",
+      "name": "Sellon",
+      "role": "Chaos · Ventus",
+      "seasons": [
+        4
+      ],
+      "attribute": "ventus",
+      "partner": "Spyron / Chaos takımı",
+      "style": "Kurnaz, manipülatif",
+      "bio": "Anubias’ın zıt kutbu. Ventus hızı ve entrikayla Brawlers’ı parçalamaya çalışır.",
+      "traits": [
+        "Manipülasyon",
+        "Hız",
+        "İhanet"
+      ],
+      "signature": "Ventus Chaos Gale",
+      "image": "https://static.wikia.nocookie.net/bakugan/images/5/57/Sellon.png/revision/latest?cb=20180627123302"
+    },
+    {
+      "id": "raoul",
+      "name": "Raoul",
+      "role": "Takım · Pyrus",
+      "seasons": [
+        4
+      ],
+      "attribute": "pyrus",
+      "partner": "Roxtor / takım bakuganları",
+      "style": "Sokak savaşçısı enerjisi",
+      "bio": "Mechtanium döneminin yeni nesil Pyrus savaşçılarından; arena kültürünün parçası.",
+      "traits": [
+        "Cesaret",
+        "Rekabet",
+        "Ateş"
+      ],
+      "signature": "Pyrus Arena Blaze",
+      "image": null
+    }
+  ],
+  "bakugan": [
+    {
+      "id": "alpha-hydranoid",
+      "name": "Alpha Hydranoid",
+      "season": 1,
+      "attribute": "darkus",
+      "gPower": 560,
+      "partner": "Alice Gehabich",
+      "form": "Üç başlı alpha",
+      "evolution": "Dual → Alpha",
+      "closedNote": "Zirve Darkus küresi; üç çekirdek çizgisi.",
+      "openNote": "Üç başlı nihai hidra; alan hakimiyeti.",
+      "powers": [
+        "Final Demolition",
+        "Chaos Leap Out",
+        "Alpha Blaster"
+      ],
+      "superPowers": [
+        "Death End Destroyer"
+      ],
+      "stats": {
+        "power": 97,
+        "speed": 74,
+        "defense": 84,
+        "intel": 86,
+        "gForce": 95
+      },
+      "bio": "Darkus’un sezon 1 zirvesi. Alice’in kontrolünde bile efsanevi bir yıkım makinesi.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d3/BK_CD_HMAlphaHydranoid.jpg/revision/latest?cb=20130601141617",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d3/BK_CD_HMAlphaHydranoid.jpg/revision/latest?cb=20130601141617"
+    },
+    {
+      "id": "angelo-diablo-preyas",
+      "name": "Angelo/Diablo Preyas",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 317,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Angelo/Diablo Preyas kapalı (küre) görünümü.",
+      "openNote": "Angelo/Diablo Preyas açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 93,
+        "speed": 56,
+        "defense": 69,
+        "intel": 91,
+        "gForce": 59
+      },
+      "bio": "Angelo/Diablo Preyas, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3d/Preyas_ii.jpg/revision/latest?cb=20180717023240",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/Preyas_ii.jpg/revision/latest?cb=20180717023240"
+    },
+    {
+      "id": "apollonir",
+      "name": "Apollonir",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 332,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Apollonir kapalı (küre) görünümü.",
+      "openNote": "Apollonir açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 94,
+        "speed": 81,
+        "defense": 62,
+        "intel": 94,
+        "gForce": 90
+      },
+      "bio": "Apollonir, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_CD_Apollonir.jpg/revision/latest?cb=20110204221049",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_CD_Apollonir.jpg/revision/latest?cb=20110204221049"
+    },
+    {
+      "id": "bee-striker",
+      "name": "Bee Striker",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 505,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Bee Striker kapalı (küre) görünümü.",
+      "openNote": "Bee Striker açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 84,
+        "speed": 80,
+        "defense": 94,
+        "intel": 82,
+        "gForce": 89
+      },
+      "bio": "Bee Striker, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4e/BK_CD_BeeStriker.jpg/revision/latest?cb=20090516065706",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4e/BK_CD_BeeStriker.jpg/revision/latest?cb=20090516065706"
+    },
+    {
+      "id": "blade-tigrerra",
+      "name": "Blade Tigrerra",
+      "season": 1,
+      "attribute": "haos",
+      "gPower": 450,
+      "partner": "Runo Misaki",
+      "form": "Bıçaklı kaplan",
+      "evolution": "Tigrerra → Blade",
+      "closedNote": "Kenarları bıçak gibi parlayan gelişmiş küre.",
+      "openNote": "Omuz ve pençe bıçakları açılır; yüksek hızda kesici saldırılar.",
+      "powers": [
+        "Speed Tornado",
+        "Crystal Fang",
+        "Blade Storm"
+      ],
+      "superPowers": [
+        "Haos Extreme Dive"
+      ],
+      "stats": {
+        "power": 86,
+        "speed": 92,
+        "defense": 76,
+        "intel": 85,
+        "gForce": 88
+      },
+      "bio": "Tigrerra’nın evrim formu. Daha fazla bıçak, daha az merhamet.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e1/BK_CD_BladeTigrerra.jpg/revision/latest?cb=20090619184158",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e1/BK_CD_BladeTigrerra.jpg/revision/latest?cb=20090619184158"
+    },
+    {
+      "id": "centipoid",
+      "name": "Centipoid",
+      "season": 1,
+      "attribute": "subterra",
+      "gPower": 320,
+      "partner": "Çeşitli",
+      "form": "Kırkayak",
+      "evolution": "—",
+      "closedNote": "Segmentli toprak küresi.",
+      "openNote": "Çok bacaklı ezici form.",
+      "powers": [
+        "Centipede Bind",
+        "Earth Crawl"
+      ],
+      "superPowers": [
+        "Seismic Swarm"
+      ],
+      "stats": {
+        "power": 76,
+        "speed": 70,
+        "defense": 74,
+        "intel": 62,
+        "gForce": 73
+      },
+      "bio": "Sürü halinde etkili klasik bakugan. Subterra tünellerinde tehlikelidir.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/30/BK_CD_Centipoid.jpg/revision/latest?cb=20090619184351",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/30/BK_CD_Centipoid.jpg/revision/latest?cb=20090619184351"
+    },
+    {
+      "id": "centorrior",
+      "name": "Centorrior",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 316,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Centorrior kapalı (küre) görünümü.",
+      "openNote": "Centorrior açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 68,
+        "speed": 56,
+        "defense": 65,
+        "intel": 56,
+        "gForce": 84
+      },
+      "bio": "Centorrior, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3e/Centorrior.jpg/revision/latest?cb=20091109224341",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3e/Centorrior.jpg/revision/latest?cb=20091109224341"
+    },
+    {
+      "id": "clayf",
+      "name": "Clayf",
+      "season": 1,
+      "attribute": "aquos",
+      "gPower": 449,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Clayf kapalı (küre) görünümü.",
+      "openNote": "Clayf açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 77,
+        "speed": 76,
+        "defense": 84,
+        "intel": 88,
+        "gForce": 62
+      },
+      "bio": "Clayf, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/32/BK_CD_Clayf.jpg/revision/latest?cb=20090619184643",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+    },
+    {
+      "id": "cycloid",
+      "name": "Cycloid",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 604,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Cycloid kapalı (küre) görünümü.",
+      "openNote": "Cycloid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 89,
+        "speed": 70,
+        "defense": 57,
+        "intel": 60,
+        "gForce": 83
+      },
+      "bio": "Cycloid, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cycloid_Ball.jpg/revision/latest?cb=20090923020929",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cycloid_Ball.jpg/revision/latest?cb=20090923020929"
+    },
+    {
+      "id": "delta-dragonoid",
+      "name": "Delta Dragonoid",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 450,
+      "partner": "Dan Kuso",
+      "form": "Üç başlı evrim",
+      "evolution": "Dragonoid → Delta",
+      "closedNote": "Daha agresif menteli küre; üç enerji çizgisi belirginleşir.",
+      "openNote": "Üç kafalı ateş ejderhası; alan kontrolü ve çoklu saldırı.",
+      "powers": [
+        "Dual Dragon",
+        "Burst Shield",
+        "Delta Dragon Shield"
+      ],
+      "superPowers": [
+        "Dragonoid Tempest"
+      ],
+      "stats": {
+        "power": 95,
+        "speed": 80,
+        "defense": 74,
+        "intel": 86,
+        "gForce": 91
+      },
+      "bio": "Drago’nun ilk büyük evrimi. Üç baş, üç yönlü ateş baskısı demektir.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/52/Delta_dragonoid_%282%29.jpg/revision/latest?cb=20111207211019",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/52/Delta_dragonoid_%282%29.jpg/revision/latest?cb=20111207211019",
+      "nickname": "Delta Drago"
+    },
+    {
+      "id": "dragonoid",
+      "name": "Dragonoid",
+      "nickname": "Drago",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 340,
+      "partner": "Dan Kuso",
+      "form": "Ejderha",
+      "evolution": "Delta → Ultimate → Infinity…",
+      "closedNote": "Klasik altıgen menteli kızıl küre; Pyrus çekirdeği nabız gibi yanar.",
+      "openNote": "Kanatlı ejderha formu; ateş nefesi ve pençe darbeleriyle sahayı yakar.",
+      "powers": [
+        "Fire Tornado",
+        "Boosted Dragon",
+        "Dragon Reflector"
+      ],
+      "superPowers": [
+        "Ultimate Dragonoid — Absolute Dragon",
+        "Perfect Core bağlanması"
+      ],
+      "stats": {
+        "power": 92,
+        "speed": 78,
+        "defense": 70,
+        "ability": 85,
+        "gForce": 88
+      },
+      "bio": "Vestroia’nın efsanevi Pyrus ejderhası. Dan’in partneri olarak tüm serinin merkezinde durur; her evrimde Perfect Core’a bir adım daha yaklaşır.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/29/Dragonoid.png/revision/latest?cb=20200623034615",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/29/Dragonoid.png/revision/latest?cb=20200623034615"
+    },
+    {
+      "id": "druman",
+      "name": "Druman",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 637,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Druman kapalı (küre) görünümü.",
+      "openNote": "Druman açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 58,
+        "speed": 77,
+        "defense": 73,
+        "intel": 67,
+        "gForce": 61
+      },
+      "bio": "Druman, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c3/Druman_with_Wings.jpg/revision/latest?cb=20091204005317",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c3/Druman_with_Wings.jpg/revision/latest?cb=20091204005317"
+    },
+    {
+      "id": "dual-hydranoid",
+      "name": "Dual Hydranoid",
+      "season": 1,
+      "attribute": "darkus",
+      "gPower": 480,
+      "partner": "Masquerade",
+      "form": "Çift başlı hidra",
+      "evolution": "Hydranoid → Dual",
+      "closedNote": "İkiz enerji halkalı küre.",
+      "openNote": "İki kafa, çift yönlü karanlık baskı.",
+      "powers": [
+        "Dual Chaos",
+        "Destroy Vanish",
+        "Darkus Twin Beam"
+      ],
+      "superPowers": [
+        "Chaos Ordeal"
+      ],
+      "stats": {
+        "power": 94,
+        "speed": 72,
+        "defense": 80,
+        "intel": 82,
+        "gForce": 91
+      },
+      "bio": "Hydranoid’in ikinci aşaması. İki kafa, iki kat korku.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/04/BK_CD_Hydranoid.jpg/revision/latest?cb=20090918212518",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/04/BK_CD_Hydranoid.jpg/revision/latest?cb=20090918212518"
+    },
+    {
+      "id": "el-condor",
+      "name": "El Condor",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 494,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "El Condor kapalı (küre) görünümü.",
+      "openNote": "El Condor açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 76,
+        "speed": 94,
+        "defense": 89,
+        "intel": 70,
+        "gForce": 75
+      },
+      "bio": "El Condor, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/fa/BK_CD_ElCondor.jpg/revision/latest?cb=20091018215457",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fa/BK_CD_ElCondor.jpg/revision/latest?cb=20091018215457"
+    },
+    {
+      "id": "exedra",
+      "name": "Exedra",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 591,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Exedra kapalı (küre) görünümü.",
+      "openNote": "Exedra açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 85,
+        "speed": 84,
+        "defense": 91,
+        "intel": 59,
+        "gForce": 68
+      },
+      "bio": "Exedra, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/80/BK_CD_Exedra.jpg/revision/latest?cb=20110503030947",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/80/BK_CD_Exedra.jpg/revision/latest?cb=20110503030947"
+    },
+    {
+      "id": "falconeer",
+      "name": "Falconeer",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 608,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Falconeer kapalı (küre) görünümü.",
+      "openNote": "Falconeer açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 59,
+        "speed": 73,
+        "defense": 92,
+        "intel": 87,
+        "gForce": 63
+      },
+      "bio": "Falconeer, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/70/BK_CD_Falconeer.jpg/revision/latest?cb=20091119232135",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/70/BK_CD_Falconeer.jpg/revision/latest?cb=20091119232135"
+    },
+    {
+      "id": "fear-ripper",
+      "name": "Fear Ripper",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 540,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Fear Ripper kapalı (küre) görünümü.",
+      "openNote": "Fear Ripper açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 85,
+        "speed": 71,
+        "defense": 89,
+        "intel": 87,
+        "gForce": 59
+      },
+      "bio": "Fear Ripper, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/67/BK_CD_FearRipper.jpg/revision/latest?cb=20091011042154",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/67/BK_CD_FearRipper.jpg/revision/latest?cb=20091011042154"
+    },
+    {
+      "id": "fourtress",
+      "name": "Fourtress",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 406,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Fourtress kapalı (küre) görünümü.",
+      "openNote": "Fourtress açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 74,
+        "speed": 55,
+        "defense": 56,
+        "intel": 94,
+        "gForce": 71
+      },
+      "bio": "Fourtress, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b5/BK_CD_Fortress.jpg/revision/latest?cb=20090713221821",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b5/BK_CD_Fortress.jpg/revision/latest?cb=20090713221821"
+    },
+    {
+      "id": "frosch",
+      "name": "Frosch",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 587,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Frosch kapalı (küre) görünümü.",
+      "openNote": "Frosch açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 78,
+        "speed": 81,
+        "defense": 84,
+        "intel": 74,
+        "gForce": 56
+      },
+      "bio": "Frosch, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/33/BK_CD_Frosch.jpg/revision/latest?cb=20091113231246",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/33/BK_CD_Frosch.jpg/revision/latest?cb=20091113231246"
+    },
+    {
+      "id": "gargonoid",
+      "name": "Gargonoid",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 611,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Gargonoid kapalı (küre) görünümü.",
+      "openNote": "Gargonoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 79,
+        "speed": 90,
+        "defense": 60,
+        "intel": 63,
+        "gForce": 68
+      },
+      "bio": "Gargonoid, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Gargonoid.jpg/revision/latest?cb=20090922204448",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Gargonoid.jpg/revision/latest?cb=20090922204448"
+    },
+    {
+      "id": "gorem",
+      "name": "Gorem",
+      "season": 1,
+      "attribute": "subterra",
+      "gPower": 370,
+      "partner": "Julie Makimoto",
+      "form": "Golem / kaya devi",
+      "evolution": "Hammer Gorem",
+      "closedNote": "Ağır, toprak renkli kalın menteli küre.",
+      "openNote": "Dev gölem; kalkan ve yumrukla tank rolü.",
+      "powers": [
+        "Mega Impact",
+        "Grand Impact",
+        "Shield Punch"
+      ],
+      "superPowers": [
+        "Subterra Quake"
+      ],
+      "stats": {
+        "power": 90,
+        "speed": 48,
+        "defense": 95,
+        "intel": 72,
+        "gForce": 86
+      },
+      "bio": "Subterra’nın kayası. Yavaştır ama bir yumruğu savaşı bitirebilir.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/cf/BK_CD_Gorem.jpg/revision/latest?cb=20110630130957",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/cf/BK_CD_Gorem.jpg/revision/latest?cb=20110630130957"
+    },
+    {
+      "id": "griffon",
+      "name": "Griffon",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 611,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Griffon kapalı (küre) görünümü.",
+      "openNote": "Griffon açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 80,
+        "speed": 69,
+        "defense": 75,
+        "intel": 83,
+        "gForce": 59
+      },
+      "bio": "Griffon, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ef/Bk_cd_griffon_1.jpg/revision/latest?cb=20090920160103",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ef/Bk_cd_griffon_1.jpg/revision/latest?cb=20090920160103"
+    },
+    {
+      "id": "hairadee",
+      "name": "Hairadee",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 581,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Hairadee kapalı (küre) görünümü.",
+      "openNote": "Hairadee açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 58,
+        "speed": 81,
+        "defense": 85,
+        "intel": 72,
+        "gForce": 92
+      },
+      "bio": "Hairadee, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9b/Hairadee.jpg/revision/latest?cb=20091204005117",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9b/Hairadee.jpg/revision/latest?cb=20091204005117"
+    },
+    {
+      "id": "hammer-gorem",
+      "name": "Hammer Gorem",
+      "season": 1,
+      "attribute": "subterra",
+      "gPower": 500,
+      "partner": "Julie Makimoto",
+      "form": "Çekiç gölem",
+      "evolution": "Gorem → Hammer",
+      "closedNote": "Daha masif, metal-toprak hibrit küre.",
+      "openNote": "Dev çekiç kolu; savunma kırıcı darbeler.",
+      "powers": [
+        "Hammer Blow",
+        "Earth Barrier",
+        "Quake Hammer"
+      ],
+      "superPowers": [
+        "Grand Hammer Impact"
+      ],
+      "stats": {
+        "power": 94,
+        "speed": 50,
+        "defense": 97,
+        "intel": 74,
+        "gForce": 90
+      },
+      "bio": "Gorem’in evrim hali. Çekiç artık sadece savunma değil, yıkım aracıdır.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Hammer_Gorem.jpg/revision/latest?cb=20090827144524",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Hammer_Gorem.jpg/revision/latest?cb=20090827144524"
+    },
+    {
+      "id": "harpus",
+      "name": "Harpus",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 482,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Harpus kapalı (küre) görünümü.",
+      "openNote": "Harpus açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 88,
+        "speed": 84,
+        "defense": 63,
+        "intel": 61,
+        "gForce": 78
+      },
+      "bio": "Harpus, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/75/BK_CD_Harpus.jpg/revision/latest?cb=20100102010114",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/75/BK_CD_Harpus.jpg/revision/latest?cb=20100102010114"
+    },
+    {
+      "id": "hydranoid",
+      "name": "Hydranoid",
+      "season": 1,
+      "attribute": "darkus",
+      "gPower": 380,
+      "partner": "Masquerade / Alice",
+      "form": "Hidra ejderhası",
+      "evolution": "Dual → Alpha Hydranoid",
+      "closedNote": "Mor-siyah tehditkâr küre; Darkus nabzı.",
+      "openNote": "Tek başlı karanlık hidra; kaos enerjisi kusar.",
+      "powers": [
+        "Chaos Boost",
+        "Darkus Stream",
+        "Hydra Poison"
+      ],
+      "superPowers": [
+        "Silent Core rezonansı"
+      ],
+      "stats": {
+        "power": 91,
+        "speed": 70,
+        "defense": 78,
+        "intel": 80,
+        "gForce": 87
+      },
+      "bio": "Masquerade’in korku salan partneri. Her zaferle evrim kapısı aralanır.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b4/5f0f7d9d094ff107_bk_hydranoid.png/revision/latest?cb=20100716120835",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b4/5f0f7d9d094ff107_bk_hydranoid.png/revision/latest?cb=20100716120835"
+    },
+    {
+      "id": "hynoid",
+      "name": "Hynoid",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 642,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Hynoid kapalı (küre) görünümü.",
+      "openNote": "Hynoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 87,
+        "speed": 57,
+        "defense": 81,
+        "intel": 76,
+        "gForce": 69
+      },
+      "bio": "Hynoid, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d9/BK_CD_Hynoid.jpg/revision/latest?cb=20091018220216",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d9/BK_CD_Hynoid.jpg/revision/latest?cb=20091018220216"
+    },
+    {
+      "id": "infinity-dragonoid",
+      "name": "Infinity Dragonoid",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 314,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Infinity Dragonoid kapalı (küre) görünümü.",
+      "openNote": "Infinity Dragonoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 86,
+        "speed": 82,
+        "defense": 67,
+        "intel": 60,
+        "gForce": 72
+      },
+      "bio": "Infinity Dragonoid, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/7f/Ultimate_drago.jpg/revision/latest?cb=20091102175714",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7f/Ultimate_drago.jpg/revision/latest?cb=20091102175714"
+    },
+    {
+      "id": "juggernoid",
+      "name": "Juggernoid",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 455,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Juggernoid kapalı (küre) görünümü.",
+      "openNote": "Juggernoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 62,
+        "speed": 89,
+        "defense": 71,
+        "intel": 94,
+        "gForce": 76
+      },
+      "bio": "Juggernoid, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f5/BK_CD_Juggernoid.jpg/revision/latest?cb=20091019191023",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f5/BK_CD_Juggernoid.jpg/revision/latest?cb=20091019191023"
+    },
+    {
+      "id": "lars-lion",
+      "name": "Lars Lion",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 369,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Lars Lion kapalı (küre) görünümü.",
+      "openNote": "Lars Lion açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 80,
+        "speed": 70,
+        "defense": 57,
+        "intel": 79,
+        "gForce": 83
+      },
+      "bio": "Lars Lion, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/52/BK_CD_LarsLion.jpg/revision/latest?cb=20091113230835",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/52/BK_CD_LarsLion.jpg/revision/latest?cb=20091113230835"
+    },
+    {
+      "id": "laserman",
+      "name": "Laserman",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 300,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Laserman kapalı (küre) görünümü.",
+      "openNote": "Laserman açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 80,
+        "speed": 58,
+        "defense": 79,
+        "intel": 69,
+        "gForce": 66
+      },
+      "bio": "Laserman, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/dc/BK_CD_Laserman.jpg/revision/latest?cb=20091102183311",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/dc/BK_CD_Laserman.jpg/revision/latest?cb=20091102183311"
+    },
+    {
+      "id": "limulus",
+      "name": "Limulus",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 690,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Limulus kapalı (küre) görünümü.",
+      "openNote": "Limulus açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 76,
+        "speed": 91,
+        "defense": 76,
+        "intel": 89,
+        "gForce": 55
+      },
+      "bio": "Limulus, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b8/BK_CD_Limulus.jpg/revision/latest?cb=20091010142922",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b8/BK_CD_Limulus.jpg/revision/latest?cb=20091010142922"
+    },
+    {
+      "id": "manion",
+      "name": "Manion",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 647,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Manion kapalı (küre) görünümü.",
+      "openNote": "Manion açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 56,
+        "speed": 76,
+        "defense": 64,
+        "intel": 61,
+        "gForce": 77
+      },
+      "bio": "Manion, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6c/BK_CD_Manion.jpg/revision/latest?cb=20091012233309",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6c/BK_CD_Manion.jpg/revision/latest?cb=20091012233309"
+    },
+    {
+      "id": "mantris",
+      "name": "Mantris",
+      "season": 1,
+      "attribute": "ventus",
+      "gPower": 310,
+      "partner": "Çeşitli",
+      "form": "Peygamber devesi",
+      "evolution": "—",
+      "closedNote": "Keskin kenarlı böcek küresi.",
+      "openNote": "Bıçak kollu böcek savaşçısı.",
+      "powers": [
+        "Slice Slash",
+        "Twin Blade"
+      ],
+      "superPowers": [
+        "Green Guillotine"
+      ],
+      "stats": {
+        "power": 78,
+        "speed": 86,
+        "defense": 58,
+        "intel": 70,
+        "gForce": 74
+      },
+      "bio": "Hızlı ve kesici. Ventus arenasında ani öldürücü potansiyeli yüksektir.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/83/BK-CD_Mantris.jpg/revision/latest?cb=20091101210037",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/83/BK-CD_Mantris.jpg/revision/latest?cb=20091101210037"
+    },
+    {
+      "id": "monarus",
+      "name": "Monarus",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 465,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Monarus kapalı (küre) görünümü.",
+      "openNote": "Monarus açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 62,
+        "speed": 91,
+        "defense": 79,
+        "intel": 56,
+        "gForce": 82
+      },
+      "bio": "Monarus, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/fd/Monarus.png/revision/latest?cb=20110327053245",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fd/Monarus.png/revision/latest?cb=20110327053245"
+    },
+    {
+      "id": "naga",
+      "name": "Naga",
+      "season": 1,
+      "attribute": "darkus",
+      "gPower": 600,
+      "partner": "— (Silent Core)",
+      "form": "Beyaz/Silent Core ejderhası",
+      "evolution": "Silent Naga",
+      "closedNote": "Soluk, çekirdek çarpıtmalı anomali küre.",
+      "openNote": "Dengesiz, devasa anti-çekirdek varlık.",
+      "powers": [
+        "Silent Core Drain",
+        "Dimension Collapse"
+      ],
+      "superPowers": [
+        "Vestroia Unbalancing"
+      ],
+      "stats": {
+        "power": 96,
+        "speed": 66,
+        "defense": 88,
+        "intel": 92,
+        "gForce": 98
+      },
+      "bio": "Sezon 1’in ana antagonisti. Silent Core’u ele geçirerek tüm Vestroia’yı dengesizleştirir.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1b/BK_CD_Naga_2.jpg/revision/latest?cb=20110630131101",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1b/BK_CD_Naga_2.jpg/revision/latest?cb=20110630131101"
+    },
+    {
+      "id": "oberus",
+      "name": "Oberus",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 538,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Oberus kapalı (küre) görünümü.",
+      "openNote": "Oberus açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 60,
+        "speed": 63,
+        "defense": 73,
+        "intel": 60,
+        "gForce": 89
+      },
+      "bio": "Oberus, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e4/BK_CD_Oberus.jpg/revision/latest?cb=20091113230457",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e4/BK_CD_Oberus.jpg/revision/latest?cb=20091113230457"
+    },
+    {
+      "id": "preyas",
+      "name": "Preyas",
+      "season": 1,
+      "attribute": "aquos",
+      "gPower": 340,
+      "partner": "Marucho Marukura",
+      "form": "Bukalemun / çift kişilik",
+      "evolution": "Preyas Angelo & Diablo",
+      "closedNote": "Mavi-turkuaz değişken desenli küre.",
+      "openNote": "Şakacı, esnek form; attribute taklidi yapabilir.",
+      "powers": [
+        "Aqua Mantle",
+        "Dive Mirage",
+        "Attribute Change"
+      ],
+      "superPowers": [
+        "Dual Personality Split"
+      ],
+      "stats": {
+        "power": 74,
+        "speed": 82,
+        "defense": 70,
+        "intel": 90,
+        "gForce": 80
+      },
+      "bio": "Aquos’un en eğlenceli bakuganı. Angelo ve Diablo yan formlarıyla savaş tarzını anında değiştirir.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_CD_Preyas.jpg/revision/latest?cb=20090918205858",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_CD_Preyas.jpg/revision/latest?cb=20090918205858"
+    },
+    {
+      "id": "preyas-angelo",
+      "name": "Preyas Angelo",
+      "season": 1,
+      "attribute": "haos",
+      "gPower": 400,
+      "partner": "Marucho Marukura",
+      "form": "Melek Preyas",
+      "evolution": "Preyas yan formu",
+      "closedNote": "Açık tonlu, ışık yansımalı küre.",
+      "openNote": "Kanatlı melek formu; savunma ve destek odaklı.",
+      "powers": [
+        "Angel Light",
+        "Aqua Halo",
+        "Sacred Wave"
+      ],
+      "superPowers": [
+        "Dual Fusion Assist"
+      ],
+      "stats": {
+        "power": 70,
+        "speed": 78,
+        "defense": 86,
+        "intel": 88,
+        "gForce": 83
+      },
+      "bio": "Preyas’ın Haos yan kişiliği. Takımı iyileştirir ve ışık kalkanı kurar.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3d/Preyas_ii.jpg/revision/latest?cb=20180717023240",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/Preyas_ii.jpg/revision/latest?cb=20180717023240"
+    },
+    {
+      "id": "preyas-diablo",
+      "name": "Preyas Diablo",
+      "season": 1,
+      "attribute": "darkus",
+      "gPower": 400,
+      "partner": "Marucho Marukura",
+      "form": "Şeytan Preyas",
+      "evolution": "Preyas yan formu",
+      "closedNote": "Mor-siyah alaycı desenli küre.",
+      "openNote": "Boynuzlu saldırgan form; kaos ve baskı.",
+      "powers": [
+        "Diablo Screech",
+        "Dark Tide",
+        "Chaos Jolt"
+      ],
+      "superPowers": [
+        "Dual Fusion Assault"
+      ],
+      "stats": {
+        "power": 88,
+        "speed": 80,
+        "defense": 68,
+        "intel": 82,
+        "gForce": 85
+      },
+      "bio": "Preyas’ın Darkus yüzü. Espri biter, yıkım başlar.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3d/Preyas_ii.jpg/revision/latest?cb=20180717023240",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/Preyas_ii.jpg/revision/latest?cb=20180717023240"
+    },
+    {
+      "id": "rabeeder",
+      "name": "Rabeeder",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 413,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Rabeeder kapalı (küre) görünümü.",
+      "openNote": "Rabeeder açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 61,
+        "speed": 86,
+        "defense": 82,
+        "intel": 86,
+        "gForce": 72
+      },
+      "bio": "Rabeeder, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d2/Rabeeder.jpg/revision/latest?cb=20091204010014",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d2/Rabeeder.jpg/revision/latest?cb=20091204010014"
+    },
+    {
+      "id": "rattleoid",
+      "name": "Rattleoid",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 598,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Rattleoid kapalı (küre) görünümü.",
+      "openNote": "Rattleoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 56,
+        "speed": 68,
+        "defense": 56,
+        "intel": 85,
+        "gForce": 94
+      },
+      "bio": "Rattleoid, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Rattleoid.png/revision/latest?cb=20110407211132",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Rattleoid.png/revision/latest?cb=20110407211132"
+    },
+    {
+      "id": "ravenoid",
+      "name": "Ravenoid",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 420,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Ravenoid kapalı (küre) görünümü.",
+      "openNote": "Ravenoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 69,
+        "speed": 81,
+        "defense": 93,
+        "intel": 90,
+        "gForce": 93
+      },
+      "bio": "Ravenoid, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a3/BK_CD_Ravenoid.jpg/revision/latest?cb=20090826173717",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a3/BK_CD_Ravenoid.jpg/revision/latest?cb=20090826173717"
+    },
+    {
+      "id": "reaper",
+      "name": "Reaper",
+      "season": 1,
+      "attribute": "aquos",
+      "gPower": 476,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Reaper kapalı (küre) görünümü.",
+      "openNote": "Reaper açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 60,
+        "speed": 87,
+        "defense": 57,
+        "intel": 80,
+        "gForce": 70
+      },
+      "bio": "Reaper, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/80/BK_CD_Reaper.jpg/revision/latest?cb=20090919222833",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/80/BK_CD_Reaper.jpg/revision/latest?cb=20090919222833"
+    },
+    {
+      "id": "robotallion",
+      "name": "Robotallion",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 404,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Robotallion kapalı (küre) görünümü.",
+      "openNote": "Robotallion açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 61,
+        "speed": 83,
+        "defense": 58,
+        "intel": 82,
+        "gForce": 70
+      },
+      "bio": "Robotallion, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4c/BK_CD_2_Robotallion.jpg/revision/latest?cb=20100112011140",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4c/BK_CD_2_Robotallion.jpg/revision/latest?cb=20100112011140"
+    },
+    {
+      "id": "saurus",
+      "name": "Saurus",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 523,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Saurus kapalı (küre) görünümü.",
+      "openNote": "Saurus açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 63,
+        "speed": 85,
+        "defense": 70,
+        "intel": 81,
+        "gForce": 70
+      },
+      "bio": "Saurus, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ef/BK_CD_Saurus.jpg/revision/latest?cb=20091022161239",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ef/BK_CD_Saurus.jpg/revision/latest?cb=20091022161239"
+    },
+    {
+      "id": "serpenoid",
+      "name": "Serpenoid",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 300,
+      "partner": "Çeşitli (yaygın)",
+      "form": "Yılan",
+      "evolution": "—",
+      "closedNote": "İnce menteli klasik yılan küresi.",
+      "openNote": "Kıvrımlı yılan formu; zehir ve boğma.",
+      "powers": [
+        "Venomous Coil",
+        "Fire Wrap"
+      ],
+      "superPowers": [
+        "Attribute Coil Crush"
+      ],
+      "stats": {
+        "power": 72,
+        "speed": 76,
+        "defense": 60,
+        "intel": 65,
+        "gForce": 70
+      },
+      "bio": "Erken sezonların sık görülen bakuganı. Her attribute’ta türevleri vardır.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/bf/Serpenoid.png/revision/latest?cb=20110407211031",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/bf/Serpenoid.png/revision/latest?cb=20110407211031"
+    },
+    {
+      "id": "siege",
+      "name": "Siege",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 639,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Siege kapalı (küre) görünümü.",
+      "openNote": "Siege açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 64,
+        "speed": 87,
+        "defense": 57,
+        "intel": 70,
+        "gForce": 55
+      },
+      "bio": "Siege, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Bk_cd_seige.jpg/revision/latest?cb=20090917161434",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Bk_cd_seige.jpg/revision/latest?cb=20090917161434"
+    },
+    {
+      "id": "silent-naga",
+      "name": "Silent Naga",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 530,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Silent Naga kapalı (küre) görünümü.",
+      "openNote": "Silent Naga açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 80,
+        "speed": 56,
+        "defense": 94,
+        "intel": 55,
+        "gForce": 67
+      },
+      "bio": "Silent Naga, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/64/Naga3.png/revision/latest?cb=20091213222141",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/64/Naga3.png/revision/latest?cb=20091213222141"
+    },
+    {
+      "id": "sirenoid",
+      "name": "Sirenoid",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 339,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Sirenoid kapalı (küre) görünümü.",
+      "openNote": "Sirenoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 70,
+        "speed": 67,
+        "defense": 61,
+        "intel": 62,
+        "gForce": 74
+      },
+      "bio": "Sirenoid, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9e/Albumf44049n293698-1-.png/revision/latest?cb=20090721182419",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9e/Albumf44049n293698-1-.png/revision/latest?cb=20090721182419"
+    },
+    {
+      "id": "skyress",
+      "name": "Skyress",
+      "season": 1,
+      "attribute": "ventus",
+      "gPower": 340,
+      "partner": "Shun Kazami",
+      "form": "Anka / kuş savaşçısı",
+      "evolution": "Storm Skyress",
+      "closedNote": "Zümrüt yeşili tüy desenli küre.",
+      "openNote": "Zarif anka kuşu; rüzgâr ve ateş tüyü karışımı.",
+      "powers": [
+        "Green Ablaze",
+        "Blow Away",
+        "Fire Storm"
+      ],
+      "superPowers": [
+        "Ventus Phoenix Dive"
+      ],
+      "stats": {
+        "power": 78,
+        "speed": 94,
+        "defense": 68,
+        "intel": 88,
+        "gForce": 84
+      },
+      "bio": "Shun’un ilk partneri. Annesinden kalan bağ ve ninja disipliniyle efsaneleşir.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c4/BK_CD_Skyress.jpg/revision/latest?cb=20090918211153",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c4/BK_CD_Skyress.jpg/revision/latest?cb=20090918211153"
+    },
+    {
+      "id": "stinglash",
+      "name": "Stinglash",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 331,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Stinglash kapalı (küre) görünümü.",
+      "openNote": "Stinglash açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 67,
+        "speed": 83,
+        "defense": 87,
+        "intel": 79,
+        "gForce": 89
+      },
+      "bio": "Stinglash, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ec/BK_CD_Stinglash.jpg/revision/latest?cb=20090826180150",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ec/BK_CD_Stinglash.jpg/revision/latest?cb=20090826180150"
+    },
+    {
+      "id": "storm-skyress",
+      "name": "Storm Skyress",
+      "season": 1,
+      "attribute": "ventus",
+      "gPower": 450,
+      "partner": "Shun Kazami",
+      "form": "Fırtına anka",
+      "evolution": "Skyress → Storm",
+      "closedNote": "Fırtına halkalı gelişmiş Ventus küresi.",
+      "openNote": "Daha geniş kanat; kasırga kontrolü.",
+      "powers": [
+        "Destruction Howling",
+        "Storm Wind",
+        "Sky Diving Claw"
+      ],
+      "superPowers": [
+        "Tempest Mayhem"
+      ],
+      "stats": {
+        "power": 84,
+        "speed": 96,
+        "defense": 72,
+        "intel": 90,
+        "gForce": 89
+      },
+      "bio": "Skyress’in fırtına evrimi. Gökyüzü artık Shun’un arenasıdır.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/27/BK_CD_StormSkyress.jpg/revision/latest?cb=20090912200723",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/27/BK_CD_StormSkyress.jpg/revision/latest?cb=20090912200723"
+    },
+    {
+      "id": "tayghen",
+      "name": "Tayghen",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 473,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Tayghen kapalı (küre) görünümü.",
+      "openNote": "Tayghen açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 75,
+        "speed": 62,
+        "defense": 80,
+        "intel": 56,
+        "gForce": 59
+      },
+      "bio": "Tayghen, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Taygen.jpg/revision/latest?cb=20091204004922",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Taygen.jpg/revision/latest?cb=20091204004922"
+    },
+    {
+      "id": "tentaclear",
+      "name": "Tentaclear",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 691,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Tentaclear kapalı (küre) görünümü.",
+      "openNote": "Tentaclear açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 88,
+        "speed": 82,
+        "defense": 71,
+        "intel": 61,
+        "gForce": 61
+      },
+      "bio": "Tentaclear, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/41/Tentaclear.png/revision/latest?cb=20110407211256",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/41/Tentaclear.png/revision/latest?cb=20110407211256"
+    },
+    {
+      "id": "terrorclaw",
+      "name": "Terrorclaw",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 662,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Terrorclaw kapalı (küre) görünümü.",
+      "openNote": "Terrorclaw açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 75,
+        "speed": 73,
+        "defense": 82,
+        "intel": 88,
+        "gForce": 67
+      },
+      "bio": "Terrorclaw, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/90/BK_CD_Terrorclaw.jpg/revision/latest?cb=20090826183904",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/90/BK_CD_Terrorclaw.jpg/revision/latest?cb=20090826183904"
+    },
+    {
+      "id": "tigrerra",
+      "name": "Tigrerra",
+      "season": 1,
+      "attribute": "haos",
+      "gPower": 340,
+      "partner": "Runo Misaki",
+      "form": "Kaplan / ışık avcısı",
+      "evolution": "Blade Tigrerra",
+      "closedNote": "Parlak haos-beyaz küre; keskin ışık çizgileri.",
+      "openNote": "Zarif ama ölümcül kaplan formu; ışık pençeleriyle keser.",
+      "powers": [
+        "Velocity Fang",
+        "Multiharmonic Shield",
+        "Cutobara"
+      ],
+      "superPowers": [
+        "Haos Lightning"
+      ],
+      "stats": {
+        "power": 80,
+        "speed": 88,
+        "defense": 72,
+        "intel": 84,
+        "gForce": 82
+      },
+      "bio": "Haos’un asil avcısı. Runo’nun kararlılığıyla birleşince dengeyi koruyan kılıç olur.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/58/BK_CD_Tigrerra.jpg/revision/latest?cb=20090918204950",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/58/BK_CD_Tigrerra.jpg/revision/latest?cb=20090918204950",
+      "nickname": "Tigrerra"
+    },
+    {
+      "id": "tricloid",
+      "name": "Tricloid",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 514,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Tricloid kapalı (küre) görünümü.",
+      "openNote": "Tricloid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 81,
+        "speed": 85,
+        "defense": 79,
+        "intel": 88,
+        "gForce": 65
+      },
+      "bio": "Tricloid, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e5/Tricloid.jpg/revision/latest?cb=20091204005629",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e5/Tricloid.jpg/revision/latest?cb=20091204005629"
+    },
+    {
+      "id": "tuskor",
+      "name": "Tuskor",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 539,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Tuskor kapalı (küre) görünümü.",
+      "openNote": "Tuskor açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 66,
+        "speed": 83,
+        "defense": 81,
+        "intel": 74,
+        "gForce": 81
+      },
+      "bio": "Tuskor, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/82/Bk_cd_tuskor-1-.jpg/revision/latest?cb=20090807155629",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/82/Bk_cd_tuskor-1-.jpg/revision/latest?cb=20090807155629"
+    },
+    {
+      "id": "ultimate-dragonoid",
+      "name": "Ultimate Dragonoid",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 550,
+      "partner": "Dan Kuso",
+      "form": "Mükemmel çekirdek ejderhası",
+      "evolution": "Delta → Ultimate",
+      "closedNote": "Altın-kızıl Perfect Core ışıltılı küre.",
+      "openNote": "Kanat açıklığı ve çekirdek ateşi zirvede; Naga’ya karşı son söz.",
+      "powers": [
+        "Ultimate Fire Tornado",
+        "Dragon Shield Extreme"
+      ],
+      "superPowers": [
+        "Absolute Dragon",
+        "Perfect Core Fusion"
+      ],
+      "stats": {
+        "power": 98,
+        "speed": 84,
+        "defense": 82,
+        "intel": 90,
+        "gForce": 96
+      },
+      "bio": "Sezon 1 finalinin sembolü. Perfect Core ile birleşerek Silent Core tehdidini dengeler.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Ultimate_Drago_Ball.JPG/revision/latest?cb=20091101013619",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Ultimate_Drago_Ball.JPG/revision/latest?cb=20091101013619",
+      "nickname": "Ultimate Drago"
+    },
+    {
+      "id": "warius",
+      "name": "Warius",
+      "season": 1,
+      "attribute": "pyrus",
+      "gPower": 359,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Warius kapalı (küre) görünümü.",
+      "openNote": "Warius açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 75,
+        "speed": 79,
+        "defense": 75,
+        "intel": 93,
+        "gForce": 62
+      },
+      "bio": "Warius, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a1/Warius.png/revision/latest?cb=20151117194452",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a1/Warius.png/revision/latest?cb=20151117194452"
+    },
+    {
+      "id": "wavern",
+      "name": "Wavern",
+      "season": 1,
+      "attribute": "haos",
+      "gPower": 450,
+      "partner": "Joe Brown / Perfect Core koruyucusu",
+      "form": "Işık ejderhası",
+      "evolution": "Perfect Core taşıyıcısı",
+      "closedNote": "Saf ışık yansımalı nadir küre.",
+      "openNote": "Zarif haos ejderhası; Perfect Core’u taşır.",
+      "powers": [
+        "Twister Barrier",
+        "Saisei no Iki",
+        "Perfect Core Shield"
+      ],
+      "superPowers": [
+        "Core Guardian"
+      ],
+      "stats": {
+        "power": 82,
+        "speed": 80,
+        "defense": 90,
+        "intel": 94,
+        "gForce": 92
+      },
+      "bio": "Perfect Core’un koruyucusu. Savaştan çok denge ve fedakârlık timsali.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3b/BK_CD_Wavern.jpg/revision/latest?cb=20090715014320",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3b/BK_CD_Wavern.jpg/revision/latest?cb=20090715014320"
+    },
+    {
+      "id": "wormquake",
+      "name": "Wormquake",
+      "season": 1,
+      "attribute": "subterra",
+      "gPower": 694,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Wormquake kapalı (küre) görünümü.",
+      "openNote": "Wormquake açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 60,
+        "speed": 78,
+        "defense": 91,
+        "intel": 78,
+        "gForce": 73
+      },
+      "bio": "Wormquake, Sezon 1 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/82/BK_CD_Wormquake.jpg/revision/latest?cb=20091022152612",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/82/BK_CD_Wormquake.jpg/revision/latest?cb=20091022152612"
+    },
+    {
+      "id": "abis-omega",
+      "name": "Abis Omega",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 465,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Abis Omega kapalı (küre) görünümü.",
+      "openNote": "Abis Omega açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 76,
+        "speed": 55,
+        "defense": 92,
+        "intel": 55,
+        "gForce": 86
+      },
+      "bio": "Abis Omega, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1b/Abis_omega.png/revision/latest?cb=20110407193855",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+    },
+    {
+      "id": "alpha-percival",
+      "name": "Alpha Percival",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 331,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Alpha Percival kapalı (küre) görünümü.",
+      "openNote": "Alpha Percival açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 74,
+        "speed": 71,
+        "defense": 72,
+        "intel": 74,
+        "gForce": 72
+      },
+      "bio": "Alpha Percival, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/72/Alpha_Percival.png/revision/latest?cb=20110915015506",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/72/Alpha_Percival.png/revision/latest?cb=20110915015506"
+    },
+    {
+      "id": "altair",
+      "name": "Altair",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 510,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Altair kapalı (küre) görünümü.",
+      "openNote": "Altair açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 86,
+        "speed": 87,
+        "defense": 80,
+        "intel": 69,
+        "gForce": 62
+      },
+      "bio": "Altair, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_CD_Altair.jpg/revision/latest?cb=20091107205126",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+    },
+    {
+      "id": "alto-brontes",
+      "name": "Alto Brontes",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 612,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Alto Brontes kapalı (küre) görünümü.",
+      "openNote": "Alto Brontes açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 73,
+        "speed": 77,
+        "defense": 57,
+        "intel": 69,
+        "gForce": 55
+      },
+      "bio": "Alto Brontes, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3d/BK_Alto_Brontes.png/revision/latest?cb=20091010215902",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/BK_Alto_Brontes.png/revision/latest?cb=20091010215902"
+    },
+    {
+      "id": "anchorsaur",
+      "name": "Anchorsaur",
+      "season": 2,
+      "attribute": "haos",
+      "gPower": 511,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Anchorsaur kapalı (küre) görünümü.",
+      "openNote": "Anchorsaur açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 75,
+        "speed": 63,
+        "defense": 94,
+        "intel": 60,
+        "gForce": 79
+      },
+      "bio": "Anchorsaur, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Image_320_240_%282%29.png/revision/latest?cb=20110519193249",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Image_320_240_%282%29.png/revision/latest?cb=20110519193249"
+    },
+    {
+      "id": "atchibee",
+      "name": "Atchibee",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 564,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Atchibee kapalı (küre) görünümü.",
+      "openNote": "Atchibee açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 87,
+        "speed": 56,
+        "defense": 84,
+        "intel": 90,
+        "gForce": 73
+      },
+      "bio": "Atchibee, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/0f/Image_320_240_%2818%29.png/revision/latest?cb=20110519200038",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0f/Image_320_240_%2818%29.png/revision/latest?cb=20110519200038"
+    },
+    {
+      "id": "atmos",
+      "name": "Atmos",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 456,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Atmos kapalı (küre) görünümü.",
+      "openNote": "Atmos açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 87,
+        "speed": 58,
+        "defense": 57,
+        "intel": 70,
+        "gForce": 55
+      },
+      "bio": "Atmos, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5d/BK_CD_Atmos.jpg/revision/latest?cb=20090516092440",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5d/BK_CD_Atmos.jpg/revision/latest?cb=20090516092440"
+    },
+    {
+      "id": "brontes",
+      "name": "Brontes",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 659,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Brontes kapalı (küre) görünümü.",
+      "openNote": "Brontes açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 64,
+        "speed": 82,
+        "defense": 76,
+        "intel": 94,
+        "gForce": 61
+      },
+      "bio": "Brontes, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/bc/BK_CD_Brontes.jpg/revision/latest?cb=20091101211655",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/bc/BK_CD_Brontes.jpg/revision/latest?cb=20091101211655"
+    },
+    {
+      "id": "clawcer",
+      "name": "Clawcer",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 490,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Clawcer kapalı (küre) görünümü.",
+      "openNote": "Clawcer açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 65,
+        "speed": 80,
+        "defense": 90,
+        "intel": 75,
+        "gForce": 93
+      },
+      "bio": "Clawcer, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Image_320_240_%2814%29.png/revision/latest?cb=20110519194749",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Image_320_240_%2814%29.png/revision/latest?cb=20110519194749"
+    },
+    {
+      "id": "cosmic-ingram",
+      "name": "Cosmic Ingram",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 621,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Cosmic Ingram kapalı (küre) görünümü.",
+      "openNote": "Cosmic Ingram açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 68,
+        "speed": 94,
+        "defense": 91,
+        "intel": 58,
+        "gForce": 56
+      },
+      "bio": "Cosmic Ingram, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/60/CosmicIngram.jpg/revision/latest?cb=20100415205204",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/60/CosmicIngram.jpg/revision/latest?cb=20100415205204"
+    },
+    {
+      "id": "cross-dragonoid",
+      "name": "Cross Dragonoid",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 700,
+      "partner": "Dan Kuso",
+      "form": "Altı attribute çaprazı",
+      "evolution": "Neo → Cross",
+      "closedNote": "Altı attribute izli efsanevi küre.",
+      "openNote": "Tüm elementleri çaprazlayabilen ejderha.",
+      "powers": [
+        "Cross Fire",
+        "Attribute Cross"
+      ],
+      "superPowers": [
+        "Six Attribute Liberation"
+      ],
+      "stats": {
+        "power": 96,
+        "speed": 86,
+        "defense": 84,
+        "intel": 92,
+        "gForce": 95
+      },
+      "bio": "Altı attribute enerjisini birleştiren evrim. Vestal teknolojisine karşı doğanın cevabı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/50/A-Cross-Dragonoid.jpg/revision/latest?cb=20110106003657",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/50/A-Cross-Dragonoid.jpg/revision/latest?cb=20110106003657"
+    },
+    {
+      "id": "cyborg-helios",
+      "name": "Cyborg Helios",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 700,
+      "partner": "Spectra Phantom",
+      "form": "Siber ejderha",
+      "evolution": "Helios → Cyborg",
+      "closedNote": "Ağır zırhlı mekanik küre.",
+      "openNote": "Tam siber-upgrade; max ateş gücü.",
+      "powers": [
+        "FARUM II",
+        "Hyper Omega"
+      ],
+      "superPowers": [
+        "Zeno Meteor"
+      ],
+      "stats": {
+        "power": 98,
+        "speed": 78,
+        "defense": 90,
+        "intel": 93,
+        "gForce": 96
+      },
+      "bio": "Helios’un aşırı evrimi. Makine ve canavarın sınırında.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/13/Helios_NB.png/revision/latest?cb=20110407210905",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/13/Helios_NB.png/revision/latest?cb=20110407210905"
+    },
+    {
+      "id": "dryoid",
+      "name": "Dryoid",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 555,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Dryoid kapalı (küre) görünümü.",
+      "openNote": "Dryoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 76,
+        "speed": 75,
+        "defense": 84,
+        "intel": 55,
+        "gForce": 65
+      },
+      "bio": "Dryoid, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/90/Dryoid_Bakugan_form.png/revision/latest?cb=20171102090349",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/90/Dryoid_Bakugan_form.png/revision/latest?cb=20171102090349"
+    },
+    {
+      "id": "dual-elfin",
+      "name": "Dual Elfin",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 352,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Dual Elfin kapalı (küre) görünümü.",
+      "openNote": "Dual Elfin açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 72,
+        "speed": 77,
+        "defense": 57,
+        "intel": 77,
+        "gForce": 74
+      },
+      "bio": "Dual Elfin, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a4/BK_SA_Dual_Elfin.png/revision/latest?cb=20090926004657",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a4/BK_SA_Dual_Elfin.png/revision/latest?cb=20090926004657"
+    },
+    {
+      "id": "elfin",
+      "name": "Elfin",
+      "season": 2,
+      "attribute": "aquos",
+      "gPower": 500,
+      "partner": "Marucho Marukura",
+      "form": "Su perisi / kurbağa",
+      "evolution": "Minx Elfin",
+      "closedNote": "Parlak aquos-yeşil geçişli küre.",
+      "openNote": "Sevimli ama keskin su savaşçısı; attribute değişimi.",
+      "powers": [
+        "Moonlight Slash",
+        "Attribute Dance"
+      ],
+      "superPowers": [
+        "Aqua Pixie Storm"
+      ],
+      "stats": {
+        "power": 78,
+        "speed": 88,
+        "defense": 74,
+        "intel": 92,
+        "gForce": 86
+      },
+      "bio": "Preyas’tan sonra Marucho’nun partneri. Şirin görünür, sahada acımasızdır.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/63/Image_320_240_%2813%29.png/revision/latest?cb=20110519194615",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/63/Image_320_240_%2813%29.png/revision/latest?cb=20110519194615"
+    },
+    {
+      "id": "fencer",
+      "name": "Fencer",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 563,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Fencer kapalı (küre) görünümü.",
+      "openNote": "Fencer açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 82,
+        "speed": 60,
+        "defense": 57,
+        "intel": 78,
+        "gForce": 74
+      },
+      "bio": "Fencer, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_Fencer.png/revision/latest?cb=20090620121011",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_Fencer.png/revision/latest?cb=20090620121011"
+    },
+    {
+      "id": "fly-beetle",
+      "name": "Fly Beetle",
+      "season": 2,
+      "attribute": "aquos",
+      "gPower": 629,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Fly Beetle kapalı (küre) görünümü.",
+      "openNote": "Fly Beetle açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 82,
+        "speed": 76,
+        "defense": 89,
+        "intel": 62,
+        "gForce": 94
+      },
+      "bio": "Fly Beetle, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b0/Image_320_240_%2811%29.png/revision/latest?cb=20110519194319",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b0/Image_320_240_%2811%29.png/revision/latest?cb=20110519194319"
+    },
+    {
+      "id": "foxbat",
+      "name": "Foxbat",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 555,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Foxbat kapalı (küre) görünümü.",
+      "openNote": "Foxbat açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 73,
+        "speed": 83,
+        "defense": 70,
+        "intel": 88,
+        "gForce": 65
+      },
+      "bio": "Foxbat, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f0/GI_Foxbat.png/revision/latest?cb=20110223142651",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f0/GI_Foxbat.png/revision/latest?cb=20110223142651"
+    },
+    {
+      "id": "freezer",
+      "name": "Freezer",
+      "season": 2,
+      "attribute": "aquos",
+      "gPower": 563,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Freezer kapalı (küre) görünümü.",
+      "openNote": "Freezer açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 58,
+        "speed": 57,
+        "defense": 71,
+        "intel": 63,
+        "gForce": 70
+      },
+      "bio": "Freezer, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/11/Freezer.jpg/revision/latest?cb=20110808094331",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/11/Freezer.jpg/revision/latest?cb=20110808094331"
+    },
+    {
+      "id": "goblinball",
+      "name": "Goblinball",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 619,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Goblinball kapalı (küre) görünümü.",
+      "openNote": "Goblinball açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 66,
+        "speed": 69,
+        "defense": 70,
+        "intel": 89,
+        "gForce": 84
+      },
+      "bio": "Goblinball, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/95/Goblinball.jpg/revision/latest?cb=20091109214414",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/95/Goblinball.jpg/revision/latest?cb=20091109214414"
+    },
+    {
+      "id": "hades",
+      "name": "Hades",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 447,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Hades kapalı (küre) görünümü.",
+      "openNote": "Hades açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 67,
+        "speed": 58,
+        "defense": 91,
+        "intel": 90,
+        "gForce": 80
+      },
+      "bio": "Hades, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c8/BK_CD_Hades.jpg/revision/latest?cb=20090616224849",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Darkus_Hades_in_Ball_form_open..png/revision/latest?cb=20240427165507"
+    },
+    {
+      "id": "hammersaur",
+      "name": "Hammersaur",
+      "season": 2,
+      "attribute": "haos",
+      "gPower": 363,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Hammersaur kapalı (küre) görünümü.",
+      "openNote": "Hammersaur açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 92,
+        "speed": 78,
+        "defense": 88,
+        "intel": 70,
+        "gForce": 88
+      },
+      "bio": "Hammersaur, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Hammersaur.jpg/revision/latest?cb=20091109223315",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Hammersaur.jpg/revision/latest?cb=20091109223315"
+    },
+    {
+      "id": "helioss",
+      "name": "Helios",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 500,
+      "partner": "Spectra Phantom",
+      "form": "Makine ejderhası",
+      "evolution": "Cyborg → Infinity Helios",
+      "closedNote": "Metalik Pyrus küresi; Vestal mühendisliği.",
+      "openNote": "Siyah-kızıl mekanik ejderha; Farum silahları.",
+      "powers": [
+        "Farum Cannon",
+        "Blackout Punch"
+      ],
+      "superPowers": [
+        "General Quasar"
+      ],
+      "stats": {
+        "power": 95,
+        "speed": 80,
+        "defense": 86,
+        "intel": 90,
+        "gForce": 93
+      },
+      "bio": "Spectra’nın mükemmeliyetçi yaratımı. Drago’nun gölgesi ve aynası.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e2/BK_CD_ViperHelios.jpg/revision/latest?cb=20090516095246",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/BK_CD_ViperHelios.jpg/revision/latest?cb=20090516095246"
+    },
+    {
+      "id": "hyper-dragonoid",
+      "name": "Hyper Dragonoid",
+      "season": 2,
+      "attribute": "aquos",
+      "gPower": 566,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Hyper Dragonoid kapalı (küre) görünümü.",
+      "openNote": "Hyper Dragonoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 58,
+        "speed": 69,
+        "defense": 75,
+        "intel": 73,
+        "gForce": 78
+      },
+      "bio": "Hyper Dragonoid, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/7f/BK_Hyper_Dragonoid.png/revision/latest?cb=20100311031934",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7f/BK_Hyper_Dragonoid.png/revision/latest?cb=20100311031934"
+    },
+    {
+      "id": "ingram",
+      "name": "Ingram",
+      "season": 2,
+      "attribute": "ventus",
+      "gPower": 500,
+      "partner": "Shun Kazami",
+      "form": "Ninja kuş / insanoid",
+      "evolution": "Master Ingram",
+      "closedNote": "Yeşil ninja maskeli küre.",
+      "openNote": "Kanatlı ninja formu; sessiz ölüm.",
+      "powers": [
+        "Shadow Slash",
+        "Wind Power Boost"
+      ],
+      "superPowers": [
+        "Ninja Tempest"
+      ],
+      "stats": {
+        "power": 86,
+        "speed": 97,
+        "defense": 72,
+        "intel": 91,
+        "gForce": 90
+      },
+      "bio": "Skyress’ten sonra Shun’un yeni partneri. Ninja sanatının bakugan hali.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_CD_Ingram.jpg/revision/latest?cb=20090516113040",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_CD_Ingram.jpg/revision/latest?cb=20090516113040"
+    },
+    {
+      "id": "jelldon",
+      "name": "Jelldon",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 495,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Jelldon kapalı (küre) görünümü.",
+      "openNote": "Jelldon açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 60,
+        "speed": 67,
+        "defense": 72,
+        "intel": 68,
+        "gForce": 86
+      },
+      "bio": "Jelldon, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/50/Image_320_240_%2838%29.png/revision/latest?cb=20110520050950",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/50/Image_320_240_%2838%29.png/revision/latest?cb=20110520050950"
+    },
+    {
+      "id": "klawgor",
+      "name": "Klawgor",
+      "season": 2,
+      "attribute": "ventus",
+      "gPower": 642,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Klawgor kapalı (küre) görünümü.",
+      "openNote": "Klawgor açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 60,
+        "speed": 84,
+        "defense": 59,
+        "intel": 79,
+        "gForce": 58
+      },
+      "bio": "Klawgor, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/07/Klawgor.png/revision/latest?cb=20090926232750",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/07/Klawgor.png/revision/latest?cb=20090926232750"
+    },
+    {
+      "id": "knight-percival",
+      "name": "Knight Percival",
+      "season": 2,
+      "attribute": "darkus",
+      "gPower": 650,
+      "partner": "Ace Grit",
+      "form": "Üst şövalye",
+      "evolution": "Percival → Knight",
+      "closedNote": "Taçlı Darkus küresi.",
+      "openNote": "Tam zırhlı kanatlı şövalye.",
+      "powers": [
+        "Knight Tempest",
+        "Shadow Lance"
+      ],
+      "superPowers": [
+        "Royal Darkus Decree"
+      ],
+      "stats": {
+        "power": 92,
+        "speed": 86,
+        "defense": 90,
+        "intel": 88,
+        "gForce": 93
+      },
+      "bio": "Percival’ın evrimi. Karanlıkta bile bir şövalye kodu vardır.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Realkp.png/revision/latest?cb=20100927081928",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Realkp.png/revision/latest?cb=20100927081928"
+    },
+    {
+      "id": "leefram",
+      "name": "Leefram",
+      "season": 2,
+      "attribute": "aquos",
+      "gPower": 360,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Leefram kapalı (küre) görünümü.",
+      "openNote": "Leefram açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 83,
+        "speed": 87,
+        "defense": 89,
+        "intel": 76,
+        "gForce": 74
+      },
+      "bio": "Leefram, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/72/BK_Leefram.png/revision/latest?cb=20090704113229",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/72/BK_Leefram.png/revision/latest?cb=20090704113229"
+    },
+    {
+      "id": "macubass",
+      "name": "Macubass",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 573,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Macubass kapalı (küre) görünümü.",
+      "openNote": "Macubass açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 90,
+        "speed": 68,
+        "defense": 89,
+        "intel": 78,
+        "gForce": 92
+      },
+      "bio": "Macubass, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/01/Mcbss.jpg/revision/latest?cb=20171201171037",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/01/Mcbss.jpg/revision/latest?cb=20171201171037"
+    },
+    {
+      "id": "magma-wilda",
+      "name": "Magma Wilda",
+      "season": 2,
+      "attribute": "subterra",
+      "gPower": 600,
+      "partner": "Mira Fermin",
+      "form": "Magma tank",
+      "evolution": "Wilda → Magma",
+      "closedNote": "Erimiş çekirdekli ağır küre.",
+      "openNote": "Tam magma zırh; alan yakma.",
+      "powers": [
+        "Magma Cascade",
+        "Earth Meltdown"
+      ],
+      "superPowers": [
+        "Core Eruption"
+      ],
+      "stats": {
+        "power": 94,
+        "speed": 58,
+        "defense": 95,
+        "intel": 78,
+        "gForce": 91
+      },
+      "bio": "Wilda’nın zirve formu. Vexos zırhlarını eritebilir.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/0a/Magma_Wilda_AS.png/revision/latest?cb=20120808224651",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0a/Magma_Wilda_AS.png/revision/latest?cb=20120808224651"
+    },
+    {
+      "id": "master-ingram",
+      "name": "Master Ingram",
+      "season": 2,
+      "attribute": "ventus",
+      "gPower": 650,
+      "partner": "Shun Kazami",
+      "form": "Usta ninja",
+      "evolution": "Ingram → Master",
+      "closedNote": "Çok katmanlı Ventus ninja küresi.",
+      "openNote": "Üç formlu usta ninja; maksimum hız.",
+      "powers": [
+        "Master Wind",
+        "Shadow Split"
+      ],
+      "superPowers": [
+        "Triple Ninja Storm"
+      ],
+      "stats": {
+        "power": 90,
+        "speed": 99,
+        "defense": 76,
+        "intel": 93,
+        "gForce": 94
+      },
+      "bio": "Ingram’ın ustalık evrimi. Shun ile mükemmel senkron.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Realmi.png/revision/latest?cb=20100927082005",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Realmi.png/revision/latest?cb=20100927082005"
+    },
+    {
+      "id": "mega-brontes",
+      "name": "Mega Brontes",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 634,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Mega Brontes kapalı (küre) görünümü.",
+      "openNote": "Mega Brontes açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 68,
+        "speed": 70,
+        "defense": 76,
+        "intel": 89,
+        "gForce": 65
+      },
+      "bio": "Mega Brontes, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/dd/BK_CD_MegaBrontes.jpg/revision/latest?cb=20091107205828",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/dd/BK_CD_MegaBrontes.jpg/revision/latest?cb=20091107205828"
+    },
+    {
+      "id": "mega-nemus",
+      "name": "Mega Nemus",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 319,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Mega Nemus kapalı (küre) görünümü.",
+      "openNote": "Mega Nemus açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 70,
+        "speed": 82,
+        "defense": 73,
+        "intel": 55,
+        "gForce": 76
+      },
+      "bio": "Mega Nemus, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/21/Mega_nemus.png/revision/latest?cb=20090906203617",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/21/Mega_nemus.png/revision/latest?cb=20090906203617"
+    },
+    {
+      "id": "midnight-percival",
+      "name": "Midnight Percival",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 540,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Midnight Percival kapalı (küre) görünümü.",
+      "openNote": "Midnight Percival açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 61,
+        "speed": 63,
+        "defense": 56,
+        "intel": 56,
+        "gForce": 81
+      },
+      "bio": "Midnight Percival, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/91/BK_CD_MidnightPercival.jpg/revision/latest?cb=20091011194626",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/91/BK_CD_MidnightPercival.jpg/revision/latest?cb=20091011194626"
+    },
+    {
+      "id": "minx-elfin",
+      "name": "Minx Elfin",
+      "season": 2,
+      "attribute": "aquos",
+      "gPower": 620,
+      "partner": "Marucho Marukura",
+      "form": "Gelişmiş peri",
+      "evolution": "Elfin → Minx",
+      "closedNote": "Mücevher ışıklı aquos küresi.",
+      "openNote": "Daha güçlü attribute dansı ve su bıçakları.",
+      "powers": [
+        "Minx Cascade",
+        "Crystal Dance"
+      ],
+      "superPowers": [
+        "Hydro Mirage Max"
+      ],
+      "stats": {
+        "power": 82,
+        "speed": 90,
+        "defense": 78,
+        "intel": 94,
+        "gForce": 90
+      },
+      "bio": "Elfin’in evrimi. Marucho’nun taktik zekâsına mükemmel uyum.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/72/Realmf.png/revision/latest?cb=20100927081947",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/72/Realmf.png/revision/latest?cb=20100927081947"
+    },
+    {
+      "id": "moskeeto",
+      "name": "Moskeeto",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 535,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Moskeeto kapalı (küre) görünümü.",
+      "openNote": "Moskeeto açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 63,
+        "speed": 57,
+        "defense": 82,
+        "intel": 89,
+        "gForce": 72
+      },
+      "bio": "Moskeeto, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b1/BK_Moskeeto.png/revision/latest?cb=20090930011259",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b1/BK_Moskeeto.png/revision/latest?cb=20090930011259"
+    },
+    {
+      "id": "myriad-hades",
+      "name": "Myriad Hades",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 583,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Myriad Hades kapalı (küre) görünümü.",
+      "openNote": "Myriad Hades açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 67,
+        "speed": 84,
+        "defense": 85,
+        "intel": 61,
+        "gForce": 67
+      },
+      "bio": "Myriad Hades, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/2b/MyraidHades_S2PosterImage.png/revision/latest?cb=20120306033044",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/MyraidHades_S2PosterImage.png/revision/latest?cb=20120306033044"
+    },
+    {
+      "id": "nemus",
+      "name": "Nemus",
+      "season": 2,
+      "attribute": "haos",
+      "gPower": 500,
+      "partner": "Baron Leltoy",
+      "form": "Kutsal koruyucu",
+      "evolution": "Saint Nemus",
+      "closedNote": "Altın-beyaz kutsal küre.",
+      "openNote": "Kalkanlı ışık savaşçısı.",
+      "powers": [
+        "Sparkly Arrow",
+        "Haos Barrier"
+      ],
+      "superPowers": [
+        "Sacred Light Wall"
+      ],
+      "stats": {
+        "power": 80,
+        "speed": 74,
+        "defense": 94,
+        "intel": 86,
+        "gForce": 87
+      },
+      "bio": "Baron’un koruyucu melek-şövalyesi. Takımı ayakta tutan kalkan.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1f/BK_CD_Nemus.jpg/revision/latest?cb=20090523045500",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1f/BK_CD_Nemus.jpg/revision/latest?cb=20090523045500"
+    },
+    {
+      "id": "neo-dragonoid",
+      "name": "Neo Dragonoid",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 500,
+      "partner": "Dan Kuso",
+      "form": "Yeni Vestroia ejderhası",
+      "evolution": "Cross → Helix…",
+      "closedNote": "Yeniden tasarlanmış kızıl küre; New Vestroia çizgisi.",
+      "openNote": "Daha atletik ejderha; Perfect Core parçası taşır.",
+      "powers": [
+        "Burning Dragon",
+        "Fire Tornado Extreme"
+      ],
+      "superPowers": [
+        "Perfect Core Pulse"
+      ],
+      "stats": {
+        "power": 93,
+        "speed": 82,
+        "defense": 78,
+        "intel": 88,
+        "gForce": 90
+      },
+      "bio": "Drago’nun New Vestroia formu. Vexos’a karşı Perfect Core’un umudu.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/18/Neo_dragonoid.png/revision/latest?cb=20110407205913",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
+      "nickname": "Neo Drago"
+    },
+    {
+      "id": "neo-dragonoid-7in1-maxus",
+      "name": "Neo Dragonoid (7in1 Maxus)",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 315,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Neo Dragonoid (7in1 Maxus) kapalı (küre) görünümü.",
+      "openNote": "Neo Dragonoid (7in1 Maxus) açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 88,
+        "speed": 85,
+        "defense": 87,
+        "intel": 82,
+        "gForce": 82
+      },
+      "bio": "Neo Dragonoid (7in1 Maxus), Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/34/Neo_dragonoid_%287_in_1%29_maxus.png/revision/latest?cb=20121105102633",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/34/Neo_dragonoid_%287_in_1%29_maxus.png/revision/latest?cb=20121105102633"
+    },
+    {
+      "id": "percival",
+      "name": "Percival",
+      "season": 2,
+      "attribute": "darkus",
+      "gPower": 500,
+      "partner": "Ace Grit",
+      "form": "Karanlık şövalye",
+      "evolution": "Knight Percival",
+      "closedNote": "Mor şövalye armalı küre.",
+      "openNote": "Kanatlı karanlık şövalye; kılıç ve zırh.",
+      "powers": [
+        "Night Lightning",
+        "Darkus Wing"
+      ],
+      "superPowers": [
+        "Black Knight Slash"
+      ],
+      "stats": {
+        "power": 88,
+        "speed": 84,
+        "defense": 86,
+        "intel": 85,
+        "gForce": 89
+      },
+      "bio": "Ace’in gurur kaynağı. Darkus’u şövalye onuruyla taşır.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/11/Bk_cd_percival.jpg/revision/latest?cb=20090905193511",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+    },
+    {
+      "id": "pyro-dragonoid",
+      "name": "Pyro Dragonoid",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 664,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Pyro Dragonoid kapalı (küre) görünümü.",
+      "openNote": "Pyro Dragonoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 83,
+        "speed": 81,
+        "defense": 63,
+        "intel": 83,
+        "gForce": 80
+      },
+      "bio": "Pyro Dragonoid, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3b/PyroDragonoid_S2PosterImage.png/revision/latest?cb=20120306031212",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3b/PyroDragonoid_S2PosterImage.png/revision/latest?cb=20120306031212"
+    },
+    {
+      "id": "rafflesian",
+      "name": "Rafflesian",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 613,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Rafflesian kapalı (küre) görünümü.",
+      "openNote": "Rafflesian açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 92,
+        "speed": 75,
+        "defense": 90,
+        "intel": 81,
+        "gForce": 94
+      },
+      "bio": "Rafflesian, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9d/Image_320_240_%2846%29.png/revision/latest?cb=20110520050845",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9d/Image_320_240_%2846%29.png/revision/latest?cb=20110520050845"
+    },
+    {
+      "id": "saint-nemus",
+      "name": "Saint Nemus",
+      "season": 2,
+      "attribute": "haos",
+      "gPower": 620,
+      "partner": "Baron Leltoy",
+      "form": "Aziz form",
+      "evolution": "Nemus → Saint",
+      "closedNote": "Halo ışıklı gelişmiş küre.",
+      "openNote": "Kutsal zırh ve ışık okları.",
+      "powers": [
+        "Saint Arrow",
+        "Divine Guard"
+      ],
+      "superPowers": [
+        "Haos Benediction"
+      ],
+      "stats": {
+        "power": 84,
+        "speed": 76,
+        "defense": 96,
+        "intel": 90,
+        "gForce": 91
+      },
+      "bio": "Nemus’un aziz formu. Haos inancının somut hali.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6c/Saint_Nemus_Bakugan_Form.png/revision/latest?cb=20120121235047",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6c/Saint_Nemus_Bakugan_Form.png/revision/latest?cb=20120121235047"
+    },
+    {
+      "id": "scraper",
+      "name": "Scraper",
+      "season": 2,
+      "attribute": "subterra",
+      "gPower": 466,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Scraper kapalı (küre) görünümü.",
+      "openNote": "Scraper açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 65,
+        "speed": 60,
+        "defense": 75,
+        "intel": 60,
+        "gForce": 84
+      },
+      "bio": "Scraper, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/35/BK_Scraper.png/revision/latest?cb=20090620130124",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/35/BK_Scraper.png/revision/latest?cb=20090620130124"
+    },
+    {
+      "id": "shadow-vulcan",
+      "name": "Shadow Vulcan",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 653,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Shadow Vulcan kapalı (küre) görünümü.",
+      "openNote": "Shadow Vulcan açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 63,
+        "speed": 92,
+        "defense": 87,
+        "intel": 67,
+        "gForce": 90
+      },
+      "bio": "Shadow Vulcan, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f8/BK_Shadow_Vulcan.png/revision/latest?cb=20090706130752",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f8/BK_Shadow_Vulcan.png/revision/latest?cb=20090706130752"
+    },
+    {
+      "id": "spindle",
+      "name": "Spindle",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 561,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Spindle kapalı (küre) görünümü.",
+      "openNote": "Spindle açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 79,
+        "speed": 60,
+        "defense": 74,
+        "intel": 62,
+        "gForce": 60
+      },
+      "bio": "Spindle, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1e/Spindle_S2PosterImage.png/revision/latest?cb=20120229151644",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+    },
+    {
+      "id": "stug",
+      "name": "Stug",
+      "season": 2,
+      "attribute": "aquos",
+      "gPower": 463,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Stug kapalı (küre) görünümü.",
+      "openNote": "Stug açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 94,
+        "speed": 72,
+        "defense": 85,
+        "intel": 62,
+        "gForce": 85
+      },
+      "bio": "Stug, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/af/Stug_S2PosterImage.png/revision/latest?cb=20120229151523",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/af/Stug_S2PosterImage.png/revision/latest?cb=20120229151523"
+    },
+    {
+      "id": "thunder-wilda",
+      "name": "Thunder Wilda",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 579,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Thunder Wilda kapalı (küre) görünümü.",
+      "openNote": "Thunder Wilda açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 60,
+        "speed": 86,
+        "defense": 76,
+        "intel": 65,
+        "gForce": 79
+      },
+      "bio": "Thunder Wilda, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9a/ThunderWilda_S2PosterImage.png/revision/latest?cb=20120229151343",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9a/ThunderWilda_S2PosterImage.png/revision/latest?cb=20120229151343"
+    },
+    {
+      "id": "ultra-dragonoid",
+      "name": "Ultra Dragonoid",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 469,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Ultra Dragonoid kapalı (küre) görünümü.",
+      "openNote": "Ultra Dragonoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 65,
+        "speed": 61,
+        "defense": 59,
+        "intel": 78,
+        "gForce": 88
+      },
+      "bio": "Ultra Dragonoid, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/40/BK_Ultra_Dragonoid.jpg/revision/latest?cb=20091117022133",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/40/BK_Ultra_Dragonoid.jpg/revision/latest?cb=20091117022133"
+    },
+    {
+      "id": "verias",
+      "name": "Verias",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 541,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Verias kapalı (küre) görünümü.",
+      "openNote": "Verias açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 75,
+        "speed": 77,
+        "defense": 81,
+        "intel": 74,
+        "gForce": 80
+      },
+      "bio": "Verias, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Verias_S2PosterImage.png/revision/latest?cb=20120229150756",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Verias_S2PosterImage.png/revision/latest?cb=20120229150756"
+    },
+    {
+      "id": "viper-helios",
+      "name": "Viper Helios",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 600,
+      "partner": "Spectra Phantom",
+      "form": "Viper mekanik",
+      "evolution": "Helios hattı",
+      "closedNote": "Yılan-ejder mekanik küre.",
+      "openNote": "Daha agresif Helios varyantı.",
+      "powers": [
+        "Viper Farum",
+        "Nova Reflect"
+      ],
+      "superPowers": [
+        "Chaos Omega"
+      ],
+      "stats": {
+        "power": 96,
+        "speed": 82,
+        "defense": 88,
+        "intel": 91,
+        "gForce": 94
+      },
+      "bio": "Helios ailesinin zehirli-agresif yüzü. Spectra’nın denemelerinden biri.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e2/BK_CD_ViperHelios.jpg/revision/latest?cb=20090516095246",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/BK_CD_ViperHelios.jpg/revision/latest?cb=20090516095246"
+    },
+    {
+      "id": "wilda",
+      "name": "Wilda",
+      "season": 2,
+      "attribute": "subterra",
+      "gPower": 500,
+      "partner": "Mira Fermin",
+      "form": "Lav golem",
+      "evolution": "Magma Wilda",
+      "closedNote": "Lav damarlı toprak küresi.",
+      "openNote": "Magma çekirdekli golem; ısı ve darbe.",
+      "powers": [
+        "Magma Punch",
+        "Wilda Quake"
+      ],
+      "superPowers": [
+        "Volcanic Armor"
+      ],
+      "stats": {
+        "power": 90,
+        "speed": 55,
+        "defense": 92,
+        "intel": 76,
+        "gForce": 88
+      },
+      "bio": "Mira’nın sadık partneri. Resistance’ın toprak yumruğu.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/28/Wilda_S2PosterImage.png/revision/latest?cb=20120229150123",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+    },
+    {
+      "id": "wired",
+      "name": "Wired",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 455,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Wired kapalı (küre) görünümü.",
+      "openNote": "Wired açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 94,
+        "speed": 63,
+        "defense": 60,
+        "intel": 59,
+        "gForce": 55
+      },
+      "bio": "Wired, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/34/Wired_S2PosterImage.png/revision/latest?cb=20120229143023",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/34/Wired_S2PosterImage.png/revision/latest?cb=20120229143023"
+    },
+    {
+      "id": "wontu",
+      "name": "Wontu",
+      "season": 2,
+      "attribute": "pyrus",
+      "gPower": 684,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Wontu kapalı (küre) görünümü.",
+      "openNote": "Wontu açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 56,
+        "speed": 78,
+        "defense": 68,
+        "intel": 79,
+        "gForce": 78
+      },
+      "bio": "Wontu, Sezon 2 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/79/Wontu_Aquos.jpg/revision/latest?cb=20091108204139",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/79/Wontu_Aquos.jpg/revision/latest?cb=20091108204139"
+    },
+    {
+      "id": "aksela",
+      "name": "Aksela",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 465,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Aksela kapalı (küre) görünümü.",
+      "openNote": "Aksela açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 88,
+        "speed": 71,
+        "defense": 75,
+        "intel": 56,
+        "gForce": 72
+      },
+      "bio": "Aksela, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/32/Aksela.png/revision/latest?cb=20100903123227",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/32/Aksela.png/revision/latest?cb=20100903123227"
+    },
+    {
+      "id": "akwimos",
+      "name": "Akwimos",
+      "season": 3,
+      "attribute": "aquos",
+      "gPower": 900,
+      "partner": "Marucho Marukura",
+      "form": "Su savaşçısı",
+      "evolution": "—",
+      "closedNote": "Dalga armalı aquos küresi.",
+      "openNote": "Zıpkınlı su savaşçısı; taktik esneklik.",
+      "powers": [
+        "Spiral Tech",
+        "Aqua Spear"
+      ],
+      "superPowers": [
+        "Tsunami Strategy"
+      ],
+      "stats": {
+        "power": 86,
+        "speed": 90,
+        "defense": 84,
+        "intel": 95,
+        "gForce": 91
+      },
+      "bio": "Marucho’nun Gundalia partneri. Su ve strateji bir arada.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_Akwimos.png/revision/latest?cb=20100430171928",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+    },
+    {
+      "id": "aranaut",
+      "name": "Aranaut",
+      "season": 3,
+      "attribute": "haos",
+      "gPower": 900,
+      "partner": "Fabia Sheen",
+      "form": "Neathia şövalyesi",
+      "evolution": "—",
+      "closedNote": "Altın haos savaş zırhı küresi.",
+      "openNote": "Boksör-şövalye hibrit; Battle Gear ustası.",
+      "powers": [
+        "Light Wave Fist",
+        "Mirage Jet"
+      ],
+      "superPowers": [
+        "Haos Royal Guard"
+      ],
+      "stats": {
+        "power": 90,
+        "speed": 88,
+        "defense": 92,
+        "intel": 89,
+        "gForce": 92
+      },
+      "bio": "Fabia’nın partneri. Neathia’nın kutsal savaşçısı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ee/BK_Aranaut.png/revision/latest?cb=20100427233335",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ee/BK_Aranaut.png/revision/latest?cb=20100427233335"
+    },
+    {
+      "id": "avior",
+      "name": "Avior",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 527,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Avior kapalı (küre) görünümü.",
+      "openNote": "Avior açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 70,
+        "speed": 73,
+        "defense": 55,
+        "intel": 74,
+        "gForce": 89
+      },
+      "bio": "Avior, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BC_Avior.png/revision/latest?cb=20100514104421",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BC_Avior.png/revision/latest?cb=20100514104421"
+    },
+    {
+      "id": "battalix-dragonoid",
+      "name": "Battalix Dragonoid",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 546,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Battalix Dragonoid kapalı (küre) görünümü.",
+      "openNote": "Battalix Dragonoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 84,
+        "speed": 62,
+        "defense": 84,
+        "intel": 89,
+        "gForce": 82
+      },
+      "bio": "Battalix Dragonoid, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/73/BK_Battalix_Dragonoid.png/revision/latest?cb=20101007120626",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/73/BK_Battalix_Dragonoid.png/revision/latest?cb=20101007120626"
+    },
+    {
+      "id": "blitz-dragonoid",
+      "name": "Blitz Dragonoid",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 1200,
+      "partner": "Dan Kuso",
+      "form": "Blitz zirvesi",
+      "evolution": "Lumino → Blitz",
+      "closedNote": "Altın-kızıl blitz menteli küre.",
+      "openNote": "Sezon 3 final ejderhası; Code Eve’e yakın.",
+      "powers": [
+        "Blitz Supra",
+        "Dragon Force"
+      ],
+      "superPowers": [
+        "Genesis Dragonoid yolu"
+      ],
+      "stats": {
+        "power": 99,
+        "speed": 92,
+        "defense": 90,
+        "intel": 95,
+        "gForce": 98
+      },
+      "bio": "Drago’nun Gundalia zirvesi. Barodius/Dharak’a karşı son koz.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Blitz_Dragonoid.png/revision/latest?cb=20100903123537",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Blitz_Dragonoid.png/revision/latest?cb=20100903123537"
+    },
+    {
+      "id": "brawlacus-dharak",
+      "name": "Brawlacus Dharak",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 692,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Brawlacus Dharak kapalı (küre) görünümü.",
+      "openNote": "Brawlacus Dharak açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 64,
+        "speed": 61,
+        "defense": 86,
+        "intel": 65,
+        "gForce": 85
+      },
+      "bio": "Brawlacus Dharak, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5b/BK_Brawlacus_Dharak.png/revision/latest?cb=20101007120032",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5b/BK_Brawlacus_Dharak.png/revision/latest?cb=20101007120032"
+    },
+    {
+      "id": "contestir",
+      "name": "Contestir",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 644,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Contestir kapalı (küre) görünümü.",
+      "openNote": "Contestir açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 92,
+        "speed": 58,
+        "defense": 65,
+        "intel": 78,
+        "gForce": 69
+      },
+      "bio": "Contestir, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_Contestir.png/revision/latest?cb=20100810102837",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_Contestir.png/revision/latest?cb=20100810102837"
+    },
+    {
+      "id": "coredem",
+      "name": "Coredem",
+      "season": 3,
+      "attribute": "subterra",
+      "gPower": 900,
+      "partner": "Jake Vallory",
+      "form": "Kaya yumrukçu",
+      "evolution": "—",
+      "closedNote": "Ağır kaya menteli küre.",
+      "openNote": "Dev taş savaşçı; Rock Hammer.",
+      "powers": [
+        "Rock Hammer",
+        "Core Punch"
+      ],
+      "superPowers": [
+        "Seismic Core Break"
+      ],
+      "stats": {
+        "power": 96,
+        "speed": 60,
+        "defense": 95,
+        "intel": 78,
+        "gForce": 91
+      },
+      "bio": "Jake’in saf güç partneri. Basit ama ezici.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d1/BC_Coredem_3.png/revision/latest?cb=20100524023402",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d1/BC_Coredem_3.png/revision/latest?cb=20100524023402"
+    },
+    {
+      "id": "damakor",
+      "name": "Damakor",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 467,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Damakor kapalı (küre) görünümü.",
+      "openNote": "Damakor açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 87,
+        "speed": 61,
+        "defense": 66,
+        "intel": 81,
+        "gForce": 61
+      },
+      "bio": "Damakor, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ea/BK_Damakor.png/revision/latest?cb=20101011175729",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ea/BK_Damakor.png/revision/latest?cb=20101011175729"
+    },
+    {
+      "id": "dartaak",
+      "name": "Dartaak",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 600,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Dartaak kapalı (küre) görünümü.",
+      "openNote": "Dartaak açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 93,
+        "speed": 79,
+        "defense": 84,
+        "intel": 69,
+        "gForce": 63
+      },
+      "bio": "Dartaak, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a4/Dartaak1.png/revision/latest?cb=20100903124048",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a4/Dartaak1.png/revision/latest?cb=20100903124048"
+    },
+    {
+      "id": "dharak",
+      "name": "Dharak",
+      "season": 3,
+      "attribute": "darkus",
+      "gPower": 1200,
+      "partner": "Emperor Barodius",
+      "form": "İmparatorluk ejderhası",
+      "evolution": "Phantom Dharak",
+      "closedNote": "İmparatorluk armalı Darkus küresi.",
+      "openNote": "Devasa karanlık ejderha; Neathia’nın kabusu.",
+      "powers": [
+        "Dharak Stream",
+        "Darkus Howling"
+      ],
+      "superPowers": [
+        "Phantom Dimension"
+      ],
+      "stats": {
+        "power": 99,
+        "speed": 85,
+        "defense": 92,
+        "intel": 94,
+        "gForce": 98
+      },
+      "bio": "Gundalia imparatorunun partneri. Sezon 3’ün nihai karanlık gücü.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c6/BC_Dharak.png/revision/latest?cb=20100516134144",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c6/BC_Dharak.png/revision/latest?cb=20100516134144"
+    },
+    {
+      "id": "dragonoid-colossus",
+      "name": "Dragonoid Colossus",
+      "season": 3,
+      "attribute": "aquos",
+      "gPower": 399,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Dragonoid Colossus kapalı (küre) görünümü.",
+      "openNote": "Dragonoid Colossus açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 85,
+        "speed": 60,
+        "defense": 59,
+        "intel": 69,
+        "gForce": 61
+      },
+      "bio": "Dragonoid Colossus, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d6/Dragonoid_Colossus.png/revision/latest?cb=20101002153506",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d6/Dragonoid_Colossus.png/revision/latest?cb=20101002153506"
+    },
+    {
+      "id": "exokor",
+      "name": "Exokor",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 511,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Exokor kapalı (küre) görünümü.",
+      "openNote": "Exokor açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 92,
+        "speed": 71,
+        "defense": 75,
+        "intel": 89,
+        "gForce": 68
+      },
+      "bio": "Exokor, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b6/ExoKorHub.jpg/revision/latest?cb=20110409140922",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b6/ExoKorHub.jpg/revision/latest?cb=20110409140922"
+    },
+    {
+      "id": "fangoid",
+      "name": "Fangoid",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 350,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Fangoid kapalı (küre) görünümü.",
+      "openNote": "Fangoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 94,
+        "speed": 79,
+        "defense": 75,
+        "intel": 72,
+        "gForce": 74
+      },
+      "bio": "Fangoid, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/0e/Fangoid1.png/revision/latest?cb=20100903124229",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0e/Fangoid1.png/revision/latest?cb=20100903124229"
+    },
+    {
+      "id": "gren",
+      "name": "Gren",
+      "season": 3,
+      "attribute": "aquos",
+      "gPower": 588,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Gren kapalı (küre) görünümü.",
+      "openNote": "Gren açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 63,
+        "speed": 78,
+        "defense": 89,
+        "intel": 93,
+        "gForce": 56
+      },
+      "bio": "Gren, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c7/BK_Gren.png/revision/latest?cb=20101011175318",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c7/BK_Gren.png/revision/latest?cb=20101011175318"
+    },
+    {
+      "id": "hakapoid",
+      "name": "Hakapoid",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 436,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Hakapoid kapalı (küre) görünümü.",
+      "openNote": "Hakapoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 58,
+        "speed": 84,
+        "defense": 80,
+        "intel": 85,
+        "gForce": 68
+      },
+      "bio": "Hakapoid, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f1/BK_Hakapoid.png/revision/latest?cb=20100429161604",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f1/BK_Hakapoid.png/revision/latest?cb=20100429161604"
+    },
+    {
+      "id": "hawktor",
+      "name": "Hawktor",
+      "season": 3,
+      "attribute": "ventus",
+      "gPower": 900,
+      "partner": "Shun Kazami",
+      "form": "Şahin ninja",
+      "evolution": "—",
+      "closedNote": "Kanat desenli Ventus küresi.",
+      "openNote": "Şahin-ninja hibrit; gökyüzü hakimiyeti.",
+      "powers": [
+        "Hawk Claw",
+        "Sky Spin"
+      ],
+      "superPowers": [
+        "Ventus Aerial Domination"
+      ],
+      "stats": {
+        "power": 88,
+        "speed": 98,
+        "defense": 80,
+        "intel": 92,
+        "gForce": 93
+      },
+      "bio": "Shun’un Gundalia dönemi partneri. Hızda neredeyse rakipsiz.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_Hawktor.png/revision/latest?cb=20100810103338",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_Hawktor.png/revision/latest?cb=20100810103338"
+    },
+    {
+      "id": "helix-dragonoid",
+      "name": "Helix Dragonoid",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 900,
+      "partner": "Dan Kuso",
+      "form": "DNA ejderhası",
+      "evolution": "Lumino → Blitz…",
+      "closedNote": "DNA kodlu Gundalia dönemi küresi.",
+      "openNote": "Helix zırhlı ejderha; Battle Gear uyumlu.",
+      "powers": [
+        "Dragon Spur",
+        "Helix Shield"
+      ],
+      "superPowers": [
+        "DNA Attribute Shift"
+      ],
+      "stats": {
+        "power": 95,
+        "speed": 88,
+        "defense": 86,
+        "intel": 92,
+        "gForce": 94
+      },
+      "bio": "Gundalian Invaders’ın Drago’su. DNA sistemiyle attribute değiştirebilir.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b7/BC_Helixdragonoid.png/revision/latest?cb=20100517035819",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b7/BC_Helixdragonoid.png/revision/latest?cb=20100517035819"
+    },
+    {
+      "id": "jetro",
+      "name": "Jetro",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 323,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Jetro kapalı (küre) görünümü.",
+      "openNote": "Jetro açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 73,
+        "speed": 76,
+        "defense": 78,
+        "intel": 63,
+        "gForce": 88
+      },
+      "bio": "Jetro, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ad/Jetro.png/revision/latest?cb=20100903130005",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ad/Jetro.png/revision/latest?cb=20100903130005"
+    },
+    {
+      "id": "krakix",
+      "name": "Krakix",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 493,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Krakix kapalı (küre) görünümü.",
+      "openNote": "Krakix açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 68,
+        "speed": 90,
+        "defense": 71,
+        "intel": 81,
+        "gForce": 68
+      },
+      "bio": "Krakix, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/dc/BK_Krakix.png/revision/latest?cb=20100429162221",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+    },
+    {
+      "id": "linehalt",
+      "name": "Linehalt",
+      "season": 3,
+      "attribute": "darkus",
+      "gPower": 900,
+      "partner": "Ren Krawler",
+      "form": "Yasaklı kanatlı",
+      "evolution": "—",
+      "closedNote": "Mor yasak mühürlü küre.",
+      "openNote": "Boynuzlu karanlık savaşçı; Forbidden Power.",
+      "powers": [
+        "Darkus Slash",
+        "Forbidden Power"
+      ],
+      "superPowers": [
+        "Linehalt Exodus"
+      ],
+      "stats": {
+        "power": 94,
+        "speed": 86,
+        "defense": 88,
+        "intel": 90,
+        "gForce": 93
+      },
+      "bio": "Yasaklı gücü olan bakugan. Ren’in sadakatiyle taraf değiştirir.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/de/BK_Linehalt.png/revision/latest?cb=20100810103539",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/de/BK_Linehalt.png/revision/latest?cb=20100810103539"
+    },
+    {
+      "id": "lockanoid",
+      "name": "Lockanoid",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 697,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Lockanoid kapalı (küre) görünümü.",
+      "openNote": "Lockanoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 63,
+        "speed": 82,
+        "defense": 55,
+        "intel": 76,
+        "gForce": 68
+      },
+      "bio": "Lockanoid, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/35/BK_Lockanoid.png/revision/latest?cb=20101011173511",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/35/BK_Lockanoid.png/revision/latest?cb=20101011173511"
+    },
+    {
+      "id": "lumagrowl",
+      "name": "Lumagrowl",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 372,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Lumagrowl kapalı (küre) görünümü.",
+      "openNote": "Lumagrowl açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 67,
+        "speed": 58,
+        "defense": 68,
+        "intel": 73,
+        "gForce": 55
+      },
+      "bio": "Lumagrowl, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c8/BC_Lumagrowl.png/revision/latest?cb=20100501072649",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c8/BC_Lumagrowl.png/revision/latest?cb=20100501072649"
+    },
+    {
+      "id": "lumino-dragonoid",
+      "name": "Lumino Dragonoid",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 1000,
+      "partner": "Dan Kuso",
+      "form": "Işık zırhlı ejderha",
+      "evolution": "Helix → Lumino",
+      "closedNote": "Parlak helix-ışık küresi.",
+      "openNote": "Lumino zırh; yüksek G-Power baskısı.",
+      "powers": [
+        "Lumino Barrage",
+        "Shine Blaster"
+      ],
+      "superPowers": [
+        "Solar Helix Break"
+      ],
+      "stats": {
+        "power": 97,
+        "speed": 90,
+        "defense": 88,
+        "intel": 93,
+        "gForce": 96
+      },
+      "bio": "Helix’in ışıklı evrimi. Neathia savaşında umut sembolü.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ec/BK_Lumino_Dragonoid.png/revision/latest?cb=20100429162547",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+    },
+    {
+      "id": "luxtor",
+      "name": "Luxtor",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 447,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Luxtor kapalı (küre) görünümü.",
+      "openNote": "Luxtor açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 57,
+        "speed": 88,
+        "defense": 94,
+        "intel": 82,
+        "gForce": 58
+      },
+      "bio": "Luxtor, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/09/Luxtor.png/revision/latest?cb=20100903130806",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/09/Luxtor.png/revision/latest?cb=20100903130806"
+    },
+    {
+      "id": "lythirus",
+      "name": "Lythirus",
+      "season": 3,
+      "attribute": "aquos",
+      "gPower": 900,
+      "partner": "Jesse Glenn",
+      "form": "Deniz ejder-böceği",
+      "evolution": "—",
+      "closedNote": "İğneli aquos küresi.",
+      "openNote": "Zarif ama zehirli su avcısı.",
+      "powers": [
+        "Venom Tide",
+        "Needle Storm"
+      ],
+      "superPowers": [
+        "Crystal Abyss"
+      ],
+      "stats": {
+        "power": 87,
+        "speed": 92,
+        "defense": 78,
+        "intel": 88,
+        "gForce": 89
+      },
+      "bio": "Jesse’nin partneri. Görkem ve zehir bir arada.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3d/BK_Lythirus.png/revision/latest?cb=20100806211256",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/BK_Lythirus.png/revision/latest?cb=20100806211256"
+    },
+    {
+      "id": "megarus",
+      "name": "Megarus",
+      "season": 3,
+      "attribute": "aquos",
+      "gPower": 662,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Megarus kapalı (küre) görünümü.",
+      "openNote": "Megarus açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 58,
+        "speed": 89,
+        "defense": 88,
+        "intel": 61,
+        "gForce": 77
+      },
+      "bio": "Megarus, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/bc/BK_Megarus.png/revision/latest?cb=20101011175527",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/bc/BK_Megarus.png/revision/latest?cb=20101011175527"
+    },
+    {
+      "id": "nastix",
+      "name": "Nastix",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 492,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Nastix kapalı (küre) görünümü.",
+      "openNote": "Nastix açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 63,
+        "speed": 62,
+        "defense": 84,
+        "intel": 75,
+        "gForce": 81
+      },
+      "bio": "Nastix, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/95/BK_Nastix.png/revision/latest?cb=20101011175854",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/95/BK_Nastix.png/revision/latest?cb=20101011175854"
+    },
+    {
+      "id": "olifus",
+      "name": "Olifus",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 319,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Olifus kapalı (küre) görünümü.",
+      "openNote": "Olifus açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 84,
+        "speed": 57,
+        "defense": 62,
+        "intel": 92,
+        "gForce": 71
+      },
+      "bio": "Olifus, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/42/BK_Olifus.png/revision/latest?cb=20101011173000",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/42/BK_Olifus.png/revision/latest?cb=20101011173000"
+    },
+    {
+      "id": "phantom-dharak",
+      "name": "Phantom Dharak",
+      "season": 3,
+      "attribute": "darkus",
+      "gPower": 1300,
+      "partner": "Barodius",
+      "form": "Phantom evrim",
+      "evolution": "Dharak → Phantom",
+      "closedNote": "Boyut yırtıklı anomali küre.",
+      "openNote": "Phantom zırhlı nihai Dharak.",
+      "powers": [
+        "Phantom Blast",
+        "Void Roar"
+      ],
+      "superPowers": [
+        "Code Eve Assault"
+      ],
+      "stats": {
+        "power": 100,
+        "speed": 88,
+        "defense": 94,
+        "intel": 96,
+        "gForce": 99
+      },
+      "bio": "Dharak’ın phantom formu. Code Eve’e uzanan karanlık yol.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1e/Phantom_Dharak.png/revision/latest?cb=20100903131517",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1e/Phantom_Dharak.png/revision/latest?cb=20100903131517"
+    },
+    {
+      "id": "phosphos",
+      "name": "Phosphos",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 553,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Phosphos kapalı (küre) görünümü.",
+      "openNote": "Phosphos açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 87,
+        "speed": 79,
+        "defense": 86,
+        "intel": 69,
+        "gForce": 61
+      },
+      "bio": "Phosphos, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e7/BC_Phosphos.png/revision/latest?cb=20100501072358",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e7/BC_Phosphos.png/revision/latest?cb=20100501072358"
+    },
+    {
+      "id": "plitheon",
+      "name": "Plitheon",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 558,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Plitheon kapalı (küre) görünümü.",
+      "openNote": "Plitheon açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 86,
+        "speed": 90,
+        "defense": 59,
+        "intel": 64,
+        "gForce": 90
+      },
+      "bio": "Plitheon, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/79/BK_Plitheon.png/revision/latest?cb=20100810103824",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/79/BK_Plitheon.png/revision/latest?cb=20100810103824"
+    },
+    {
+      "id": "ramdol",
+      "name": "Ramdol",
+      "season": 3,
+      "attribute": "haos",
+      "gPower": 362,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Ramdol kapalı (küre) görünümü.",
+      "openNote": "Ramdol açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 76,
+        "speed": 90,
+        "defense": 79,
+        "intel": 69,
+        "gForce": 61
+      },
+      "bio": "Ramdol, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6c/BK_Ramdol.png/revision/latest?cb=20101011175038",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6c/BK_Ramdol.png/revision/latest?cb=20101011175038"
+    },
+    {
+      "id": "rickoran",
+      "name": "Rickoran",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 488,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Rickoran kapalı (küre) görünümü.",
+      "openNote": "Rickoran açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 66,
+        "speed": 62,
+        "defense": 89,
+        "intel": 82,
+        "gForce": 70
+      },
+      "bio": "Rickoran, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/65/BK_Rickoran.png/revision/latest?cb=20101011180337",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/65/BK_Rickoran.png/revision/latest?cb=20101011180337"
+    },
+    {
+      "id": "rubanoid",
+      "name": "Rubanoid",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 312,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Rubanoid kapalı (küre) görünümü.",
+      "openNote": "Rubanoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 72,
+        "speed": 56,
+        "defense": 59,
+        "intel": 85,
+        "gForce": 77
+      },
+      "bio": "Rubanoid, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c1/BK_Rubanoid.png/revision/latest?cb=20100810103106",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c1/BK_Rubanoid.png/revision/latest?cb=20100810103106"
+    },
+    {
+      "id": "sabator",
+      "name": "Sabator",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 586,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Sabator kapalı (küre) görünümü.",
+      "openNote": "Sabator açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 80,
+        "speed": 94,
+        "defense": 60,
+        "intel": 60,
+        "gForce": 94
+      },
+      "bio": "Sabator, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_Sabator.png/revision/latest?cb=20100429162920",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_Sabator.png/revision/latest?cb=20100429162920"
+    },
+    {
+      "id": "scaboid",
+      "name": "Scaboid",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 468,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Scaboid kapalı (küre) görünümü.",
+      "openNote": "Scaboid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 72,
+        "speed": 91,
+        "defense": 58,
+        "intel": 59,
+        "gForce": 57
+      },
+      "bio": "Scaboid, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/aa/BK_Scaboid.png/revision/latest?cb=20101011180046",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/aa/BK_Scaboid.png/revision/latest?cb=20101011180046"
+    },
+    {
+      "id": "sky-gaia-dragonoid",
+      "name": "Sky & Gaia Dragonoid",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 561,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Sky & Gaia Dragonoid kapalı (küre) görünümü.",
+      "openNote": "Sky & Gaia Dragonoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 73,
+        "speed": 57,
+        "defense": 81,
+        "intel": 90,
+        "gForce": 94
+      },
+      "bio": "Sky & Gaia Dragonoid, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/46/BK_SkyAndGaiaDragonoid-300x279.png/revision/latest?cb=20100903015403",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/46/BK_SkyAndGaiaDragonoid-300x279.png/revision/latest?cb=20100903015403"
+    },
+    {
+      "id": "snapzoid",
+      "name": "Snapzoid",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 607,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Snapzoid kapalı (küre) görünümü.",
+      "openNote": "Snapzoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 81,
+        "speed": 90,
+        "defense": 74,
+        "intel": 63,
+        "gForce": 58
+      },
+      "bio": "Snapzoid, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Bc_snapzoid.png/revision/latest?cb=20101029233544",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Bc_snapzoid.png/revision/latest?cb=20101029233544"
+    },
+    {
+      "id": "spidaro",
+      "name": "Spidaro",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 595,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Spidaro kapalı (küre) görünümü.",
+      "openNote": "Spidaro açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 94,
+        "speed": 76,
+        "defense": 76,
+        "intel": 93,
+        "gForce": 91
+      },
+      "bio": "Spidaro, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/18/BK_Spidaro.png/revision/latest?cb=20101101123550",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/18/BK_Spidaro.png/revision/latest?cb=20101101123550"
+    },
+    {
+      "id": "strikeflier",
+      "name": "Strikeflier",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 589,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Strikeflier kapalı (küre) görünümü.",
+      "openNote": "Strikeflier açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 88,
+        "speed": 70,
+        "defense": 70,
+        "intel": 87,
+        "gForce": 75
+      },
+      "bio": "Strikeflier, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/02/BC_Strikeflier_3.png/revision/latest?cb=20100524024138",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/02/BC_Strikeflier_3.png/revision/latest?cb=20100524024138"
+    },
+    {
+      "id": "zeon-hylash",
+      "name": "Zeon Hylash",
+      "season": 3,
+      "attribute": "pyrus",
+      "gPower": 357,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Zeon Hylash kapalı (küre) görünümü.",
+      "openNote": "Zeon Hylash açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 56,
+        "speed": 78,
+        "defense": 74,
+        "intel": 81,
+        "gForce": 60
+      },
+      "bio": "Zeon Hylash, Sezon 3 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/63/BK_ZeonHylash.png/revision/latest?cb=20100922162628",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/63/BK_ZeonHylash.png/revision/latest?cb=20100922162628"
+    },
+    {
+      "id": "aeroblitz",
+      "name": "Aeroblitz",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 609,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Aeroblitz kapalı (küre) görünümü.",
+      "openNote": "Aeroblitz açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 85,
+        "speed": 62,
+        "defense": 72,
+        "intel": 81,
+        "gForce": 70
+      },
+      "bio": "Aeroblitz, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/db/Aeroblitz_BakuFusion.png/revision/latest?cb=20110713184712",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/db/Aeroblitz_BakuFusion.png/revision/latest?cb=20110713184712"
+    },
+    {
+      "id": "balista",
+      "name": "Balista",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 318,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Balista kapalı (küre) görünümü.",
+      "openNote": "Balista açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 86,
+        "speed": 83,
+        "defense": 69,
+        "intel": 91,
+        "gForce": 76
+      },
+      "bio": "Balista, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/75/VentusBalista.png/revision/latest?cb=20110910050049",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/75/VentusBalista.png/revision/latest?cb=20110910050049"
+    },
+    {
+      "id": "betadron",
+      "name": "Betadron",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 494,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Betadron kapalı (küre) görünümü.",
+      "openNote": "Betadron açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 72,
+        "speed": 83,
+        "defense": 65,
+        "intel": 91,
+        "gForce": 60
+      },
+      "bio": "Betadron, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c7/PyrusBetadron.png/revision/latest?cb=20110910044720",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c7/PyrusBetadron.png/revision/latest?cb=20110910044720"
+    },
+    {
+      "id": "bolcanon",
+      "name": "Bolcanon",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 521,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Bolcanon kapalı (küre) görünümü.",
+      "openNote": "Bolcanon açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 74,
+        "speed": 87,
+        "defense": 55,
+        "intel": 86,
+        "gForce": 58
+      },
+      "bio": "Bolcanon, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f9/BolcanonMS.png/revision/latest?cb=20110301030809",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f9/BolcanonMS.png/revision/latest?cb=20110301030809"
+    },
+    {
+      "id": "boulderon",
+      "name": "Boulderon",
+      "season": 4,
+      "attribute": "subterra",
+      "gPower": 1200,
+      "partner": "Jake Vallory",
+      "form": "Kaya titanı",
+      "evolution": "—",
+      "closedNote": "Granit ağırlıklı küre.",
+      "openNote": "Dev kaya titanı; savunma kalesi.",
+      "powers": [
+        "Boulder Crush",
+        "Stone Wall"
+      ],
+      "superPowers": [
+        "Continental Guard"
+      ],
+      "stats": {
+        "power": 94,
+        "speed": 55,
+        "defense": 98,
+        "intel": 80,
+        "gForce": 93
+      },
+      "bio": "Jake’in Mechtanium tankı. Yerinden oynamaz, oynamazsa da seni ezer.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181744",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181744"
+    },
+    {
+      "id": "chromopod",
+      "name": "Chromopod",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 313,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Chromopod kapalı (küre) görünümü.",
+      "openNote": "Chromopod açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 69,
+        "speed": 89,
+        "defense": 94,
+        "intel": 93,
+        "gForce": 82
+      },
+      "bio": "Chromopod, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/45/Chromopod.png/revision/latest?cb=20120109211204",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/45/Chromopod.png/revision/latest?cb=20120109211204"
+    },
+    {
+      "id": "clawsaurus",
+      "name": "Clawsaurus",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 420,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Clawsaurus kapalı (küre) görünümü.",
+      "openNote": "Clawsaurus açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 81,
+        "speed": 76,
+        "defense": 61,
+        "intel": 84,
+        "gForce": 66
+      },
+      "bio": "Clawsaurus, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b1/SA_Clawsaurus.png/revision/latest?cb=20100514203328",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+    },
+    {
+      "id": "commandix-dragonoid",
+      "name": "Commandix Dragonoid",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 352,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Commandix Dragonoid kapalı (küre) görünümü.",
+      "openNote": "Commandix Dragonoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 55,
+        "speed": 90,
+        "defense": 83,
+        "intel": 92,
+        "gForce": 86
+      },
+      "bio": "Commandix Dragonoid, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/35/Aero1.PNG/revision/latest?cb=20110703235717",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/35/Aero1.PNG/revision/latest?cb=20110703235717"
+    },
+    {
+      "id": "cyclone-percival",
+      "name": "Cyclone Percival",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 404,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Cyclone Percival kapalı (küre) görünümü.",
+      "openNote": "Cyclone Percival açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 78,
+        "speed": 56,
+        "defense": 77,
+        "intel": 85,
+        "gForce": 91
+      },
+      "bio": "Cyclone Percival, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/7e/CyclonePercivalMS.png/revision/latest?cb=20110301041304",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7e/CyclonePercivalMS.png/revision/latest?cb=20110301041304"
+    },
+    {
+      "id": "doomtronic",
+      "name": "Doomtronic",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 490,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Doomtronic kapalı (küre) görünümü.",
+      "openNote": "Doomtronic açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 57,
+        "speed": 62,
+        "defense": 92,
+        "intel": 64,
+        "gForce": 74
+      },
+      "bio": "Doomtronic, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/ca/Doomtronic_BattleSuit.png/revision/latest?cb=20110713184345",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/ca/Doomtronic_BattleSuit.png/revision/latest?cb=20110713184345"
+    },
+    {
+      "id": "dragonoid-destroyer",
+      "name": "Dragonoid Destroyer",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 477,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Dragonoid Destroyer kapalı (küre) görünümü.",
+      "openNote": "Dragonoid Destroyer açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 59,
+        "speed": 74,
+        "defense": 74,
+        "intel": 63,
+        "gForce": 90
+      },
+      "bio": "Dragonoid Destroyer, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/19/Image_197.png/revision/latest?cb=20111203015626",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/19/Image_197.png/revision/latest?cb=20111203015626"
+    },
+    {
+      "id": "exostriker",
+      "name": "Exostriker",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 654,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Exostriker kapalı (küre) görünümü.",
+      "openNote": "Exostriker açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 93,
+        "speed": 71,
+        "defense": 89,
+        "intel": 90,
+        "gForce": 92
+      },
+      "bio": "Exostriker, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ac/PyrusExostriker_PackagingImage.png/revision/latest?cb=20111210100044",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ac/PyrusExostriker_PackagingImage.png/revision/latest?cb=20111210100044"
+    },
+    {
+      "id": "faser-titan",
+      "name": "Faser Titan",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 579,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Faser Titan kapalı (küre) görünümü.",
+      "openNote": "Faser Titan açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 92,
+        "speed": 56,
+        "defense": 90,
+        "intel": 59,
+        "gForce": 78
+      },
+      "bio": "Faser Titan, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Faser_Titan.png/revision/latest?cb=20110505202307",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Faser_Titan.png/revision/latest?cb=20110505202307"
+    },
+    {
+      "id": "flash-ingram",
+      "name": "Flash Ingram",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 646,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Flash Ingram kapalı (küre) görünümü.",
+      "openNote": "Flash Ingram açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 57,
+        "speed": 62,
+        "defense": 89,
+        "intel": 57,
+        "gForce": 83
+      },
+      "bio": "Flash Ingram, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b6/FlashIngramMS.png/revision/latest?cb=20110301042257",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b6/FlashIngramMS.png/revision/latest?cb=20110301042257"
+    },
+    {
+      "id": "fusion-dragonoid",
+      "name": "Fusion Dragonoid",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 1400,
+      "partner": "Dan Kuso",
+      "form": "Füzyon zirvesi",
+      "evolution": "Titanium → Fusion",
+      "closedNote": "Füzyon halkalı efsane küre.",
+      "openNote": "Serinin son büyük Drago formu.",
+      "powers": [
+        "Fusion Shield",
+        "Dragon Force Infinity"
+      ],
+      "superPowers": [
+        "Mechtogan Destroyer",
+        "Genesis yolu"
+      ],
+      "stats": {
+        "power": 100,
+        "speed": 94,
+        "defense": 95,
+        "intel": 97,
+        "gForce": 100
+      },
+      "bio": "Drago’nun Mechtanium zirvesi. Chaos ve Mag Mel’e karşı nihai ateş.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/ca/Bakuganspotlightfusiondragonoid.png/revision/latest?cb=20110728123735",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/ca/Bakuganspotlightfusiondragonoid.png/revision/latest?cb=20110728123735"
+    },
+    {
+      "id": "horridian",
+      "name": "Horridian",
+      "season": 4,
+      "attribute": "darkus",
+      "gPower": 1200,
+      "partner": "Anubias",
+      "form": "Üç başlı chaos",
+      "evolution": "—",
+      "closedNote": "Üç çekirdekli karanlık küre.",
+      "openNote": "Üç başlı korku makinesi.",
+      "powers": [
+        "Triple Horror",
+        "Chaos Howl"
+      ],
+      "superPowers": [
+        "Mechtogan Chaos"
+      ],
+      "stats": {
+        "power": 96,
+        "speed": 80,
+        "defense": 88,
+        "intel": 86,
+        "gForce": 95
+      },
+      "bio": "Anubias’ın imza bakuganı. Horridian göründüğünde arena karışır.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d8/Horridman.jpg/revision/latest?cb=20110429015539",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d8/Horridman.jpg/revision/latest?cb=20110429015539"
+    },
+    {
+      "id": "infinity-helios",
+      "name": "Infinity Helios",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 1300,
+      "partner": "Spectra Phantom",
+      "form": "Sonsuz mekanik",
+      "evolution": "Helios hattı zirvesi",
+      "closedNote": "Sonsuzluk halkalı metal küre.",
+      "openNote": "Helios’un nihai makine formu.",
+      "powers": [
+        "Infinity Farum",
+        "Nova Extinction"
+      ],
+      "superPowers": [
+        "Absolute Quasar"
+      ],
+      "stats": {
+        "power": 99,
+        "speed": 86,
+        "defense": 94,
+        "intel": 95,
+        "gForce": 98
+      },
+      "bio": "Spectra’nın son Helios’u. Makine mükemmelliğinin sınırında.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/46/Infinity_Helios.png/revision/latest?cb=20110829101131",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+    },
+    {
+      "id": "infinity-trister",
+      "name": "Infinity Trister",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 468,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Infinity Trister kapalı (küre) görünümü.",
+      "openNote": "Infinity Trister açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 61,
+        "speed": 56,
+        "defense": 86,
+        "intel": 61,
+        "gForce": 65
+      },
+      "bio": "Infinity Trister, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/81/Infinity_Trister.png/revision/latest?cb=20110505202410",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+    },
+    {
+      "id": "iron-dragonoid",
+      "name": "Iron Dragonoid",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 383,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Iron Dragonoid kapalı (küre) görünümü.",
+      "openNote": "Iron Dragonoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 83,
+        "speed": 63,
+        "defense": 92,
+        "intel": 66,
+        "gForce": 59
+      },
+      "bio": "Iron Dragonoid, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b4/Iron_Dragonoid-300x180.png/revision/latest?cb=20110210033228",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b4/Iron_Dragonoid-300x180.png/revision/latest?cb=20110210033228"
+    },
+    {
+      "id": "jaakor",
+      "name": "Jaakor",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 431,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Jaakor kapalı (küre) görünümü.",
+      "openNote": "Jaakor açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 90,
+        "speed": 85,
+        "defense": 62,
+        "intel": 78,
+        "gForce": 56
+      },
+      "bio": "Jaakor, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/91/Bakuganspotlightjaakor.png/revision/latest?cb=20110819173324",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/91/Bakuganspotlightjaakor.png/revision/latest?cb=20110819173324"
+    },
+    {
+      "id": "kodokor",
+      "name": "Kodokor",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 583,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Kodokor kapalı (küre) görünümü.",
+      "openNote": "Kodokor açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 59,
+        "speed": 62,
+        "defense": 57,
+        "intel": 65,
+        "gForce": 59
+      },
+      "bio": "Kodokor, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/7a/PyrusKodokor.png/revision/latest?cb=20110910045007",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7a/PyrusKodokor.png/revision/latest?cb=20110910045007"
+    },
+    {
+      "id": "krakenoid",
+      "name": "Krakenoid",
+      "season": 4,
+      "attribute": "aquos",
+      "gPower": 900,
+      "partner": "Stoica",
+      "form": "Kraken",
+      "evolution": "—",
+      "closedNote": "Dokunaç izli aquos küresi.",
+      "openNote": "Çok kollu deniz canavarı.",
+      "powers": [
+        "Tentacle Drain",
+        "Deep Crush"
+      ],
+      "superPowers": [
+        "Abyss Bind"
+      ],
+      "stats": {
+        "power": 92,
+        "speed": 70,
+        "defense": 88,
+        "intel": 84,
+        "gForce": 90
+      },
+      "bio": "Gundalia’nın aquos tehdidi. Stoica’nın sadık krakeni.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c2/Krakenoid0.png/revision/latest?cb=20110505202447",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c2/Krakenoid0.png/revision/latest?cb=20110505202447"
+    },
+    {
+      "id": "krowll",
+      "name": "Krowll",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 396,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Krowll kapalı (küre) görünümü.",
+      "openNote": "Krowll açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 70,
+        "speed": 90,
+        "defense": 60,
+        "intel": 75,
+        "gForce": 82
+      },
+      "bio": "Krowll, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/13/Krowllieee.jpg/revision/latest?cb=20110429021905",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/13/Krowllieee.jpg/revision/latest?cb=20110429021905"
+    },
+    {
+      "id": "mag-mel",
+      "name": "Mag Mel",
+      "season": 4,
+      "attribute": "darkus",
+      "gPower": 1500,
+      "partner": "— (Chaos Lord)",
+      "form": "Chaos efendisi / Dharak gölgesi",
+      "evolution": "Razenoid bağları",
+      "closedNote": "Gerçeklik çatlaklı yasak küre.",
+      "openNote": "Mechtanium’un ana karanlık varlığı.",
+      "powers": [
+        "Chaos Dimension",
+        "Razenoid Link"
+      ],
+      "superPowers": [
+        "Mechtanium Annihilation"
+      ],
+      "stats": {
+        "power": 100,
+        "speed": 88,
+        "defense": 95,
+        "intel": 98,
+        "gForce": 100
+      },
+      "bio": "Sezon 4’ün gölge efendisi. Eski düşmanların yankısıyla Chaos’u yönetir.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9f/Bak_magmel_174x252.png/revision/latest?cb=20110511055040",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9f/Bak_magmel_174x252.png/revision/latest?cb=20110511055040"
+    },
+    {
+      "id": "mechtavius-destroyer",
+      "name": "Mechtavius Destroyer",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 676,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Mechtavius Destroyer kapalı (küre) görünümü.",
+      "openNote": "Mechtavius Destroyer açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 70,
+        "speed": 63,
+        "defense": 73,
+        "intel": 86,
+        "gForce": 74
+      },
+      "bio": "Mechtavius Destroyer, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/18/Battletactic-mechtaviusdestroyer.png/revision/latest?cb=20111111023741",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/18/Battletactic-mechtaviusdestroyer.png/revision/latest?cb=20111111023741"
+    },
+    {
+      "id": "meta-dragonoid",
+      "name": "Meta Dragonoid",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 678,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Meta Dragonoid kapalı (küre) görünümü.",
+      "openNote": "Meta Dragonoid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 88,
+        "speed": 58,
+        "defense": 66,
+        "intel": 60,
+        "gForce": 56
+      },
+      "bio": "Meta Dragonoid, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Meta_Dragonoid-300x173.png/revision/latest?cb=20110210033322",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Meta_Dragonoid-300x173.png/revision/latest?cb=20110210033322"
+    },
+    {
+      "id": "mutabrid",
+      "name": "Mutabrid",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 367,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Mutabrid kapalı (küre) görünümü.",
+      "openNote": "Mutabrid açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 84,
+        "speed": 71,
+        "defense": 90,
+        "intel": 64,
+        "gForce": 92
+      },
+      "bio": "Mutabrid, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e7/AquosMutabrid.png/revision/latest?cb=20110910045208",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e7/AquosMutabrid.png/revision/latest?cb=20110910045208"
+    },
+    {
+      "id": "mutant-elfin",
+      "name": "Mutant Elfin",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 603,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Mutant Elfin kapalı (küre) görünümü.",
+      "openNote": "Mutant Elfin açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 56,
+        "speed": 74,
+        "defense": 90,
+        "intel": 67,
+        "gForce": 65
+      },
+      "bio": "Mutant Elfin, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e8/Mutant_Elfin-300x180.png/revision/latest?cb=20110210033000",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e8/Mutant_Elfin-300x180.png/revision/latest?cb=20110210033000"
+    },
+    {
+      "id": "radizen",
+      "name": "Radizen",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 458,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Radizen kapalı (küre) görünümü.",
+      "openNote": "Radizen açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 70,
+        "speed": 91,
+        "defense": 80,
+        "intel": 93,
+        "gForce": 80
+      },
+      "bio": "Radizen, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9b/SubterraRadizen_BakuFusion.png/revision/latest?cb=20110714044605",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9b/SubterraRadizen_BakuFusion.png/revision/latest?cb=20110714044605"
+    },
+    {
+      "id": "raptorix",
+      "name": "Raptorix",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 511,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Raptorix kapalı (küre) görünümü.",
+      "openNote": "Raptorix açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 61,
+        "speed": 75,
+        "defense": 82,
+        "intel": 93,
+        "gForce": 75
+      },
+      "bio": "Raptorix, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/61/BK_SA_Raptorix.png/revision/latest?cb=20100429164524",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+    },
+    {
+      "id": "razenoid",
+      "name": "Razenoid",
+      "season": 4,
+      "attribute": "darkus",
+      "gPower": 1400,
+      "partner": "Mag Mel",
+      "form": "Chaos ejderhası",
+      "evolution": "Evolved Razenoid",
+      "closedNote": "Kanatlı chaos mühürlü küre.",
+      "openNote": "Mag Mel’in birincil chaos ejderhası.",
+      "powers": [
+        "Razen Blast",
+        "Darkus Spiral"
+      ],
+      "superPowers": [
+        "Chaos Genesis"
+      ],
+      "stats": {
+        "power": 99,
+        "speed": 90,
+        "defense": 92,
+        "intel": 96,
+        "gForce": 99
+      },
+      "bio": "Mag Mel’in pençesi. Razenoid uyanınca Mechtanium karışır.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e4/RazenoidMS.png/revision/latest?cb=20110301031308",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e4/RazenoidMS.png/revision/latest?cb=20110301031308"
+    },
+    {
+      "id": "reptak",
+      "name": "Reptak",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 363,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Reptak kapalı (küre) görünümü.",
+      "openNote": "Reptak açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 88,
+        "speed": 82,
+        "defense": 81,
+        "intel": 58,
+        "gForce": 71
+      },
+      "bio": "Reptak, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8e/PyrusReptak_SkyRaider.png/revision/latest?cb=20110713184855",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8e/PyrusReptak_SkyRaider.png/revision/latest?cb=20110713184855"
+    },
+    {
+      "id": "roxtor",
+      "name": "Roxtor",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 682,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Roxtor kapalı (küre) görünümü.",
+      "openNote": "Roxtor açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 90,
+        "speed": 66,
+        "defense": 65,
+        "intel": 73,
+        "gForce": 58
+      },
+      "bio": "Roxtor, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6e/SubterraRoxtor_BakuFusion.png/revision/latest?cb=20110717122820",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6e/SubterraRoxtor_BakuFusion.png/revision/latest?cb=20110717122820"
+    },
+    {
+      "id": "silent-strike",
+      "name": "Silent Strike",
+      "season": 4,
+      "attribute": "aquos",
+      "gPower": 417,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Silent Strike kapalı (küre) görünümü.",
+      "openNote": "Silent Strike açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 64,
+        "speed": 85,
+        "defense": 66,
+        "intel": 83,
+        "gForce": 56
+      },
+      "bio": "Silent Strike, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/91/Silent_Strike.png/revision/latest?cb=20110807010445",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/91/Silent_Strike.png/revision/latest?cb=20110807010445"
+    },
+    {
+      "id": "slycerak",
+      "name": "Slycerak",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 517,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Slycerak kapalı (küre) görünümü.",
+      "openNote": "Slycerak açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 73,
+        "speed": 86,
+        "defense": 74,
+        "intel": 81,
+        "gForce": 71
+      },
+      "bio": "Slycerak, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a7/VentusSlycerak_PackagingImage.png/revision/latest?cb=20111210100527",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a7/VentusSlycerak_PackagingImage.png/revision/latest?cb=20111210100527"
+    },
+    {
+      "id": "slynix",
+      "name": "Slynix",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 566,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Slynix kapalı (küre) görünümü.",
+      "openNote": "Slynix açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 71,
+        "speed": 84,
+        "defense": 85,
+        "intel": 74,
+        "gForce": 85
+      },
+      "bio": "Slynix, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c8/Slynix0.png/revision/latest?cb=20110505202611",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c8/Slynix0.png/revision/latest?cb=20110505202611"
+    },
+    {
+      "id": "smashtor",
+      "name": "Smashtor",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 541,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Smashtor kapalı (küre) görünümü.",
+      "openNote": "Smashtor açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 70,
+        "speed": 57,
+        "defense": 79,
+        "intel": 94,
+        "gForce": 83
+      },
+      "bio": "Smashtor, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/40/BG_Smashtor.png/revision/latest?cb=20101007115005",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/40/BG_Smashtor.png/revision/latest?cb=20101007115005"
+    },
+    {
+      "id": "spatterix",
+      "name": "Spatterix",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 592,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Spatterix kapalı (küre) görünümü.",
+      "openNote": "Spatterix açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 79,
+        "speed": 93,
+        "defense": 62,
+        "intel": 90,
+        "gForce": 55
+      },
+      "bio": "Spatterix, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/0d/DarkusSpatterix_BakuFusion.png/revision/latest?cb=20110717123031",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0d/DarkusSpatterix_BakuFusion.png/revision/latest?cb=20110717123031"
+    },
+    {
+      "id": "spyron",
+      "name": "Spyron",
+      "season": 4,
+      "attribute": "ventus",
+      "gPower": 1100,
+      "partner": "Sellon",
+      "form": "Chaos rüzgârı",
+      "evolution": "—",
+      "closedNote": "Yeşil-mor chaos harmanlı küre.",
+      "openNote": "Hızlı chaos ejder-kuş formu.",
+      "powers": [
+        "Chaos Gale",
+        "Spyron Dive"
+      ],
+      "superPowers": [
+        "Ventus Corruption"
+      ],
+      "stats": {
+        "power": 88,
+        "speed": 96,
+        "defense": 78,
+        "intel": 90,
+        "gForce": 92
+      },
+      "bio": "Sellon’un partneri. Ventus hızını chaos ile kirletir.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/28/Spin_prod_190986101.jpg/revision/latest?cb=20110429015314",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/28/Spin_prod_190986101.jpg/revision/latest?cb=20110429015314"
+    },
+    {
+      "id": "stronk",
+      "name": "Stronk",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 572,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Stronk kapalı (küre) görünümü.",
+      "openNote": "Stronk açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 55,
+        "speed": 94,
+        "defense": 84,
+        "intel": 55,
+        "gForce": 69
+      },
+      "bio": "Stronk, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/dd/DarkusStronk_BakuFusion.png/revision/latest?cb=20110717123529",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/dd/DarkusStronk_BakuFusion.png/revision/latest?cb=20110717123529"
+    },
+    {
+      "id": "swift-sweep",
+      "name": "Swift Sweep",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 381,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Swift Sweep kapalı (küre) görünümü.",
+      "openNote": "Swift Sweep açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 62,
+        "speed": 74,
+        "defense": 73,
+        "intel": 61,
+        "gForce": 76
+      },
+      "bio": "Swift Sweep, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/fb/SwiftSweep_Websitepic.png/revision/latest?cb=20110807010550",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fb/SwiftSweep_Websitepic.png/revision/latest?cb=20110807010550"
+    },
+    {
+      "id": "taylean",
+      "name": "Taylean",
+      "season": 4,
+      "attribute": "ventus",
+      "gPower": 1200,
+      "partner": "Shun Kazami",
+      "form": "Samuray ninja",
+      "evolution": "—",
+      "closedNote": "Samuray maskeli Ventus küresi.",
+      "openNote": "Kılıç ustası bakugan; disiplin ve hız.",
+      "powers": [
+        "Slash Blade",
+        "Wind Armor"
+      ],
+      "superPowers": [
+        "Mechtogan Silent Strike"
+      ],
+      "stats": {
+        "power": 92,
+        "speed": 97,
+        "defense": 88,
+        "intel": 94,
+        "gForce": 95
+      },
+      "bio": "Shun’un Mechtanium partneri. Ninja ve samuray sentezi.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e2/TayleanMS.png/revision/latest?cb=20110301041419",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/TayleanMS.png/revision/latest?cb=20110301041419"
+    },
+    {
+      "id": "titanium-dragonoid",
+      "name": "Titanium Dragonoid",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 1200,
+      "partner": "Dan Kuso",
+      "form": "Titanyum ejderha",
+      "evolution": "Fusion Dragonoid",
+      "closedNote": "Metalik titanyum Pyrus küresi.",
+      "openNote": "Mechtogan çağının zırhlı ejderhası.",
+      "powers": [
+        "Titanium Bow",
+        "Dragon Reflector Max"
+      ],
+      "superPowers": [
+        "Mechtogan Call — Zenthon"
+      ],
+      "stats": {
+        "power": 97,
+        "speed": 90,
+        "defense": 93,
+        "intel": 94,
+        "gForce": 97
+      },
+      "bio": "Mechtanium Surge’ün Drago’su. Mechtogan Zenthon ile bağ kurar.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3c/Titanium_Dragonoid.png/revision/latest?cb=20111014045955",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+    },
+    {
+      "id": "tremblar",
+      "name": "Tremblar",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 487,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Tremblar kapalı (küre) görünümü.",
+      "openNote": "Tremblar açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 91,
+        "speed": 87,
+        "defense": 66,
+        "intel": 93,
+        "gForce": 86
+      },
+      "bio": "Tremblar, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ea/AquosTremblar_BakuMine.png/revision/latest?cb=20110717123846",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ea/AquosTremblar_BakuMine.png/revision/latest?cb=20110717123846"
+    },
+    {
+      "id": "trister",
+      "name": "Trister",
+      "season": 4,
+      "attribute": "aquos",
+      "gPower": 1100,
+      "partner": "Marucho Marukura",
+      "form": "Su zırhlı",
+      "evolution": "—",
+      "closedNote": "Kristal aquos küresi.",
+      "openNote": "Zırhlı su savaşçısı; takım oyunu.",
+      "powers": [
+        "Trister Wave",
+        "Aqua Armor"
+      ],
+      "superPowers": [
+        "Tidal Sync"
+      ],
+      "stats": {
+        "power": 86,
+        "speed": 88,
+        "defense": 90,
+        "intel": 93,
+        "gForce": 91
+      },
+      "bio": "Marucho’nun son dönem partneri. Destek ve baskıyı dengeler.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/81/Infinity_Trister.png/revision/latest?cb=20110505202410",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/81/Infinity_Trister.png/revision/latest?cb=20110505202410"
+    },
+    {
+      "id": "venexus",
+      "name": "Venexus",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 476,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Venexus kapalı (küre) görünümü.",
+      "openNote": "Venexus açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 86,
+        "speed": 87,
+        "defense": 62,
+        "intel": 91,
+        "gForce": 74
+      },
+      "bio": "Venexus, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/cc/Venexus.png/revision/latest?cb=20110327052735",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/cc/Venexus.png/revision/latest?cb=20110327052735"
+    },
+    {
+      "id": "vertexx",
+      "name": "Vertexx",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 432,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Vertexx kapalı (küre) görünümü.",
+      "openNote": "Vertexx açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 59,
+        "speed": 83,
+        "defense": 55,
+        "intel": 72,
+        "gForce": 94
+      },
+      "bio": "Vertexx, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Vertexx.png/revision/latest?cb=20110804161539",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Vertexx.png/revision/latest?cb=20110804161539"
+    },
+    {
+      "id": "wolfurio",
+      "name": "Wolfurio",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 337,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Wolfurio kapalı (küre) görünümü.",
+      "openNote": "Wolfurio açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 62,
+        "speed": 66,
+        "defense": 68,
+        "intel": 58,
+        "gForce": 91
+      },
+      "bio": "Wolfurio, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/2f/Wolfurio0.png/revision/latest?cb=20110505202831",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2f/Wolfurio0.png/revision/latest?cb=20110505202831"
+    },
+    {
+      "id": "worton",
+      "name": "Worton",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 557,
+      "partner": "—",
+      "form": "Bakugan",
+      "evolution": "—",
+      "closedNote": "Worton kapalı (küre) görünümü.",
+      "openNote": "Worton açık savaş formu.",
+      "powers": [
+        "Ability Card",
+        "Attribute Force"
+      ],
+      "superPowers": [
+        "Gate Card Boost"
+      ],
+      "stats": {
+        "power": 60,
+        "speed": 68,
+        "defense": 62,
+        "intel": 90,
+        "gForce": 68
+      },
+      "bio": "Worton, Sezon 4 Bakugan kataloğu kaydı.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/48/VentusWorton.png/revision/latest?cb=20110910045713",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/48/VentusWorton.png/revision/latest?cb=20110910045713"
+    },
+    {
+      "id": "zenthon",
+      "name": "Zenthon",
+      "season": 4,
+      "attribute": "pyrus",
+      "gPower": 1500,
+      "partner": "Dan / Drago (Mechtogan)",
+      "form": "Mechtogan",
+      "evolution": "Mechtogan Destroyer",
+      "closedNote": "Mechtogan çekirdekli özel küre-form.",
+      "openNote": "Dev mecha savaşçı; bakugan ötesi güç.",
+      "powers": [
+        "Zenthon Cannon",
+        "Mecha Guard"
+      ],
+      "superPowers": [
+        "Mechtogan Destroyer Mode"
+      ],
+      "stats": {
+        "power": 100,
+        "speed": 82,
+        "defense": 96,
+        "intel": 90,
+        "gForce": 100
+      },
+      "bio": "Drago’nun çağırdığı Mechtogan. Bakugan savaşını yeni bir boyuta taşır.",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/69/Zenthonn.png/revision/latest?cb=20110807005802",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/69/Zenthonn.png/revision/latest?cb=20110807005802"
+    }
+  ]
+};

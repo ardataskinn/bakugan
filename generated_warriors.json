@@ -1,0 +1,320 @@
+[
+  {
+    "id": "dan",
+    "name": "Dan Kuso",
+    "role": "Lider · Pyrus",
+    "seasons": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "attribute": "pyrus",
+    "partner": "Dragonoid (Drago)",
+    "style": "Cesur, atılgan, kalpten savaşır",
+    "bio": "Battle Brawlers’ın ateşli lideri. Drago ile bağı serinin omurgasıdır; her sezonda daha güçlü formlara evrilir.",
+    "traits": [
+      "Cesaret",
+      "Liderlik",
+      "Evrim odaklı"
+    ],
+    "signature": "Pyrus Strike / Dragonoid Evolution",
+    "image": "https://static.wikia.nocookie.net/bakugan/images/f/f7/Bakugan_Dan.png/revision/latest?cb=20180107114724"
+  },
+  {
+    "id": "shun",
+    "name": "Shun Kazami",
+    "role": "Ninja · Ventus",
+    "seasons": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "attribute": "ventus",
+    "partner": "Skyress → Ingram → Hawktor → Taylean",
+    "style": "Sessiz, hesaplı, rüzgâr gibi",
+    "bio": "Takımın en stratejik savaşçısı. Ninja eğitimi ve Ventus hızı birleşince rakipler çoğu zaman fark edemez.",
+    "traits": [
+      "Strateji",
+      "Çeviklik",
+      "Disiplin"
+    ],
+    "signature": "Ventus Shadow Dive",
+    "image": "https://static.wikia.nocookie.net/bakugan/images/c/c5/Shun_kazami.png/revision/latest?cb=20171018114453"
+  },
+  {
+    "id": "marucho",
+    "name": "Marucho Marukura",
+    "role": "Teknisyen · Aquos",
+    "seasons": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "attribute": "aquos",
+    "partner": "Preyas → Elfin → Akwimos → Trister",
+    "style": "Akıllı, destekleyici, veri odaklı",
+    "bio": "Brawler HQ’nun beyni. Aquos esnekliği ve taktik zekâsıyla savaş alanını okur.",
+    "traits": [
+      "Analiz",
+      "Destek",
+      "Teknoloji"
+    ],
+    "signature": "Aquos Cascade Trap",
+    "image": "https://static.wikia.nocookie.net/bakugan/images/4/43/Marucho_transparent.png/revision/latest?cb=20210812185132"
+  },
+  {
+    "id": "runo",
+    "name": "Runo Misaki",
+    "role": "Savaşçı · Haos",
+    "seasons": [
+      1,
+      2
+    ],
+    "attribute": "haos",
+    "partner": "Tigrerra → Blade Tigrerra",
+    "style": "Kararlı, rekabetçi, ışık gibi keskin",
+    "bio": "Haos’un gururlu temsilcisi. Tigrerra ile birlikte denge ve adalet duygusunu sahaya taşır.",
+    "traits": [
+      "Kararlılık",
+      "Adalet",
+      "Keskin refleks"
+    ],
+    "signature": "Haos Lightning Claw",
+    "image": "https://static.wikia.nocookie.net/bakugan/images/c/cc/Image3.png/revision/latest?cb=20241104172152"
+  },
+  {
+    "id": "julie",
+    "name": "Julie Makimoto",
+    "role": "Güç · Subterra",
+    "seasons": [
+      1,
+      2
+    ],
+    "attribute": "subterra",
+    "partner": "Gorem → Hammer Gorem",
+    "style": "Neşeli ama ezici güç",
+    "bio": "Subterra’nın kayaları kadar sağlam. Gorem’in ham gücüyle cepheyi tutar.",
+    "traits": [
+      "Dayanıklılık",
+      "Moral",
+      "Kaba kuvvet"
+    ],
+    "signature": "Subterra Quake Smash",
+    "image": "https://static.wikia.nocookie.net/bakugan/images/c/c3/Julie.png/revision/latest?cb=20241104211023"
+  },
+  {
+    "id": "alice",
+    "name": "Alice Gehabich",
+    "role": "Gölge / Işık · Darkus",
+    "seasons": [
+      1,
+      2
+    ],
+    "attribute": "darkus",
+    "partner": "Hydranoid → Dual / Alpha Hydranoid",
+    "style": "Çift kişilik: Alice & Masquerade",
+    "bio": "Masquerade olarak Darkus’un korkulu rüyası; Alice olarak takımın kalbi. Hydranoid’in evrimi efsaneleşir.",
+    "traits": [
+      "İkilem",
+      "Karanlık güç",
+      "Kefaret"
+    ],
+    "signature": "Darkus Chaos Hydra",
+    "image": "https://static.wikia.nocookie.net/bakugan/images/8/84/AliceTransparent.png/revision/latest?cb=20180314174503"
+  },
+  {
+    "id": "mira",
+    "name": "Mira Fermin",
+    "role": "Direniş · Subterra",
+    "seasons": [
+      2
+    ],
+    "attribute": "subterra",
+    "partner": "Wilda → Magma Wilda",
+    "style": "Kararlı isyancı lider",
+    "bio": "Vestal Resistance’ın öncülerinden. Kardeşi Spectra’ya rağmen adalet için savaşır.",
+    "traits": [
+      "Direniş",
+      "Cesaret",
+      "Toprak gücü"
+    ],
+    "signature": "Subterra Magma Burst",
+    "image": "https://static.wikia.nocookie.net/bakugan/images/c/c9/Mira.jpg/revision/latest?cb=20120207184113"
+  },
+  {
+    "id": "ace",
+    "name": "Ace Grit",
+    "role": "Gölge avcısı · Darkus",
+    "seasons": [
+      2
+    ],
+    "attribute": "darkus",
+    "partner": "Percival → Knight Percival",
+    "style": "Soğukkanlı, gururlu",
+    "bio": "New Vestroia’nın Darkus savaşçısı. Percival ile şövalyevari bir karanlık gücü temsil eder.",
+    "traits": [
+      "Gurur",
+      "Sadakat",
+      "Karanlık zırh"
+    ],
+    "signature": "Darkus Knight Slash",
+    "image": "https://static.wikia.nocookie.net/bakugan/images/5/5b/Image29.png/revision/latest?cb=20110407184158"
+  },
+  {
+    "id": "baron",
+    "name": "Baron Leltoy",
+    "role": "Şövalye · Haos",
+    "seasons": [
+      2
+    ],
+    "attribute": "haos",
+    "partner": "Nemus → Saint Nemus",
+    "style": "İdealist, koruyucu",
+    "bio": "Haos şövalyesi ruhuyla savaşır. Nemus’un kutsal kalkanı takımı korur.",
+    "traits": [
+      "Koruma",
+      "İnanç",
+      "Şövalyelik"
+    ],
+    "signature": "Haos Sacred Shield",
+    "image": "https://static.wikia.nocookie.net/bakugan/images/4/40/Image28.png/revision/latest?cb=20110407184254"
+  },
+  {
+    "id": "spectra",
+    "name": "Spectra Phantom",
+    "role": "Anti-kahraman · Pyrus",
+    "seasons": [
+      2,
+      3
+    ],
+    "attribute": "pyrus",
+    "partner": "Helios → Cyborg / Infinity Helios",
+    "style": "Mükemmeliyetçi, mekanik evrim",
+    "bio": "Keith Fermin’in maskeli yüzü. Helios ile Drago’nun ezeli rakibi; sonra müttefik olur.",
+    "traits": [
+      "Evrim takıntısı",
+      "Güç",
+      "Kefaret"
+    ],
+    "signature": "Pyrus Farum / Helios Nova",
+    "image": "https://static.wikia.nocookie.net/bakugan/images/8/82/Spectra_Phantom_Status.png/revision/latest?cb=20170128123500"
+  },
+  {
+    "id": "ren",
+    "name": "Ren Krawler",
+    "role": "Çift ajan · Darkus",
+    "seasons": [
+      3
+    ],
+    "attribute": "darkus",
+    "partner": "Linehalt",
+    "style": "Gölgede yürüyen stratejist",
+    "bio": "Gundalia ajanıyken Neathia tarafına geçer. Linehalt’ın yasaklı gücü savaşı değiştirir.",
+    "traits": [
+      "İhanet/dönüş",
+      "Gölge",
+      "İç çatışma"
+    ],
+    "signature": "Darkus Forbidden Power",
+    "image": "https://static.wikia.nocookie.net/bakugan/images/b/b5/Ren_GI.png/revision/latest?cb=20171224095309"
+  },
+  {
+    "id": "fabia",
+    "name": "Fabia Sheen",
+    "role": "Prenses · Haos",
+    "seasons": [
+      3
+    ],
+    "attribute": "haos",
+    "partner": "Aranaut",
+    "style": "Asil, kararlı komutan",
+    "bio": "Neathia prensesi. Aranaut ile kutsal toprakları Gundalia’ya karşı savunur.",
+    "traits": [
+      "Liderlik",
+      "Onur",
+      "Koruma"
+    ],
+    "signature": "Haos Battle Gear Assault",
+    "image": "https://static.wikia.nocookie.net/bakugan/images/5/55/Fabia_sheen2.png/revision/latest?cb=20230630165334"
+  },
+  {
+    "id": "jake",
+    "name": "Jake Vallory",
+    "role": "Güç · Subterra",
+    "seasons": [
+      3,
+      4
+    ],
+    "attribute": "subterra",
+    "partner": "Coredem",
+    "style": "Saf güç, sadık dost",
+    "bio": "Dan’in yanına katılan Subterra savaşçısı. Coredem’in kaya yumrukları cepheyi parçalar.",
+    "traits": [
+      "Güç",
+      "Sadakat",
+      "Dayanıklılık"
+    ],
+    "signature": "Subterra Rock Hammer",
+    "image": "https://static.wikia.nocookie.net/bakugan/images/d/d6/Jake_Vallory.png/revision/latest?cb=20181029052400"
+  },
+  {
+    "id": "anubias",
+    "name": "Anubias",
+    "role": "Chaos · Darkus",
+    "seasons": [
+      4
+    ],
+    "attribute": "darkus",
+    "partner": "Horridian / Chaos Bakugan",
+    "style": "Agresif, kışkırtıcı",
+    "bio": "Mechtanium Surge’ün karanlık yüzü. Mag Mel’in gölgesinde Chaos gücünü yayar.",
+    "traits": [
+      "Kaos",
+      "Tahrik",
+      "Güç hırsı"
+    ],
+    "signature": "Darkus Chaos Reign",
+    "image": "https://static.wikia.nocookie.net/bakugan/images/5/5c/Bak_anubias_174x252.png/revision/latest?cb=20180628125240"
+  },
+  {
+    "id": "sellon",
+    "name": "Sellon",
+    "role": "Chaos · Ventus",
+    "seasons": [
+      4
+    ],
+    "attribute": "ventus",
+    "partner": "Spyron / Chaos takımı",
+    "style": "Kurnaz, manipülatif",
+    "bio": "Anubias’ın zıt kutbu. Ventus hızı ve entrikayla Brawlers’ı parçalamaya çalışır.",
+    "traits": [
+      "Manipülasyon",
+      "Hız",
+      "İhanet"
+    ],
+    "signature": "Ventus Chaos Gale",
+    "image": "https://static.wikia.nocookie.net/bakugan/images/5/57/Sellon.png/revision/latest?cb=20180627123302"
+  },
+  {
+    "id": "raoul",
+    "name": "Raoul",
+    "role": "Takım · Pyrus",
+    "seasons": [
+      4
+    ],
+    "attribute": "pyrus",
+    "partner": "Roxtor / takım bakuganları",
+    "style": "Sokak savaşçısı enerjisi",
+    "bio": "Mechtanium döneminin yeni nesil Pyrus savaşçılarından; arena kültürünün parçası.",
+    "traits": [
+      "Cesaret",
+      "Rekabet",
+      "Ateş"
+    ],
+    "signature": "Pyrus Arena Blaze",
+    "image": null
+  }
+]
