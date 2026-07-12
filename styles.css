@@ -429,8 +429,8 @@ input {
 }
 
 /* ——— Sections ——— */
-.section {
-  padding: clamp(3rem, 8vw, 6rem) clamp(1.2rem, 4vw, 3rem);
+.section-first {
+  padding-top: clamp(5.5rem, 10vw, 7rem);
 }
 
 .section-head {
@@ -1213,12 +1213,36 @@ input {
   line-height: 1.4;
 }
 
-.no-results {
+.pager {
   grid-column: 1 / -1;
-  padding: 2rem 1rem;
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.85rem;
+  padding: 0.75rem 0 0.25rem;
+}
+
+.pager-info {
+  font-family: var(--font-display);
+  letter-spacing: 0.06em;
   color: var(--ink-dim);
-  border: 1px dashed var(--line);
+  font-size: 0.95rem;
+}
+
+.pager .btn:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.boot-error {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  padding: 0.9rem 1.2rem;
+  background: #5a1a1a;
+  color: #ffe8e8;
+  font-family: var(--font-body);
 }
 
 /* ——— Footer ——— */
@@ -1226,18 +1250,18 @@ input {
   padding: 1.5rem clamp(1.2rem, 4vw, 3rem) 2.2rem;
   border-top: 1px solid var(--line);
   color: var(--ink-dim);
-  font-size: 0.88rem;
-}
-
-.footer strong {
-  color: var(--copper);
-  font-family: var(--font-brand);
-  font-weight: 400;
-  letter-spacing: 0.04em;
+  font-size: 0.95rem;
+  text-align: center;
 }
 
 .footer a {
   color: var(--copper-hot);
+  font-family: var(--font-display);
+  letter-spacing: 0.06em;
+}
+
+.footer a:hover {
+  text-decoration: underline;
 }
 
 @media (prefers-reduced-motion: reduce) {

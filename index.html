@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>BAKUARENA — Bakugan Savaşçı & Küresel Katalog</title>
-  <meta name="description" content="Battle Brawlers’dan Mechtanium Surge’e savaşçılar, bakuganlar, açık/kapalı formlar, attribute’lar ve süper güçler." />
+  <title>BAKUARENA — Bakugan Kataloğu</title>
+  <meta name="description" content="Savaşçılar, bakuganlar, açık/kapalı formlar, attribute varyantları ve süper güçler." />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Black+Ops+One&family=Saira+Condensed:wght@500;600;700&family=Saira:wght@400;500;600;700&display=swap" rel="stylesheet" />
@@ -19,13 +19,12 @@
   </div>
 
   <header class="topbar">
-    <a class="brand" href="#top">
+    <a class="brand" href="#savascilar">
       <span class="brand-sphere" aria-hidden="true"></span>
       <span class="brand-text">BAKUARENA</span>
     </a>
     <nav class="nav" aria-label="Ana menü">
       <a href="#savascilar">Savaşçılar</a>
-      <a href="#sezonlar">Sezonlar</a>
       <a href="#katalog">Bakuganlar</a>
     </nav>
     <button type="button" class="menu-toggle" id="menuToggle" aria-label="Menüyü aç">
@@ -34,66 +33,28 @@
   </header>
 
   <main id="top">
-    <section class="hero">
-      <div class="hero-plane" aria-hidden="true">
-        <div class="hero-sphere">
-          <div class="sphere-shell">
-            <div class="sphere-core"></div>
-            <div class="sphere-hinge"></div>
-            <div class="sphere-ring"></div>
-          </div>
-          <div class="hero-attribute-orbit">
-            <span data-a="pyrus"></span>
-            <span data-a="aquos"></span>
-            <span data-a="ventus"></span>
-            <span data-a="subterra"></span>
-            <span data-a="haos"></span>
-            <span data-a="darkus"></span>
-          </div>
-        </div>
-      </div>
-      <div class="hero-scrim" aria-hidden="true"></div>
-      <div class="hero-copy">
-        <h1 class="hero-brand">BAKUARENA</h1>
-        <p class="hero-lead">Küreler açılır. Attribute’lar çarpışır. Dört sezonluk savaş alanı, tek katalogda.</p>
-        <div class="hero-actions">
-          <a class="btn btn-copper" href="#savascilar">Savaşçıları Gör</a>
-          <a class="btn btn-ghost" href="#katalog">Bakugan Kataloğu</a>
-        </div>
-      </div>
-    </section>
-
-    <section class="section warriors" id="savascilar">
+    <section class="section warriors section-first" id="savascilar">
       <div class="section-head">
-        <p class="eyebrow">Birinci kapı</p>
+        <p class="eyebrow">Katalog</p>
         <h2>Savaşçılar</h2>
-        <p class="section-lead">Battle Brawlers’dan Chaos dönemine — partner bakuganlarıyla birlikte tüm ana savaşçılar.</p>
+        <p class="section-lead">Battle Brawlers’dan Mechtanium Surge’e tüm ana savaşçılar.</p>
       </div>
       <div class="warrior-filters" id="warriorSeasonFilters"></div>
       <div class="warrior-rail" id="warriorRail"></div>
-    </section>
-
-    <section class="section seasons" id="sezonlar">
-      <div class="section-head">
-        <p class="eyebrow">Zaman çizgisi</p>
-        <h2>Sezonlar 1–4</h2>
-        <p class="section-lead">Her sezonun arenası, tehdidi ve bakugan nesli farklıdır.</p>
-      </div>
-      <div class="season-grid" id="seasonGrid"></div>
     </section>
 
     <section class="section catalog" id="katalog">
       <div class="section-head">
         <p class="eyebrow">Küresel arşiv</p>
         <h2>Bakuganlar</h2>
-        <p class="section-lead">Açık / kapalı görünüm, attribute, G-Power, özellikler ve süper güçler — 200+ bakugan.</p>
+        <p class="section-lead">Açık / kapalı form, element varyantları, G-Power, özellikler ve süper güçler.</p>
       </div>
 
       <div class="catalog-toolbar">
-        <div class="season-tabs" id="seasonTabs" role="tablist" aria-label="Sezon seç"></div>
+        <div class="season-tabs" id="seasonTabs" role="tablist" aria-label="Sezon filtre"></div>
         <label class="search-field">
           <span class="sr-only">Bakugan ara</span>
-          <input type="search" id="searchInput" placeholder="İsim, partner, güç…" autocomplete="off" />
+          <input type="search" id="searchInput" placeholder="İsim, partner, element…" autocomplete="off" />
         </label>
         <div class="attr-filters" id="attrFilters"></div>
       </div>
@@ -112,10 +73,10 @@
   </main>
 
   <footer class="footer">
-    <p><strong>BAKUARENA</strong> · Fan kataloğu · Görseller <a href="https://bakugan.fandom.com" target="_blank" rel="noopener">Bakugan Wiki</a> · Bakugan™ Sega Toys / Spin Master / Nelvana</p>
+    <p><a href="https://github.com/ardataskinn" target="_blank" rel="noopener">github.com/ardataskinn</a></p>
   </footer>
 
-  <script src="data.js?v=2"></script>
-  <script src="app.js?v=2"></script>
+  <script src="data.js?v=5"></script>
+  <script src="app.js?v=5"></script>
 </body>
 </html>
