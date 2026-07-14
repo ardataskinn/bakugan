@@ -991,8 +991,18 @@ window.BAKU_DATA = {
         "gForce": 95
       },
       "bio": "Darkus’un sezon 1 zirvesi. Alice’in kontrolünde bile efsanevi bir yıkım makinesi.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d3/BK_CD_HMAlphaHydranoid.jpg/revision/latest?cb=20130601141617",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d3/BK_CD_HMAlphaHydranoid.jpg/revision/latest?cb=20130601141617"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b9/Darkus_Alpha_Hydranoid_by_redryan2001.jpg/revision/latest?cb=20120203011644",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d3/BK_CD_HMAlphaHydranoid.jpg/revision/latest?cb=20130601141617",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Alpha_Hydranoid.jpg/revision/latest?cb=20110730211552",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e2/Alpha_hydranoid_2.png/revision/latest?cb=20180211122335",
+        "https://static.wikia.nocookie.net/bakugan/images/4/47/Alpha_Hydranoid_vs._Aranaut.png/revision/latest?cb=20110317050048",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Bakugan_-_Alpha_Hydranoid.png/revision/latest?cb=20161028161438",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a9/Alpha_hydranoid.png/revision/latest?cb=20120101075037",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Masqerade_%26_Alpha_Hydranoid.JPG/revision/latest?cb=20180104135208",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e1/Alpha_hydranoid.jpg/revision/latest?cb=20180211120425",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Alpha-Hydranoid-Talk.png/revision/latest?cb=20111130102246"
+      ]
     },
     {
       "id": "angelo-diablo-preyas",
@@ -1049,8 +1059,18 @@ window.BAKU_DATA = {
         "gForce": 90
       },
       "bio": "Apollonir, Sezon 1 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_CD_Apollonir.jpg/revision/latest?cb=20110204221049",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_CD_Apollonir.jpg/revision/latest?cb=20110204221049"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/bb/KeithStrife_Pyrus_Apollonir.JPG/revision/latest?cb=20120815184329",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_CD_Apollonir.jpg/revision/latest?cb=20110204221049",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/0d/Pyrus_Apollonir.jpg/revision/latest?cb=20100630023011",
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/Apollonir_using_Maximum_Pyrus.png/revision/latest?cb=20190902142223",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6c/Apollonir-pyrus-trans.JPG/revision/latest?cb=20090918145413",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/DSCN0092_Haos_Apollonir.jpg/revision/latest?cb=20100225035302",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2c/Apollonir_Bakugan_form.png/revision/latest?cb=20171127040104",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5c/Apollonir_Trident.PNG/revision/latest?cb=20110811125839",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e7/Apollonir_Scanned_on_a_battle.jpg/revision/latest?cb=20171205004706",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Apollonir_attacking_Hex_Drago_with_Saiam_Low.jpg/revision/latest?cb=20171203105653"
+      ]
     },
     {
       "id": "bee-striker-pyrus",
@@ -1259,8 +1279,18 @@ window.BAKU_DATA = {
         "gForce": 88
       },
       "bio": "Tigrerra’nın evrim formu. Daha fazla bıçak, daha az merhamet.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e1/BK_CD_BladeTigrerra.jpg/revision/latest?cb=20090619184158",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e1/BK_CD_BladeTigrerra.jpg/revision/latest?cb=20090619184158"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/40/Haos_Blade_Tigrerra.jpg/revision/latest?cb=20110827063645",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e1/BK_CD_BladeTigrerra.jpg/revision/latest?cb=20090619184158",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Haos_Blade_Tigrerra_%28closed%29.jpg/revision/latest?cb=20110614173945",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Haos_Blade_Tigrerra_toy.jpg/revision/latest?cb=20110614173932",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Blade_Tigrerra_Ball.png/revision/latest?cb=20180815211638",
+        "https://static.wikia.nocookie.net/bakugan/images/8/80/Runo_throwing_Blade_Tigrerra.gif/revision/latest?cb=20190901042854",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6c/Runo_and_Blade_Tigrerra.PNG/revision/latest?cb=20100920215341",
+        "https://static.wikia.nocookie.net/bakugan/images/1/14/Runo_in_Blade_Tigrerra%27s_shoulder.PNG/revision/latest?cb=20100920215707",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/Blade_Tigrerra.JPG/revision/latest?cb=20110222202441",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5c/Blade_Tigrerra.jpg/revision/latest?cb=20180210102307"
+      ]
     },
     {
       "id": "centipoid-pyrus",
@@ -1289,8 +1319,18 @@ window.BAKU_DATA = {
       },
       "bio": "Sürü halinde etkili klasik bakugan. Subterra tünellerinde tehlikelidir. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/98/PYRUS_CENTIPOID_AND_PYRUS_WARIUS.jpg/revision/latest?cb=20110412174038",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/30/BK_CD_Centipoid.jpg/revision/latest?cb=20090619184351",
-      "nickname": "Pyrus Centipoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/38/Pyrus_centipoid.jpg/revision/latest?cb=20190131171027",
+      "nickname": "Pyrus Centipoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Pyrus_centipoid_doom_dimension.jpg/revision/latest?cb=20110218164406",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Subterra_Centipoid_Ball.PNG/revision/latest?cb=20100920211218",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Subterra_Centipoid_in_Ball_form.PNG/revision/latest?cb=20190602214808",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/Haos_Centipoid_in_Ball_Form.PNG/revision/latest?cb=20190608043933",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Haos_Centipoid_sphere.PNG/revision/latest?cb=20100920222947",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Aquos_centipoid.PNG/revision/latest?cb=20101029002320",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cc/Siege_and_Centipoid_are_here.jpg/revision/latest?cb=20200818132424",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Subterra_Centipoid_Bakugan.PNG/revision/latest?cb=20100920211257"
+      ]
     },
     {
       "id": "centipoid-aquos",
@@ -1319,8 +1359,18 @@ window.BAKU_DATA = {
       },
       "bio": "Sürü halinde etkili klasik bakugan. Subterra tünellerinde tehlikelidir. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/52/Aquos_centipoid.PNG/revision/latest?cb=20101029002320",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/30/BK_CD_Centipoid.jpg/revision/latest?cb=20090619184351",
-      "nickname": "Aquos Centipoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/52/Aquos_centipoid.PNG/revision/latest?cb=20101029002320",
+      "nickname": "Aquos Centipoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Subterra_Centipoid_Ball.PNG/revision/latest?cb=20100920211218",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Subterra_Centipoid_in_Ball_form.PNG/revision/latest?cb=20190602214808",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/Haos_Centipoid_in_Ball_Form.PNG/revision/latest?cb=20190608043933",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Haos_Centipoid_sphere.PNG/revision/latest?cb=20100920222947",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cc/Siege_and_Centipoid_are_here.jpg/revision/latest?cb=20200818132424",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Subterra_Centipoid_Bakugan.PNG/revision/latest?cb=20100920211257",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Haos_Centipoid_Bakugan.PNG/revision/latest?cb=20100920223048",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/KeithStrife_Subterra_Centipoid.jpg/revision/latest?cb=20120827180731"
+      ]
     },
     {
       "id": "centipoid-ventus",
@@ -1349,8 +1399,18 @@ window.BAKU_DATA = {
       },
       "bio": "Sürü halinde etkili klasik bakugan. Subterra tünellerinde tehlikelidir. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/30/BK_CD_Centipoid.jpg/revision/latest?cb=20090619184351",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/30/BK_CD_Centipoid.jpg/revision/latest?cb=20090619184351",
-      "nickname": "Ventus Centipoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/42/Subterra_Centipoid_Ball.PNG/revision/latest?cb=20100920211218",
+      "nickname": "Ventus Centipoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Subterra_Centipoid_in_Ball_form.PNG/revision/latest?cb=20190602214808",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/Haos_Centipoid_in_Ball_Form.PNG/revision/latest?cb=20190608043933",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Haos_Centipoid_sphere.PNG/revision/latest?cb=20100920222947",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Aquos_centipoid.PNG/revision/latest?cb=20101029002320",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cc/Siege_and_Centipoid_are_here.jpg/revision/latest?cb=20200818132424",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Subterra_Centipoid_Bakugan.PNG/revision/latest?cb=20100920211257",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Haos_Centipoid_Bakugan.PNG/revision/latest?cb=20100920223048",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/KeithStrife_Subterra_Centipoid.jpg/revision/latest?cb=20120827180731"
+      ]
     },
     {
       "id": "centipoid-subterra",
@@ -1379,8 +1439,18 @@ window.BAKU_DATA = {
       },
       "bio": "Sürü halinde etkili klasik bakugan. Subterra tünellerinde tehlikelidir. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5e/KeithStrife_Subterra_Centipoid.jpg/revision/latest?cb=20120827180731",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/30/BK_CD_Centipoid.jpg/revision/latest?cb=20090619184351",
-      "nickname": "Subterra Centipoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/42/Subterra_Centipoid_Ball.PNG/revision/latest?cb=20100920211218",
+      "nickname": "Subterra Centipoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Subterra_Centipoid_in_Ball_form.PNG/revision/latest?cb=20190602214808",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Subterra_Centipoid_Bakugan.PNG/revision/latest?cb=20100920211257",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ac/Subterra_Centipoid.jpg/revision/latest?cb=20110412173648",
+        "https://static.wikia.nocookie.net/bakugan/images/5/59/07-subterra-centipoid.jpg/revision/latest?cb=20091012214212",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/Haos_Centipoid_in_Ball_Form.PNG/revision/latest?cb=20190608043933",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Haos_Centipoid_sphere.PNG/revision/latest?cb=20100920222947",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Aquos_centipoid.PNG/revision/latest?cb=20101029002320",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cc/Siege_and_Centipoid_are_here.jpg/revision/latest?cb=20200818132424"
+      ]
     },
     {
       "id": "centipoid-haos",
@@ -1409,8 +1479,18 @@ window.BAKU_DATA = {
       },
       "bio": "Sürü halinde etkili klasik bakugan. Subterra tünellerinde tehlikelidir. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/08/Haos_Centipoid_sphere.PNG/revision/latest?cb=20100920222947",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/30/BK_CD_Centipoid.jpg/revision/latest?cb=20090619184351",
-      "nickname": "Haos Centipoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f9/Haos_Centipoid_in_Ball_Form.PNG/revision/latest?cb=20190608043933",
+      "nickname": "Haos Centipoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Haos_Centipoid_Bakugan.PNG/revision/latest?cb=20100920223048",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Subterra_Centipoid_Ball.PNG/revision/latest?cb=20100920211218",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Subterra_Centipoid_in_Ball_form.PNG/revision/latest?cb=20190602214808",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Aquos_centipoid.PNG/revision/latest?cb=20101029002320",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cc/Siege_and_Centipoid_are_here.jpg/revision/latest?cb=20200818132424",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Subterra_Centipoid_Bakugan.PNG/revision/latest?cb=20100920211257",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/KeithStrife_Subterra_Centipoid.jpg/revision/latest?cb=20120827180731",
+        "https://static.wikia.nocookie.net/bakugan/images/3/30/BK_CD_Centipoid.jpg/revision/latest?cb=20090619184351"
+      ]
     },
     {
       "id": "centipoid-darkus",
@@ -1440,7 +1520,17 @@ window.BAKU_DATA = {
       "bio": "Sürü halinde etkili klasik bakugan. Subterra tünellerinde tehlikelidir. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/7d/Darkus_Centipoid.png/revision/latest?cb=20110421155713",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/30/BK_CD_Centipoid.jpg/revision/latest?cb=20090619184351",
-      "nickname": "Darkus Centipoid"
+      "nickname": "Darkus Centipoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Darkus_Centipoid.PNG/revision/latest?cb=20130112042612",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Subterra_Centipoid_Ball.PNG/revision/latest?cb=20100920211218",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Subterra_Centipoid_in_Ball_form.PNG/revision/latest?cb=20190602214808",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/Haos_Centipoid_in_Ball_Form.PNG/revision/latest?cb=20190608043933",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Haos_Centipoid_sphere.PNG/revision/latest?cb=20100920222947",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Aquos_centipoid.PNG/revision/latest?cb=20101029002320",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cc/Siege_and_Centipoid_are_here.jpg/revision/latest?cb=20200818132424",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Subterra_Centipoid_Bakugan.PNG/revision/latest?cb=20100920211257"
+      ]
     },
     {
       "id": "centorrior",
@@ -1498,7 +1588,17 @@ window.BAKU_DATA = {
       },
       "bio": "Clayf, Sezon 1 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/32/BK_CD_Clayf.jpg/revision/latest?cb=20090619184643",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c6/Clayf_Ball.JPG/revision/latest?cb=20190907142122",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ef/BA303_GA_clayf_12d.png/revision/latest?cb=20170702204320",
+        "https://static.wikia.nocookie.net/bakugan/images/7/71/Clayf_Subterra.JPG/revision/latest?cb=20190902135516",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/KeithStrife_Subterra_Clayf.JPG/revision/latest?cb=20120815184331",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Clayf.jpg/revision/latest?cb=20090103150839",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a0/Clayf-darkus.jpg/revision/latest?cb=20091011184510",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Masked_Clayf.jpg/revision/latest?cb=20091109215651",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Clayf-haos-pearl.jpg/revision/latest?cb=20091011184549"
+      ]
     },
     {
       "id": "cycloid-pyrus",
@@ -1527,8 +1627,18 @@ window.BAKU_DATA = {
       },
       "bio": "Cycloid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6d/Pyrus_Cycloid_%28Ball_Open%29.png/revision/latest?cb=20210802155120",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cycloid_Ball.jpg/revision/latest?cb=20090923020929",
-      "nickname": "Pyrus Cycloid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6d/Pyrus_Cycloid_%28Ball_Open%29.png/revision/latest?cb=20210802155120",
+      "nickname": "Pyrus Cycloid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/07/Nova_Pyrus_Cycloid_in_Bakugan_form.png/revision/latest?cb=20230709174816",
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Pyrus_Cycloid.png/revision/latest?cb=20200718095304",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Cycloid_Core_Pyrus_Details.jpg/revision/latest?cb=20201228022158",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Pyrus_Cycloid_BAA_Packaging.jpg/revision/latest?cb=20220523180627",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cycloid_Ball.jpg/revision/latest?cb=20090923020929",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/Rock_Cycloid.png/revision/latest?cb=20100808122206",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Rock_Crusher_Cycloid.png/revision/latest?cb=20100817154753",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Cycloid_attack.png/revision/latest?cb=20210209140515"
+      ]
     },
     {
       "id": "cycloid-aquos",
@@ -1556,9 +1666,19 @@ window.BAKU_DATA = {
         "gForce": 83
       },
       "bio": "Cycloid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cycloid_Ball.jpg/revision/latest?cb=20090923020929",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/07/Nova_Pyrus_Cycloid_in_Bakugan_form.png/revision/latest?cb=20230709174816",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cycloid_Ball.jpg/revision/latest?cb=20090923020929",
-      "nickname": "Aquos Cycloid"
+      "nickname": "Aquos Cycloid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Pyrus_Cycloid_%28Ball_Open%29.png/revision/latest?cb=20210802155120",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/Rock_Cycloid.png/revision/latest?cb=20100808122206",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Rock_Crusher_Cycloid.png/revision/latest?cb=20100817154753",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Cycloid_attack.png/revision/latest?cb=20210209140515",
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Pyrus_Cycloid.png/revision/latest?cb=20200718095304",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/Cycloid%27s_Baku-Gear.png/revision/latest?cb=20200718103913",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a2/BA145_GA_SM_cycloid_F.png/revision/latest?cb=20170519044158",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b0/Cycloid_Rescue_%28NA%29.png/revision/latest?cb=20180704225400"
+      ]
     },
     {
       "id": "cycloid-ventus",
@@ -1586,9 +1706,19 @@ window.BAKU_DATA = {
         "gForce": 83
       },
       "bio": "Cycloid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cycloid_Ball.jpg/revision/latest?cb=20090923020929",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/07/Nova_Pyrus_Cycloid_in_Bakugan_form.png/revision/latest?cb=20230709174816",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cycloid_Ball.jpg/revision/latest?cb=20090923020929",
-      "nickname": "Ventus Cycloid"
+      "nickname": "Ventus Cycloid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Pyrus_Cycloid_%28Ball_Open%29.png/revision/latest?cb=20210802155120",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/Rock_Cycloid.png/revision/latest?cb=20100808122206",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Rock_Crusher_Cycloid.png/revision/latest?cb=20100817154753",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Cycloid_attack.png/revision/latest?cb=20210209140515",
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Pyrus_Cycloid.png/revision/latest?cb=20200718095304",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/Cycloid%27s_Baku-Gear.png/revision/latest?cb=20200718103913",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a2/BA145_GA_SM_cycloid_F.png/revision/latest?cb=20170519044158",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b0/Cycloid_Rescue_%28NA%29.png/revision/latest?cb=20180704225400"
+      ]
     },
     {
       "id": "cycloid-subterra",
@@ -1617,8 +1747,18 @@ window.BAKU_DATA = {
       },
       "bio": "Cycloid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/0b/Cycloid_Bal_Subterral.JPG/revision/latest?cb=20091101013003",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cycloid_Ball.jpg/revision/latest?cb=20090923020929",
-      "nickname": "Subterra Cycloid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7b/Cycloid_Subterra.JPG/revision/latest?cb=20091101013002",
+      "nickname": "Subterra Cycloid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cycloid_Ball.jpg/revision/latest?cb=20090923020929",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Pyrus_Cycloid_%28Ball_Open%29.png/revision/latest?cb=20210802155120",
+        "https://static.wikia.nocookie.net/bakugan/images/0/07/Nova_Pyrus_Cycloid_in_Bakugan_form.png/revision/latest?cb=20230709174816",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/Rock_Cycloid.png/revision/latest?cb=20100808122206",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Rock_Crusher_Cycloid.png/revision/latest?cb=20100817154753",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Cycloid_attack.png/revision/latest?cb=20210209140515",
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Pyrus_Cycloid.png/revision/latest?cb=20200718095304",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/Cycloid%27s_Baku-Gear.png/revision/latest?cb=20200718103913"
+      ]
     },
     {
       "id": "cycloid-haos",
@@ -1648,7 +1788,17 @@ window.BAKU_DATA = {
       "bio": "Cycloid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cycloid_Ball.jpg/revision/latest?cb=20090923020929",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cycloid_Ball.jpg/revision/latest?cb=20090923020929",
-      "nickname": "Haos Cycloid"
+      "nickname": "Haos Cycloid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Pyrus_Cycloid_%28Ball_Open%29.png/revision/latest?cb=20210802155120",
+        "https://static.wikia.nocookie.net/bakugan/images/0/07/Nova_Pyrus_Cycloid_in_Bakugan_form.png/revision/latest?cb=20230709174816",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/Rock_Cycloid.png/revision/latest?cb=20100808122206",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Rock_Crusher_Cycloid.png/revision/latest?cb=20100817154753",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Cycloid_attack.png/revision/latest?cb=20210209140515",
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Pyrus_Cycloid.png/revision/latest?cb=20200718095304",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/Cycloid%27s_Baku-Gear.png/revision/latest?cb=20200718103913",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a2/BA145_GA_SM_cycloid_F.png/revision/latest?cb=20170519044158"
+      ]
     },
     {
       "id": "cycloid-darkus",
@@ -1677,8 +1827,18 @@ window.BAKU_DATA = {
       },
       "bio": "Cycloid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4d/Darkus_Cycloid.jpg/revision/latest?cb=20100618225036",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cycloid_Ball.jpg/revision/latest?cb=20090923020929",
-      "nickname": "Darkus Cycloid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4d/Darkus_Cycloid.jpg/revision/latest?cb=20100618225036",
+      "nickname": "Darkus Cycloid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cycloid_Ball.jpg/revision/latest?cb=20090923020929",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Pyrus_Cycloid_%28Ball_Open%29.png/revision/latest?cb=20210802155120",
+        "https://static.wikia.nocookie.net/bakugan/images/0/07/Nova_Pyrus_Cycloid_in_Bakugan_form.png/revision/latest?cb=20230709174816",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/Rock_Cycloid.png/revision/latest?cb=20100808122206",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Rock_Crusher_Cycloid.png/revision/latest?cb=20100817154753",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Cycloid_attack.png/revision/latest?cb=20210209140515",
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Pyrus_Cycloid.png/revision/latest?cb=20200718095304",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/Cycloid%27s_Baku-Gear.png/revision/latest?cb=20200718103913"
+      ]
     },
     {
       "id": "delta-dragonoid",
@@ -1707,9 +1867,19 @@ window.BAKU_DATA = {
         "gForce": 91
       },
       "bio": "Drago’nun ilk büyük evrimi. Üç baş, üç yönlü ateş baskısı demektir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/52/Delta_dragonoid_%282%29.jpg/revision/latest?cb=20111207211019",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a8/KeithStrife_Pyrus_Korean_Delta_Dragonoid_380G.jpg/revision/latest?cb=20130123134235",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/52/Delta_dragonoid_%282%29.jpg/revision/latest?cb=20111207211019",
-      "nickname": "Delta Drago"
+      "nickname": "Delta Drago",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a7/Delta_Dragonoid.PNG/revision/latest?cb=20100920225337",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/Delta_Dragonoid_in_Japanese_Packaged_%28Meteor_Dragonoid%29.jpg/revision/latest?cb=20100821031608",
+        "https://static.wikia.nocookie.net/bakugan/images/8/83/Dan_and_Delta_Dragonoid.PNG/revision/latest?cb=20101016202147",
+        "https://static.wikia.nocookie.net/bakugan/images/8/81/Dragonoid_delta.jpg/revision/latest?cb=20110918130628",
+        "https://static.wikia.nocookie.net/bakugan/images/1/11/Delta_dragonoid.png/revision/latest?cb=20110407210206",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Fake_Delta_Dragonoid.jpg/revision/latest?cb=20121203010820",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ce/Delta_Dragonoid.jpg/revision/latest?cb=20100714155145",
+        "https://static.wikia.nocookie.net/bakugan/images/7/79/Dan_on_Delta_Dragonoid.jpg/revision/latest?cb=20110504082128"
+      ]
     },
     {
       "id": "dragonoid-pyrus",
@@ -1741,7 +1911,17 @@ window.BAKU_DATA = {
       },
       "bio": "Vestroia’nın efsanevi Pyrus ejderhası. Dan’in partneri olarak tüm serinin merkezinde durur; her evrimde Perfect Core’a bir adım daha yaklaşır. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9e/Pyrus_Dragonoid.jpg/revision/latest?cb=20090118122146",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/29/Dragonoid.png/revision/latest?cb=20200623034615"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/Bakugan_Geogan_Rising_Pyrus_Dragonoid_0.png/revision/latest?cb=20210126221601",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Bakugan_Evolutions_-_Pyrus_Dragonoid_anime.png/revision/latest?cb=20220409075112",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/Pyrus_Dragonoid_Right_Open.jpg/revision/latest?cb=20180111051710",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6f/KeithStrife_Pyrus_Dragonoid.JPG/revision/latest?cb=20120815184330",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/MS_Pyrus_Dragonoid.jpg/revision/latest?cb=20110605072359",
+        "https://static.wikia.nocookie.net/bakugan/images/8/81/Pyrus_Dragonoid_Evo.png/revision/latest?cb=20110625221415",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/250px-Pyrus_Dragonoid_BAA_Toy_Form.jpg/revision/latest?cb=20210111234303",
+        "https://static.wikia.nocookie.net/bakugan/images/7/71/Transutiant_Pyrus_Dragonoid.gif/revision/latest?cb=20100621043018",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Bakugan_Evolutions_-_Pyrus_Genesis_Dragonoid_Bakugan_form.jpg/revision/latest?cb=20220328202120"
+      ]
     },
     {
       "id": "dragonoid-aquos",
@@ -1772,8 +1952,18 @@ window.BAKU_DATA = {
         "gForce": 88
       },
       "bio": "Vestroia’nın efsanevi Pyrus ejderhası. Dan’in partneri olarak tüm serinin merkezinde durur; her evrimde Perfect Core’a bir adım daha yaklaşır. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/29/Dragonoid.png/revision/latest?cb=20200623034615",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/29/Dragonoid.png/revision/latest?cb=20200623034615"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e4/Bakugan-Aquos-Torpedor-Dragonoid-880g.webp/revision/latest?cb=20240204093807",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e4/Bakugan-Aquos-Torpedor-Dragonoid-880g.webp/revision/latest?cb=20240204093807",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Dragonoid%27s_new_ball_form.png/revision/latest?cb=20210818032348",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Dragonoid-ball.jpg/revision/latest?cb=20100929100408",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Zefirosu-Dragonoid-ball.jpg/revision/latest?cb=20120803095841",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e7/Aquos_Neo_Dragonoid.jpeg/revision/latest?cb=20101011151423",
+        "https://static.wikia.nocookie.net/bakugan/images/1/16/BEV-Dragonoid_anime_%281%29.png/revision/latest?cb=20220426235152",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Bakugan_Evolutions_-_Pyrus_Dragonoid_anime.png/revision/latest?cb=20220409075112",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/BEV-Dragonoid_anime_%282%29.png/revision/latest?cb=20220427225756",
+        "https://static.wikia.nocookie.net/bakugan/images/d/de/BGR-Dragonoid_anime.png/revision/latest?cb=20210409134949"
+      ]
     },
     {
       "id": "dragonoid-ventus",
@@ -1804,8 +1994,18 @@ window.BAKU_DATA = {
         "gForce": 88
       },
       "bio": "Vestroia’nın efsanevi Pyrus ejderhası. Dan’in partneri olarak tüm serinin merkezinde durur; her evrimde Perfect Core’a bir adım daha yaklaşır. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/29/Dragonoid.png/revision/latest?cb=20200623034615",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/29/Dragonoid.png/revision/latest?cb=20200623034615"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3d/T._Dragonoid_Ventus.jpg/revision/latest?cb=20110605070614",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/T._Dragonoid_Ventus.jpg/revision/latest?cb=20110605070614",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Dragonoid%27s_new_ball_form.png/revision/latest?cb=20210818032348",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Dragonoid-ball.jpg/revision/latest?cb=20100929100408",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Zefirosu-Dragonoid-ball.jpg/revision/latest?cb=20120803095841",
+        "https://static.wikia.nocookie.net/bakugan/images/1/16/BEV-Dragonoid_anime_%281%29.png/revision/latest?cb=20220426235152",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Bakugan_Evolutions_-_Pyrus_Dragonoid_anime.png/revision/latest?cb=20220409075112",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/BEV-Dragonoid_anime_%282%29.png/revision/latest?cb=20220427225756",
+        "https://static.wikia.nocookie.net/bakugan/images/d/de/BGR-Dragonoid_anime.png/revision/latest?cb=20210409134949",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/Pyrus_Dragonoid_Right_Open.jpg/revision/latest?cb=20180111051710"
+      ]
     },
     {
       "id": "dragonoid-subterra",
@@ -1836,8 +2036,18 @@ window.BAKU_DATA = {
         "gForce": 88
       },
       "bio": "Vestroia’nın efsanevi Pyrus ejderhası. Dan’in partneri olarak tüm serinin merkezinde durur; her evrimde Perfect Core’a bir adım daha yaklaşır. Bu kayıt Subterra (Toprak) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/29/Dragonoid.png/revision/latest?cb=20200623034615",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/29/Dragonoid.png/revision/latest?cb=20200623034615"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/91/99px-Neo_dragonoid_subterra.jpg/revision/latest?cb=20110507172831",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/91/99px-Neo_dragonoid_subterra.jpg/revision/latest?cb=20110507172831",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Dragonoid%27s_new_ball_form.png/revision/latest?cb=20210818032348",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Dragonoid-ball.jpg/revision/latest?cb=20100929100408",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Zefirosu-Dragonoid-ball.jpg/revision/latest?cb=20120803095841",
+        "https://static.wikia.nocookie.net/bakugan/images/1/16/BEV-Dragonoid_anime_%281%29.png/revision/latest?cb=20220426235152",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Bakugan_Evolutions_-_Pyrus_Dragonoid_anime.png/revision/latest?cb=20220409075112",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/BEV-Dragonoid_anime_%282%29.png/revision/latest?cb=20220427225756",
+        "https://static.wikia.nocookie.net/bakugan/images/d/de/BGR-Dragonoid_anime.png/revision/latest?cb=20210409134949",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/Pyrus_Dragonoid_Right_Open.jpg/revision/latest?cb=20180111051710"
+      ]
     },
     {
       "id": "dragonoid-haos",
@@ -1869,7 +2079,17 @@ window.BAKU_DATA = {
       },
       "bio": "Vestroia’nın efsanevi Pyrus ejderhası. Dan’in partneri olarak tüm serinin merkezinde durur; her evrimde Perfect Core’a bir adım daha yaklaşır. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c1/Haos_Dragonoid.jpg/revision/latest?cb=20100406223630",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/29/Dragonoid.png/revision/latest?cb=20200623034615"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/97/Dragonoid_Ultra_Haos_Details.jpg/revision/latest?cb=20250331143828",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Dragonoid%27s_new_ball_form.png/revision/latest?cb=20210818032348",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Dragonoid-ball.jpg/revision/latest?cb=20100929100408",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Zefirosu-Dragonoid-ball.jpg/revision/latest?cb=20120803095841",
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/Haos_Neo_Dragonoid.JPG/revision/latest?cb=20100711205518",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e8/Neo_Dragonoid_Haos.JPG/revision/latest?cb=20100712204921",
+        "https://static.wikia.nocookie.net/bakugan/images/1/16/BEV-Dragonoid_anime_%281%29.png/revision/latest?cb=20220426235152",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Bakugan_Evolutions_-_Pyrus_Dragonoid_anime.png/revision/latest?cb=20220409075112",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/BEV-Dragonoid_anime_%282%29.png/revision/latest?cb=20220427225756"
+      ]
     },
     {
       "id": "dragonoid-darkus",
@@ -1900,8 +2120,18 @@ window.BAKU_DATA = {
         "gForce": 88
       },
       "bio": "Vestroia’nın efsanevi Pyrus ejderhası. Dan’in partneri olarak tüm serinin merkezinde durur; her evrimde Perfect Core’a bir adım daha yaklaşır. Bu kayıt Darkus (Karanlık) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/29/Dragonoid.png/revision/latest?cb=20200623034615",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/29/Dragonoid.png/revision/latest?cb=20200623034615"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ea/Darkus-dragonoid.jpg/revision/latest?cb=20100626175441",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/29/Dragonoid.png/revision/latest?cb=20200623034615",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Dragonoid%27s_new_ball_form.png/revision/latest?cb=20210818032348",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Dragonoid-ball.jpg/revision/latest?cb=20100929100408",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Zefirosu-Dragonoid-ball.jpg/revision/latest?cb=20120803095841",
+        "https://static.wikia.nocookie.net/bakugan/images/1/16/BEV-Dragonoid_anime_%281%29.png/revision/latest?cb=20220426235152",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Bakugan_Evolutions_-_Pyrus_Dragonoid_anime.png/revision/latest?cb=20220409075112",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/BEV-Dragonoid_anime_%282%29.png/revision/latest?cb=20220427225756",
+        "https://static.wikia.nocookie.net/bakugan/images/d/de/BGR-Dragonoid_anime.png/revision/latest?cb=20210409134949",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/Pyrus_Dragonoid_Right_Open.jpg/revision/latest?cb=20180111051710"
+      ]
     },
     {
       "id": "druman",
@@ -1930,7 +2160,17 @@ window.BAKU_DATA = {
       },
       "bio": "Druman, Sezon 1 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c3/Druman_with_Wings.jpg/revision/latest?cb=20091204005317",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c3/Druman_with_Wings.jpg/revision/latest?cb=20091204005317"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c3/Druman_with_Wings.jpg/revision/latest?cb=20091204005317",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Druman_Ball_Form.PNG/revision/latest?cb=20120305010748",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9c/Druman_Ball.png/revision/latest?cb=20120303161811",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Druman.png/revision/latest?cb=20120302153352",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Druman_2.png/revision/latest?cb=20120309214459",
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Druman_1.png/revision/latest?cb=20120309214430",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Druman_%281%29.PNG/revision/latest?cb=20111223002210",
+        "https://static.wikia.nocookie.net/bakugan/images/5/51/Druman_%28What%E2%80%99s_that%29.png/revision/latest?cb=20210623060019",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/Druman_Team.png/revision/latest?cb=20120310145541"
+      ]
     },
     {
       "id": "dual-hydranoid",
@@ -1959,8 +2199,18 @@ window.BAKU_DATA = {
         "gForce": 91
       },
       "bio": "Hydranoid’in ikinci aşaması. İki kafa, iki kat korku.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/04/BK_CD_Hydranoid.jpg/revision/latest?cb=20090918212518",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/04/BK_CD_Hydranoid.jpg/revision/latest?cb=20090918212518"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/08/Darkus_DUAL_Hydranoid.jpg/revision/latest?cb=20090118121447",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/04/BK_CD_Hydranoid.jpg/revision/latest?cb=20090918212518",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e1/Reverse_darkus_dual_hydranoid.gif/revision/latest?cb=20091003225137",
+        "https://static.wikia.nocookie.net/bakugan/images/5/57/B1_Dual_Hydranoid_Darkus_BL.jpg/revision/latest?cb=20180424051122",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/B1_Dual_Hydranoid_Darkus_FR.jpg/revision/latest?cb=20180424051121",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/B1_Dual_Hydranoid_Darkus_BR.jpg/revision/latest?cb=20180424051120",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e9/B1_Dual_Hydranoid_Darkus_AB.jpg/revision/latest?cb=20180424051122",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/B1_Dual_Hydranoid_Darkus_BK.jpg/revision/latest?cb=20180424051119",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/B1_Dual_Hydranoid_Darkus_FT.jpg/revision/latest?cb=20180424051251",
+        "https://static.wikia.nocookie.net/bakugan/images/8/86/B1_Dual_Hydranoid_Darkus_FL.jpg/revision/latest?cb=20180424051121"
+      ]
     },
     {
       "id": "el-condor-pyrus",
@@ -1989,8 +2239,18 @@ window.BAKU_DATA = {
       },
       "bio": "El Condor, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/75/Pyrus_Traid_El_Condor.jpg/revision/latest?cb=20100829010053",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fa/BK_CD_ElCondor.jpg/revision/latest?cb=20091018215457",
-      "nickname": "Pyrus El Condor"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/75/Pyrus_Traid_El_Condor.jpg/revision/latest?cb=20100829010053",
+      "nickname": "Pyrus El Condor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c4/Subterra_El_Condor_Ball.jpg/revision/latest?cb=20100624050329",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/El_Condor_Ball.JPG/revision/latest?cb=20091031214836",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Haos_Triad_El_Condor.jpg/revision/latest?cb=20100320215125",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Triad_El_Condor_%28NA%29.png/revision/latest?cb=20180601220609",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/4-10a_Tripod_El_Condor.png/revision/latest?cb=20170108041516",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/BK_Traps_Triad_El_Condor.png/revision/latest?cb=20091221162211",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Monarus_El_Condor.jpg/revision/latest?cb=20100501223859",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/El_Condor_Solar_Plexus.jpg/revision/latest?cb=20100624034659"
+      ]
     },
     {
       "id": "el-condor-aquos",
@@ -2019,8 +2279,18 @@ window.BAKU_DATA = {
       },
       "bio": "El Condor, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/fa/BK_CD_ElCondor.jpg/revision/latest?cb=20091018215457",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fa/BK_CD_ElCondor.jpg/revision/latest?cb=20091018215457",
-      "nickname": "Aquos El Condor"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c4/Subterra_El_Condor_Ball.jpg/revision/latest?cb=20100624050329",
+      "nickname": "Aquos El Condor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/El_Condor_Ball.JPG/revision/latest?cb=20091031214836",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Haos_Triad_El_Condor.jpg/revision/latest?cb=20100320215125",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Triad_El_Condor_%28NA%29.png/revision/latest?cb=20180601220609",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/4-10a_Tripod_El_Condor.png/revision/latest?cb=20170108041516",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/BK_Traps_Triad_El_Condor.png/revision/latest?cb=20091221162211",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Monarus_El_Condor.jpg/revision/latest?cb=20100501223859",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/El_Condor_Solar_Plexus.jpg/revision/latest?cb=20100624034659",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/El_Condor.jpg/revision/latest?cb=20090530031948"
+      ]
     },
     {
       "id": "el-condor-ventus",
@@ -2049,8 +2319,18 @@ window.BAKU_DATA = {
       },
       "bio": "El Condor, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/32/El_condor_triad_ventus.jpg/revision/latest?cb=20110425215012",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fa/BK_CD_ElCondor.jpg/revision/latest?cb=20091018215457",
-      "nickname": "Ventus El Condor"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/60/Ventus_El_Condor.jpg/revision/latest?cb=20100501024934",
+      "nickname": "Ventus El Condor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c4/Subterra_El_Condor_Ball.jpg/revision/latest?cb=20100624050329",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/El_Condor_Ball.JPG/revision/latest?cb=20091031214836",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Haos_Triad_El_Condor.jpg/revision/latest?cb=20100320215125",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Triad_El_Condor_%28NA%29.png/revision/latest?cb=20180601220609",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/4-10a_Tripod_El_Condor.png/revision/latest?cb=20170108041516",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/BK_Traps_Triad_El_Condor.png/revision/latest?cb=20091221162211",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Monarus_El_Condor.jpg/revision/latest?cb=20100501223859",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/El_Condor_Solar_Plexus.jpg/revision/latest?cb=20100624034659"
+      ]
     },
     {
       "id": "el-condor-subterra",
@@ -2079,8 +2359,18 @@ window.BAKU_DATA = {
       },
       "bio": "El Condor, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/57/Subterra_El_Condor_Dragoon.jpg/revision/latest?cb=20100624050414",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fa/BK_CD_ElCondor.jpg/revision/latest?cb=20091018215457",
-      "nickname": "Subterra El Condor"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c4/Subterra_El_Condor_Ball.jpg/revision/latest?cb=20100624050329",
+      "nickname": "Subterra El Condor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/El_Condor_Ball.JPG/revision/latest?cb=20091031214836",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Haos_Triad_El_Condor.jpg/revision/latest?cb=20100320215125",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Triad_El_Condor_%28NA%29.png/revision/latest?cb=20180601220609",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/4-10a_Tripod_El_Condor.png/revision/latest?cb=20170108041516",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/BK_Traps_Triad_El_Condor.png/revision/latest?cb=20091221162211",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Monarus_El_Condor.jpg/revision/latest?cb=20100501223859",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/El_Condor_Solar_Plexus.jpg/revision/latest?cb=20100624034659",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/El_Condor.jpg/revision/latest?cb=20090530031948"
+      ]
     },
     {
       "id": "el-condor-haos",
@@ -2109,8 +2399,18 @@ window.BAKU_DATA = {
       },
       "bio": "El Condor, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4c/Triad_El_Condor_Haos.jpg/revision/latest?cb=20120305010140",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fa/BK_CD_ElCondor.jpg/revision/latest?cb=20091018215457",
-      "nickname": "Haos El Condor"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/84/Haos_El_Condor.jpg/revision/latest?cb=20100624053545",
+      "nickname": "Haos El Condor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Haos_Triad_El_Condor.jpg/revision/latest?cb=20100320215125",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/El_Condor_Haos.JPG/revision/latest?cb=20091031214959",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c4/Subterra_El_Condor_Ball.jpg/revision/latest?cb=20100624050329",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/El_Condor_Ball.JPG/revision/latest?cb=20091031214836",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Triad_El_Condor_%28NA%29.png/revision/latest?cb=20180601220609",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/4-10a_Tripod_El_Condor.png/revision/latest?cb=20170108041516",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/BK_Traps_Triad_El_Condor.png/revision/latest?cb=20091221162211",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Monarus_El_Condor.jpg/revision/latest?cb=20100501223859"
+      ]
     },
     {
       "id": "el-condor-darkus",
@@ -2140,7 +2440,17 @@ window.BAKU_DATA = {
       "bio": "El Condor, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Darkus_El_Condor.jpg/revision/latest?cb=20100303023939",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fa/BK_CD_ElCondor.jpg/revision/latest?cb=20091018215457",
-      "nickname": "Darkus El Condor"
+      "nickname": "Darkus El Condor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c4/Subterra_El_Condor_Ball.jpg/revision/latest?cb=20100624050329",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/El_Condor_Ball.JPG/revision/latest?cb=20091031214836",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Haos_Triad_El_Condor.jpg/revision/latest?cb=20100320215125",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Triad_El_Condor_%28NA%29.png/revision/latest?cb=20180601220609",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/4-10a_Tripod_El_Condor.png/revision/latest?cb=20170108041516",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/BK_Traps_Triad_El_Condor.png/revision/latest?cb=20091221162211",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Monarus_El_Condor.jpg/revision/latest?cb=20100501223859",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/El_Condor_Solar_Plexus.jpg/revision/latest?cb=20100624034659"
+      ]
     },
     {
       "id": "exedra",
@@ -2169,7 +2479,17 @@ window.BAKU_DATA = {
       },
       "bio": "Exedra, Sezon 1 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/80/BK_CD_Exedra.jpg/revision/latest?cb=20110503030947",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/80/BK_CD_Exedra.jpg/revision/latest?cb=20110503030947"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/80/BK_CD_Exedra.jpg/revision/latest?cb=20110503030947",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Exedra_ball_form.PNG/revision/latest?cb=20190907142312",
+        "https://static.wikia.nocookie.net/bakugan/images/9/94/Bakugan_exedra.png/revision/latest?cb=20190421104932",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c1/Bakugan_exedra_3.png/revision/latest?cb=20190421105046",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Bakugan_exedra_2.png/revision/latest?cb=20190421105017",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b9/Bakugan_exedra_1.png/revision/latest?cb=20190421104958",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c2/Exedra.jpg/revision/latest?cb=20190902141546",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b0/BA301_GA_EXEDRA_10d.png/revision/latest?cb=20170702203419",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7d/DARK_ON_GEYSER_EXEDRA.JPG/revision/latest?cb=20180408025105"
+      ]
     },
     {
       "id": "falconeer-pyrus",
@@ -2198,8 +2518,18 @@ window.BAKU_DATA = {
       },
       "bio": "Falconeer, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ed/Pyrus_Falconeer_Bakugan.png/revision/latest?cb=20181024162832",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/70/BK_CD_Falconeer.jpg/revision/latest?cb=20091119232135",
-      "nickname": "Pyrus Falconeer"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a5/Pyrus_Falconeer_Sphere.png/revision/latest?cb=20181024155713",
+      "nickname": "Pyrus Falconeer",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/02/Pyrus_Falconeer_Bakugan_Up_Close.png/revision/latest?cb=20181024162733",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Aquos_Robotallion%2C_Pyrus_Falconeer.jpg/revision/latest?cb=20110605182116",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c6/Pyrus_Falconeer.PNG/revision/latest?cb=20100921003824",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Pyrus_Falconeer.jpg/revision/latest?cb=20101215113727",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d9/Falconeer_%28Pyrus_Gate_card%29.png/revision/latest?cb=20181024163255",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/Falconeer_Pyrus.png/revision/latest?cb=20110516231846",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/Ventus_Falconeer_Sphere.png/revision/latest?cb=20181025045255",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/Haos_falconeer_ball.PNG/revision/latest?cb=20101215114058"
+      ]
     },
     {
       "id": "falconeer-aquos",
@@ -2228,8 +2558,18 @@ window.BAKU_DATA = {
       },
       "bio": "Falconeer, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/04/Pearl_aquos_Falconeer.jpeg/revision/latest?cb=20120309064803",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/70/BK_CD_Falconeer.jpg/revision/latest?cb=20091119232135",
-      "nickname": "Aquos Falconeer"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/04/Pearl_aquos_Falconeer.jpeg/revision/latest?cb=20120309064803",
+      "nickname": "Aquos Falconeer",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Aquos_Robotallion%2C_Pyrus_Falconeer.jpg/revision/latest?cb=20110605182116",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/FALCONEER_AQUOS.jpg/revision/latest?cb=20110218164935",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/Ventus_Falconeer_Sphere.png/revision/latest?cb=20181025045255",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a5/Pyrus_Falconeer_Sphere.png/revision/latest?cb=20181024155713",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/Haos_falconeer_ball.PNG/revision/latest?cb=20101215114058",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Falconeer_Ball.JPG/revision/latest?cb=20091031214837",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Falconeer_open.PNG/revision/latest?cb=20110702091517",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Subterra_Falconeer_in_ball_form._%28Open%29.JPG/revision/latest?cb=20110705052457"
+      ]
     },
     {
       "id": "falconeer-ventus",
@@ -2258,8 +2598,18 @@ window.BAKU_DATA = {
       },
       "bio": "Falconeer, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1f/Ventus_Falconeer_Sphere.png/revision/latest?cb=20181025045255",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/70/BK_CD_Falconeer.jpg/revision/latest?cb=20091119232135",
-      "nickname": "Ventus Falconeer"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1f/Ventus_Falconeer_Sphere.png/revision/latest?cb=20181025045255",
+      "nickname": "Ventus Falconeer",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/bc/Shuji%27s_Ventus_Falconeer.png/revision/latest?cb=20181025045824",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/Ventus_Falconeer.png/revision/latest?cb=20150319204910",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Ventus_Falconeer_Up_Close.png/revision/latest?cb=20181025045910",
+        "https://static.wikia.nocookie.net/bakugan/images/8/80/Ventus_falconeer.jpg/revision/latest?cb=20110824025007",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a5/Pyrus_Falconeer_Sphere.png/revision/latest?cb=20181024155713",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/Haos_falconeer_ball.PNG/revision/latest?cb=20101215114058",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Falconeer_Ball.JPG/revision/latest?cb=20091031214837",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Falconeer_open.PNG/revision/latest?cb=20110702091517"
+      ]
     },
     {
       "id": "falconeer-subterra",
@@ -2288,8 +2638,18 @@ window.BAKU_DATA = {
       },
       "bio": "Falconeer, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a6/Subterra_Falconeer_in_ball_form._%28Open%29.JPG/revision/latest?cb=20110705052457",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/70/BK_CD_Falconeer.jpg/revision/latest?cb=20091119232135",
-      "nickname": "Subterra Falconeer"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a6/Subterra_Falconeer_in_ball_form._%28Open%29.JPG/revision/latest?cb=20110705052457",
+      "nickname": "Subterra Falconeer",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/bd/Subterra_Falconeer.jpg/revision/latest?cb=20100403004934",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/Ventus_Falconeer_Sphere.png/revision/latest?cb=20181025045255",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a5/Pyrus_Falconeer_Sphere.png/revision/latest?cb=20181024155713",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/Haos_falconeer_ball.PNG/revision/latest?cb=20101215114058",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Falconeer_Ball.JPG/revision/latest?cb=20091031214837",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Falconeer_open.PNG/revision/latest?cb=20110702091517",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a3/Falconeer_swoop_down.png/revision/latest?cb=20181025045727",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d9/Falconeer_%28Pyrus_Gate_card%29.png/revision/latest?cb=20181024163255"
+      ]
     },
     {
       "id": "falconeer-haos",
@@ -2318,8 +2678,18 @@ window.BAKU_DATA = {
       },
       "bio": "Falconeer, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Haos_falconeer_bakugan.PNG/revision/latest?cb=20101215114301",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/70/BK_CD_Falconeer.jpg/revision/latest?cb=20091119232135",
-      "nickname": "Haos Falconeer"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/84/Haos_falconeer_ball.PNG/revision/latest?cb=20101215114058",
+      "nickname": "Haos Falconeer",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a0/Haos_Falconeer.jpg/revision/latest?cb=20100618225124",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/Ventus_Falconeer_Sphere.png/revision/latest?cb=20181025045255",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a5/Pyrus_Falconeer_Sphere.png/revision/latest?cb=20181024155713",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Falconeer_Ball.JPG/revision/latest?cb=20091031214837",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Falconeer_open.PNG/revision/latest?cb=20110702091517",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Subterra_Falconeer_in_ball_form._%28Open%29.JPG/revision/latest?cb=20110705052457",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a3/Falconeer_swoop_down.png/revision/latest?cb=20181025045727",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d9/Falconeer_%28Pyrus_Gate_card%29.png/revision/latest?cb=20181024163255"
+      ]
     },
     {
       "id": "falconeer-darkus",
@@ -2349,7 +2719,17 @@ window.BAKU_DATA = {
       "bio": "Falconeer, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1d/Darkus_falconeer.jpg/revision/latest?cb=20110824024942",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/70/BK_CD_Falconeer.jpg/revision/latest?cb=20091119232135",
-      "nickname": "Darkus Falconeer"
+      "nickname": "Darkus Falconeer",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/Ventus_Falconeer_Sphere.png/revision/latest?cb=20181025045255",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a5/Pyrus_Falconeer_Sphere.png/revision/latest?cb=20181024155713",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/Haos_falconeer_ball.PNG/revision/latest?cb=20101215114058",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Falconeer_Ball.JPG/revision/latest?cb=20091031214837",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Falconeer_open.PNG/revision/latest?cb=20110702091517",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Subterra_Falconeer_in_ball_form._%28Open%29.JPG/revision/latest?cb=20110705052457",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a3/Falconeer_swoop_down.png/revision/latest?cb=20181025045727",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d9/Falconeer_%28Pyrus_Gate_card%29.png/revision/latest?cb=20181024163255"
+      ]
     },
     {
       "id": "fear-ripper-pyrus",
@@ -2377,9 +2757,19 @@ window.BAKU_DATA = {
         "gForce": 59
       },
       "bio": "Fear Ripper, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/50/Pyrus_Bronze_Warius_vs._Subterra_Fear_Ripper.JPG/revision/latest?cb=20100817144928",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/67/BK_CD_FearRipper.jpg/revision/latest?cb=20091011042154",
-      "nickname": "Pyrus Fear Ripper"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/49/800px-pyrus_Fear_Ripper_Anime.jpg/revision/latest?cb=20100825160527",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/eb/Pyrus_Fear_Ripper.PNG/revision/latest?cb=20181014191615",
+      "nickname": "Pyrus Fear Ripper",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Pyrus_fear_ripper.jpg/revision/latest?cb=20101115020620",
+        "https://static.wikia.nocookie.net/bakugan/images/5/50/Pyrus_Bronze_Warius_vs._Subterra_Fear_Ripper.JPG/revision/latest?cb=20100817144928",
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Aquos_Fear_Ripper_Ball.jpg/revision/latest?cb=20100729003336",
+        "https://static.wikia.nocookie.net/bakugan/images/4/43/Subterra_Fear_Ripper_Ball.PNG/revision/latest?cb=20101215115013",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/Fear_Ripper_Ball.JPG/revision/latest?cb=20091031214837",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/800px-ability_Fear_Ripper_Anime.jpg/revision/latest?cb=20100825153517",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Aquos_Fear_Ripper_Anime.jpg/revision/latest?cb=20100729003409",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Bakugan_ATTACK_Fear_Ripper.png/revision/latest?cb=20180521080003"
+      ]
     },
     {
       "id": "fear-ripper-aquos",
@@ -2408,8 +2798,18 @@ window.BAKU_DATA = {
       },
       "bio": "Fear Ripper, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/0f/FearRipper_aquos.png/revision/latest?cb=20100826135331",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/67/BK_CD_FearRipper.jpg/revision/latest?cb=20091011042154",
-      "nickname": "Aquos Fear Ripper"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/35/Aquos_Fear_Ripper_Ball.jpg/revision/latest?cb=20100729003336",
+      "nickname": "Aquos Fear Ripper",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Aquos_Fear_Ripper_Anime.jpg/revision/latest?cb=20100729003409",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ef/Aquos_Fear_Ripper.jpg/revision/latest?cb=20100406222513",
+        "https://static.wikia.nocookie.net/bakugan/images/4/43/Subterra_Fear_Ripper_Ball.PNG/revision/latest?cb=20101215115013",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/Fear_Ripper_Ball.JPG/revision/latest?cb=20091031214837",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/800px-ability_Fear_Ripper_Anime.jpg/revision/latest?cb=20100825153517",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/800px-pyrus_Fear_Ripper_Anime.jpg/revision/latest?cb=20100825160527",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Bakugan_ATTACK_Fear_Ripper.png/revision/latest?cb=20180521080003",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Ventus_Fear_Ripper._%28Middle_Bottom.%29.JPG/revision/latest?cb=20110811042115"
+      ]
     },
     {
       "id": "fear-ripper-ventus",
@@ -2438,8 +2838,18 @@ window.BAKU_DATA = {
       },
       "bio": "Fear Ripper, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/95/Ventus_Fear_Ripper._%28Middle_Bottom.%29.JPG/revision/latest?cb=20110811042115",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/67/BK_CD_FearRipper.jpg/revision/latest?cb=20091011042154",
-      "nickname": "Ventus Fear Ripper"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/95/Ventus_Fear_Ripper._%28Middle_Bottom.%29.JPG/revision/latest?cb=20110811042115",
+      "nickname": "Ventus Fear Ripper",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Aquos_Fear_Ripper_Ball.jpg/revision/latest?cb=20100729003336",
+        "https://static.wikia.nocookie.net/bakugan/images/4/43/Subterra_Fear_Ripper_Ball.PNG/revision/latest?cb=20101215115013",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/Fear_Ripper_Ball.JPG/revision/latest?cb=20091031214837",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/800px-ability_Fear_Ripper_Anime.jpg/revision/latest?cb=20100825153517",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/800px-pyrus_Fear_Ripper_Anime.jpg/revision/latest?cb=20100825160527",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Aquos_Fear_Ripper_Anime.jpg/revision/latest?cb=20100729003409",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Bakugan_ATTACK_Fear_Ripper.png/revision/latest?cb=20180521080003",
+        "https://static.wikia.nocookie.net/bakugan/images/1/18/Fear_Ripper_uses_Slash_Zero_%28Ep._24%29.png/revision/latest?cb=20240617175446"
+      ]
     },
     {
       "id": "fear-ripper-subterra",
@@ -2468,8 +2878,18 @@ window.BAKU_DATA = {
       },
       "bio": "Fear Ripper, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/50/Pyrus_Bronze_Warius_vs._Subterra_Fear_Ripper.JPG/revision/latest?cb=20100817144928",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/67/BK_CD_FearRipper.jpg/revision/latest?cb=20091011042154",
-      "nickname": "Subterra Fear Ripper"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/43/Subterra_Fear_Ripper_Ball.PNG/revision/latest?cb=20101215115013",
+      "nickname": "Subterra Fear Ripper",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Aquos_Fear_Ripper_Ball.jpg/revision/latest?cb=20100729003336",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/Fear_Ripper_Ball.JPG/revision/latest?cb=20091031214837",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/800px-ability_Fear_Ripper_Anime.jpg/revision/latest?cb=20100825153517",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/800px-pyrus_Fear_Ripper_Anime.jpg/revision/latest?cb=20100825160527",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Aquos_Fear_Ripper_Anime.jpg/revision/latest?cb=20100729003409",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Bakugan_ATTACK_Fear_Ripper.png/revision/latest?cb=20180521080003",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Ventus_Fear_Ripper._%28Middle_Bottom.%29.JPG/revision/latest?cb=20110811042115",
+        "https://static.wikia.nocookie.net/bakugan/images/1/18/Fear_Ripper_uses_Slash_Zero_%28Ep._24%29.png/revision/latest?cb=20240617175446"
+      ]
     },
     {
       "id": "fear-ripper-haos",
@@ -2498,8 +2918,18 @@ window.BAKU_DATA = {
       },
       "bio": "Fear Ripper, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/67/BK_CD_FearRipper.jpg/revision/latest?cb=20091011042154",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/67/BK_CD_FearRipper.jpg/revision/latest?cb=20091011042154",
-      "nickname": "Haos Fear Ripper"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/35/Aquos_Fear_Ripper_Ball.jpg/revision/latest?cb=20100729003336",
+      "nickname": "Haos Fear Ripper",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/43/Subterra_Fear_Ripper_Ball.PNG/revision/latest?cb=20101215115013",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/Fear_Ripper_Ball.JPG/revision/latest?cb=20091031214837",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/800px-ability_Fear_Ripper_Anime.jpg/revision/latest?cb=20100825153517",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/800px-pyrus_Fear_Ripper_Anime.jpg/revision/latest?cb=20100825160527",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Aquos_Fear_Ripper_Anime.jpg/revision/latest?cb=20100729003409",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Bakugan_ATTACK_Fear_Ripper.png/revision/latest?cb=20180521080003",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Ventus_Fear_Ripper._%28Middle_Bottom.%29.JPG/revision/latest?cb=20110811042115",
+        "https://static.wikia.nocookie.net/bakugan/images/1/18/Fear_Ripper_uses_Slash_Zero_%28Ep._24%29.png/revision/latest?cb=20240617175446"
+      ]
     },
     {
       "id": "fear-ripper-darkus",
@@ -2529,7 +2959,17 @@ window.BAKU_DATA = {
       "bio": "Fear Ripper, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/41/Pearl_Darkus_Fear_Ripper.jpg/revision/latest?cb=20100729003318",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/67/BK_CD_FearRipper.jpg/revision/latest?cb=20091011042154",
-      "nickname": "Darkus Fear Ripper"
+      "nickname": "Darkus Fear Ripper",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/Fear_Ripper_Darkus.JPG/revision/latest?cb=20091031215000",
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Aquos_Fear_Ripper_Ball.jpg/revision/latest?cb=20100729003336",
+        "https://static.wikia.nocookie.net/bakugan/images/4/43/Subterra_Fear_Ripper_Ball.PNG/revision/latest?cb=20101215115013",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/Fear_Ripper_Ball.JPG/revision/latest?cb=20091031214837",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/800px-ability_Fear_Ripper_Anime.jpg/revision/latest?cb=20100825153517",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/800px-pyrus_Fear_Ripper_Anime.jpg/revision/latest?cb=20100825160527",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Aquos_Fear_Ripper_Anime.jpg/revision/latest?cb=20100729003409",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Bakugan_ATTACK_Fear_Ripper.png/revision/latest?cb=20180521080003"
+      ]
     },
     {
       "id": "fourtress-pyrus",
@@ -2558,8 +2998,15 @@ window.BAKU_DATA = {
       },
       "bio": "Fourtress, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/7d/Fourtress_Pyrus.png/revision/latest?cb=20110516232005",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b5/BK_CD_Fortress.jpg/revision/latest?cb=20090713221821",
-      "nickname": "Pyrus Fourtress"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ed/KeithStrife_Pyrus_Fourtress.JPG/revision/latest?cb=20120815184330",
+      "nickname": "Pyrus Fourtress",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/BA254_GA_fourtress_11.png/revision/latest?cb=20170701231111",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1c/Chan_Lee_%26_Fourtress.JPG/revision/latest?cb=20130326202545",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Fourtress.jpg/revision/latest?cb=20110226150456",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Fourtress-subterra.jpg/revision/latest?cb=20091011185714",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Fourtress-haos.jpg/revision/latest?cb=20091011185349"
+      ]
     },
     {
       "id": "fourtress-aquos",
@@ -2587,9 +3034,17 @@ window.BAKU_DATA = {
         "gForce": 71
       },
       "bio": "Fourtress, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b5/BK_CD_Fortress.jpg/revision/latest?cb=20090713221821",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b5/BK_CD_Fortress.jpg/revision/latest?cb=20090713221821",
-      "nickname": "Aquos Fourtress"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/55/BA254_GA_fourtress_11.png/revision/latest?cb=20170701231111",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/55/BA254_GA_fourtress_11.png/revision/latest?cb=20170701231111",
+      "nickname": "Aquos Fourtress",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/ed/KeithStrife_Pyrus_Fourtress.JPG/revision/latest?cb=20120815184330",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7d/Fourtress_Pyrus.png/revision/latest?cb=20110516232005",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1c/Chan_Lee_%26_Fourtress.JPG/revision/latest?cb=20130326202545",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Fourtress.jpg/revision/latest?cb=20110226150456",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Fourtress-subterra.jpg/revision/latest?cb=20091011185714",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Fourtress-haos.jpg/revision/latest?cb=20091011185349"
+      ]
     },
     {
       "id": "fourtress-ventus",
@@ -2617,9 +3072,17 @@ window.BAKU_DATA = {
         "gForce": 71
       },
       "bio": "Fourtress, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b5/BK_CD_Fortress.jpg/revision/latest?cb=20090713221821",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b5/BK_CD_Fortress.jpg/revision/latest?cb=20090713221821",
-      "nickname": "Ventus Fourtress"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/55/BA254_GA_fourtress_11.png/revision/latest?cb=20170701231111",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/55/BA254_GA_fourtress_11.png/revision/latest?cb=20170701231111",
+      "nickname": "Ventus Fourtress",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/ed/KeithStrife_Pyrus_Fourtress.JPG/revision/latest?cb=20120815184330",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7d/Fourtress_Pyrus.png/revision/latest?cb=20110516232005",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1c/Chan_Lee_%26_Fourtress.JPG/revision/latest?cb=20130326202545",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Fourtress.jpg/revision/latest?cb=20110226150456",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Fourtress-subterra.jpg/revision/latest?cb=20091011185714",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Fourtress-haos.jpg/revision/latest?cb=20091011185349"
+      ]
     },
     {
       "id": "fourtress-subterra",
@@ -2648,8 +3111,16 @@ window.BAKU_DATA = {
       },
       "bio": "Fourtress, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d0/Fourtress-subterra.jpg/revision/latest?cb=20091011185714",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b5/BK_CD_Fortress.jpg/revision/latest?cb=20090713221821",
-      "nickname": "Subterra Fourtress"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d0/Fourtress-subterra.jpg/revision/latest?cb=20091011185714",
+      "nickname": "Subterra Fourtress",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/BA254_GA_fourtress_11.png/revision/latest?cb=20170701231111",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ed/KeithStrife_Pyrus_Fourtress.JPG/revision/latest?cb=20120815184330",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7d/Fourtress_Pyrus.png/revision/latest?cb=20110516232005",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1c/Chan_Lee_%26_Fourtress.JPG/revision/latest?cb=20130326202545",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Fourtress.jpg/revision/latest?cb=20110226150456",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Fourtress-haos.jpg/revision/latest?cb=20091011185349"
+      ]
     },
     {
       "id": "fourtress-haos",
@@ -2678,8 +3149,16 @@ window.BAKU_DATA = {
       },
       "bio": "Fourtress, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/fc/Fourtress-haos.jpg/revision/latest?cb=20091011185349",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b5/BK_CD_Fortress.jpg/revision/latest?cb=20090713221821",
-      "nickname": "Haos Fourtress"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fc/Fourtress-haos.jpg/revision/latest?cb=20091011185349",
+      "nickname": "Haos Fourtress",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/BA254_GA_fourtress_11.png/revision/latest?cb=20170701231111",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ed/KeithStrife_Pyrus_Fourtress.JPG/revision/latest?cb=20120815184330",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7d/Fourtress_Pyrus.png/revision/latest?cb=20110516232005",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1c/Chan_Lee_%26_Fourtress.JPG/revision/latest?cb=20130326202545",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Fourtress.jpg/revision/latest?cb=20110226150456",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Fourtress-subterra.jpg/revision/latest?cb=20091011185714"
+      ]
     },
     {
       "id": "fourtress-darkus",
@@ -2709,7 +3188,16 @@ window.BAKU_DATA = {
       "bio": "Fourtress, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b5/BK_CD_Fortress.jpg/revision/latest?cb=20090713221821",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b5/BK_CD_Fortress.jpg/revision/latest?cb=20090713221821",
-      "nickname": "Darkus Fourtress"
+      "nickname": "Darkus Fourtress",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/BA254_GA_fourtress_11.png/revision/latest?cb=20170701231111",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ed/KeithStrife_Pyrus_Fourtress.JPG/revision/latest?cb=20120815184330",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7d/Fourtress_Pyrus.png/revision/latest?cb=20110516232005",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1c/Chan_Lee_%26_Fourtress.JPG/revision/latest?cb=20130326202545",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Fourtress.jpg/revision/latest?cb=20110226150456",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Fourtress-subterra.jpg/revision/latest?cb=20091011185714",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Fourtress-haos.jpg/revision/latest?cb=20091011185349"
+      ]
     },
     {
       "id": "frosch",
@@ -2738,7 +3226,17 @@ window.BAKU_DATA = {
       },
       "bio": "Frosch, Sezon 1 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/33/BK_CD_Frosch.jpg/revision/latest?cb=20091113231246",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/33/BK_CD_Frosch.jpg/revision/latest?cb=20091113231246"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/33/BK_CD_Frosch.jpg/revision/latest?cb=20091113231246",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b0/Frosch_closed.png/revision/latest?cb=20190907070929",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Frosch_Ball.JPG/revision/latest?cb=20190907071000",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/BA307_GA_frosch_16d.png/revision/latest?cb=20170702205251",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a2/Frosch_Aquos.JPG/revision/latest?cb=20190902134729",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/KeithStrife_Aquos_Frosch.JPG/revision/latest?cb=20120815183848",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/Frosch_and_Clone_Marucho.jpg/revision/latest?cb=20110518190726",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Frosch.jpg/revision/latest?cb=20090103150403",
+        "https://static.wikia.nocookie.net/bakugan/images/1/11/Masked_Frosch.jpg/revision/latest?cb=20091109215531"
+      ]
     },
     {
       "id": "gargonoid-pyrus",
@@ -2767,8 +3265,18 @@ window.BAKU_DATA = {
       },
       "bio": "Gargonoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Pyrus_Gargonoid_Darkus_Juggernoid.jpg/revision/latest?cb=20100728230205",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Gargonoid.jpg/revision/latest?cb=20090922204448",
-      "nickname": "Pyrus Gargonoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Pyrus_Gargonoid_Darkus_Juggernoid.jpg/revision/latest?cb=20100728230205",
+      "nickname": "Pyrus Gargonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Aquos_gargonoid_Ball.PNG/revision/latest?cb=20101029163535",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Aquos_Gargonoid_Ball.jpg/revision/latest?cb=20100729012154",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Ventus_gargonoid.jpg/revision/latest?cb=20101206230148",
+        "https://static.wikia.nocookie.net/bakugan/images/0/00/Ventus_Gargonoid.jpg/revision/latest?cb=20111230092646",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/BA141_GA_SM_gargonoid_F.png/revision/latest?cb=20170519043025",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Serpenoid_trapping_Gargonoid.png/revision/latest?cb=20110719040416",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c2/BK_PR_Gargonoid.jpg/revision/latest?cb=20110806223359",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/Gargonoid.jpg/revision/latest?cb=20090922204448"
+      ]
     },
     {
       "id": "gargonoid-aquos",
@@ -2797,8 +3305,18 @@ window.BAKU_DATA = {
       },
       "bio": "Gargonoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/21/Aquos_gargonoid_Ball.PNG/revision/latest?cb=20101029163535",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Gargonoid.jpg/revision/latest?cb=20090922204448",
-      "nickname": "Aquos Gargonoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/21/Aquos_gargonoid_Ball.PNG/revision/latest?cb=20101029163535",
+      "nickname": "Aquos Gargonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Aquos_Gargonoid_Ball.jpg/revision/latest?cb=20100729012154",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Ventus_gargonoid.jpg/revision/latest?cb=20101206230148",
+        "https://static.wikia.nocookie.net/bakugan/images/0/00/Ventus_Gargonoid.jpg/revision/latest?cb=20111230092646",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/BA141_GA_SM_gargonoid_F.png/revision/latest?cb=20170519043025",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Serpenoid_trapping_Gargonoid.png/revision/latest?cb=20110719040416",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c2/BK_PR_Gargonoid.jpg/revision/latest?cb=20110806223359",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Pyrus_Gargonoid_Darkus_Juggernoid.jpg/revision/latest?cb=20100728230205",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/Gargonoid.jpg/revision/latest?cb=20090922204448"
+      ]
     },
     {
       "id": "gargonoid-ventus",
@@ -2827,8 +3345,18 @@ window.BAKU_DATA = {
       },
       "bio": "Gargonoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/be/Ventus_gargonoid.jpg/revision/latest?cb=20101206230148",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Gargonoid.jpg/revision/latest?cb=20090922204448",
-      "nickname": "Ventus Gargonoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/be/Ventus_gargonoid.jpg/revision/latest?cb=20101206230148",
+      "nickname": "Ventus Gargonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/00/Ventus_Gargonoid.jpg/revision/latest?cb=20111230092646",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Aquos_gargonoid_Ball.PNG/revision/latest?cb=20101029163535",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Aquos_Gargonoid_Ball.jpg/revision/latest?cb=20100729012154",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/BA141_GA_SM_gargonoid_F.png/revision/latest?cb=20170519043025",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Serpenoid_trapping_Gargonoid.png/revision/latest?cb=20110719040416",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c2/BK_PR_Gargonoid.jpg/revision/latest?cb=20110806223359",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Pyrus_Gargonoid_Darkus_Juggernoid.jpg/revision/latest?cb=20100728230205",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/Gargonoid.jpg/revision/latest?cb=20090922204448"
+      ]
     },
     {
       "id": "gargonoid-subterra",
@@ -2857,8 +3385,18 @@ window.BAKU_DATA = {
       },
       "bio": "Gargonoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Gargonoid.jpg/revision/latest?cb=20090922204448",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Gargonoid.jpg/revision/latest?cb=20090922204448",
-      "nickname": "Subterra Gargonoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/21/Aquos_gargonoid_Ball.PNG/revision/latest?cb=20101029163535",
+      "nickname": "Subterra Gargonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Aquos_Gargonoid_Ball.jpg/revision/latest?cb=20100729012154",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Ventus_gargonoid.jpg/revision/latest?cb=20101206230148",
+        "https://static.wikia.nocookie.net/bakugan/images/0/00/Ventus_Gargonoid.jpg/revision/latest?cb=20111230092646",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/BA141_GA_SM_gargonoid_F.png/revision/latest?cb=20170519043025",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Serpenoid_trapping_Gargonoid.png/revision/latest?cb=20110719040416",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c2/BK_PR_Gargonoid.jpg/revision/latest?cb=20110806223359",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Pyrus_Gargonoid_Darkus_Juggernoid.jpg/revision/latest?cb=20100728230205",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8a/Haos_Gargonoid.jpg/revision/latest?cb=20100403030138"
+      ]
     },
     {
       "id": "gargonoid-haos",
@@ -2887,8 +3425,18 @@ window.BAKU_DATA = {
       },
       "bio": "Gargonoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Haos_Gargonoid.jpg/revision/latest?cb=20100403030138",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Gargonoid.jpg/revision/latest?cb=20090922204448",
-      "nickname": "Haos Gargonoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Haos_Gargonoid.jpg/revision/latest?cb=20100403030138",
+      "nickname": "Haos Gargonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/1c/Haos_Gargonoid_Packaging.jpeg/revision/latest?cb=20210515042149",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Aquos_gargonoid_Ball.PNG/revision/latest?cb=20101029163535",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Aquos_Gargonoid_Ball.jpg/revision/latest?cb=20100729012154",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Ventus_gargonoid.jpg/revision/latest?cb=20101206230148",
+        "https://static.wikia.nocookie.net/bakugan/images/0/00/Ventus_Gargonoid.jpg/revision/latest?cb=20111230092646",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/BA141_GA_SM_gargonoid_F.png/revision/latest?cb=20170519043025",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Serpenoid_trapping_Gargonoid.png/revision/latest?cb=20110719040416",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c2/BK_PR_Gargonoid.jpg/revision/latest?cb=20110806223359"
+      ]
     },
     {
       "id": "gargonoid-darkus",
@@ -2916,9 +3464,19 @@ window.BAKU_DATA = {
         "gForce": 68
       },
       "bio": "Gargonoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Pyrus_Gargonoid_Darkus_Juggernoid.jpg/revision/latest?cb=20100728230205",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ad/Darkus_gargonoid.jpg/revision/latest?cb=20100921234624",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Gargonoid.jpg/revision/latest?cb=20090922204448",
-      "nickname": "Darkus Gargonoid"
+      "nickname": "Darkus Gargonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Pyrus_Gargonoid_Darkus_Juggernoid.jpg/revision/latest?cb=20100728230205",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Aquos_gargonoid_Ball.PNG/revision/latest?cb=20101029163535",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Aquos_Gargonoid_Ball.jpg/revision/latest?cb=20100729012154",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Ventus_gargonoid.jpg/revision/latest?cb=20101206230148",
+        "https://static.wikia.nocookie.net/bakugan/images/0/00/Ventus_Gargonoid.jpg/revision/latest?cb=20111230092646",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/BA141_GA_SM_gargonoid_F.png/revision/latest?cb=20170519043025",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Serpenoid_trapping_Gargonoid.png/revision/latest?cb=20110719040416",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c2/BK_PR_Gargonoid.jpg/revision/latest?cb=20110806223359"
+      ]
     },
     {
       "id": "gorem-pyrus",
@@ -2948,8 +3506,18 @@ window.BAKU_DATA = {
       },
       "bio": "Subterra’nın kayası. Yavaştır ama bir yumruğu savaşı bitirebilir. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1f/B1_Pyrus_Gorem.jpg/revision/latest?cb=20100414005258",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/cf/BK_CD_Gorem.jpg/revision/latest?cb=20110630130957",
-      "nickname": "Pyrus Gorem"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1f/B1_Pyrus_Gorem.jpg/revision/latest?cb=20100414005258",
+      "nickname": "Pyrus Gorem",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Pyrus_Gorem.PNG/revision/latest?cb=20101009222707",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Pyrus_Hammer_Gorem.jpg/revision/latest?cb=20100414005718",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Pyrus_quakix_gorem.png/revision/latest?cb=20101017043456",
+        "https://static.wikia.nocookie.net/bakugan/images/5/57/Pyrus_Dimensions_Gorem.JPG/revision/latest?cb=20100912104721",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Ball_form_chamelia_gorem_tigrerra.jpg/revision/latest?cb=20200721194023",
+        "https://static.wikia.nocookie.net/bakugan/images/2/26/Gorem_Ball.JPG/revision/latest?cb=20091025033959",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Hammer_Gorem_ballform_%28open%29.png/revision/latest?cb=20120313173746",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Gorem_Open.jpg/revision/latest?cb=20110412171419"
+      ]
     },
     {
       "id": "gorem-aquos",
@@ -2979,8 +3547,18 @@ window.BAKU_DATA = {
       },
       "bio": "Subterra’nın kayası. Yavaştır ama bir yumruğu savaşı bitirebilir. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/54/Aquos_Gorem.jpg/revision/latest?cb=20110412172134",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/cf/BK_CD_Gorem.jpg/revision/latest?cb=20110630130957",
-      "nickname": "Aquos Gorem"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/54/Aquos_Gorem.jpg/revision/latest?cb=20110412172134",
+      "nickname": "Aquos Gorem",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Ball_form_chamelia_gorem_tigrerra.jpg/revision/latest?cb=20200721194023",
+        "https://static.wikia.nocookie.net/bakugan/images/2/26/Gorem_Ball.JPG/revision/latest?cb=20091025033959",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Hammer_Gorem_ballform_%28open%29.png/revision/latest?cb=20120313173746",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Gorem_Open.jpg/revision/latest?cb=20110412171419",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Hammer_Gorem_ball_form_open_thumbnail.jpg/revision/latest?cb=20240909160033",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Hammer_Gorem_ball_form_open.jpg/revision/latest?cb=20240909155625",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/B1_Pyrus_Gorem.jpg/revision/latest?cb=20100414005258",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Pyrus_Hammer_Gorem.jpg/revision/latest?cb=20100414005718"
+      ]
     },
     {
       "id": "gorem-ventus",
@@ -3010,8 +3588,18 @@ window.BAKU_DATA = {
       },
       "bio": "Subterra’nın kayası. Yavaştır ama bir yumruğu savaşı bitirebilir. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/cf/BK_CD_Gorem.jpg/revision/latest?cb=20110630130957",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/cf/BK_CD_Gorem.jpg/revision/latest?cb=20110630130957",
-      "nickname": "Ventus Gorem"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5a/Ball_form_chamelia_gorem_tigrerra.jpg/revision/latest?cb=20200721194023",
+      "nickname": "Ventus Gorem",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/26/Gorem_Ball.JPG/revision/latest?cb=20091025033959",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Hammer_Gorem_ballform_%28open%29.png/revision/latest?cb=20120313173746",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Gorem_Open.jpg/revision/latest?cb=20110412171419",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Hammer_Gorem_ball_form_open_thumbnail.jpg/revision/latest?cb=20240909160033",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Hammer_Gorem_ball_form_open.jpg/revision/latest?cb=20240909155625",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/B1_Pyrus_Gorem.jpg/revision/latest?cb=20100414005258",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Pyrus_Hammer_Gorem.jpg/revision/latest?cb=20100414005718",
+        "https://static.wikia.nocookie.net/bakugan/images/2/29/Quakix_Gorem.png/revision/latest?cb=20230812032306"
+      ]
     },
     {
       "id": "gorem-subterra",
@@ -3041,8 +3629,18 @@ window.BAKU_DATA = {
       },
       "bio": "Subterra’nın kayası. Yavaştır ama bir yumruğu savaşı bitirebilir. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/fe/Quakix_Gorem_Subterra.png/revision/latest?cb=20110108010649",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/cf/BK_CD_Gorem.jpg/revision/latest?cb=20110630130957",
-      "nickname": "Subterra Gorem"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/98/Subterra_Gorem_Korean.JPG/revision/latest?cb=20120617033139",
+      "nickname": "Subterra Gorem",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/8c/KeithStrife_Subterra_Gorem.JPG/revision/latest?cb=20120815184332",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9f/KeithStrife_B1_Subterra_Gorem.JPG/revision/latest?cb=20120816044446",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Subterra_Hammer_Gorem.jpg/revision/latest?cb=20120217152842",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b4/Subterra-hammer-gorem-000.jpg/revision/latest?cb=20110205151756",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d4/Subterra_Hammer_Gorem.png/revision/latest?cb=20110421155829",
+        "https://static.wikia.nocookie.net/bakugan/images/3/32/Hammer_Gorem_Subterra.JPG/revision/latest?cb=20091101013712",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Hammer_Gorem_Subterra.jpg/revision/latest?cb=20120114105347",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Ball_form_chamelia_gorem_tigrerra.jpg/revision/latest?cb=20200721194023"
+      ]
     },
     {
       "id": "gorem-haos",
@@ -3072,8 +3670,18 @@ window.BAKU_DATA = {
       },
       "bio": "Subterra’nın kayası. Yavaştır ama bir yumruğu savaşı bitirebilir. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b2/Haos_Gorem.jpg/revision/latest?cb=20110412172556",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/cf/BK_CD_Gorem.jpg/revision/latest?cb=20110630130957",
-      "nickname": "Haos Gorem"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b2/Haos_Gorem.jpg/revision/latest?cb=20110412172556",
+      "nickname": "Haos Gorem",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b3/Haos_Quakix_Gorem_attacks.jpg/revision/latest?cb=20110221145020",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Haos_Quakix_Gorem.jpg/revision/latest?cb=20110221144948",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Ball_form_chamelia_gorem_tigrerra.jpg/revision/latest?cb=20200721194023",
+        "https://static.wikia.nocookie.net/bakugan/images/2/26/Gorem_Ball.JPG/revision/latest?cb=20091025033959",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Hammer_Gorem_ballform_%28open%29.png/revision/latest?cb=20120313173746",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Gorem_Open.jpg/revision/latest?cb=20110412171419",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Hammer_Gorem_ball_form_open_thumbnail.jpg/revision/latest?cb=20240909160033",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Hammer_Gorem_ball_form_open.jpg/revision/latest?cb=20240909155625"
+      ]
     },
     {
       "id": "gorem-darkus",
@@ -3104,7 +3712,17 @@ window.BAKU_DATA = {
       "bio": "Subterra’nın kayası. Yavaştır ama bir yumruğu savaşı bitirebilir. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/11/Darkus_Gorem.jpg/revision/latest?cb=20110412172459",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/cf/BK_CD_Gorem.jpg/revision/latest?cb=20110630130957",
-      "nickname": "Darkus Gorem"
+      "nickname": "Darkus Gorem",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Ball_form_chamelia_gorem_tigrerra.jpg/revision/latest?cb=20200721194023",
+        "https://static.wikia.nocookie.net/bakugan/images/2/26/Gorem_Ball.JPG/revision/latest?cb=20091025033959",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Hammer_Gorem_ballform_%28open%29.png/revision/latest?cb=20120313173746",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Gorem_Open.jpg/revision/latest?cb=20110412171419",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Hammer_Gorem_ball_form_open_thumbnail.jpg/revision/latest?cb=20240909160033",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Hammer_Gorem_ball_form_open.jpg/revision/latest?cb=20240909155625",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/B1_Pyrus_Gorem.jpg/revision/latest?cb=20100414005258",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Pyrus_Hammer_Gorem.jpg/revision/latest?cb=20100414005718"
+      ]
     },
     {
       "id": "griffon-pyrus",
@@ -3133,8 +3751,18 @@ window.BAKU_DATA = {
       },
       "bio": "Griffon, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9f/Pyrus_Griffon_Bakugan.png/revision/latest?cb=20110922201018",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ef/Bk_cd_griffon_1.jpg/revision/latest?cb=20090920160103",
-      "nickname": "Pyrus Griffon"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fc/Pyrus_Griffon_Ball.PNG/revision/latest?cb=20100920232736",
+      "nickname": "Pyrus Griffon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Pyrus_Griffon.png/revision/latest?cb=20150319205628",
+        "https://static.wikia.nocookie.net/bakugan/images/d/da/Haos_Griffon_in_Ball_Form.PNG/revision/latest?cb=20190608045229",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Haos_Griffon_Ball.jpg/revision/latest?cb=20100629010303",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Griffon_closed.PNG/revision/latest?cb=20100920233521",
+        "https://static.wikia.nocookie.net/bakugan/images/2/20/Griffon_Ball.JPG/revision/latest?cb=20091031215220",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Aquos_Griffon_open.PNG/revision/latest?cb=20100920235405",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/Griffon_open.PNG/revision/latest?cb=20110702091540",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Ventus_Griffon.jpg/revision/latest?cb=20100413000323"
+      ]
     },
     {
       "id": "griffon-aquos",
@@ -3163,8 +3791,18 @@ window.BAKU_DATA = {
       },
       "bio": "Griffon, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/eb/Pearl_Aquos_Griffon.jpg/revision/latest?cb=20100618231444",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ef/Bk_cd_griffon_1.jpg/revision/latest?cb=20090920160103",
-      "nickname": "Aquos Griffon"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/75/Aquos_Griffon.png/revision/latest?cb=20150319205839",
+      "nickname": "Aquos Griffon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Aquos_Griffon_open.PNG/revision/latest?cb=20100920235405",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Aquos_Griffon.PNG/revision/latest?cb=20100920233709",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Translucent_Aquos_Griffon.jpg/revision/latest?cb=20100729004639",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Pyrus_Griffon_Ball.PNG/revision/latest?cb=20100920232736",
+        "https://static.wikia.nocookie.net/bakugan/images/d/da/Haos_Griffon_in_Ball_Form.PNG/revision/latest?cb=20190608045229",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Haos_Griffon_Ball.jpg/revision/latest?cb=20100629010303",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Griffon_closed.PNG/revision/latest?cb=20100920233521",
+        "https://static.wikia.nocookie.net/bakugan/images/2/20/Griffon_Ball.JPG/revision/latest?cb=20091031215220"
+      ]
     },
     {
       "id": "griffon-ventus",
@@ -3193,8 +3831,18 @@ window.BAKU_DATA = {
       },
       "bio": "Griffon, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/dd/Ventus_Griffon_VG.jpg/revision/latest?cb=20100510230033",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ef/Bk_cd_griffon_1.jpg/revision/latest?cb=20090920160103",
-      "nickname": "Ventus Griffon"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/Ventus_Griffon.jpg/revision/latest?cb=20100413000323",
+      "nickname": "Ventus Griffon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/4f/Pearl_Ventus_Griffon.jpg/revision/latest?cb=20100618231504",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/Ventus_Griffon_2.jpg/revision/latest?cb=20111123000058",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Pyrus_Griffon_Ball.PNG/revision/latest?cb=20100920232736",
+        "https://static.wikia.nocookie.net/bakugan/images/d/da/Haos_Griffon_in_Ball_Form.PNG/revision/latest?cb=20190608045229",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Haos_Griffon_Ball.jpg/revision/latest?cb=20100629010303",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Griffon_closed.PNG/revision/latest?cb=20100920233521",
+        "https://static.wikia.nocookie.net/bakugan/images/2/20/Griffon_Ball.JPG/revision/latest?cb=20091031215220",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Aquos_Griffon_open.PNG/revision/latest?cb=20100920235405"
+      ]
     },
     {
       "id": "griffon-subterra",
@@ -3223,8 +3871,18 @@ window.BAKU_DATA = {
       },
       "bio": "Griffon, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/95/Subterra_Griffon.png/revision/latest?cb=20100618224932",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ef/Bk_cd_griffon_1.jpg/revision/latest?cb=20090920160103",
-      "nickname": "Subterra Griffon"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/95/Subterra_Griffon.png/revision/latest?cb=20100618224932",
+      "nickname": "Subterra Griffon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Pyrus_Griffon_Ball.PNG/revision/latest?cb=20100920232736",
+        "https://static.wikia.nocookie.net/bakugan/images/d/da/Haos_Griffon_in_Ball_Form.PNG/revision/latest?cb=20190608045229",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Haos_Griffon_Ball.jpg/revision/latest?cb=20100629010303",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Griffon_closed.PNG/revision/latest?cb=20100920233521",
+        "https://static.wikia.nocookie.net/bakugan/images/2/20/Griffon_Ball.JPG/revision/latest?cb=20091031215220",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Aquos_Griffon_open.PNG/revision/latest?cb=20100920235405",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/Griffon_open.PNG/revision/latest?cb=20110702091540",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Ventus_Griffon.jpg/revision/latest?cb=20100413000323"
+      ]
     },
     {
       "id": "griffon-haos",
@@ -3253,8 +3911,18 @@ window.BAKU_DATA = {
       },
       "bio": "Griffon, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a1/Haos_Griffon_Ball.jpg/revision/latest?cb=20100629010303",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ef/Bk_cd_griffon_1.jpg/revision/latest?cb=20090920160103",
-      "nickname": "Haos Griffon"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/da/Haos_Griffon_in_Ball_Form.PNG/revision/latest?cb=20190608045229",
+      "nickname": "Haos Griffon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/Haos_Griffon.png/revision/latest?cb=20150319205739",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a0/Haos_griffon.png/revision/latest?cb=20120101074735",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Haos_Griffon.jpg/revision/latest?cb=20100728224554",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5f/Translucent_Haos_Griffon.jpg/revision/latest?cb=20100618231525",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Pyrus_Griffon_Ball.PNG/revision/latest?cb=20100920232736",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Griffon_closed.PNG/revision/latest?cb=20100920233521",
+        "https://static.wikia.nocookie.net/bakugan/images/2/20/Griffon_Ball.JPG/revision/latest?cb=20091031215220",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Aquos_Griffon_open.PNG/revision/latest?cb=20100920235405"
+      ]
     },
     {
       "id": "griffon-darkus",
@@ -3284,7 +3952,17 @@ window.BAKU_DATA = {
       "bio": "Griffon, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ef/Bk_cd_griffon_1.jpg/revision/latest?cb=20090920160103",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ef/Bk_cd_griffon_1.jpg/revision/latest?cb=20090920160103",
-      "nickname": "Darkus Griffon"
+      "nickname": "Darkus Griffon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Pyrus_Griffon_Ball.PNG/revision/latest?cb=20100920232736",
+        "https://static.wikia.nocookie.net/bakugan/images/d/da/Haos_Griffon_in_Ball_Form.PNG/revision/latest?cb=20190608045229",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Haos_Griffon_Ball.jpg/revision/latest?cb=20100629010303",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Griffon_closed.PNG/revision/latest?cb=20100920233521",
+        "https://static.wikia.nocookie.net/bakugan/images/2/20/Griffon_Ball.JPG/revision/latest?cb=20091031215220",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Aquos_Griffon_open.PNG/revision/latest?cb=20100920235405",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/Griffon_open.PNG/revision/latest?cb=20110702091540",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Ventus_Griffon.jpg/revision/latest?cb=20100413000323"
+      ]
     },
     {
       "id": "hairadee",
@@ -3313,7 +3991,12 @@ window.BAKU_DATA = {
       },
       "bio": "Hairadee, Sezon 1 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9b/Hairadee.jpg/revision/latest?cb=20091204005117",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9b/Hairadee.jpg/revision/latest?cb=20091204005117"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9b/Hairadee.jpg/revision/latest?cb=20091204005117",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/14/Hairadee_%28Who_did_that%29.png/revision/latest?cb=20200731084754",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Hairadee.png/revision/latest?cb=20110423062339",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Hairadee%27s_Evil_Eye.png/revision/latest?cb=20120206000309"
+      ]
     },
     {
       "id": "hammer-gorem",
@@ -3342,8 +4025,18 @@ window.BAKU_DATA = {
         "gForce": 90
       },
       "bio": "Gorem’in evrim hali. Çekiç artık sadece savunma değil, yıkım aracıdır.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Hammer_Gorem.jpg/revision/latest?cb=20090827144524",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Hammer_Gorem.jpg/revision/latest?cb=20090827144524"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c3/Subterra_Hammer_Gorem.jpg/revision/latest?cb=20120217152842",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Hammer_Gorem.jpg/revision/latest?cb=20090827144524",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/d4/Subterra_Hammer_Gorem.png/revision/latest?cb=20110421155829",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b4/Subterra-hammer-gorem-000.jpg/revision/latest?cb=20110205151756",
+        "https://static.wikia.nocookie.net/bakugan/images/3/32/Hammer_Gorem_Subterra.JPG/revision/latest?cb=20091101013712",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Hammer_Gorem_Subterra.jpg/revision/latest?cb=20120114105347",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Hammer_Gorem_ballform_%28open%29.png/revision/latest?cb=20120313173746",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Hammer_Gorem_ball_form_open_thumbnail.jpg/revision/latest?cb=20240909160033",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Hammer_Gorem_ball_form_open.jpg/revision/latest?cb=20240909155625",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Pyrus_Hammer_Gorem.jpg/revision/latest?cb=20100414005718"
+      ]
     },
     {
       "id": "harpus-pyrus",
@@ -3372,8 +4065,18 @@ window.BAKU_DATA = {
       },
       "bio": "Harpus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1d/Pyrus_Harpus.JPG/revision/latest?cb=20100428145027",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/75/BK_CD_Harpus.jpg/revision/latest?cb=20100102010114",
-      "nickname": "Pyrus Harpus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1d/Pyrus_Harpus.JPG/revision/latest?cb=20100428145027",
+      "nickname": "Pyrus Harpus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f6/Pyrus_harpus.jpeg/revision/latest?cb=20120208092837",
+        "https://static.wikia.nocookie.net/bakugan/images/6/68/Harpus_Ball.JPG/revision/latest?cb=20091101012734",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Darkus_Harpus.jpg/revision/latest?cb=20100928133010",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Darkus_Harpus_Game.jpg/revision/latest?cb=20100721014244",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/Darkus_Harpus_Headshot_2.jpg/revision/latest?cb=20100911000812",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Harpus-bakugan-o.gif/revision/latest?cb=20100529120323",
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Harpus.png/revision/latest?cb=20180815211543",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3b/Harpus_Game.jpg/revision/latest?cb=20100607010058"
+      ]
     },
     {
       "id": "harpus-aquos",
@@ -3402,8 +4105,18 @@ window.BAKU_DATA = {
       },
       "bio": "Harpus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/0e/Aquos_harpus.jpeg/revision/latest?cb=20120208092556",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/75/BK_CD_Harpus.jpg/revision/latest?cb=20100102010114",
-      "nickname": "Aquos Harpus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0e/Aquos_harpus.jpeg/revision/latest?cb=20120208092556",
+      "nickname": "Aquos Harpus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/68/Harpus_Ball.JPG/revision/latest?cb=20091101012734",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Darkus_Harpus.jpg/revision/latest?cb=20100928133010",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Darkus_Harpus_Game.jpg/revision/latest?cb=20100721014244",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/Darkus_Harpus_Headshot_2.jpg/revision/latest?cb=20100911000812",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Harpus-bakugan-o.gif/revision/latest?cb=20100529120323",
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Harpus.png/revision/latest?cb=20180815211543",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3b/Harpus_Game.jpg/revision/latest?cb=20100607010058",
+        "https://static.wikia.nocookie.net/bakugan/images/8/82/BA253_GA_harpus_10.png/revision/latest?cb=20170701230939"
+      ]
     },
     {
       "id": "harpus-ventus",
@@ -3432,8 +4145,18 @@ window.BAKU_DATA = {
       },
       "bio": "Harpus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/de/KeithStrife_Ventus_Harpus.JPG/revision/latest?cb=20120815184551",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/75/BK_CD_Harpus.jpg/revision/latest?cb=20100102010114",
-      "nickname": "Ventus Harpus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/de/KeithStrife_Ventus_Harpus.JPG/revision/latest?cb=20120815184551",
+      "nickname": "Ventus Harpus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b4/Harpus_Ventus.JPG/revision/latest?cb=20091101013003",
+        "https://static.wikia.nocookie.net/bakugan/images/6/68/Harpus_Ball.JPG/revision/latest?cb=20091101012734",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d5/Harpus_ventus_neon.jpg/revision/latest?cb=20101002085157",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Darkus_Harpus.jpg/revision/latest?cb=20100928133010",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Darkus_Harpus_Game.jpg/revision/latest?cb=20100721014244",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/Darkus_Harpus_Headshot_2.jpg/revision/latest?cb=20100911000812",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Harpus-bakugan-o.gif/revision/latest?cb=20100529120323",
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Harpus.png/revision/latest?cb=20180815211543"
+      ]
     },
     {
       "id": "harpus-subterra",
@@ -3462,8 +4185,18 @@ window.BAKU_DATA = {
       },
       "bio": "Harpus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/75/BK_CD_Harpus.jpg/revision/latest?cb=20100102010114",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/75/BK_CD_Harpus.jpg/revision/latest?cb=20100102010114",
-      "nickname": "Subterra Harpus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/68/Harpus_Ball.JPG/revision/latest?cb=20091101012734",
+      "nickname": "Subterra Harpus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Darkus_Harpus.jpg/revision/latest?cb=20100928133010",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Darkus_Harpus_Game.jpg/revision/latest?cb=20100721014244",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/Darkus_Harpus_Headshot_2.jpg/revision/latest?cb=20100911000812",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Harpus-bakugan-o.gif/revision/latest?cb=20100529120323",
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Harpus.png/revision/latest?cb=20180815211543",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3b/Harpus_Game.jpg/revision/latest?cb=20100607010058",
+        "https://static.wikia.nocookie.net/bakugan/images/8/82/BA253_GA_harpus_10.png/revision/latest?cb=20170701230939",
+        "https://static.wikia.nocookie.net/bakugan/images/7/70/Harpus_3.jpg/revision/latest?cb=20190901111414"
+      ]
     },
     {
       "id": "harpus-haos",
@@ -3492,8 +4225,18 @@ window.BAKU_DATA = {
       },
       "bio": "Harpus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f9/Haos_harpus.jpeg/revision/latest?cb=20120208092908",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/75/BK_CD_Harpus.jpg/revision/latest?cb=20100102010114",
-      "nickname": "Haos Harpus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f9/Haos_harpus.jpeg/revision/latest?cb=20120208092908",
+      "nickname": "Haos Harpus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/68/Harpus_Ball.JPG/revision/latest?cb=20091101012734",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Darkus_Harpus.jpg/revision/latest?cb=20100928133010",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Darkus_Harpus_Game.jpg/revision/latest?cb=20100721014244",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/Darkus_Harpus_Headshot_2.jpg/revision/latest?cb=20100911000812",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Harpus-bakugan-o.gif/revision/latest?cb=20100529120323",
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Harpus.png/revision/latest?cb=20180815211543",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3b/Harpus_Game.jpg/revision/latest?cb=20100607010058",
+        "https://static.wikia.nocookie.net/bakugan/images/8/82/BA253_GA_harpus_10.png/revision/latest?cb=20170701230939"
+      ]
     },
     {
       "id": "harpus-darkus",
@@ -3523,7 +4266,17 @@ window.BAKU_DATA = {
       "bio": "Harpus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/7c/Darkus_Harpus_Game.jpg/revision/latest?cb=20100721014244",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/75/BK_CD_Harpus.jpg/revision/latest?cb=20100102010114",
-      "nickname": "Darkus Harpus"
+      "nickname": "Darkus Harpus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Darkus_Harpus.jpg/revision/latest?cb=20100928133010",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/Darkus_Harpus_Headshot_2.jpg/revision/latest?cb=20100911000812",
+        "https://static.wikia.nocookie.net/bakugan/images/6/68/Harpus_Ball.JPG/revision/latest?cb=20091101012734",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Harpus-bakugan-o.gif/revision/latest?cb=20100529120323",
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Harpus.png/revision/latest?cb=20180815211543",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3b/Harpus_Game.jpg/revision/latest?cb=20100607010058",
+        "https://static.wikia.nocookie.net/bakugan/images/8/82/BA253_GA_harpus_10.png/revision/latest?cb=20170701230939",
+        "https://static.wikia.nocookie.net/bakugan/images/7/70/Harpus_3.jpg/revision/latest?cb=20190901111414"
+      ]
     },
     {
       "id": "hydranoid-pyrus",
@@ -3552,9 +4305,19 @@ window.BAKU_DATA = {
         "gForce": 87
       },
       "bio": "Masquerade’in korku salan partneri. Her zaferle evrim kapısı aralanır. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b4/5f0f7d9d094ff107_bk_hydranoid.png/revision/latest?cb=20100716120835",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b4/5f0f7d9d094ff107_bk_hydranoid.png/revision/latest?cb=20100716120835",
-      "nickname": "Pyrus Hydranoid"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/73/Translucent_Pyrus_Hydranoid.jpg/revision/latest?cb=20100618225720",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/73/Translucent_Pyrus_Hydranoid.jpg/revision/latest?cb=20100618225720",
+      "nickname": "Pyrus Hydranoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/Clear_Hydranoid_Pyrus.jpg/revision/latest?cb=20100406224755",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a2/Prototype_Hydranoid_Closed.png/revision/latest?cb=20180419045553",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Hydranoid_ball.jpg/revision/latest?cb=20090324114734",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/BAA-Hydranoid_x_Aquos_anime.png/revision/latest?cb=20210118165209",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Prototype_Hydranoid_Open.png/revision/latest?cb=20180419045600",
+        "https://static.wikia.nocookie.net/bakugan/images/1/11/Hydranoid_X_Aquos_%28Ball_Open%29.png/revision/latest?cb=20210721150138",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Alpha_Hydranoid.jpg/revision/latest?cb=20110730211552",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/Hydranoid_X_Aquos_Cyclone_Generator.png/revision/latest?cb=20210814022302"
+      ]
     },
     {
       "id": "hydranoid-aquos",
@@ -3583,9 +4346,19 @@ window.BAKU_DATA = {
         "gForce": 87
       },
       "bio": "Masquerade’in korku salan partneri. Her zaferle evrim kapısı aralanır. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b4/5f0f7d9d094ff107_bk_hydranoid.png/revision/latest?cb=20100716120835",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b4/5f0f7d9d094ff107_bk_hydranoid.png/revision/latest?cb=20100716120835",
-      "nickname": "Aquos Hydranoid"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d8/BAA-Hydranoid_x_Aquos_anime.png/revision/latest?cb=20210118165209",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/11/Hydranoid_X_Aquos_%28Ball_Open%29.png/revision/latest?cb=20210721150138",
+      "nickname": "Aquos Hydranoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/Hydranoid_X_Aquos_Cyclone_Generator.png/revision/latest?cb=20210814022302",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/Nova_Hydranoid_X_Aquos_in_Bakugan_Form.png/revision/latest?cb=20230712155713",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d9/Hydranoid_X_Aquos.png/revision/latest?cb=20200822085352",
+        "https://static.wikia.nocookie.net/bakugan/images/1/19/Nillious_and_Eenoch_facing_Hydranoid_X_Aquos.png/revision/latest?cb=20201120084554",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d5/Auxillataur_vs._Hydranoid_X_Aquos.png/revision/latest?cb=20210120085211",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d1/Storm_and_Hydranoid_X_Aquos_are_fighting.png/revision/latest?cb=20210703150019",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b7/Storm_and_Hydranoid_X_Aquos.png/revision/latest?cb=20210130081632",
+        "https://static.wikia.nocookie.net/bakugan/images/8/82/Hydranoid_X_Aquos%27_heads.png/revision/latest?cb=20210123091304"
+      ]
     },
     {
       "id": "hydranoid-ventus",
@@ -3614,9 +4387,19 @@ window.BAKU_DATA = {
         "gForce": 87
       },
       "bio": "Masquerade’in korku salan partneri. Her zaferle evrim kapısı aralanır. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b4/5f0f7d9d094ff107_bk_hydranoid.png/revision/latest?cb=20100716120835",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b4/5f0f7d9d094ff107_bk_hydranoid.png/revision/latest?cb=20100716120835",
-      "nickname": "Ventus Hydranoid"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/15/Ventus_Hydranoid_%28Geogan_Rising%29.png/revision/latest?cb=20210228203553",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/15/Ventus_Hydranoid_%28Geogan_Rising%29.png/revision/latest?cb=20210228203553",
+      "nickname": "Ventus Hydranoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Hydranoid_Core_Ventus_Details.jpg/revision/latest?cb=20201230180923",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a2/Prototype_Hydranoid_Closed.png/revision/latest?cb=20180419045553",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Hydranoid_ball.jpg/revision/latest?cb=20090324114734",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/BAA-Hydranoid_x_Aquos_anime.png/revision/latest?cb=20210118165209",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Prototype_Hydranoid_Open.png/revision/latest?cb=20180419045600",
+        "https://static.wikia.nocookie.net/bakugan/images/1/11/Hydranoid_X_Aquos_%28Ball_Open%29.png/revision/latest?cb=20210721150138",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Hydranoid_Ultra_Ventus_BakuLog.jpg/revision/latest?cb=20201230180929",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Alpha_Hydranoid.jpg/revision/latest?cb=20110730211552"
+      ]
     },
     {
       "id": "hydranoid-subterra",
@@ -3645,9 +4428,19 @@ window.BAKU_DATA = {
         "gForce": 87
       },
       "bio": "Masquerade’in korku salan partneri. Her zaferle evrim kapısı aralanır. Bu kayıt Subterra (Toprak) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b4/5f0f7d9d094ff107_bk_hydranoid.png/revision/latest?cb=20100716120835",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b4/5f0f7d9d094ff107_bk_hydranoid.png/revision/latest?cb=20100716120835",
-      "nickname": "Subterra Hydranoid"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Alpha_Hydranoid.jpg/revision/latest?cb=20110730211552",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Alpha_Hydranoid.jpg/revision/latest?cb=20110730211552",
+      "nickname": "Subterra Hydranoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a2/Prototype_Hydranoid_Closed.png/revision/latest?cb=20180419045553",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Hydranoid_ball.jpg/revision/latest?cb=20090324114734",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/BAA-Hydranoid_x_Aquos_anime.png/revision/latest?cb=20210118165209",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Prototype_Hydranoid_Open.png/revision/latest?cb=20180419045600",
+        "https://static.wikia.nocookie.net/bakugan/images/1/11/Hydranoid_X_Aquos_%28Ball_Open%29.png/revision/latest?cb=20210721150138",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/Hydranoid_X_Aquos_Cyclone_Generator.png/revision/latest?cb=20210814022302",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c1/Dual_Hydranoid.png/revision/latest?cb=20170212121524",
+        "https://static.wikia.nocookie.net/bakugan/images/5/57/B1_Dual_Hydranoid_Darkus_BL.jpg/revision/latest?cb=20180424051122"
+      ]
     },
     {
       "id": "hydranoid-haos",
@@ -3676,9 +4469,19 @@ window.BAKU_DATA = {
         "gForce": 87
       },
       "bio": "Masquerade’in korku salan partneri. Her zaferle evrim kapısı aralanır. Bu kayıt Haos (Işık) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b4/5f0f7d9d094ff107_bk_hydranoid.png/revision/latest?cb=20100716120835",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b4/5f0f7d9d094ff107_bk_hydranoid.png/revision/latest?cb=20100716120835",
-      "nickname": "Haos Hydranoid"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d8/BAA-Hydranoid_x_Aquos_anime.png/revision/latest?cb=20210118165209",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a2/Prototype_Hydranoid_Closed.png/revision/latest?cb=20180419045553",
+      "nickname": "Haos Hydranoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Hydranoid_ball.jpg/revision/latest?cb=20090324114734",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Prototype_Hydranoid_Open.png/revision/latest?cb=20180419045600",
+        "https://static.wikia.nocookie.net/bakugan/images/1/11/Hydranoid_X_Aquos_%28Ball_Open%29.png/revision/latest?cb=20210721150138",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Alpha_Hydranoid.jpg/revision/latest?cb=20110730211552",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/Hydranoid_X_Aquos_Cyclone_Generator.png/revision/latest?cb=20210814022302",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c1/Dual_Hydranoid.png/revision/latest?cb=20170212121524",
+        "https://static.wikia.nocookie.net/bakugan/images/5/57/B1_Dual_Hydranoid_Darkus_BL.jpg/revision/latest?cb=20180424051122",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/B1_Dual_Hydranoid_Darkus_FR.jpg/revision/latest?cb=20180424051121"
+      ]
     },
     {
       "id": "hydranoid-darkus",
@@ -3707,9 +4510,19 @@ window.BAKU_DATA = {
         "gForce": 87
       },
       "bio": "Masquerade’in korku salan partneri. Her zaferle evrim kapısı aralanır. Bu kayıt Darkus (Karanlık) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b4/5f0f7d9d094ff107_bk_hydranoid.png/revision/latest?cb=20100716120835",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1c/KeithStrife_Darkus_Hydranoid.JPG/revision/latest?cb=20130601144928",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b4/5f0f7d9d094ff107_bk_hydranoid.png/revision/latest?cb=20100716120835",
-      "nickname": "Darkus Hydranoid"
+      "nickname": "Darkus Hydranoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f8/Darkus_hydranoid.jpg/revision/latest?cb=20100530180512",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c7/Clear_darkus_hydranoid.jpg/revision/latest?cb=20110605071109",
+        "https://static.wikia.nocookie.net/bakugan/images/5/57/B1_Dual_Hydranoid_Darkus_BL.jpg/revision/latest?cb=20180424051122",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/B1_Dual_Hydranoid_Darkus_FR.jpg/revision/latest?cb=20180424051121",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/B1_Dual_Hydranoid_Darkus_BR.jpg/revision/latest?cb=20180424051120",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/B1_Dual_Hydranoid_Darkus_BK.jpg/revision/latest?cb=20180424051119",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/B1_Dual_Hydranoid_Darkus_FT.jpg/revision/latest?cb=20180424051251",
+        "https://static.wikia.nocookie.net/bakugan/images/8/86/B1_Dual_Hydranoid_Darkus_FL.jpg/revision/latest?cb=20180424051121"
+      ]
     },
     {
       "id": "hynoid-pyrus",
@@ -3738,8 +4551,18 @@ window.BAKU_DATA = {
       },
       "bio": "Hynoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/15/Pyrus_Hynoid.jpg/revision/latest?cb=20100403004433",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d9/BK_CD_Hynoid.jpg/revision/latest?cb=20091018220216",
-      "nickname": "Pyrus Hynoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/15/Pyrus_Hynoid.jpg/revision/latest?cb=20100403004433",
+      "nickname": "Pyrus Hynoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Hynoid_Ball.JPG/revision/latest?cb=20091031215220",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Haos_Hynoid_Anime.jpg/revision/latest?cb=20100403034725",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/BA146_GA_SM_hynoid_F.png/revision/latest?cb=20170519044337",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ed/Hynoid.PNG/revision/latest?cb=20101006224012",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Hynoid_deleted.png/revision/latest?cb=20170312142426",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Ratleoid_and_Hynoid.PNG/revision/latest?cb=20100921002943",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/KeithStrife_Haos_Hynoid.JPG/revision/latest?cb=20120815184112",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Hynoid_Rattleoid_Gate_Card.jpg/revision/latest?cb=20100624040505"
+      ]
     },
     {
       "id": "hynoid-aquos",
@@ -3768,8 +4591,18 @@ window.BAKU_DATA = {
       },
       "bio": "Hynoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ed/Aquos_Hynoid.jpg/revision/latest?cb=20110816022853",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d9/BK_CD_Hynoid.jpg/revision/latest?cb=20091018220216",
-      "nickname": "Aquos Hynoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ed/Aquos_Hynoid.jpg/revision/latest?cb=20110816022853",
+      "nickname": "Aquos Hynoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Hynoid_Ball.JPG/revision/latest?cb=20091031215220",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Haos_Hynoid_Anime.jpg/revision/latest?cb=20100403034725",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/BA146_GA_SM_hynoid_F.png/revision/latest?cb=20170519044337",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ed/Hynoid.PNG/revision/latest?cb=20101006224012",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Hynoid_deleted.png/revision/latest?cb=20170312142426",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Ratleoid_and_Hynoid.PNG/revision/latest?cb=20100921002943",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/KeithStrife_Haos_Hynoid.JPG/revision/latest?cb=20120815184112",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Hynoid_Rattleoid_Gate_Card.jpg/revision/latest?cb=20100624040505"
+      ]
     },
     {
       "id": "hynoid-ventus",
@@ -3797,9 +4630,19 @@ window.BAKU_DATA = {
         "gForce": 69
       },
       "bio": "Hynoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d9/BK_CD_Hynoid.jpg/revision/latest?cb=20091018220216",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d9/BK_CD_Hynoid.jpg/revision/latest?cb=20091018220216",
-      "nickname": "Ventus Hynoid"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1e/Haos_Hynoid_Anime.jpg/revision/latest?cb=20100403034725",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/63/Hynoid_Ball.JPG/revision/latest?cb=20091031215220",
+      "nickname": "Ventus Hynoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/BA146_GA_SM_hynoid_F.png/revision/latest?cb=20170519044337",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ed/Hynoid.PNG/revision/latest?cb=20101006224012",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Hynoid_deleted.png/revision/latest?cb=20170312142426",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Ratleoid_and_Hynoid.PNG/revision/latest?cb=20100921002943",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/KeithStrife_Haos_Hynoid.JPG/revision/latest?cb=20120815184112",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Hynoid_Rattleoid_Gate_Card.jpg/revision/latest?cb=20100624040505",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d9/BK_CD_Hynoid.jpg/revision/latest?cb=20091018220216",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Tuskor_Hynoid_Nose_Slap.jpg/revision/latest?cb=20100624042037"
+      ]
     },
     {
       "id": "hynoid-subterra",
@@ -3828,8 +4671,18 @@ window.BAKU_DATA = {
       },
       "bio": "Hynoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4d/Bakugan%2C_Subterra_Hynoid_Custom.jpg/revision/latest?cb=20240401074416",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d9/BK_CD_Hynoid.jpg/revision/latest?cb=20091018220216",
-      "nickname": "Subterra Hynoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4d/Bakugan%2C_Subterra_Hynoid_Custom.jpg/revision/latest?cb=20240401074416",
+      "nickname": "Subterra Hynoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/de/Hynoid_Subterra.JPG/revision/latest?cb=20091031215453",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Hynoid_Ball.JPG/revision/latest?cb=20091031215220",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Haos_Hynoid_Anime.jpg/revision/latest?cb=20100403034725",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/BA146_GA_SM_hynoid_F.png/revision/latest?cb=20170519044337",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ed/Hynoid.PNG/revision/latest?cb=20101006224012",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Hynoid_deleted.png/revision/latest?cb=20170312142426",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Ratleoid_and_Hynoid.PNG/revision/latest?cb=20100921002943",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/KeithStrife_Haos_Hynoid.JPG/revision/latest?cb=20120815184112"
+      ]
     },
     {
       "id": "hynoid-haos",
@@ -3858,8 +4711,18 @@ window.BAKU_DATA = {
       },
       "bio": "Hynoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/21/KeithStrife_Haos_Hynoid.JPG/revision/latest?cb=20120815184112",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d9/BK_CD_Hynoid.jpg/revision/latest?cb=20091018220216",
-      "nickname": "Haos Hynoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/21/KeithStrife_Haos_Hynoid.JPG/revision/latest?cb=20120815184112",
+      "nickname": "Haos Hynoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Haos_Hynoid_Anime.jpg/revision/latest?cb=20100403034725",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b8/Haos_Hynoid.jpg/revision/latest?cb=20100403004523",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Hynoid_Ball.JPG/revision/latest?cb=20091031215220",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/BA146_GA_SM_hynoid_F.png/revision/latest?cb=20170519044337",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ed/Hynoid.PNG/revision/latest?cb=20101006224012",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Hynoid_deleted.png/revision/latest?cb=20170312142426",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Ratleoid_and_Hynoid.PNG/revision/latest?cb=20100921002943",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Hynoid_Rattleoid_Gate_Card.jpg/revision/latest?cb=20100624040505"
+      ]
     },
     {
       "id": "hynoid-darkus",
@@ -3889,7 +4752,17 @@ window.BAKU_DATA = {
       "bio": "Hynoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d9/BK_CD_Hynoid.jpg/revision/latest?cb=20091018220216",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d9/BK_CD_Hynoid.jpg/revision/latest?cb=20091018220216",
-      "nickname": "Darkus Hynoid"
+      "nickname": "Darkus Hynoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Hynoid_Ball.JPG/revision/latest?cb=20091031215220",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Haos_Hynoid_Anime.jpg/revision/latest?cb=20100403034725",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/BA146_GA_SM_hynoid_F.png/revision/latest?cb=20170519044337",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ed/Hynoid.PNG/revision/latest?cb=20101006224012",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Hynoid_deleted.png/revision/latest?cb=20170312142426",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Ratleoid_and_Hynoid.PNG/revision/latest?cb=20100921002943",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/KeithStrife_Haos_Hynoid.JPG/revision/latest?cb=20120815184112",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Hynoid_Rattleoid_Gate_Card.jpg/revision/latest?cb=20100624040505"
+      ]
     },
     {
       "id": "infinity-dragonoid",
@@ -3917,8 +4790,18 @@ window.BAKU_DATA = {
         "gForce": 72
       },
       "bio": "Infinity Dragonoid, Sezon 1 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/7f/Ultimate_drago.jpg/revision/latest?cb=20091102175714",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7f/Ultimate_drago.jpg/revision/latest?cb=20091102175714"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4b/Pyrus_Titanium_Dragonoid_Haos-Ventus_Mercury_Dragonoid_Aquos_Infinity_Trister.jpg/revision/latest?cb=20110819085440",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7f/Ultimate_drago.jpg/revision/latest?cb=20091102175714",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Infinity_Dragonoid_Ball_.png/revision/latest?cb=20210918134131",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Dragonoid_Infinity_reach_Ultimate_Infinity.png/revision/latest?cb=20250130084543",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/Dragonoid_Infinity%27s_Baku-Gear.png/revision/latest?cb=20210108175913",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/Dragonoid_Infinity%27s_Infinity_Cannon.png/revision/latest?cb=20210120090201",
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Dragonoid_Infinity_and_Five_Fusion_Bakugan.png/revision/latest?cb=20211106164803",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bc/Dragonoid_Infinity_fights_Sabrus.png/revision/latest?cb=20210429070241",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a2/BK_SA_Infinity_Dragonoid.png/revision/latest?cb=20090910174638",
+        "https://static.wikia.nocookie.net/bakugan/images/8/81/KeithStrife_Darkus_Infinity_Dragonoid.JPG/revision/latest?cb=20130525010834"
+      ]
     },
     {
       "id": "juggernoid-pyrus",
@@ -3947,8 +4830,18 @@ window.BAKU_DATA = {
       },
       "bio": "Juggernoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Pyrus_Gargonoid_Darkus_Juggernoid.jpg/revision/latest?cb=20100728230205",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f5/BK_CD_Juggernoid.jpg/revision/latest?cb=20091019191023",
-      "nickname": "Pyrus Juggernoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Pyrus_Gargonoid_Darkus_Juggernoid.jpg/revision/latest?cb=20100728230205",
+      "nickname": "Pyrus Juggernoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e7/Aquos_Juggernoid_Sphere.png/revision/latest?cb=20181026181739",
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Darkus_Juggernoid_Sphere.png/revision/latest?cb=20181026181507",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Juggernoid_Ball.JPG/revision/latest?cb=20091031215221",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Subterra_Juggernoid_closed.PNG/revision/latest?cb=20100922200250",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f6/Juggernoid_open.PNG/revision/latest?cb=20110702091600",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Bakugan_ATTACK_Juggernoid.png/revision/latest?cb=20180521080506",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e3/Aquos_Juggernoid_Bakugan.png/revision/latest?cb=20181026181811",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Darkus_Juggernoid_Bakugan.png/revision/latest?cb=20181026181618"
+      ]
     },
     {
       "id": "juggernoid-aquos",
@@ -3977,8 +4870,18 @@ window.BAKU_DATA = {
       },
       "bio": "Juggernoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/bc/KeithStrife_B1_Aquos_Juggernoid.JPG/revision/latest?cb=20121023025630",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f5/BK_CD_Juggernoid.jpg/revision/latest?cb=20091019191023",
-      "nickname": "Aquos Juggernoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e7/Aquos_Juggernoid_Sphere.png/revision/latest?cb=20181026181739",
+      "nickname": "Aquos Juggernoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e3/Aquos_Juggernoid_Bakugan.png/revision/latest?cb=20181026181811",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d9/Translucent_Aquos_Juggernoid.jpg/revision/latest?cb=20100829010455",
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Darkus_Juggernoid_Sphere.png/revision/latest?cb=20181026181507",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Juggernoid_Ball.JPG/revision/latest?cb=20091031215221",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Subterra_Juggernoid_closed.PNG/revision/latest?cb=20100922200250",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f6/Juggernoid_open.PNG/revision/latest?cb=20110702091600",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Bakugan_ATTACK_Juggernoid.png/revision/latest?cb=20180521080506",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Darkus_Juggernoid_Bakugan.png/revision/latest?cb=20181026181618"
+      ]
     },
     {
       "id": "juggernoid-ventus",
@@ -4007,8 +4910,18 @@ window.BAKU_DATA = {
       },
       "bio": "Juggernoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ef/Ventus_Juggernoid_SPIN.PNG/revision/latest?cb=20100922203802",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f5/BK_CD_Juggernoid.jpg/revision/latest?cb=20091019191023",
-      "nickname": "Ventus Juggernoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/56/Ventus_Juggernoid.PNG/revision/latest?cb=20100922203210",
+      "nickname": "Ventus Juggernoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e7/Aquos_Juggernoid_Sphere.png/revision/latest?cb=20181026181739",
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Darkus_Juggernoid_Sphere.png/revision/latest?cb=20181026181507",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Juggernoid_Ball.JPG/revision/latest?cb=20091031215221",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Subterra_Juggernoid_closed.PNG/revision/latest?cb=20100922200250",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f6/Juggernoid_open.PNG/revision/latest?cb=20110702091600",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Bakugan_ATTACK_Juggernoid.png/revision/latest?cb=20180521080506",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e3/Aquos_Juggernoid_Bakugan.png/revision/latest?cb=20181026181811",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Darkus_Juggernoid_Bakugan.png/revision/latest?cb=20181026181618"
+      ]
     },
     {
       "id": "juggernoid-subterra",
@@ -4037,8 +4950,18 @@ window.BAKU_DATA = {
       },
       "bio": "Juggernoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Subterra_Juggernoid_closed.PNG/revision/latest?cb=20100922200250",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f5/BK_CD_Juggernoid.jpg/revision/latest?cb=20091019191023",
-      "nickname": "Subterra Juggernoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Subterra_Juggernoid_closed.PNG/revision/latest?cb=20100922200250",
+      "nickname": "Subterra Juggernoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Subterra_Juggernoid.PNG/revision/latest?cb=20100922201415",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e7/Aquos_Juggernoid_Sphere.png/revision/latest?cb=20181026181739",
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Darkus_Juggernoid_Sphere.png/revision/latest?cb=20181026181507",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Juggernoid_Ball.JPG/revision/latest?cb=20091031215221",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f6/Juggernoid_open.PNG/revision/latest?cb=20110702091600",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Bakugan_ATTACK_Juggernoid.png/revision/latest?cb=20180521080506",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e3/Aquos_Juggernoid_Bakugan.png/revision/latest?cb=20181026181811",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Darkus_Juggernoid_Bakugan.png/revision/latest?cb=20181026181618"
+      ]
     },
     {
       "id": "juggernoid-haos",
@@ -4067,8 +4990,18 @@ window.BAKU_DATA = {
       },
       "bio": "Juggernoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f5/BK_CD_Juggernoid.jpg/revision/latest?cb=20091019191023",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f5/BK_CD_Juggernoid.jpg/revision/latest?cb=20091019191023",
-      "nickname": "Haos Juggernoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e7/Aquos_Juggernoid_Sphere.png/revision/latest?cb=20181026181739",
+      "nickname": "Haos Juggernoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Darkus_Juggernoid_Sphere.png/revision/latest?cb=20181026181507",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Juggernoid_Ball.JPG/revision/latest?cb=20091031215221",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Subterra_Juggernoid_closed.PNG/revision/latest?cb=20100922200250",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f6/Juggernoid_open.PNG/revision/latest?cb=20110702091600",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Bakugan_ATTACK_Juggernoid.png/revision/latest?cb=20180521080506",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e3/Aquos_Juggernoid_Bakugan.png/revision/latest?cb=20181026181811",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Darkus_Juggernoid_Bakugan.png/revision/latest?cb=20181026181618",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Subterra_Juggernoid.PNG/revision/latest?cb=20100922201415"
+      ]
     },
     {
       "id": "juggernoid-darkus",
@@ -4098,7 +5031,17 @@ window.BAKU_DATA = {
       "bio": "Juggernoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b5/GAMERA_JUGGERNOID_DARKUS.jpg/revision/latest?cb=20110218231835",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f5/BK_CD_Juggernoid.jpg/revision/latest?cb=20091019191023",
-      "nickname": "Darkus Juggernoid"
+      "nickname": "Darkus Juggernoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Darkus_Juggernoid_Sphere.png/revision/latest?cb=20181026181507",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Darkus_Juggernoid_Bakugan.png/revision/latest?cb=20181026181618",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Pyrus_Gargonoid_Darkus_Juggernoid.jpg/revision/latest?cb=20100728230205",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e7/Aquos_Juggernoid_Sphere.png/revision/latest?cb=20181026181739",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Juggernoid_Ball.JPG/revision/latest?cb=20091031215221",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Subterra_Juggernoid_closed.PNG/revision/latest?cb=20100922200250",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f6/Juggernoid_open.PNG/revision/latest?cb=20110702091600",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Bakugan_ATTACK_Juggernoid.png/revision/latest?cb=20180521080506"
+      ]
     },
     {
       "id": "lars-lion",
@@ -4127,7 +5070,17 @@ window.BAKU_DATA = {
       },
       "bio": "Lars Lion, Sezon 1 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/52/BK_CD_LarsLion.jpg/revision/latest?cb=20091113230835",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/52/BK_CD_LarsLion.jpg/revision/latest?cb=20091113230835"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/52/BK_CD_LarsLion.jpg/revision/latest?cb=20091113230835",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Lars_Lion_Ball.JPG/revision/latest?cb=20190907141905",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e1/Lars_lion_bakugan_ball_form_open_real_haos.jpg/revision/latest?cb=20100719101251",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/Haos_Lars_Lion.jpg/revision/latest?cb=20110823024052",
+        "https://static.wikia.nocookie.net/bakugan/images/6/69/BA336_AB_lars_lion_45d.png/revision/latest?cb=20170702215331",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5c/Lars_Lion_Haos.JPG/revision/latest?cb=20190902135040",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a5/Haos_Lars_Lion.png/revision/latest?cb=20110420042558",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/BA336_AB_lars_lion_45d.jpg/revision/latest?cb=20100424171252",
+        "https://static.wikia.nocookie.net/bakugan/images/9/92/Lars-Lion-Info.png/revision/latest?cb=20111130102331"
+      ]
     },
     {
       "id": "laserman-pyrus",
@@ -4155,9 +5108,19 @@ window.BAKU_DATA = {
         "gForce": 66
       },
       "bio": "Laserman, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/dc/BK_CD_Laserman.jpg/revision/latest?cb=20091102183311",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/dc/BK_CD_Laserman.jpg/revision/latest?cb=20091102183311",
-      "nickname": "Pyrus Laserman"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/22/Laserman_open.PNG/revision/latest?cb=20110702091640",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/ce/Laserman_closed.PNG/revision/latest?cb=20100921005619",
+      "nickname": "Pyrus Laserman",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Laserman_Ball.JPG/revision/latest?cb=20091031215221",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Laserman_sent_to_Doom_Dimension.PNG/revision/latest?cb=20100921010017",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/KeithStrife_Haos_Laserman.jpg/revision/latest?cb=20130315170127",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Laserman_back.PNG/revision/latest?cb=20100921005757",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Launcher_laserman.jpg/revision/latest?cb=20101011153427",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/BK_CD_Laserman.jpg/revision/latest?cb=20091102183311",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Laserman-subterra-old-light.jpg/revision/latest?cb=20091121145027",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d9/Translucent_Aquos_Laserman.jpg/revision/latest?cb=20100618225400"
+      ]
     },
     {
       "id": "laserman-aquos",
@@ -4186,8 +5149,18 @@ window.BAKU_DATA = {
       },
       "bio": "Laserman, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d9/Translucent_Aquos_Laserman.jpg/revision/latest?cb=20100618225400",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/dc/BK_CD_Laserman.jpg/revision/latest?cb=20091102183311",
-      "nickname": "Aquos Laserman"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d9/Translucent_Aquos_Laserman.jpg/revision/latest?cb=20100618225400",
+      "nickname": "Aquos Laserman",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/ce/Laserman_closed.PNG/revision/latest?cb=20100921005619",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Laserman_Ball.JPG/revision/latest?cb=20091031215221",
+        "https://static.wikia.nocookie.net/bakugan/images/2/22/Laserman_open.PNG/revision/latest?cb=20110702091640",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Laserman_sent_to_Doom_Dimension.PNG/revision/latest?cb=20100921010017",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/KeithStrife_Haos_Laserman.jpg/revision/latest?cb=20130315170127",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Laserman_back.PNG/revision/latest?cb=20100921005757",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Launcher_laserman.jpg/revision/latest?cb=20101011153427",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/BK_CD_Laserman.jpg/revision/latest?cb=20091102183311"
+      ]
     },
     {
       "id": "laserman-ventus",
@@ -4216,8 +5189,18 @@ window.BAKU_DATA = {
       },
       "bio": "Laserman, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/dc/BK_CD_Laserman.jpg/revision/latest?cb=20091102183311",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/dc/BK_CD_Laserman.jpg/revision/latest?cb=20091102183311",
-      "nickname": "Ventus Laserman"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/ce/Laserman_closed.PNG/revision/latest?cb=20100921005619",
+      "nickname": "Ventus Laserman",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Laserman_Ball.JPG/revision/latest?cb=20091031215221",
+        "https://static.wikia.nocookie.net/bakugan/images/2/22/Laserman_open.PNG/revision/latest?cb=20110702091640",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Laserman_sent_to_Doom_Dimension.PNG/revision/latest?cb=20100921010017",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/KeithStrife_Haos_Laserman.jpg/revision/latest?cb=20130315170127",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Laserman_back.PNG/revision/latest?cb=20100921005757",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Launcher_laserman.jpg/revision/latest?cb=20101011153427",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Laserman-subterra-old-light.jpg/revision/latest?cb=20091121145027",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d9/Translucent_Aquos_Laserman.jpg/revision/latest?cb=20100618225400"
+      ]
     },
     {
       "id": "laserman-subterra",
@@ -4246,8 +5229,18 @@ window.BAKU_DATA = {
       },
       "bio": "Laserman, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/40/Laserman-subterra-old-light.jpg/revision/latest?cb=20091121145027",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/dc/BK_CD_Laserman.jpg/revision/latest?cb=20091102183311",
-      "nickname": "Subterra Laserman"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/40/Laserman-subterra-old-light.jpg/revision/latest?cb=20091121145027",
+      "nickname": "Subterra Laserman",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/ce/Laserman_closed.PNG/revision/latest?cb=20100921005619",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Laserman_Ball.JPG/revision/latest?cb=20091031215221",
+        "https://static.wikia.nocookie.net/bakugan/images/2/22/Laserman_open.PNG/revision/latest?cb=20110702091640",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Laserman_sent_to_Doom_Dimension.PNG/revision/latest?cb=20100921010017",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/KeithStrife_Haos_Laserman.jpg/revision/latest?cb=20130315170127",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Laserman_back.PNG/revision/latest?cb=20100921005757",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Launcher_laserman.jpg/revision/latest?cb=20101011153427",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/BK_CD_Laserman.jpg/revision/latest?cb=20091102183311"
+      ]
     },
     {
       "id": "laserman-haos",
@@ -4276,8 +5269,18 @@ window.BAKU_DATA = {
       },
       "bio": "Laserman, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/01/KeithStrife_Haos_Laserman.jpg/revision/latest?cb=20130315170127",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/dc/BK_CD_Laserman.jpg/revision/latest?cb=20091102183311",
-      "nickname": "Haos Laserman"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/01/KeithStrife_Haos_Laserman.jpg/revision/latest?cb=20130315170127",
+      "nickname": "Haos Laserman",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/ce/Laserman_closed.PNG/revision/latest?cb=20100921005619",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Laserman_Ball.JPG/revision/latest?cb=20091031215221",
+        "https://static.wikia.nocookie.net/bakugan/images/2/22/Laserman_open.PNG/revision/latest?cb=20110702091640",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Laserman_sent_to_Doom_Dimension.PNG/revision/latest?cb=20100921010017",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Laserman_back.PNG/revision/latest?cb=20100921005757",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Launcher_laserman.jpg/revision/latest?cb=20101011153427",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/BK_CD_Laserman.jpg/revision/latest?cb=20091102183311",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Laserman-subterra-old-light.jpg/revision/latest?cb=20091121145027"
+      ]
     },
     {
       "id": "laserman-darkus",
@@ -4307,7 +5310,17 @@ window.BAKU_DATA = {
       "bio": "Laserman, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ea/Darkus_Laserman.png/revision/latest?cb=20110421155730",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/dc/BK_CD_Laserman.jpg/revision/latest?cb=20091102183311",
-      "nickname": "Darkus Laserman"
+      "nickname": "Darkus Laserman",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/ce/Laserman_closed.PNG/revision/latest?cb=20100921005619",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Laserman_Ball.JPG/revision/latest?cb=20091031215221",
+        "https://static.wikia.nocookie.net/bakugan/images/2/22/Laserman_open.PNG/revision/latest?cb=20110702091640",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Laserman_sent_to_Doom_Dimension.PNG/revision/latest?cb=20100921010017",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/KeithStrife_Haos_Laserman.jpg/revision/latest?cb=20130315170127",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Laserman_back.PNG/revision/latest?cb=20100921005757",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Launcher_laserman.jpg/revision/latest?cb=20101011153427",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Laserman-subterra-old-light.jpg/revision/latest?cb=20091121145027"
+      ]
     },
     {
       "id": "limulus-pyrus",
@@ -4336,8 +5349,18 @@ window.BAKU_DATA = {
       },
       "bio": "Limulus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Pyrus_limulus.jpg/revision/latest?cb=20100307231832",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b8/BK_CD_Limulus.jpg/revision/latest?cb=20091010142922",
-      "nickname": "Pyrus Limulus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Pyrus_limulus.jpg/revision/latest?cb=20100307231832",
+      "nickname": "Pyrus Limulus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/8b/Limulus_Ball.JPG/revision/latest?cb=20091031215452",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8a/Bakusolar_Limulus.jpg/revision/latest?cb=20110823025000",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Limulus_faces_Fear_Ripper_%28Ep._24%29.png/revision/latest?cb=20240618151348",
+        "https://static.wikia.nocookie.net/bakugan/images/3/39/BA204_GA_SM_limulus.png/revision/latest?cb=20170620043035",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Fear_Ripper_faces_Limulus_%28Ep._24%29.png/revision/latest?cb=20240617174525",
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Limulus.PNG/revision/latest?cb=20100922200636",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/Limulus.png/revision/latest?cb=20120104031508",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/KeithStrife_Aquos_Limulus.JPG/revision/latest?cb=20120815183849"
+      ]
     },
     {
       "id": "limulus-aquos",
@@ -4366,8 +5389,18 @@ window.BAKU_DATA = {
       },
       "bio": "Limulus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ad/KeithStrife_Aquos_Limulus.JPG/revision/latest?cb=20120815183849",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b8/BK_CD_Limulus.jpg/revision/latest?cb=20091010142922",
-      "nickname": "Aquos Limulus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ad/KeithStrife_Aquos_Limulus.JPG/revision/latest?cb=20120815183849",
+      "nickname": "Aquos Limulus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/8b/Limulus_Ball.JPG/revision/latest?cb=20091031215452",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8a/Bakusolar_Limulus.jpg/revision/latest?cb=20110823025000",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Limulus_faces_Fear_Ripper_%28Ep._24%29.png/revision/latest?cb=20240618151348",
+        "https://static.wikia.nocookie.net/bakugan/images/3/39/BA204_GA_SM_limulus.png/revision/latest?cb=20170620043035",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Fear_Ripper_faces_Limulus_%28Ep._24%29.png/revision/latest?cb=20240617174525",
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Limulus.PNG/revision/latest?cb=20100922200636",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/Limulus.png/revision/latest?cb=20120104031508",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ea/Limulus_scanned_by_bakupod.png/revision/latest?cb=20180730191646"
+      ]
     },
     {
       "id": "limulus-ventus",
@@ -4395,9 +5428,19 @@ window.BAKU_DATA = {
         "gForce": 55
       },
       "bio": "Limulus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b8/BK_CD_Limulus.jpg/revision/latest?cb=20091010142922",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b8/BK_CD_Limulus.jpg/revision/latest?cb=20091010142922",
-      "nickname": "Ventus Limulus"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Bakusolar_Limulus.jpg/revision/latest?cb=20110823025000",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8b/Limulus_Ball.JPG/revision/latest?cb=20091031215452",
+      "nickname": "Ventus Limulus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Limulus_faces_Fear_Ripper_%28Ep._24%29.png/revision/latest?cb=20240618151348",
+        "https://static.wikia.nocookie.net/bakugan/images/3/39/BA204_GA_SM_limulus.png/revision/latest?cb=20170620043035",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Fear_Ripper_faces_Limulus_%28Ep._24%29.png/revision/latest?cb=20240617174525",
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Limulus.PNG/revision/latest?cb=20100922200636",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/Limulus.png/revision/latest?cb=20120104031508",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/KeithStrife_Aquos_Limulus.JPG/revision/latest?cb=20120815183849",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ea/Limulus_scanned_by_bakupod.png/revision/latest?cb=20180730191646",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b8/BK_CD_Limulus.jpg/revision/latest?cb=20091010142922"
+      ]
     },
     {
       "id": "limulus-subterra",
@@ -4425,9 +5468,19 @@ window.BAKU_DATA = {
         "gForce": 55
       },
       "bio": "Limulus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b8/BK_CD_Limulus.jpg/revision/latest?cb=20091010142922",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b8/BK_CD_Limulus.jpg/revision/latest?cb=20091010142922",
-      "nickname": "Subterra Limulus"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Bakusolar_Limulus.jpg/revision/latest?cb=20110823025000",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8b/Limulus_Ball.JPG/revision/latest?cb=20091031215452",
+      "nickname": "Subterra Limulus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Limulus_faces_Fear_Ripper_%28Ep._24%29.png/revision/latest?cb=20240618151348",
+        "https://static.wikia.nocookie.net/bakugan/images/3/39/BA204_GA_SM_limulus.png/revision/latest?cb=20170620043035",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Fear_Ripper_faces_Limulus_%28Ep._24%29.png/revision/latest?cb=20240617174525",
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Limulus.PNG/revision/latest?cb=20100922200636",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/Limulus.png/revision/latest?cb=20120104031508",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/KeithStrife_Aquos_Limulus.JPG/revision/latest?cb=20120815183849",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ea/Limulus_scanned_by_bakupod.png/revision/latest?cb=20180730191646",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b8/BK_CD_Limulus.jpg/revision/latest?cb=20091010142922"
+      ]
     },
     {
       "id": "limulus-haos",
@@ -4455,9 +5508,19 @@ window.BAKU_DATA = {
         "gForce": 55
       },
       "bio": "Limulus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b8/BK_CD_Limulus.jpg/revision/latest?cb=20091010142922",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b8/BK_CD_Limulus.jpg/revision/latest?cb=20091010142922",
-      "nickname": "Haos Limulus"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Bakusolar_Limulus.jpg/revision/latest?cb=20110823025000",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8b/Limulus_Ball.JPG/revision/latest?cb=20091031215452",
+      "nickname": "Haos Limulus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Limulus_faces_Fear_Ripper_%28Ep._24%29.png/revision/latest?cb=20240618151348",
+        "https://static.wikia.nocookie.net/bakugan/images/3/39/BA204_GA_SM_limulus.png/revision/latest?cb=20170620043035",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Fear_Ripper_faces_Limulus_%28Ep._24%29.png/revision/latest?cb=20240617174525",
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Limulus.PNG/revision/latest?cb=20100922200636",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/Limulus.png/revision/latest?cb=20120104031508",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/KeithStrife_Aquos_Limulus.JPG/revision/latest?cb=20120815183849",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ea/Limulus_scanned_by_bakupod.png/revision/latest?cb=20180730191646",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b8/BK_CD_Limulus.jpg/revision/latest?cb=20091010142922"
+      ]
     },
     {
       "id": "limulus-darkus",
@@ -4487,7 +5550,17 @@ window.BAKU_DATA = {
       "bio": "Limulus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b8/BK_CD_Limulus.jpg/revision/latest?cb=20091010142922",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b8/BK_CD_Limulus.jpg/revision/latest?cb=20091010142922",
-      "nickname": "Darkus Limulus"
+      "nickname": "Darkus Limulus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/8b/Limulus_Ball.JPG/revision/latest?cb=20091031215452",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8a/Bakusolar_Limulus.jpg/revision/latest?cb=20110823025000",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Limulus_faces_Fear_Ripper_%28Ep._24%29.png/revision/latest?cb=20240618151348",
+        "https://static.wikia.nocookie.net/bakugan/images/3/39/BA204_GA_SM_limulus.png/revision/latest?cb=20170620043035",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Fear_Ripper_faces_Limulus_%28Ep._24%29.png/revision/latest?cb=20240617174525",
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Limulus.PNG/revision/latest?cb=20100922200636",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/Limulus.png/revision/latest?cb=20120104031508",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/KeithStrife_Aquos_Limulus.JPG/revision/latest?cb=20120815183849"
+      ]
     },
     {
       "id": "manion-pyrus",
@@ -4516,8 +5589,18 @@ window.BAKU_DATA = {
       },
       "bio": "Manion, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/77/Pyrus_Mantris_moves_Pyrus_Manion..png/revision/latest?cb=20240618150237",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6c/BK_CD_Manion.jpg/revision/latest?cb=20091012233309",
-      "nickname": "Pyrus Manion"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/77/Pyrus_Mantris_moves_Pyrus_Manion..png/revision/latest?cb=20240618150237",
+      "nickname": "Pyrus Manion",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Pyrus_Manion_Bakugan.PNG/revision/latest?cb=20100920225843",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/Pyrus_Manion.PNG/revision/latest?cb=20100920225408",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Subterra_Manion_ball.PNG/revision/latest?cb=20100921000552",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Manion_Ball.JPG/revision/latest?cb=20091031215458",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Haos_Manion_in_ball_form_on_Bakugn.com_%28open%29.JPG/revision/latest?cb=20110703225416",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b7/BA142_GA_SM_manion_F.png/revision/latest?cb=20170519043255",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Subterra_Manion.PNG/revision/latest?cb=20100921000721",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/Clear_Manion.jpg/revision/latest?cb=20100406224117"
+      ]
     },
     {
       "id": "manion-aquos",
@@ -4545,9 +5628,19 @@ window.BAKU_DATA = {
         "gForce": 77
       },
       "bio": "Manion, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6c/BK_CD_Manion.jpg/revision/latest?cb=20091012233309",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6c/BK_CD_Manion.jpg/revision/latest?cb=20091012233309",
-      "nickname": "Aquos Manion"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/77/Pyrus_Mantris_moves_Pyrus_Manion..png/revision/latest?cb=20240618150237",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9e/Subterra_Manion_ball.PNG/revision/latest?cb=20100921000552",
+      "nickname": "Aquos Manion",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Manion_Ball.JPG/revision/latest?cb=20091031215458",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Haos_Manion_in_ball_form_on_Bakugn.com_%28open%29.JPG/revision/latest?cb=20110703225416",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b7/BA142_GA_SM_manion_F.png/revision/latest?cb=20170519043255",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Subterra_Manion.PNG/revision/latest?cb=20100921000721",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/Clear_Manion.jpg/revision/latest?cb=20100406224117",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Pyrus_Manion_Bakugan.PNG/revision/latest?cb=20100920225843",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/Pyrus_Manion.PNG/revision/latest?cb=20100920225408",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6c/BK_CD_Manion.jpg/revision/latest?cb=20091012233309"
+      ]
     },
     {
       "id": "manion-ventus",
@@ -4576,8 +5669,18 @@ window.BAKU_DATA = {
       },
       "bio": "Manion, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/34/Manion_Ventus.JPG/revision/latest?cb=20091101011956",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6c/BK_CD_Manion.jpg/revision/latest?cb=20091012233309",
-      "nickname": "Ventus Manion"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/34/Manion_Ventus.JPG/revision/latest?cb=20091101011956",
+      "nickname": "Ventus Manion",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Subterra_Manion_ball.PNG/revision/latest?cb=20100921000552",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Manion_Ball.JPG/revision/latest?cb=20091031215458",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Haos_Manion_in_ball_form_on_Bakugn.com_%28open%29.JPG/revision/latest?cb=20110703225416",
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Pyrus_Mantris_moves_Pyrus_Manion..png/revision/latest?cb=20240618150237",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b7/BA142_GA_SM_manion_F.png/revision/latest?cb=20170519043255",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Subterra_Manion.PNG/revision/latest?cb=20100921000721",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/Clear_Manion.jpg/revision/latest?cb=20100406224117",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Pyrus_Manion_Bakugan.PNG/revision/latest?cb=20100920225843"
+      ]
     },
     {
       "id": "manion-subterra",
@@ -4606,8 +5709,18 @@ window.BAKU_DATA = {
       },
       "bio": "Manion, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/73/Bakugan_Subterra_Manion.jpg/revision/latest?cb=20211117102325",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6c/BK_CD_Manion.jpg/revision/latest?cb=20091012233309",
-      "nickname": "Subterra Manion"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9e/Subterra_Manion_ball.PNG/revision/latest?cb=20100921000552",
+      "nickname": "Subterra Manion",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Subterra_Manion.PNG/revision/latest?cb=20100921000721",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Subterra_Manion.jpg/revision/latest?cb=20111103210852",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Manion_Ball.JPG/revision/latest?cb=20091031215458",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Haos_Manion_in_ball_form_on_Bakugn.com_%28open%29.JPG/revision/latest?cb=20110703225416",
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Pyrus_Mantris_moves_Pyrus_Manion..png/revision/latest?cb=20240618150237",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b7/BA142_GA_SM_manion_F.png/revision/latest?cb=20170519043255",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/Clear_Manion.jpg/revision/latest?cb=20100406224117",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Pyrus_Manion_Bakugan.PNG/revision/latest?cb=20100920225843"
+      ]
     },
     {
       "id": "manion-haos",
@@ -4636,8 +5749,18 @@ window.BAKU_DATA = {
       },
       "bio": "Manion, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/62/Haos_Manion.jpg/revision/latest?cb=20111103210635",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6c/BK_CD_Manion.jpg/revision/latest?cb=20091012233309",
-      "nickname": "Haos Manion"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/31/Haos_Manion_in_ball_form_on_Bakugn.com_%28open%29.JPG/revision/latest?cb=20110703225416",
+      "nickname": "Haos Manion",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Subterra_Manion_ball.PNG/revision/latest?cb=20100921000552",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Manion_Ball.JPG/revision/latest?cb=20091031215458",
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Pyrus_Mantris_moves_Pyrus_Manion..png/revision/latest?cb=20240618150237",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b7/BA142_GA_SM_manion_F.png/revision/latest?cb=20170519043255",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Subterra_Manion.PNG/revision/latest?cb=20100921000721",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/Clear_Manion.jpg/revision/latest?cb=20100406224117",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Pyrus_Manion_Bakugan.PNG/revision/latest?cb=20100920225843",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/Pyrus_Manion.PNG/revision/latest?cb=20100920225408"
+      ]
     },
     {
       "id": "manion-darkus",
@@ -4667,7 +5790,17 @@ window.BAKU_DATA = {
       "bio": "Manion, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6c/BK_CD_Manion.jpg/revision/latest?cb=20091012233309",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6c/BK_CD_Manion.jpg/revision/latest?cb=20091012233309",
-      "nickname": "Darkus Manion"
+      "nickname": "Darkus Manion",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Subterra_Manion_ball.PNG/revision/latest?cb=20100921000552",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Manion_Ball.JPG/revision/latest?cb=20091031215458",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Haos_Manion_in_ball_form_on_Bakugn.com_%28open%29.JPG/revision/latest?cb=20110703225416",
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Pyrus_Mantris_moves_Pyrus_Manion..png/revision/latest?cb=20240618150237",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b7/BA142_GA_SM_manion_F.png/revision/latest?cb=20170519043255",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Subterra_Manion.PNG/revision/latest?cb=20100921000721",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/Clear_Manion.jpg/revision/latest?cb=20100406224117",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Pyrus_Manion_Bakugan.PNG/revision/latest?cb=20100920225843"
+      ]
     },
     {
       "id": "mantris-pyrus",
@@ -4696,8 +5829,18 @@ window.BAKU_DATA = {
       },
       "bio": "Hızlı ve kesici. Ventus arenasında ani öldürücü potansiyeli yüksektir. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e6/Mantris_Pyrus_gate_card.jpg/revision/latest?cb=20101214233626",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/83/BK-CD_Mantris.jpg/revision/latest?cb=20091101210037",
-      "nickname": "Pyrus Mantris"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3a/Pyrus_Mantris_Ball_Form.PNG/revision/latest?cb=20101029004340",
+      "nickname": "Pyrus Mantris",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Pyrus_Mantris_uses_Sling_Blazer..png/revision/latest?cb=20240618145742",
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Pyrus_Mantris_moves_Pyrus_Manion..png/revision/latest?cb=20240618150237",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Pyrus_Mantris_Bakugan_Form.PNG/revision/latest?cb=20101029004534",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Mantris_Ball.JPG/revision/latest?cb=20091031215458",
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Subterra_Mantris_Open.png/revision/latest?cb=20181024045952",
+        "https://static.wikia.nocookie.net/bakugan/images/0/03/Subterra_Mantris_Bakugan.png/revision/latest?cb=20181024153305",
+        "https://static.wikia.nocookie.net/bakugan/images/7/70/Travis_and_Mantris_in_the_battle_%28Ep._24%29.png/revision/latest?cb=20240617174014",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Aquos_Robotallion_faces_Darkus_Mantris..png/revision/latest?cb=20240618150934"
+      ]
     },
     {
       "id": "mantris-aquos",
@@ -4726,8 +5869,18 @@ window.BAKU_DATA = {
       },
       "bio": "Hızlı ve kesici. Ventus arenasında ani öldürücü potansiyeli yüksektir. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Aquos_Robotallion_faces_Darkus_Mantris..png/revision/latest?cb=20240618150934",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/83/BK-CD_Mantris.jpg/revision/latest?cb=20091101210037",
-      "nickname": "Aquos Mantris"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Aquos_Robotallion_faces_Darkus_Mantris..png/revision/latest?cb=20240618150934",
+      "nickname": "Aquos Mantris",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Pyrus_Mantris_Ball_Form.PNG/revision/latest?cb=20101029004340",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Mantris_Ball.JPG/revision/latest?cb=20091031215458",
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Subterra_Mantris_Open.png/revision/latest?cb=20181024045952",
+        "https://static.wikia.nocookie.net/bakugan/images/0/03/Subterra_Mantris_Bakugan.png/revision/latest?cb=20181024153305",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Pyrus_Mantris_uses_Sling_Blazer..png/revision/latest?cb=20240618145742",
+        "https://static.wikia.nocookie.net/bakugan/images/7/70/Travis_and_Mantris_in_the_battle_%28Ep._24%29.png/revision/latest?cb=20240617174014",
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Pyrus_Mantris_moves_Pyrus_Manion..png/revision/latest?cb=20240618150237",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Mantris_uses_Slice_Cutter_to_Juggernoid..png/revision/latest?cb=20240619084713"
+      ]
     },
     {
       "id": "mantris-ventus",
@@ -4756,8 +5909,18 @@ window.BAKU_DATA = {
       },
       "bio": "Hızlı ve kesici. Ventus arenasında ani öldürücü potansiyeli yüksektir. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/26/Ventus_mantris.PNG/revision/latest?cb=20101028235952",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/83/BK-CD_Mantris.jpg/revision/latest?cb=20091101210037",
-      "nickname": "Ventus Mantris"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/26/Ventus_mantris.PNG/revision/latest?cb=20101028235952",
+      "nickname": "Ventus Mantris",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Pyrus_Mantris_Ball_Form.PNG/revision/latest?cb=20101029004340",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Mantris_Ball.JPG/revision/latest?cb=20091031215458",
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Mantris-ventus-neon.jpg/revision/latest?cb=20091206093338",
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Subterra_Mantris_Open.png/revision/latest?cb=20181024045952",
+        "https://static.wikia.nocookie.net/bakugan/images/0/03/Subterra_Mantris_Bakugan.png/revision/latest?cb=20181024153305",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Pyrus_Mantris_uses_Sling_Blazer..png/revision/latest?cb=20240618145742",
+        "https://static.wikia.nocookie.net/bakugan/images/7/70/Travis_and_Mantris_in_the_battle_%28Ep._24%29.png/revision/latest?cb=20240617174014",
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Pyrus_Mantris_moves_Pyrus_Manion..png/revision/latest?cb=20240618150237"
+      ]
     },
     {
       "id": "mantris-subterra",
@@ -4786,8 +5949,18 @@ window.BAKU_DATA = {
       },
       "bio": "Hızlı ve kesici. Ventus arenasında ani öldürücü potansiyeli yüksektir. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Subterra_Mantris_stand.jpg/revision/latest?cb=20101214233737",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/83/BK-CD_Mantris.jpg/revision/latest?cb=20091101210037",
-      "nickname": "Subterra Mantris"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/03/Subterra_Mantris_Bakugan.png/revision/latest?cb=20181024153305",
+      "nickname": "Subterra Mantris",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Subterra_Mantris_Open.png/revision/latest?cb=20181024045952",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Pyrus_Mantris_Ball_Form.PNG/revision/latest?cb=20101029004340",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Mantris_Ball.JPG/revision/latest?cb=20091031215458",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Pyrus_Mantris_uses_Sling_Blazer..png/revision/latest?cb=20240618145742",
+        "https://static.wikia.nocookie.net/bakugan/images/7/70/Travis_and_Mantris_in_the_battle_%28Ep._24%29.png/revision/latest?cb=20240617174014",
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Pyrus_Mantris_moves_Pyrus_Manion..png/revision/latest?cb=20240618150237",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Aquos_Robotallion_faces_Darkus_Mantris..png/revision/latest?cb=20240618150934",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Mantris_uses_Slice_Cutter_to_Juggernoid..png/revision/latest?cb=20240619084713"
+      ]
     },
     {
       "id": "mantris-haos",
@@ -4816,8 +5989,18 @@ window.BAKU_DATA = {
       },
       "bio": "Hızlı ve kesici. Ventus arenasında ani öldürücü potansiyeli yüksektir. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/2e/Haos_Mantris_Ball_form.jpg/revision/latest?cb=20100411234502",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/83/BK-CD_Mantris.jpg/revision/latest?cb=20091101210037",
-      "nickname": "Haos Mantris"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2e/Haos_Mantris_Ball_form.jpg/revision/latest?cb=20100411234502",
+      "nickname": "Haos Mantris",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/Haos-mantris-002.jpg/revision/latest?cb=20120131015443",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Pyrus_Mantris_Ball_Form.PNG/revision/latest?cb=20101029004340",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Mantris_Ball.JPG/revision/latest?cb=20091031215458",
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Subterra_Mantris_Open.png/revision/latest?cb=20181024045952",
+        "https://static.wikia.nocookie.net/bakugan/images/0/03/Subterra_Mantris_Bakugan.png/revision/latest?cb=20181024153305",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Pyrus_Mantris_uses_Sling_Blazer..png/revision/latest?cb=20240618145742",
+        "https://static.wikia.nocookie.net/bakugan/images/7/70/Travis_and_Mantris_in_the_battle_%28Ep._24%29.png/revision/latest?cb=20240617174014",
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Pyrus_Mantris_moves_Pyrus_Manion..png/revision/latest?cb=20240618150237"
+      ]
     },
     {
       "id": "mantris-darkus",
@@ -4847,7 +6030,17 @@ window.BAKU_DATA = {
       "bio": "Hızlı ve kesici. Ventus arenasında ani öldürücü potansiyeli yüksektir. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Aquos_Robotallion_faces_Darkus_Mantris..png/revision/latest?cb=20240618150934",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/83/BK-CD_Mantris.jpg/revision/latest?cb=20091101210037",
-      "nickname": "Darkus Mantris"
+      "nickname": "Darkus Mantris",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Darkus_Mantris_uses_Slice_Cutter..png/revision/latest?cb=20240619084013",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d9/Darkus_Mantris_Marionette.jpg/revision/latest?cb=20100628200758",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Darkus_Mantris.jpg/revision/latest?cb=20100628200720",
+        "https://static.wikia.nocookie.net/bakugan/images/7/74/Pearl_Darkus_Mantris.jpg/revision/latest?cb=20100629005151",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Pyrus_Mantris_Ball_Form.PNG/revision/latest?cb=20101029004340",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Mantris_Ball.JPG/revision/latest?cb=20091031215458",
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Subterra_Mantris_Open.png/revision/latest?cb=20181024045952",
+        "https://static.wikia.nocookie.net/bakugan/images/0/03/Subterra_Mantris_Bakugan.png/revision/latest?cb=20181024153305"
+      ]
     },
     {
       "id": "monarus-pyrus",
@@ -4876,8 +6069,18 @@ window.BAKU_DATA = {
       },
       "bio": "Monarus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/33/Pyrus_Monarus_VG.jpg/revision/latest?cb=20100501071050",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fd/Monarus.png/revision/latest?cb=20110327053245",
-      "nickname": "Pyrus Monarus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/13/Pyrus_Monarus_Pyrus_Jakalier.jpg/revision/latest?cb=20100919231123",
+      "nickname": "Pyrus Monarus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/d9/Pyrus_Monarus_Orangre.jpg/revision/latest?cb=20100504221302",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b4/Pearl_Pyrus_Monarus.jpg/revision/latest?cb=20100504004650",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/Monarus_Ball_Closed.jpg/revision/latest?cb=20100614221726",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Purple_Monarus_Ball.jpg/revision/latest?cb=20100614045341",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Monarus_Ball.JPG/revision/latest?cb=20091031215501",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0d/Monarus_Ball_3.jpg/revision/latest?cb=20100618005225",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/Purple_Monarus_Game.jpg/revision/latest?cb=20100920234551",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Monarus_Game.jpg/revision/latest?cb=20100501063714"
+      ]
     },
     {
       "id": "monarus-aquos",
@@ -4906,8 +6109,18 @@ window.BAKU_DATA = {
       },
       "bio": "Monarus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/20/Aquos_Monarus_2.jpg/revision/latest?cb=20100503231948",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fd/Monarus.png/revision/latest?cb=20110327053245",
-      "nickname": "Aquos Monarus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1f/Aquos_Monarus.jpg/revision/latest?cb=20100323035233",
+      "nickname": "Aquos Monarus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/Monarus_Ball_Closed.jpg/revision/latest?cb=20100614221726",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Purple_Monarus_Ball.jpg/revision/latest?cb=20100614045341",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Monarus_Ball.JPG/revision/latest?cb=20091031215501",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0d/Monarus_Ball_3.jpg/revision/latest?cb=20100618005225",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/Purple_Monarus_Game.jpg/revision/latest?cb=20100920234551",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Monarus_Game.jpg/revision/latest?cb=20100501063714",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/Purple_Monarus_Headshot.jpg/revision/latest?cb=20100920234703",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Monarus_Drawing.jpg/revision/latest?cb=20100628040843"
+      ]
     },
     {
       "id": "monarus-ventus",
@@ -4936,8 +6149,18 @@ window.BAKU_DATA = {
       },
       "bio": "Monarus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/2f/Ventus_Monarus_2.jpg/revision/latest?cb=20100624013608",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fd/Monarus.png/revision/latest?cb=20110327053245",
-      "nickname": "Ventus Monarus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/68/KeithStrife_Ventus_Monarus.JPG/revision/latest?cb=20120815184552",
+      "nickname": "Ventus Monarus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e3/Ventus_Monarus.jpg/revision/latest?cb=20100323035558",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/Monarus_Ball_Closed.jpg/revision/latest?cb=20100614221726",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Purple_Monarus_Ball.jpg/revision/latest?cb=20100614045341",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Monarus_Ball.JPG/revision/latest?cb=20091031215501",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0d/Monarus_Ball_3.jpg/revision/latest?cb=20100618005225",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/Purple_Monarus_Game.jpg/revision/latest?cb=20100920234551",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Monarus_Game.jpg/revision/latest?cb=20100501063714",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/Purple_Monarus_Headshot.jpg/revision/latest?cb=20100920234703"
+      ]
     },
     {
       "id": "monarus-subterra",
@@ -4966,8 +6189,18 @@ window.BAKU_DATA = {
       },
       "bio": "Monarus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/83/Subterra_Monarus.jpg/revision/latest?cb=20100323035421",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fd/Monarus.png/revision/latest?cb=20110327053245",
-      "nickname": "Subterra Monarus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fe/Subterra_Monarus_2.jpg/revision/latest?cb=20100503222831",
+      "nickname": "Subterra Monarus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/34/Pearl_Subterra_Monarus.jpg/revision/latest?cb=20100504221448",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/Monarus_Ball_Closed.jpg/revision/latest?cb=20100614221726",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Purple_Monarus_Ball.jpg/revision/latest?cb=20100614045341",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Monarus_Ball.JPG/revision/latest?cb=20091031215501",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0d/Monarus_Ball_3.jpg/revision/latest?cb=20100618005225",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/Purple_Monarus_Game.jpg/revision/latest?cb=20100920234551",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Monarus_Game.jpg/revision/latest?cb=20100501063714",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/Purple_Monarus_Headshot.jpg/revision/latest?cb=20100920234703"
+      ]
     },
     {
       "id": "monarus-haos",
@@ -4996,8 +6229,18 @@ window.BAKU_DATA = {
       },
       "bio": "Monarus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8c/Haos_Monarus.jpg/revision/latest?cb=20100323035814",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fd/Monarus.png/revision/latest?cb=20110327053245",
-      "nickname": "Haos Monarus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/32/Haos_Monarus_VG.jpg/revision/latest?cb=20100501065812",
+      "nickname": "Haos Monarus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/37/Haos_Monarus_3.jpg/revision/latest?cb=20100503224301",
+        "https://static.wikia.nocookie.net/bakugan/images/5/50/Haos_Purple_Monarus.JPG/revision/latest?cb=20100506031815",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Packaged_Haos_Moonlit_Monarus.jpg/revision/latest?cb=20100614043451",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/Monarus_Ball_Closed.jpg/revision/latest?cb=20100614221726",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Purple_Monarus_Ball.jpg/revision/latest?cb=20100614045341",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Monarus_Ball.JPG/revision/latest?cb=20091031215501",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0d/Monarus_Ball_3.jpg/revision/latest?cb=20100618005225",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/Purple_Monarus_Game.jpg/revision/latest?cb=20100920234551"
+      ]
     },
     {
       "id": "monarus-darkus",
@@ -5027,7 +6270,17 @@ window.BAKU_DATA = {
       "bio": "Monarus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/fd/Monarus.png/revision/latest?cb=20110327053245",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fd/Monarus.png/revision/latest?cb=20110327053245",
-      "nickname": "Darkus Monarus"
+      "nickname": "Darkus Monarus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/Monarus_Ball_Closed.jpg/revision/latest?cb=20100614221726",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Purple_Monarus_Ball.jpg/revision/latest?cb=20100614045341",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Monarus_Ball.JPG/revision/latest?cb=20091031215501",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0d/Monarus_Ball_3.jpg/revision/latest?cb=20100618005225",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/Purple_Monarus_Game.jpg/revision/latest?cb=20100920234551",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Monarus_Game.jpg/revision/latest?cb=20100501063714",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/Purple_Monarus_Headshot.jpg/revision/latest?cb=20100920234703",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Monarus_Drawing.jpg/revision/latest?cb=20100628040843"
+      ]
     },
     {
       "id": "naga",
@@ -5056,7 +6309,17 @@ window.BAKU_DATA = {
       },
       "bio": "Sezon 1’in ana antagonisti. Silent Core’u ele geçirerek tüm Vestroia’yı dengesizleştirir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1b/BK_CD_Naga_2.jpg/revision/latest?cb=20110630131101",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1b/BK_CD_Naga_2.jpg/revision/latest?cb=20110630131101"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1b/BK_CD_Naga_2.jpg/revision/latest?cb=20110630131101",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/86/Naga_ball.jpg/revision/latest?cb=20090519025651",
+        "https://static.wikia.nocookie.net/bakugan/images/d/de/Silent_Naga_closed.PNG/revision/latest?cb=20101105173059",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a0/Silent_Naga_open.PNG/revision/latest?cb=20101105173202",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9d/Subterra_Naga.jpg/revision/latest?cb=20101230213340",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Silver_Naga.jpg/revision/latest?cb=20120206080908",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/1Silphena_and_Naga.jpg/revision/latest?cb=20260129124943",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e8/KeithStrife_Haos_Naga.JPG/revision/latest?cb=20120815184113",
+        "https://static.wikia.nocookie.net/bakugan/images/3/37/BA312_GA_naga_21d.png/revision/latest?cb=20170702210945"
+      ]
     },
     {
       "id": "oberus",
@@ -5085,7 +6348,17 @@ window.BAKU_DATA = {
       },
       "bio": "Oberus, Sezon 1 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e4/BK_CD_Oberus.jpg/revision/latest?cb=20091113230457",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e4/BK_CD_Oberus.jpg/revision/latest?cb=20091113230457"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e4/BK_CD_Oberus.jpg/revision/latest?cb=20091113230457",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/ea/Oberus_Ball.JPG/revision/latest?cb=20190907142451",
+        "https://static.wikia.nocookie.net/bakugan/images/5/51/BA304_GA_oberus_13d.png/revision/latest?cb=20170702204446",
+        "https://static.wikia.nocookie.net/bakugan/images/d/df/Oberus.JPG/revision/latest?cb=20190902134842",
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/KeithStrife_Ventus_Oberus.JPG/revision/latest?cb=20120815184552",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Skyress_talking_2_Oberus.png/revision/latest?cb=20110420035525",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Oberus.jpg/revision/latest?cb=20100909070918",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/Bakuswap_oberus.gif/revision/latest?cb=20110428175012",
+        "https://static.wikia.nocookie.net/bakugan/images/2/27/Masked_Oberus.jpg/revision/latest?cb=20091109215928"
+      ]
     },
     {
       "id": "preyas-pyrus",
@@ -5115,8 +6388,18 @@ window.BAKU_DATA = {
       },
       "bio": "Aquos’un en eğlenceli bakuganı. Angelo ve Diablo yan formlarıyla savaş tarzını anında değiştirir. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/fa/Pyrus_preyas.jpg/revision/latest?cb=20100614233344",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_CD_Preyas.jpg/revision/latest?cb=20090918205858",
-      "nickname": "Pyrus Preyas"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fa/Pyrus_preyas.jpg/revision/latest?cb=20100614233344",
+      "nickname": "Pyrus Preyas",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Minx_Elfin_Preyas_Ball.jpg/revision/latest?cb=20100628214054",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Subterra_Preyas_Ball.jpg/revision/latest?cb=20100729011546",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Preyas_Ball.JPG/revision/latest?cb=20091025033959",
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/Darkus_Preyas_Ball.jpg/revision/latest?cb=20100729011644",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Preyas_Bakugan_Ball.jpg/revision/latest?cb=20120205130651",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Preyas_Anime.JPG/revision/latest?cb=20091025034227",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Preyas_Anime.jpg/revision/latest?cb=20120114105210",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d7/Aquos_Preyas.jpg/revision/latest?cb=20100414004843"
+      ]
     },
     {
       "id": "preyas-aquos",
@@ -5146,8 +6429,18 @@ window.BAKU_DATA = {
       },
       "bio": "Aquos’un en eğlenceli bakuganı. Angelo ve Diablo yan formlarıyla savaş tarzını anında değiştirir. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f7/KeithStrife_Aquos_Preyas.JPG/revision/latest?cb=20121023025630",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_CD_Preyas.jpg/revision/latest?cb=20090918205858",
-      "nickname": "Aquos Preyas"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d7/Aquos_Preyas.jpg/revision/latest?cb=20100414004843",
+      "nickname": "Aquos Preyas",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/fe/Pearl_Aquos_Preyas.jpg/revision/latest?cb=20100330051934",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Pearl_Aquos_Preyas_2.jpg/revision/latest?cb=20100618224321",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7e/Translucent_Aquos_Preyas.jpg/revision/latest?cb=20100330051725",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/KeithStrife_Aquos_B1_Preyas.JPG/revision/latest?cb=20121023025625",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Minx_Elfin_Preyas_Ball.jpg/revision/latest?cb=20100628214054",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Subterra_Preyas_Ball.jpg/revision/latest?cb=20100729011546",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Preyas_Ball.JPG/revision/latest?cb=20091025033959",
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/Darkus_Preyas_Ball.jpg/revision/latest?cb=20100729011644"
+      ]
     },
     {
       "id": "preyas-ventus",
@@ -5177,8 +6470,18 @@ window.BAKU_DATA = {
       },
       "bio": "Aquos’un en eğlenceli bakuganı. Angelo ve Diablo yan formlarıyla savaş tarzını anında değiştirir. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_CD_Preyas.jpg/revision/latest?cb=20090918205858",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_CD_Preyas.jpg/revision/latest?cb=20090918205858",
-      "nickname": "Ventus Preyas"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/54/Minx_Elfin_Preyas_Ball.jpg/revision/latest?cb=20100628214054",
+      "nickname": "Ventus Preyas",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Subterra_Preyas_Ball.jpg/revision/latest?cb=20100729011546",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Preyas_Ball.JPG/revision/latest?cb=20091025033959",
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/Darkus_Preyas_Ball.jpg/revision/latest?cb=20100729011644",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Preyas_Bakugan_Ball.jpg/revision/latest?cb=20120205130651",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Preyas_Anime.JPG/revision/latest?cb=20091025034227",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Preyas_Anime.jpg/revision/latest?cb=20120114105210",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d7/Aquos_Preyas.jpg/revision/latest?cb=20100414004843",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Bakugan_ATTACK_Preyas.png/revision/latest?cb=20180521080656"
+      ]
     },
     {
       "id": "preyas-subterra",
@@ -5208,8 +6511,18 @@ window.BAKU_DATA = {
       },
       "bio": "Aquos’un en eğlenceli bakuganı. Angelo ve Diablo yan formlarıyla savaş tarzını anında değiştirir. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1b/Subterra_Preyas_Ball.jpg/revision/latest?cb=20100729011546",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_CD_Preyas.jpg/revision/latest?cb=20090918205858",
-      "nickname": "Subterra Preyas"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1b/Subterra_Preyas_Ball.jpg/revision/latest?cb=20100729011546",
+      "nickname": "Subterra Preyas",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/KeithStrife_Subterra_Preyas.JPG/revision/latest?cb=20120815184332",
+        "https://static.wikia.nocookie.net/bakugan/images/8/82/Subterra_Preyas.jpg/revision/latest?cb=20100312060759",
+        "https://static.wikia.nocookie.net/bakugan/images/1/16/Preyas_changing_his_attribute_at_Subterra.PNG/revision/latest?cb=20170106193408",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Minx_Elfin_Preyas_Ball.jpg/revision/latest?cb=20100628214054",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Preyas_Ball.JPG/revision/latest?cb=20091025033959",
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/Darkus_Preyas_Ball.jpg/revision/latest?cb=20100729011644",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Preyas_Bakugan_Ball.jpg/revision/latest?cb=20120205130651",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Preyas_Anime.JPG/revision/latest?cb=20091025034227"
+      ]
     },
     {
       "id": "preyas-haos",
@@ -5239,8 +6552,18 @@ window.BAKU_DATA = {
       },
       "bio": "Aquos’un en eğlenceli bakuganı. Angelo ve Diablo yan formlarıyla savaş tarzını anında değiştirir. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b2/Haos_Preyas.jpg/revision/latest?cb=20100416224702",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_CD_Preyas.jpg/revision/latest?cb=20090918205858",
-      "nickname": "Haos Preyas"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/91/KeithStrife_Haos_Preyas.JPG/revision/latest?cb=20120815184113",
+      "nickname": "Haos Preyas",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Minx_Elfin_Preyas_Ball.jpg/revision/latest?cb=20100628214054",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Subterra_Preyas_Ball.jpg/revision/latest?cb=20100729011546",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Preyas_Ball.JPG/revision/latest?cb=20091025033959",
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/Darkus_Preyas_Ball.jpg/revision/latest?cb=20100729011644",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Preyas_Bakugan_Ball.jpg/revision/latest?cb=20120205130651",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Preyas_Anime.JPG/revision/latest?cb=20091025034227",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Preyas_Anime.jpg/revision/latest?cb=20120114105210",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d7/Aquos_Preyas.jpg/revision/latest?cb=20100414004843"
+      ]
     },
     {
       "id": "preyas-darkus",
@@ -5271,7 +6594,17 @@ window.BAKU_DATA = {
       "bio": "Aquos’un en eğlenceli bakuganı. Angelo ve Diablo yan formlarıyla savaş tarzını anında değiştirir. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/88/Darkus_Preyas_2.jpg/revision/latest?cb=20100618230034",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_CD_Preyas.jpg/revision/latest?cb=20090918205858",
-      "nickname": "Darkus Preyas"
+      "nickname": "Darkus Preyas",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/Darkus_Preyas_Ball.jpg/revision/latest?cb=20100729011644",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Darkus_Preyas_and_Preyas_Diablo.jpg/revision/latest?cb=20110605182939",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Darkus_Preyas_stand.png/revision/latest?cb=20110414181320",
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/KeithStrife_Darkus_Preyas.JPG/revision/latest?cb=20120815183852",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b1/Darkus_Preyas.png/revision/latest?cb=20170108213517",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Darkus_Preyas.PNG/revision/latest?cb=20170608180953",
+        "https://static.wikia.nocookie.net/bakugan/images/0/04/Darkus_Preyas_Gauntlet.jpg/revision/latest?cb=20100628212351",
+        "https://static.wikia.nocookie.net/bakugan/images/0/07/Darkus_Preyas.jpg/revision/latest?cb=20100406225746"
+      ]
     },
     {
       "id": "preyas-angelo",
@@ -5301,7 +6634,10 @@ window.BAKU_DATA = {
       },
       "bio": "Preyas’ın Haos yan kişiliği. Takımı iyileştirir ve ışık kalkanı kurar.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3d/Preyas_ii.jpg/revision/latest?cb=20180717023240",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/Preyas_ii.jpg/revision/latest?cb=20180717023240"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/Preyas_ii.jpg/revision/latest?cb=20180717023240",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f7/Angelo_%28Preyas_II%29.png/revision/latest?cb=20110721163234"
+      ]
     },
     {
       "id": "preyas-diablo",
@@ -5330,8 +6666,12 @@ window.BAKU_DATA = {
         "gForce": 85
       },
       "bio": "Preyas’ın Darkus yüzü. Espri biter, yıkım başlar.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3d/Preyas_ii.jpg/revision/latest?cb=20180717023240",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/Preyas_ii.jpg/revision/latest?cb=20180717023240"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/fb/Darkus_Preyas_and_Preyas_Diablo.jpg/revision/latest?cb=20110605182939",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/Preyas_ii.jpg/revision/latest?cb=20180717023240",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/cb/KeithStrife_Aquos_PreyasDiablo.JPG/revision/latest?cb=20120815183849",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b7/Diablo_%28Preyas_II%29.png/revision/latest?cb=20110721163348"
+      ]
     },
     {
       "id": "rabeeder",
@@ -5360,7 +6700,11 @@ window.BAKU_DATA = {
       },
       "bio": "Rabeeder, Sezon 1 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d2/Rabeeder.jpg/revision/latest?cb=20091204010014",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d2/Rabeeder.jpg/revision/latest?cb=20091204010014"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d2/Rabeeder.jpg/revision/latest?cb=20091204010014",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/94/Ep._48_People_are_fleeing_Rabeeder..png/revision/latest?cb=20251205041906",
+        "https://static.wikia.nocookie.net/bakugan/images/9/94/Rabeeder_Talking_to_herself.png/revision/latest?cb=20120205223624"
+      ]
     },
     {
       "id": "rattleoid-pyrus",
@@ -5389,8 +6733,18 @@ window.BAKU_DATA = {
       },
       "bio": "Rattleoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/28/Pyrus_Rattleoid.jpg/revision/latest?cb=20110816023047",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Rattleoid.png/revision/latest?cb=20110407211132",
-      "nickname": "Pyrus Rattleoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/28/Pyrus_Rattleoid.jpg/revision/latest?cb=20110816023047",
+      "nickname": "Pyrus Rattleoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Rattleoid_Ball.jpg/revision/latest?cb=20100624040952",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Rattleoid_Ball.JPG/revision/latest?cb=20091101012150",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9d/Rattleoid_Anime.jpg/revision/latest?cb=20100624035654",
+        "https://static.wikia.nocookie.net/bakugan/images/0/03/003_Rattleoid.jpg/revision/latest?cb=20100218043503",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/BA256_GA_rattleoid_13.png/revision/latest?cb=20170701231609",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bd/Copy_%282%29_of_Copy_of_BK_CD_Rattleoid.jpg/revision/latest?cb=20100825021218",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/CBK_CD_Rattleoid_%281%29.jpg/revision/latest?cb=20100814022622",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a8/Rattleoid.png/revision/latest?cb=20110407211132"
+      ]
     },
     {
       "id": "rattleoid-aquos",
@@ -5419,8 +6773,18 @@ window.BAKU_DATA = {
       },
       "bio": "Rattleoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/12/Pearl_Aquos_Rattleoid.jpg/revision/latest?cb=20100624032157",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Rattleoid.png/revision/latest?cb=20110407211132",
-      "nickname": "Aquos Rattleoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/12/Pearl_Aquos_Rattleoid.jpg/revision/latest?cb=20100624032157",
+      "nickname": "Aquos Rattleoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Rattleoid_Ball.jpg/revision/latest?cb=20100624040952",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Rattleoid_Ball.JPG/revision/latest?cb=20091101012150",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9d/Rattleoid_Anime.jpg/revision/latest?cb=20100624035654",
+        "https://static.wikia.nocookie.net/bakugan/images/0/03/003_Rattleoid.jpg/revision/latest?cb=20100218043503",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/BA256_GA_rattleoid_13.png/revision/latest?cb=20170701231609",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bd/Copy_%282%29_of_Copy_of_BK_CD_Rattleoid.jpg/revision/latest?cb=20100825021218",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/CBK_CD_Rattleoid_%281%29.jpg/revision/latest?cb=20100814022622",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a8/Rattleoid.png/revision/latest?cb=20110407211132"
+      ]
     },
     {
       "id": "rattleoid-ventus",
@@ -5448,9 +6812,19 @@ window.BAKU_DATA = {
         "gForce": 94
       },
       "bio": "Rattleoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Rattleoid.png/revision/latest?cb=20110407211132",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Rattleoid.png/revision/latest?cb=20110407211132",
-      "nickname": "Ventus Rattleoid"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9d/Rattleoid_Anime.jpg/revision/latest?cb=20100624035654",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/09/Rattleoid_Ball.jpg/revision/latest?cb=20100624040952",
+      "nickname": "Ventus Rattleoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Rattleoid_Ball.JPG/revision/latest?cb=20091101012150",
+        "https://static.wikia.nocookie.net/bakugan/images/0/03/003_Rattleoid.jpg/revision/latest?cb=20100218043503",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/BA256_GA_rattleoid_13.png/revision/latest?cb=20170701231609",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bd/Copy_%282%29_of_Copy_of_BK_CD_Rattleoid.jpg/revision/latest?cb=20100825021218",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/CBK_CD_Rattleoid_%281%29.jpg/revision/latest?cb=20100814022622",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a8/Rattleoid.png/revision/latest?cb=20110407211132",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2b/Rattleoid_bites.JPG/revision/latest?cb=20121221204341",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Hynoid_Rattleoid_Gate_Card.jpg/revision/latest?cb=20100624040505"
+      ]
     },
     {
       "id": "rattleoid-subterra",
@@ -5478,9 +6852,19 @@ window.BAKU_DATA = {
         "gForce": 94
       },
       "bio": "Rattleoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Rattleoid.png/revision/latest?cb=20110407211132",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Rattleoid.png/revision/latest?cb=20110407211132",
-      "nickname": "Subterra Rattleoid"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9d/Rattleoid_Anime.jpg/revision/latest?cb=20100624035654",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/09/Rattleoid_Ball.jpg/revision/latest?cb=20100624040952",
+      "nickname": "Subterra Rattleoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Rattleoid_Ball.JPG/revision/latest?cb=20091101012150",
+        "https://static.wikia.nocookie.net/bakugan/images/0/03/003_Rattleoid.jpg/revision/latest?cb=20100218043503",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/BA256_GA_rattleoid_13.png/revision/latest?cb=20170701231609",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bd/Copy_%282%29_of_Copy_of_BK_CD_Rattleoid.jpg/revision/latest?cb=20100825021218",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/CBK_CD_Rattleoid_%281%29.jpg/revision/latest?cb=20100814022622",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a8/Rattleoid.png/revision/latest?cb=20110407211132",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2b/Rattleoid_bites.JPG/revision/latest?cb=20121221204341",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Hynoid_Rattleoid_Gate_Card.jpg/revision/latest?cb=20100624040505"
+      ]
     },
     {
       "id": "rattleoid-haos",
@@ -5509,8 +6893,18 @@ window.BAKU_DATA = {
       },
       "bio": "Rattleoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Rattleoid.png/revision/latest?cb=20110407211132",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Rattleoid.png/revision/latest?cb=20110407211132",
-      "nickname": "Haos Rattleoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/09/Rattleoid_Ball.jpg/revision/latest?cb=20100624040952",
+      "nickname": "Haos Rattleoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Rattleoid_Ball.JPG/revision/latest?cb=20091101012150",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9d/Rattleoid_Anime.jpg/revision/latest?cb=20100624035654",
+        "https://static.wikia.nocookie.net/bakugan/images/0/03/003_Rattleoid.jpg/revision/latest?cb=20100218043503",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/BA256_GA_rattleoid_13.png/revision/latest?cb=20170701231609",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bd/Copy_%282%29_of_Copy_of_BK_CD_Rattleoid.jpg/revision/latest?cb=20100825021218",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/CBK_CD_Rattleoid_%281%29.jpg/revision/latest?cb=20100814022622",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2b/Rattleoid_bites.JPG/revision/latest?cb=20121221204341",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Hynoid_Rattleoid_Gate_Card.jpg/revision/latest?cb=20100624040505"
+      ]
     },
     {
       "id": "rattleoid-darkus",
@@ -5540,7 +6934,17 @@ window.BAKU_DATA = {
       "bio": "Rattleoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Pearl_Darkus_Rattleoid.jpg/revision/latest?cb=20100624032136",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Rattleoid.png/revision/latest?cb=20110407211132",
-      "nickname": "Darkus Rattleoid"
+      "nickname": "Darkus Rattleoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Rattleoid_Ball.jpg/revision/latest?cb=20100624040952",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Rattleoid_Ball.JPG/revision/latest?cb=20091101012150",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9d/Rattleoid_Anime.jpg/revision/latest?cb=20100624035654",
+        "https://static.wikia.nocookie.net/bakugan/images/0/03/003_Rattleoid.jpg/revision/latest?cb=20100218043503",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/BA256_GA_rattleoid_13.png/revision/latest?cb=20170701231609",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bd/Copy_%282%29_of_Copy_of_BK_CD_Rattleoid.jpg/revision/latest?cb=20100825021218",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/CBK_CD_Rattleoid_%281%29.jpg/revision/latest?cb=20100814022622",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2b/Rattleoid_bites.JPG/revision/latest?cb=20121221204341"
+      ]
     },
     {
       "id": "ravenoid-pyrus",
@@ -5569,8 +6973,18 @@ window.BAKU_DATA = {
       },
       "bio": "Ravenoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4e/Pyrus_Ravenoid.jpg/revision/latest?cb=20110412180137",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a3/BK_CD_Ravenoid.jpg/revision/latest?cb=20090826173717",
-      "nickname": "Pyrus Ravenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4f/Pyrus_Ravenoid_ball_form.jpg/revision/latest?cb=20120306215745",
+      "nickname": "Pyrus Ravenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/Darkuspyrus_ravenoid.jpg/revision/latest?cb=20101206230217",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Pyrus_Ravenoid_.jpg/revision/latest?cb=20120303044239",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b4/Pyrus_Ravenoid_2.jpg/revision/latest?cb=20111103211143",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Pyrus_Ravenoid_in_Video_Game.jpg/revision/latest?cb=20111103211119",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e7/Pyrus_Spin_Ravenoid.jpg/revision/latest?cb=20110503230948",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Ravenoid_Closed.jpg/revision/latest?cb=20110412180016",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Haos_Robotallion_Ravenoid_Anime_edited.jpg/revision/latest?cb=20100403034812",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Ravenoid_Open.jpg/revision/latest?cb=20110412180043"
+      ]
     },
     {
       "id": "ravenoid-aquos",
@@ -5599,8 +7013,18 @@ window.BAKU_DATA = {
       },
       "bio": "Ravenoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Aquos_Spin_Ravenoid.jpg/revision/latest?cb=20110503231041",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a3/BK_CD_Ravenoid.jpg/revision/latest?cb=20090826173717",
-      "nickname": "Aquos Ravenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Aquos_Spin_Ravenoid.jpg/revision/latest?cb=20110503231041",
+      "nickname": "Aquos Ravenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Ravenoid_Closed.jpg/revision/latest?cb=20110412180016",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4f/Pyrus_Ravenoid_ball_form.jpg/revision/latest?cb=20120306215745",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Haos_Robotallion_Ravenoid_Anime_edited.jpg/revision/latest?cb=20100403034812",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Ravenoid_Open.jpg/revision/latest?cb=20110412180043",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/Darkuspyrus_ravenoid.jpg/revision/latest?cb=20101206230217",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/KeithStrife_Ventus_Ravenoid.JPG/revision/latest?cb=20130601144929",
+        "https://static.wikia.nocookie.net/bakugan/images/9/96/BA205_GA_SM_ravenoid.png/revision/latest?cb=20170620043415",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/BK_SA_Spin_Ravenoid.png/revision/latest?cb=20090708150937"
+      ]
     },
     {
       "id": "ravenoid-ventus",
@@ -5629,8 +7053,18 @@ window.BAKU_DATA = {
       },
       "bio": "Ravenoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c3/Ventus_ravenoid.jpeg/revision/latest?cb=20120207091028",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a3/BK_CD_Ravenoid.jpg/revision/latest?cb=20090826173717",
-      "nickname": "Ventus Ravenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/40/KeithStrife_Ventus_Ravenoid.JPG/revision/latest?cb=20130601144929",
+      "nickname": "Ventus Ravenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/02/Ventus_Ravenoid.jpg/revision/latest?cb=20100624034414",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/Ventus_Ravenoid.PNG/revision/latest?cb=20130105124056",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a5/Ravenoid_Ventus.JPG/revision/latest?cb=20091031215501",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Ravenoid_Closed.jpg/revision/latest?cb=20110412180016",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4f/Pyrus_Ravenoid_ball_form.jpg/revision/latest?cb=20120306215745",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Ravenoid-ventus-neon.jpg/revision/latest?cb=20090918143837",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Haos_Robotallion_Ravenoid_Anime_edited.jpg/revision/latest?cb=20100403034812",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Ravenoid_Open.jpg/revision/latest?cb=20110412180043"
+      ]
     },
     {
       "id": "ravenoid-subterra",
@@ -5659,8 +7093,18 @@ window.BAKU_DATA = {
       },
       "bio": "Ravenoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/87/Translucent_subterra_ravenoid.jpeg/revision/latest?cb=20120207091256",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a3/BK_CD_Ravenoid.jpg/revision/latest?cb=20090826173717",
-      "nickname": "Subterra Ravenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/87/Translucent_subterra_ravenoid.jpeg/revision/latest?cb=20120207091256",
+      "nickname": "Subterra Ravenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Ravenoid_Closed.jpg/revision/latest?cb=20110412180016",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4f/Pyrus_Ravenoid_ball_form.jpg/revision/latest?cb=20120306215745",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Haos_Robotallion_Ravenoid_Anime_edited.jpg/revision/latest?cb=20100403034812",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Ravenoid_Open.jpg/revision/latest?cb=20110412180043",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/Darkuspyrus_ravenoid.jpg/revision/latest?cb=20101206230217",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/KeithStrife_Ventus_Ravenoid.JPG/revision/latest?cb=20130601144929",
+        "https://static.wikia.nocookie.net/bakugan/images/9/96/BA205_GA_SM_ravenoid.png/revision/latest?cb=20170620043415",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/BK_SA_Spin_Ravenoid.png/revision/latest?cb=20090708150937"
+      ]
     },
     {
       "id": "ravenoid-haos",
@@ -5689,8 +7133,18 @@ window.BAKU_DATA = {
       },
       "bio": "Ravenoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b9/Haos_Ravenoid_Monstruo.jpg/revision/latest?cb=20110503235120",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a3/BK_CD_Ravenoid.jpg/revision/latest?cb=20090826173717",
-      "nickname": "Haos Ravenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Haos_Ravenoid.jpg/revision/latest?cb=20111103211042",
+      "nickname": "Haos Ravenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Haos_Robotallion_Ravenoid_Anime_edited.jpg/revision/latest?cb=20100403034812",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Ravenoid_Closed.jpg/revision/latest?cb=20110412180016",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4f/Pyrus_Ravenoid_ball_form.jpg/revision/latest?cb=20120306215745",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Ravenoid_Open.jpg/revision/latest?cb=20110412180043",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/Darkuspyrus_ravenoid.jpg/revision/latest?cb=20101206230217",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/KeithStrife_Ventus_Ravenoid.JPG/revision/latest?cb=20130601144929",
+        "https://static.wikia.nocookie.net/bakugan/images/9/96/BA205_GA_SM_ravenoid.png/revision/latest?cb=20170620043415",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/BK_SA_Spin_Ravenoid.png/revision/latest?cb=20090708150937"
+      ]
     },
     {
       "id": "ravenoid-darkus",
@@ -5720,7 +7174,17 @@ window.BAKU_DATA = {
       "bio": "Ravenoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/56/KeithStrife_Darkus_Ravenoid.jpg/revision/latest?cb=20130212233451",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a3/BK_CD_Ravenoid.jpg/revision/latest?cb=20090826173717",
-      "nickname": "Darkus Ravenoid"
+      "nickname": "Darkus Ravenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/Darkus_ravenoid.jpeg/revision/latest?cb=20120207091134",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e9/Darkus_ravenoid.jpg/revision/latest?cb=20110625204824",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/Darkuspyrus_ravenoid.jpg/revision/latest?cb=20101206230217",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Ravenoid_Closed.jpg/revision/latest?cb=20110412180016",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4f/Pyrus_Ravenoid_ball_form.jpg/revision/latest?cb=20120306215745",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Haos_Robotallion_Ravenoid_Anime_edited.jpg/revision/latest?cb=20100403034812",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Ravenoid_Open.jpg/revision/latest?cb=20110412180043",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/KeithStrife_Ventus_Ravenoid.JPG/revision/latest?cb=20130601144929"
+      ]
     },
     {
       "id": "reaper-pyrus",
@@ -5749,8 +7213,18 @@ window.BAKU_DATA = {
       },
       "bio": "Reaper, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/80/BK_CD_Reaper.jpg/revision/latest?cb=20090919222833",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/80/BK_CD_Reaper.jpg/revision/latest?cb=20090919222833",
-      "nickname": "Pyrus Reaper"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/21/Darkus_Reaper_Sphere.png/revision/latest?cb=20181025050734",
+      "nickname": "Pyrus Reaper",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/61/Prototype_Reaper_Open.jpg/revision/latest?cb=20180419045529",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Bakugan_ATTACK_Reaper.png/revision/latest?cb=20180521075803",
+        "https://static.wikia.nocookie.net/bakugan/images/2/20/Darkus_Reaper_Bakugan.png/revision/latest?cb=20181025050922",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c1/Darkus_Reaper_Bakugan_Up_Close.png/revision/latest?cb=20181025050950",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fd/Reapers.png/revision/latest?cb=20190930190752",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/12MCD_Reaper_Burndown.jpg/revision/latest?cb=20170108050411",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/KeithStrife_Darkus_B1_Reaper.jpg/revision/latest?cb=20130315170558",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c6/KeithStrife_Darkus_Reaper.jpg/revision/latest?cb=20130125143331"
+      ]
     },
     {
       "id": "reaper-aquos",
@@ -5779,8 +7253,18 @@ window.BAKU_DATA = {
       },
       "bio": "Reaper, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4d/Subterra%2C_Haos_and_Aquos_Reaper.JPG/revision/latest?cb=20100815173730",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/80/BK_CD_Reaper.jpg/revision/latest?cb=20090919222833",
-      "nickname": "Aquos Reaper"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4d/Subterra%2C_Haos_and_Aquos_Reaper.JPG/revision/latest?cb=20100815173730",
+      "nickname": "Aquos Reaper",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c6/Aquos_reaper.jpg/revision/latest?cb=20100803105752",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c7/Reaper_aquos.png/revision/latest?cb=20100826135516",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Darkus_Reaper_Sphere.png/revision/latest?cb=20181025050734",
+        "https://static.wikia.nocookie.net/bakugan/images/6/61/Prototype_Reaper_Open.jpg/revision/latest?cb=20180419045529",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Bakugan_ATTACK_Reaper.png/revision/latest?cb=20180521075803",
+        "https://static.wikia.nocookie.net/bakugan/images/2/20/Darkus_Reaper_Bakugan.png/revision/latest?cb=20181025050922",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c1/Darkus_Reaper_Bakugan_Up_Close.png/revision/latest?cb=20181025050950",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fd/Reapers.png/revision/latest?cb=20190930190752"
+      ]
     },
     {
       "id": "reaper-ventus",
@@ -5809,8 +7293,18 @@ window.BAKU_DATA = {
       },
       "bio": "Reaper, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Ventus_Reaper.jpg/revision/latest?cb=20100408011241",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/80/BK_CD_Reaper.jpg/revision/latest?cb=20090919222833",
-      "nickname": "Ventus Reaper"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Ventus_Reaper.jpg/revision/latest?cb=20100408011241",
+      "nickname": "Ventus Reaper",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/VENTUS_REAPER.png/revision/latest?cb=20120219120812",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Ventus_Translucent_Reaper.jpeg/revision/latest?cb=20120303053548",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Darkus_Reaper_Sphere.png/revision/latest?cb=20181025050734",
+        "https://static.wikia.nocookie.net/bakugan/images/6/61/Prototype_Reaper_Open.jpg/revision/latest?cb=20180419045529",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Bakugan_ATTACK_Reaper.png/revision/latest?cb=20180521075803",
+        "https://static.wikia.nocookie.net/bakugan/images/2/20/Darkus_Reaper_Bakugan.png/revision/latest?cb=20181025050922",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c1/Darkus_Reaper_Bakugan_Up_Close.png/revision/latest?cb=20181025050950",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fd/Reapers.png/revision/latest?cb=20190930190752"
+      ]
     },
     {
       "id": "reaper-subterra",
@@ -5839,8 +7333,18 @@ window.BAKU_DATA = {
       },
       "bio": "Reaper, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4d/Subterra%2C_Haos_and_Aquos_Reaper.JPG/revision/latest?cb=20100815173730",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/80/BK_CD_Reaper.jpg/revision/latest?cb=20090919222833",
-      "nickname": "Subterra Reaper"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4d/Subterra%2C_Haos_and_Aquos_Reaper.JPG/revision/latest?cb=20100815173730",
+      "nickname": "Subterra Reaper",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Darkus_Reaper_Sphere.png/revision/latest?cb=20181025050734",
+        "https://static.wikia.nocookie.net/bakugan/images/6/61/Prototype_Reaper_Open.jpg/revision/latest?cb=20180419045529",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Bakugan_ATTACK_Reaper.png/revision/latest?cb=20180521075803",
+        "https://static.wikia.nocookie.net/bakugan/images/2/20/Darkus_Reaper_Bakugan.png/revision/latest?cb=20181025050922",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c1/Darkus_Reaper_Bakugan_Up_Close.png/revision/latest?cb=20181025050950",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fd/Reapers.png/revision/latest?cb=20190930190752",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/12MCD_Reaper_Burndown.jpg/revision/latest?cb=20170108050411",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/KeithStrife_Darkus_B1_Reaper.jpg/revision/latest?cb=20130315170558"
+      ]
     },
     {
       "id": "reaper-haos",
@@ -5869,8 +7373,18 @@ window.BAKU_DATA = {
       },
       "bio": "Reaper, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4d/Subterra%2C_Haos_and_Aquos_Reaper.JPG/revision/latest?cb=20100815173730",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/80/BK_CD_Reaper.jpg/revision/latest?cb=20090919222833",
-      "nickname": "Haos Reaper"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4d/Subterra%2C_Haos_and_Aquos_Reaper.JPG/revision/latest?cb=20100815173730",
+      "nickname": "Haos Reaper",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Darkus_Reaper_Sphere.png/revision/latest?cb=20181025050734",
+        "https://static.wikia.nocookie.net/bakugan/images/6/61/Prototype_Reaper_Open.jpg/revision/latest?cb=20180419045529",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Bakugan_ATTACK_Reaper.png/revision/latest?cb=20180521075803",
+        "https://static.wikia.nocookie.net/bakugan/images/2/20/Darkus_Reaper_Bakugan.png/revision/latest?cb=20181025050922",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c1/Darkus_Reaper_Bakugan_Up_Close.png/revision/latest?cb=20181025050950",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fd/Reapers.png/revision/latest?cb=20190930190752",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/12MCD_Reaper_Burndown.jpg/revision/latest?cb=20170108050411",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/KeithStrife_Darkus_B1_Reaper.jpg/revision/latest?cb=20130315170558"
+      ]
     },
     {
       "id": "reaper-darkus",
@@ -5900,7 +7414,17 @@ window.BAKU_DATA = {
       "bio": "Reaper, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/20/Darkus_Reaper_Bakugan.png/revision/latest?cb=20181025050922",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/80/BK_CD_Reaper.jpg/revision/latest?cb=20090919222833",
-      "nickname": "Darkus Reaper"
+      "nickname": "Darkus Reaper",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Darkus_Reaper_Sphere.png/revision/latest?cb=20181025050734",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c1/Darkus_Reaper_Bakugan_Up_Close.png/revision/latest?cb=20181025050950",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c6/KeithStrife_Darkus_Reaper.jpg/revision/latest?cb=20130125143331",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/KeithStrife_Darkus_B1_Reaper.jpg/revision/latest?cb=20130315170558",
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/Reaper_darkus.png/revision/latest?cb=20100826140216",
+        "https://static.wikia.nocookie.net/bakugan/images/6/61/Prototype_Reaper_Open.jpg/revision/latest?cb=20180419045529",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Bakugan_ATTACK_Reaper.png/revision/latest?cb=20180521075803",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fd/Reapers.png/revision/latest?cb=20190930190752"
+      ]
     },
     {
       "id": "robotallion-pyrus",
@@ -5929,8 +7453,18 @@ window.BAKU_DATA = {
       },
       "bio": "Robotallion, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/99/Robotallion_Pyrus.png/revision/latest?cb=20110516233249",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4c/BK_CD_2_Robotallion.jpg/revision/latest?cb=20100112011140",
-      "nickname": "Pyrus Robotallion"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e5/Pyrus_Robotallion_in_Ball_Form.PNG/revision/latest?cb=20190606035444",
+      "nickname": "Pyrus Robotallion",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Pyrus_Robotallion_copy.png/revision/latest?cb=20120223103037",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6a/Pyrus_Robotallion.jpg/revision/latest?cb=20110412181257",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Pearl_Pyrus_Robotallion.jpg/revision/latest?cb=20100406225116",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Aquos_Robotallion%2C_Pyrus_Falconeer.jpg/revision/latest?cb=20110605182116",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Robotallion_Ball.JPG/revision/latest?cb=20110412180424",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/Omega_Robotallion_Ball_Form_copy.png/revision/latest?cb=20130327061118",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Robotallion_closed.jpg/revision/latest?cb=20110412180428",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d3/Darkus_Aquos_Robotallion_Ball.jpg/revision/latest?cb=20100728223029"
+      ]
     },
     {
       "id": "robotallion-aquos",
@@ -5958,9 +7492,19 @@ window.BAKU_DATA = {
         "gForce": 70
       },
       "bio": "Robotallion, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Aquos_Robotallion_faces_Darkus_Mantris..png/revision/latest?cb=20240618150934",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4c/BK_CD_2_Robotallion.jpg/revision/latest?cb=20100112011140",
-      "nickname": "Aquos Robotallion"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5e/KeithStrife_Aquos_Robotallion.JPG/revision/latest?cb=20130601144927",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d3/Darkus_Aquos_Robotallion_Ball.jpg/revision/latest?cb=20100728223029",
+      "nickname": "Aquos Robotallion",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Aquos_Robotallion_faces_Darkus_Mantris..png/revision/latest?cb=20240618150934",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Aquos_Robotallion%2C_Pyrus_Falconeer.jpg/revision/latest?cb=20110605182116",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bd/Aquos_Robotallion.jpeg/revision/latest?cb=20120205085655",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Robotallion_Ball.JPG/revision/latest?cb=20110412180424",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Pyrus_Robotallion_in_Ball_Form.PNG/revision/latest?cb=20190606035444",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/Omega_Robotallion_Ball_Form_copy.png/revision/latest?cb=20130327061118",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Robotallion_closed.jpg/revision/latest?cb=20110412180428",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Haos_Robotallion_Ravenoid_Anime_edited.jpg/revision/latest?cb=20100403034812"
+      ]
     },
     {
       "id": "robotallion-ventus",
@@ -5989,8 +7533,18 @@ window.BAKU_DATA = {
       },
       "bio": "Robotallion, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/28/Ventus_robotallion_back.PNG/revision/latest?cb=20101029000708",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4c/BK_CD_2_Robotallion.jpg/revision/latest?cb=20100112011140",
-      "nickname": "Ventus Robotallion"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/28/Ventus_robotallion_back.PNG/revision/latest?cb=20101029000708",
+      "nickname": "Ventus Robotallion",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Ventus_Robotallion.JPG/revision/latest?cb=20100817160626",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Ventus_Robotallion.jpeg/revision/latest?cb=20120205085423",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Robotallion_Ball.JPG/revision/latest?cb=20110412180424",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Pyrus_Robotallion_in_Ball_Form.PNG/revision/latest?cb=20190606035444",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/Omega_Robotallion_Ball_Form_copy.png/revision/latest?cb=20130327061118",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Robotallion_closed.jpg/revision/latest?cb=20110412180428",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d3/Darkus_Aquos_Robotallion_Ball.jpg/revision/latest?cb=20100728223029",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Haos_Robotallion_Ravenoid_Anime_edited.jpg/revision/latest?cb=20100403034812"
+      ]
     },
     {
       "id": "robotallion-subterra",
@@ -6019,8 +7573,18 @@ window.BAKU_DATA = {
       },
       "bio": "Robotallion, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4a/Subterra_Robotallion.jpeg/revision/latest?cb=20120205085544",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4c/BK_CD_2_Robotallion.jpg/revision/latest?cb=20100112011140",
-      "nickname": "Subterra Robotallion"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2a/Subterra_robotallion.PNG/revision/latest?cb=20101028234842",
+      "nickname": "Subterra Robotallion",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Robotallion_Ball.JPG/revision/latest?cb=20110412180424",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Pyrus_Robotallion_in_Ball_Form.PNG/revision/latest?cb=20190606035444",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/Omega_Robotallion_Ball_Form_copy.png/revision/latest?cb=20130327061118",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Robotallion_closed.jpg/revision/latest?cb=20110412180428",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d3/Darkus_Aquos_Robotallion_Ball.jpg/revision/latest?cb=20100728223029",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Haos_Robotallion_Ravenoid_Anime_edited.jpg/revision/latest?cb=20100403034812",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/KeithStrife_Aquos_Robotallion.JPG/revision/latest?cb=20130601144927",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Aquos_Robotallion_faces_Darkus_Mantris..png/revision/latest?cb=20240618150934"
+      ]
     },
     {
       "id": "robotallion-haos",
@@ -6049,8 +7613,18 @@ window.BAKU_DATA = {
       },
       "bio": "Robotallion, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1d/Haos_Robotallion_Ravenoid_Anime_edited.jpg/revision/latest?cb=20100403034812",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4c/BK_CD_2_Robotallion.jpg/revision/latest?cb=20100112011140",
-      "nickname": "Haos Robotallion"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1d/Haos_Robotallion_Ravenoid_Anime_edited.jpg/revision/latest?cb=20100403034812",
+      "nickname": "Haos Robotallion",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Haos_robotallion.jpeg/revision/latest?cb=20120205085804",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Robotallion_Ball.JPG/revision/latest?cb=20110412180424",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Pyrus_Robotallion_in_Ball_Form.PNG/revision/latest?cb=20190606035444",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/Omega_Robotallion_Ball_Form_copy.png/revision/latest?cb=20130327061118",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Robotallion_closed.jpg/revision/latest?cb=20110412180428",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d3/Darkus_Aquos_Robotallion_Ball.jpg/revision/latest?cb=20100728223029",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/KeithStrife_Aquos_Robotallion.JPG/revision/latest?cb=20130601144927",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Aquos_Robotallion_faces_Darkus_Mantris..png/revision/latest?cb=20240618150934"
+      ]
     },
     {
       "id": "robotallion-darkus",
@@ -6080,7 +7654,17 @@ window.BAKU_DATA = {
       "bio": "Robotallion, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Aquos_Robotallion_faces_Darkus_Mantris..png/revision/latest?cb=20240618150934",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4c/BK_CD_2_Robotallion.jpg/revision/latest?cb=20100112011140",
-      "nickname": "Darkus Robotallion"
+      "nickname": "Darkus Robotallion",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/d3/Darkus_Aquos_Robotallion_Ball.jpg/revision/latest?cb=20100728223029",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Robotallion_Ball.JPG/revision/latest?cb=20110412180424",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Pyrus_Robotallion_in_Ball_Form.PNG/revision/latest?cb=20190606035444",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/Omega_Robotallion_Ball_Form_copy.png/revision/latest?cb=20130327061118",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Robotallion_closed.jpg/revision/latest?cb=20110412180428",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Haos_Robotallion_Ravenoid_Anime_edited.jpg/revision/latest?cb=20100403034812",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/KeithStrife_Aquos_Robotallion.JPG/revision/latest?cb=20130601144927",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/BK_PR_Robotallion.jpg/revision/latest?cb=20110918120136"
+      ]
     },
     {
       "id": "saurus-pyrus",
@@ -6109,8 +7693,18 @@ window.BAKU_DATA = {
       },
       "bio": "Saurus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4e/Pyrus_Saurus_Anime.jpg/revision/latest?cb=20100628210705",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ef/BK_CD_Saurus.jpg/revision/latest?cb=20091022161239",
-      "nickname": "Pyrus Saurus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4e/Pyrus_Saurus_Anime.jpg/revision/latest?cb=20100628210705",
+      "nickname": "Pyrus Saurus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/Pyrus_Saurus.jpg/revision/latest?cb=20100628210628",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b2/Darkus_Stinglash_VS_Pyrus_Saurus.jpg/revision/latest?cb=20120117014621",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Pyrus_Saurus_Attack.jpg/revision/latest?cb=20101214233303",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Saurus_ball.PNG/revision/latest?cb=20100921004151",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Saurus_open.PNG/revision/latest?cb=20110702091659",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Clear_Saurus.jpg/revision/latest?cb=20100414010424",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Saurus_glow.gif/revision/latest?cb=20180703033208",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4d/Haos_Saurus%2C_200_Gs.jpg/revision/latest?cb=20101017205046"
+      ]
     },
     {
       "id": "saurus-aquos",
@@ -6138,9 +7732,19 @@ window.BAKU_DATA = {
         "gForce": 70
       },
       "bio": "Saurus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d3/Aquos_and_Ventus_Saurus.JPG/revision/latest?cb=20100815173946",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ef/BK_CD_Saurus.jpg/revision/latest?cb=20091022161239",
-      "nickname": "Aquos Saurus"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e2/KeithStrife_Aquos_Saurus.jpg/revision/latest?cb=20130325113628",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/KeithStrife_Aquos_Saurus.jpg/revision/latest?cb=20130325113628",
+      "nickname": "Aquos Saurus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Aquos_saurus.jpeg/revision/latest?cb=20120205090702",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d3/Aquos_and_Ventus_Saurus.JPG/revision/latest?cb=20100815173946",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Saurus_ball.PNG/revision/latest?cb=20100921004151",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4e/Pyrus_Saurus_Anime.jpg/revision/latest?cb=20100628210705",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Saurus_open.PNG/revision/latest?cb=20110702091659",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Clear_Saurus.jpg/revision/latest?cb=20100414010424",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Saurus_glow.gif/revision/latest?cb=20180703033208",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4d/Haos_Saurus%2C_200_Gs.jpg/revision/latest?cb=20101017205046"
+      ]
     },
     {
       "id": "saurus-ventus",
@@ -6169,8 +7773,18 @@ window.BAKU_DATA = {
       },
       "bio": "Saurus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d3/Aquos_and_Ventus_Saurus.JPG/revision/latest?cb=20100815173946",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ef/BK_CD_Saurus.jpg/revision/latest?cb=20091022161239",
-      "nickname": "Ventus Saurus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d3/Aquos_and_Ventus_Saurus.JPG/revision/latest?cb=20100815173946",
+      "nickname": "Ventus Saurus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Ventus_saurus.jpeg/revision/latest?cb=20120205090618",
+        "https://static.wikia.nocookie.net/bakugan/images/6/68/Translucent_ventus_saurus.jpeg/revision/latest?cb=20120205090345",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Saurus_ball.PNG/revision/latest?cb=20100921004151",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4e/Pyrus_Saurus_Anime.jpg/revision/latest?cb=20100628210705",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Saurus_open.PNG/revision/latest?cb=20110702091659",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Clear_Saurus.jpg/revision/latest?cb=20100414010424",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Saurus_glow.gif/revision/latest?cb=20180703033208",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4d/Haos_Saurus%2C_200_Gs.jpg/revision/latest?cb=20101017205046"
+      ]
     },
     {
       "id": "saurus-subterra",
@@ -6199,8 +7813,18 @@ window.BAKU_DATA = {
       },
       "bio": "Saurus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ab/Subterra_Saurus_in_Bakugan_form.jpg/revision/latest?cb=20220504064935",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ef/BK_CD_Saurus.jpg/revision/latest?cb=20091022161239",
-      "nickname": "Subterra Saurus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f7/Subterra_Saurus.jpeg/revision/latest?cb=20220504063858",
+      "nickname": "Subterra Saurus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Saurus_subterra_o.jpg/revision/latest?cb=20100917114932",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Saurus_ball.PNG/revision/latest?cb=20100921004151",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4e/Pyrus_Saurus_Anime.jpg/revision/latest?cb=20100628210705",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Saurus_open.PNG/revision/latest?cb=20110702091659",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Clear_Saurus.jpg/revision/latest?cb=20100414010424",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Saurus_glow.gif/revision/latest?cb=20180703033208",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4d/Haos_Saurus%2C_200_Gs.jpg/revision/latest?cb=20101017205046",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Bakugan_ATTACK_Saurus.png/revision/latest?cb=20180521080719"
+      ]
     },
     {
       "id": "saurus-haos",
@@ -6229,8 +7853,18 @@ window.BAKU_DATA = {
       },
       "bio": "Saurus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4d/Haos_Saurus%2C_200_Gs.jpg/revision/latest?cb=20101017205046",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ef/BK_CD_Saurus.jpg/revision/latest?cb=20091022161239",
-      "nickname": "Haos Saurus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4d/Haos_Saurus%2C_200_Gs.jpg/revision/latest?cb=20101017205046",
+      "nickname": "Haos Saurus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/80/Haos_Saurus.jpeg/revision/latest?cb=20120205090439",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Saurus_ball.PNG/revision/latest?cb=20100921004151",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4e/Pyrus_Saurus_Anime.jpg/revision/latest?cb=20100628210705",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Saurus_open.PNG/revision/latest?cb=20110702091659",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Clear_Saurus.jpg/revision/latest?cb=20100414010424",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Saurus_glow.gif/revision/latest?cb=20180703033208",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Bakugan_ATTACK_Saurus.png/revision/latest?cb=20180521080719",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/BKN_Saurus_2.png/revision/latest?cb=20100520111313"
+      ]
     },
     {
       "id": "saurus-darkus",
@@ -6258,9 +7892,19 @@ window.BAKU_DATA = {
         "gForce": 70
       },
       "bio": "Saurus, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ef/BK_CD_Saurus.jpg/revision/latest?cb=20091022161239",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b2/Darkus_Stinglash_VS_Pyrus_Saurus.jpg/revision/latest?cb=20120117014621",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ef/BK_CD_Saurus.jpg/revision/latest?cb=20091022161239",
-      "nickname": "Darkus Saurus"
+      "nickname": "Darkus Saurus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Saurus_ball.PNG/revision/latest?cb=20100921004151",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4e/Pyrus_Saurus_Anime.jpg/revision/latest?cb=20100628210705",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Saurus_open.PNG/revision/latest?cb=20110702091659",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Clear_Saurus.jpg/revision/latest?cb=20100414010424",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Saurus_glow.gif/revision/latest?cb=20180703033208",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4d/Haos_Saurus%2C_200_Gs.jpg/revision/latest?cb=20101017205046",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Bakugan_ATTACK_Saurus.png/revision/latest?cb=20180521080719",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/BKN_Saurus_2.png/revision/latest?cb=20100520111313"
+      ]
     },
     {
       "id": "serpenoid-pyrus",
@@ -6289,8 +7933,18 @@ window.BAKU_DATA = {
       },
       "bio": "Erken sezonların sık görülen bakuganı. Her attribute’ta türevleri vardır. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/96/Pyrus_Serpenoid_Sphere.png/revision/latest?cb=20181024153733",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/bf/Serpenoid.png/revision/latest?cb=20110407211031",
-      "nickname": "Pyrus Serpenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/96/Pyrus_Serpenoid_Sphere.png/revision/latest?cb=20181024153733",
+      "nickname": "Pyrus Serpenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Pyrus_Serpenoid_Bakugan.png/revision/latest?cb=20181024154242",
+        "https://static.wikia.nocookie.net/bakugan/images/1/16/Pyrus_Serpenoid_Bakugan_Head.png/revision/latest?cb=20181024154448",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/Pearl_Pyrus_Serpenoid.jpg/revision/latest?cb=20100618232520",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d1/Pyrus_serpenoid.jpg/revision/latest?cb=20110824024516",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/Serpenoid_Ball.JPG/revision/latest?cb=20091101012152",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b7/Serpenoid_closed.jpeg/revision/latest?cb=20120207092249",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Serpenoid_open.PNG/revision/latest?cb=20110702091721",
+        "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_Serpenoid.png/revision/latest?cb=20091018215942"
+      ]
     },
     {
       "id": "serpenoid-aquos",
@@ -6319,8 +7973,18 @@ window.BAKU_DATA = {
       },
       "bio": "Erken sezonların sık görülen bakuganı. Her attribute’ta türevleri vardır. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/fb/87px-Aquos_serpenoid.png/revision/latest?cb=20110328125453",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/bf/Serpenoid.png/revision/latest?cb=20110407211031",
-      "nickname": "Aquos Serpenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ec/Aquos_serpenoid.PNG/revision/latest?cb=20101028235557",
+      "nickname": "Aquos Serpenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9c/Deka_Aquos_Serpenoid.jpg/revision/latest?cb=20100414012725",
+        "https://static.wikia.nocookie.net/bakugan/images/9/96/Pyrus_Serpenoid_Sphere.png/revision/latest?cb=20181024153733",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/Serpenoid_Ball.JPG/revision/latest?cb=20091101012152",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b7/Serpenoid_closed.jpeg/revision/latest?cb=20120207092249",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Serpenoid_open.PNG/revision/latest?cb=20110702091721",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Pyrus_Serpenoid_Bakugan.png/revision/latest?cb=20181024154242",
+        "https://static.wikia.nocookie.net/bakugan/images/1/16/Pyrus_Serpenoid_Bakugan_Head.png/revision/latest?cb=20181024154448",
+        "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_Serpenoid.png/revision/latest?cb=20091018215942"
+      ]
     },
     {
       "id": "serpenoid-ventus",
@@ -6349,8 +8013,18 @@ window.BAKU_DATA = {
       },
       "bio": "Erken sezonların sık görülen bakuganı. Her attribute’ta türevleri vardır. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/bf/Ventus_serpenoid.jpeg/revision/latest?cb=20120207093317",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/bf/Serpenoid.png/revision/latest?cb=20110407211031",
-      "nickname": "Ventus Serpenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/bf/Ventus_serpenoid.jpeg/revision/latest?cb=20120207093317",
+      "nickname": "Ventus Serpenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/96/Pyrus_Serpenoid_Sphere.png/revision/latest?cb=20181024153733",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/Serpenoid_Ball.JPG/revision/latest?cb=20091101012152",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b7/Serpenoid_closed.jpeg/revision/latest?cb=20120207092249",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Serpenoid_open.PNG/revision/latest?cb=20110702091721",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Pyrus_Serpenoid_Bakugan.png/revision/latest?cb=20181024154242",
+        "https://static.wikia.nocookie.net/bakugan/images/1/16/Pyrus_Serpenoid_Bakugan_Head.png/revision/latest?cb=20181024154448",
+        "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_Serpenoid.png/revision/latest?cb=20091018215942",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Serpenoid.jpg/revision/latest?cb=20110907132803"
+      ]
     },
     {
       "id": "serpenoid-subterra",
@@ -6379,8 +8053,18 @@ window.BAKU_DATA = {
       },
       "bio": "Erken sezonların sık görülen bakuganı. Her attribute’ta türevleri vardır. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/bf/Serpenoid.png/revision/latest?cb=20110407211031",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/bf/Serpenoid.png/revision/latest?cb=20110407211031",
-      "nickname": "Subterra Serpenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/96/Pyrus_Serpenoid_Sphere.png/revision/latest?cb=20181024153733",
+      "nickname": "Subterra Serpenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/Serpenoid_Ball.JPG/revision/latest?cb=20091101012152",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b7/Serpenoid_closed.jpeg/revision/latest?cb=20120207092249",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Serpenoid_open.PNG/revision/latest?cb=20110702091721",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Pyrus_Serpenoid_Bakugan.png/revision/latest?cb=20181024154242",
+        "https://static.wikia.nocookie.net/bakugan/images/1/16/Pyrus_Serpenoid_Bakugan_Head.png/revision/latest?cb=20181024154448",
+        "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_Serpenoid.png/revision/latest?cb=20091018215942",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Serpenoid.jpg/revision/latest?cb=20110907132803",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/Serpenoid_gate.jpg/revision/latest?cb=20110113031227"
+      ]
     },
     {
       "id": "serpenoid-haos",
@@ -6409,8 +8093,18 @@ window.BAKU_DATA = {
       },
       "bio": "Erken sezonların sık görülen bakuganı. Her attribute’ta türevleri vardır. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8a/KeithStrife_Haos_Serpenoid.JPG/revision/latest?cb=20120815184114",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/bf/Serpenoid.png/revision/latest?cb=20110407211031",
-      "nickname": "Haos Serpenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8a/KeithStrife_Haos_Serpenoid.JPG/revision/latest?cb=20120815184114",
+      "nickname": "Haos Serpenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Haos_Serpenoid_in_Bakugan_form.jpg/revision/latest?cb=20220504085149",
+        "https://static.wikia.nocookie.net/bakugan/images/9/96/Pyrus_Serpenoid_Sphere.png/revision/latest?cb=20181024153733",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/Serpenoid_Ball.JPG/revision/latest?cb=20091101012152",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b7/Serpenoid_closed.jpeg/revision/latest?cb=20120207092249",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Serpenoid_open.PNG/revision/latest?cb=20110702091721",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Pyrus_Serpenoid_Bakugan.png/revision/latest?cb=20181024154242",
+        "https://static.wikia.nocookie.net/bakugan/images/1/16/Pyrus_Serpenoid_Bakugan_Head.png/revision/latest?cb=20181024154448",
+        "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_Serpenoid.png/revision/latest?cb=20091018215942"
+      ]
     },
     {
       "id": "serpenoid-darkus",
@@ -6440,7 +8134,17 @@ window.BAKU_DATA = {
       "bio": "Erken sezonların sık görülen bakuganı. Her attribute’ta türevleri vardır. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/2c/Darkus_Serpenoid.png/revision/latest?cb=20130106024314",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/bf/Serpenoid.png/revision/latest?cb=20110407211031",
-      "nickname": "Darkus Serpenoid"
+      "nickname": "Darkus Serpenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/96/Pyrus_Serpenoid_Sphere.png/revision/latest?cb=20181024153733",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/Serpenoid_Ball.JPG/revision/latest?cb=20091101012152",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b7/Serpenoid_closed.jpeg/revision/latest?cb=20120207092249",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Serpenoid_open.PNG/revision/latest?cb=20110702091721",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Pyrus_Serpenoid_Bakugan.png/revision/latest?cb=20181024154242",
+        "https://static.wikia.nocookie.net/bakugan/images/1/16/Pyrus_Serpenoid_Bakugan_Head.png/revision/latest?cb=20181024154448",
+        "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_Serpenoid.png/revision/latest?cb=20091018215942",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Serpenoid.jpg/revision/latest?cb=20110907132803"
+      ]
     },
     {
       "id": "siege-pyrus",
@@ -6469,8 +8173,18 @@ window.BAKU_DATA = {
       },
       "bio": "Siege, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/12/Pyrus_Siege_Sphere.png/revision/latest?cb=20181030164241",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Bk_cd_seige.jpg/revision/latest?cb=20090917161434",
-      "nickname": "Pyrus Siege"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/12/Pyrus_Siege_Sphere.png/revision/latest?cb=20181030164241",
+      "nickname": "Pyrus Siege",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/60/Pyrus_Siege_Ball_Form.PNG/revision/latest?cb=20101029004454",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/Pyrus_Siege_Bakugan_Form.PNG/revision/latest?cb=20101029004605",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Pyrus_Siege_Attack_%21.png/revision/latest?cb=20110423012650",
+        "https://static.wikia.nocookie.net/bakugan/images/d/df/Pyrus_Siege_in_Bakugan_form.jpg/revision/latest?cb=20220723093113",
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Pyrus_Siege%21%21.jpeg/revision/latest?cb=20120208101108",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Siege_Pyrus.jpg/revision/latest?cb=20100108172327",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/Darkus_Siege_in_ball_form._%28Closed.%29.JPG/revision/latest?cb=20110811041413",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Aquos_Siege_Sphere.png/revision/latest?cb=20181026182015"
+      ]
     },
     {
       "id": "siege-aquos",
@@ -6499,8 +8213,18 @@ window.BAKU_DATA = {
       },
       "bio": "Siege, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a1/Aquos_Siege_in_the_battle.png/revision/latest?cb=20200815103220",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Bk_cd_seige.jpg/revision/latest?cb=20090917161434",
-      "nickname": "Aquos Siege"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a1/Aquos_Siege_Sphere.png/revision/latest?cb=20181026182015",
+      "nickname": "Aquos Siege",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Aquos_Siege_Bakugan.png/revision/latest?cb=20181026182311",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5c/Aquos_Siege.png/revision/latest?cb=20161226192146",
+        "https://static.wikia.nocookie.net/bakugan/images/6/66/Aquos_siege_power_boost.png/revision/latest?cb=20110420022320",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/Aquos_Siege_vs._Dragonoid.jpg/revision/latest?cb=20110605182234",
+        "https://static.wikia.nocookie.net/bakugan/images/3/32/Aquos_Siege_away_%21.png/revision/latest?cb=20110420022535",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b1/Aquos_Siege.PNG/revision/latest?cb=20100514183311",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Aquos_Siege%E2%80%A6..jpeg/revision/latest?cb=20120208101147",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/Siege_Aquos.JPG/revision/latest?cb=20091101012344"
+      ]
     },
     {
       "id": "siege-ventus",
@@ -6529,8 +8253,18 @@ window.BAKU_DATA = {
       },
       "bio": "Siege, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/29/KeithStrife_Ventus_Siege.jpg/revision/latest?cb=20130315170128",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Bk_cd_seige.jpg/revision/latest?cb=20090917161434",
-      "nickname": "Ventus Siege"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/29/KeithStrife_Ventus_Siege.jpg/revision/latest?cb=20130315170128",
+      "nickname": "Ventus Siege",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Ventus_siege.jpg/revision/latest?cb=20110824024134",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/Darkus_Siege_in_ball_form._%28Closed.%29.JPG/revision/latest?cb=20110811041413",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Pyrus_Siege_Sphere.png/revision/latest?cb=20181030164241",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Aquos_Siege_Sphere.png/revision/latest?cb=20181026182015",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Haos_Siege_in_ball_form.PNG/revision/latest?cb=20190608045749",
+        "https://static.wikia.nocookie.net/bakugan/images/6/60/Pyrus_Siege_Ball_Form.PNG/revision/latest?cb=20101029004454",
+        "https://static.wikia.nocookie.net/bakugan/images/3/37/Siege_Ball.JPG/revision/latest?cb=20091101012344",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f6/Siege.png/revision/latest?cb=20190126115329"
+      ]
     },
     {
       "id": "siege-subterra",
@@ -6559,8 +8293,18 @@ window.BAKU_DATA = {
       },
       "bio": "Siege, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Bk_cd_seige.jpg/revision/latest?cb=20090917161434",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Bk_cd_seige.jpg/revision/latest?cb=20090917161434",
-      "nickname": "Subterra Siege"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/98/Darkus_Siege_in_ball_form._%28Closed.%29.JPG/revision/latest?cb=20110811041413",
+      "nickname": "Subterra Siege",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Pyrus_Siege_Sphere.png/revision/latest?cb=20181030164241",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Aquos_Siege_Sphere.png/revision/latest?cb=20181026182015",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Haos_Siege_in_ball_form.PNG/revision/latest?cb=20190608045749",
+        "https://static.wikia.nocookie.net/bakugan/images/6/60/Pyrus_Siege_Ball_Form.PNG/revision/latest?cb=20101029004454",
+        "https://static.wikia.nocookie.net/bakugan/images/3/37/Siege_Ball.JPG/revision/latest?cb=20091101012344",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f6/Siege.png/revision/latest?cb=20190126115329",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Aquos_Siege_Bakugan.png/revision/latest?cb=20181026182311",
+        "https://static.wikia.nocookie.net/bakugan/images/1/18/Siege_1.png/revision/latest?cb=20120214165433"
+      ]
     },
     {
       "id": "siege-haos",
@@ -6589,8 +8333,18 @@ window.BAKU_DATA = {
       },
       "bio": "Siege, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/08/Haos_Siege_in_ball_form.PNG/revision/latest?cb=20190608045749",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Bk_cd_seige.jpg/revision/latest?cb=20090917161434",
-      "nickname": "Haos Siege"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/08/Haos_Siege_in_ball_form.PNG/revision/latest?cb=20190608045749",
+      "nickname": "Haos Siege",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Haos_Siege.png/revision/latest?cb=20110414183119",
+        "https://static.wikia.nocookie.net/bakugan/images/2/27/Siege_Haos.JPG/revision/latest?cb=20091101012345",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/Darkus_Siege_in_ball_form._%28Closed.%29.JPG/revision/latest?cb=20110811041413",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Pyrus_Siege_Sphere.png/revision/latest?cb=20181030164241",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Aquos_Siege_Sphere.png/revision/latest?cb=20181026182015",
+        "https://static.wikia.nocookie.net/bakugan/images/6/60/Pyrus_Siege_Ball_Form.PNG/revision/latest?cb=20101029004454",
+        "https://static.wikia.nocookie.net/bakugan/images/3/37/Siege_Ball.JPG/revision/latest?cb=20091101012344",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f6/Siege.png/revision/latest?cb=20190126115329"
+      ]
     },
     {
       "id": "siege-darkus",
@@ -6620,7 +8374,17 @@ window.BAKU_DATA = {
       "bio": "Siege, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/98/Darkus_Siege_in_ball_form._%28Closed.%29.JPG/revision/latest?cb=20110811041413",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Bk_cd_seige.jpg/revision/latest?cb=20090917161434",
-      "nickname": "Darkus Siege"
+      "nickname": "Darkus Siege",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b0/Darkus_Siege.PNG/revision/latest?cb=20190511204152",
+        "https://static.wikia.nocookie.net/bakugan/images/3/32/Darkus_Siege.jpg/revision/latest?cb=20100406225929",
+        "https://static.wikia.nocookie.net/bakugan/images/0/03/Siege_Darkus.JPG/revision/latest?cb=20091101012345",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Pyrus_Siege_Sphere.png/revision/latest?cb=20181030164241",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Aquos_Siege_Sphere.png/revision/latest?cb=20181026182015",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Haos_Siege_in_ball_form.PNG/revision/latest?cb=20190608045749",
+        "https://static.wikia.nocookie.net/bakugan/images/6/60/Pyrus_Siege_Ball_Form.PNG/revision/latest?cb=20101029004454",
+        "https://static.wikia.nocookie.net/bakugan/images/3/37/Siege_Ball.JPG/revision/latest?cb=20091101012344"
+      ]
     },
     {
       "id": "silent-naga",
@@ -6649,7 +8413,17 @@ window.BAKU_DATA = {
       },
       "bio": "Silent Naga, Sezon 1 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/64/Naga3.png/revision/latest?cb=20091213222141",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/64/Naga3.png/revision/latest?cb=20091213222141"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/64/Naga3.png/revision/latest?cb=20091213222141",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/de/Silent_Naga_closed.PNG/revision/latest?cb=20101105173059",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a0/Silent_Naga_open.PNG/revision/latest?cb=20101105173202",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Silent_Naga_%28ballform_2%29.png/revision/latest?cb=20120211034409",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d4/Silent_Naga.png/revision/latest?cb=20100619190250",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Silent_Naga_%28ballform%29.png/revision/latest?cb=20120211034347",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Hal-G_%26_Silent_Naga.JPG/revision/latest?cb=20130324201750",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d3/Silent_Naga.jpg/revision/latest?cb=20100425013354",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Naga_Silent_Core.jpg/revision/latest?cb=20091029210222"
+      ]
     },
     {
       "id": "sirenoid-pyrus",
@@ -6677,9 +8451,19 @@ window.BAKU_DATA = {
         "gForce": 74
       },
       "bio": "Sirenoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9e/Albumf44049n293698-1-.png/revision/latest?cb=20090721182419",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9e/Albumf44049n293698-1-.png/revision/latest?cb=20090721182419",
-      "nickname": "Pyrus Sirenoid"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/92/Aquos_Sirenoid.jpg/revision/latest?cb=20100414002552",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/97/Sirenoid_Ball.JPG/revision/latest?cb=20091101012735",
+      "nickname": "Pyrus Sirenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Azure_Sirenoid.jpg/revision/latest?cb=20120206080545",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/Sirenoid.by.rec.jpg/revision/latest?cb=20100717010724",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Sirenoid_Headshot.jpg/revision/latest?cb=20100727043525",
+        "https://static.wikia.nocookie.net/bakugan/images/7/71/07_18_Sirenoid.jpg/revision/latest?cb=20110718133611",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/BA255_GA_sirenoid_12.png/revision/latest?cb=20170701231352",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Klaus_%26_Sirenoid.JPG/revision/latest?cb=20161029180534",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Sirenoid...png/revision/latest?cb=20110419230720",
+        "https://static.wikia.nocookie.net/bakugan/images/d/de/Klaus_losing_Sirenoid_to_the_Doom_Dimension.png/revision/latest?cb=20110419231021"
+      ]
     },
     {
       "id": "sirenoid-aquos",
@@ -6708,8 +8492,18 @@ window.BAKU_DATA = {
       },
       "bio": "Sirenoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/94/KeithStrife_Aquos_Sirenoid.JPG/revision/latest?cb=20120815183850",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9e/Albumf44049n293698-1-.png/revision/latest?cb=20090721182419",
-      "nickname": "Aquos Sirenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/92/Aquos_Sirenoid.jpg/revision/latest?cb=20100414002552",
+      "nickname": "Aquos Sirenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/99/Clear_aquos_sirenoid.jpeg/revision/latest?cb=20120207203523",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b3/Aquos_sirenoid%28side%29.jpeg/revision/latest?cb=20120207203415",
+        "https://static.wikia.nocookie.net/bakugan/images/5/50/Sirenoid_Aquos_2.jpg/revision/latest?cb=20100518225318",
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Sirenoid_Aquos.JPG/revision/latest?cb=20091101013004",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Sirenoid_Ball.JPG/revision/latest?cb=20091101012735",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Azure_Sirenoid.jpg/revision/latest?cb=20120206080545",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/Sirenoid.by.rec.jpg/revision/latest?cb=20100717010724",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Sirenoid_Headshot.jpg/revision/latest?cb=20100727043525"
+      ]
     },
     {
       "id": "sirenoid-ventus",
@@ -6738,8 +8532,18 @@ window.BAKU_DATA = {
       },
       "bio": "Sirenoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6e/Ventus_sirenoid%21.jpeg/revision/latest?cb=20120207203557",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9e/Albumf44049n293698-1-.png/revision/latest?cb=20090721182419",
-      "nickname": "Ventus Sirenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6e/Ventus_sirenoid%21.jpeg/revision/latest?cb=20120207203557",
+      "nickname": "Ventus Sirenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Sirenoid_Ball.JPG/revision/latest?cb=20091101012735",
+        "https://static.wikia.nocookie.net/bakugan/images/9/92/Aquos_Sirenoid.jpg/revision/latest?cb=20100414002552",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Azure_Sirenoid.jpg/revision/latest?cb=20120206080545",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/Sirenoid.by.rec.jpg/revision/latest?cb=20100717010724",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Sirenoid_Headshot.jpg/revision/latest?cb=20100727043525",
+        "https://static.wikia.nocookie.net/bakugan/images/7/71/07_18_Sirenoid.jpg/revision/latest?cb=20110718133611",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/BA255_GA_sirenoid_12.png/revision/latest?cb=20170701231352",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Klaus_%26_Sirenoid.JPG/revision/latest?cb=20161029180534"
+      ]
     },
     {
       "id": "sirenoid-subterra",
@@ -6768,8 +8572,18 @@ window.BAKU_DATA = {
       },
       "bio": "Sirenoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9e/Albumf44049n293698-1-.png/revision/latest?cb=20090721182419",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9e/Albumf44049n293698-1-.png/revision/latest?cb=20090721182419",
-      "nickname": "Subterra Sirenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/97/Sirenoid_Ball.JPG/revision/latest?cb=20091101012735",
+      "nickname": "Subterra Sirenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/92/Aquos_Sirenoid.jpg/revision/latest?cb=20100414002552",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Azure_Sirenoid.jpg/revision/latest?cb=20120206080545",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/Sirenoid.by.rec.jpg/revision/latest?cb=20100717010724",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Sirenoid_Headshot.jpg/revision/latest?cb=20100727043525",
+        "https://static.wikia.nocookie.net/bakugan/images/7/71/07_18_Sirenoid.jpg/revision/latest?cb=20110718133611",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/BA255_GA_sirenoid_12.png/revision/latest?cb=20170701231352",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Klaus_%26_Sirenoid.JPG/revision/latest?cb=20161029180534",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Sirenoid...png/revision/latest?cb=20110419230720"
+      ]
     },
     {
       "id": "sirenoid-haos",
@@ -6798,8 +8612,18 @@ window.BAKU_DATA = {
       },
       "bio": "Sirenoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Haos_Sirenoid.jpg/revision/latest?cb=20100614172128",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9e/Albumf44049n293698-1-.png/revision/latest?cb=20090721182419",
-      "nickname": "Haos Sirenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Haos_Sirenoid.jpg/revision/latest?cb=20100614172128",
+      "nickname": "Haos Sirenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Sirenoid_Ball.JPG/revision/latest?cb=20091101012735",
+        "https://static.wikia.nocookie.net/bakugan/images/9/92/Aquos_Sirenoid.jpg/revision/latest?cb=20100414002552",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Azure_Sirenoid.jpg/revision/latest?cb=20120206080545",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/Sirenoid.by.rec.jpg/revision/latest?cb=20100717010724",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Sirenoid_Headshot.jpg/revision/latest?cb=20100727043525",
+        "https://static.wikia.nocookie.net/bakugan/images/7/71/07_18_Sirenoid.jpg/revision/latest?cb=20110718133611",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/BA255_GA_sirenoid_12.png/revision/latest?cb=20170701231352",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Klaus_%26_Sirenoid.JPG/revision/latest?cb=20161029180534"
+      ]
     },
     {
       "id": "sirenoid-darkus",
@@ -6829,7 +8653,17 @@ window.BAKU_DATA = {
       "bio": "Sirenoid, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/17/Darkus_Sirenoid%21.jpeg/revision/latest?cb=20120207203448",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9e/Albumf44049n293698-1-.png/revision/latest?cb=20090721182419",
-      "nickname": "Darkus Sirenoid"
+      "nickname": "Darkus Sirenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Darkus-sirenoid-000.jpg/revision/latest?cb=20100614171929",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Sirenoid_Ball.JPG/revision/latest?cb=20091101012735",
+        "https://static.wikia.nocookie.net/bakugan/images/9/92/Aquos_Sirenoid.jpg/revision/latest?cb=20100414002552",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Azure_Sirenoid.jpg/revision/latest?cb=20120206080545",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/Sirenoid.by.rec.jpg/revision/latest?cb=20100717010724",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Sirenoid_Headshot.jpg/revision/latest?cb=20100727043525",
+        "https://static.wikia.nocookie.net/bakugan/images/7/71/07_18_Sirenoid.jpg/revision/latest?cb=20110718133611",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/BA255_GA_sirenoid_12.png/revision/latest?cb=20170701231352"
+      ]
     },
     {
       "id": "skyress-pyrus",
@@ -6858,9 +8692,19 @@ window.BAKU_DATA = {
         "gForce": 84
       },
       "bio": "Shun’un ilk partneri. Annesinden kalan bağ ve ninja disipliniyle efsaneleşir. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c4/BK_CD_Skyress.jpg/revision/latest?cb=20090918211153",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c4/BK_CD_Skyress.jpg/revision/latest?cb=20090918211153",
-      "nickname": "Pyrus Skyress"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c6/Pyrus_skyress.jpg/revision/latest?cb=20100803070556",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c6/Pyrus_skyress.jpg/revision/latest?cb=20100803070556",
+      "nickname": "Pyrus Skyress",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Storm_Skyress_Ball.JPG/revision/latest?cb=20091101013618",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Skyress_Ball.JPG/revision/latest?cb=20110412175043",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Skyress_Closed.jpg/revision/latest?cb=20110412175131",
+        "https://static.wikia.nocookie.net/bakugan/images/1/19/Storm_Skyress_Anime.jpg/revision/latest?cb=20090912193923",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/3D_Skyress.jpg/revision/latest?cb=20120206080117",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Bakugan_ATTACK_Skyress.png/revision/latest?cb=20180521080941",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/BKN_Storm_Skyress_HQ_Infbox.png/revision/latest?cb=20090912194455",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/BKN_Skyress.png/revision/latest?cb=20101227082135"
+      ]
     },
     {
       "id": "skyress-aquos",
@@ -6889,9 +8733,19 @@ window.BAKU_DATA = {
         "gForce": 84
       },
       "bio": "Shun’un ilk partneri. Annesinden kalan bağ ve ninja disipliniyle efsaneleşir. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c4/BK_CD_Skyress.jpg/revision/latest?cb=20090918211153",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c4/BK_CD_Skyress.jpg/revision/latest?cb=20090918211153",
-      "nickname": "Aquos Skyress"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/cb/Aquos_skyress.jpg/revision/latest?cb=20100803070207",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/cb/Aquos_skyress.jpg/revision/latest?cb=20100803070207",
+      "nickname": "Aquos Skyress",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Storm_Skyress_Ball.JPG/revision/latest?cb=20091101013618",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Skyress_Ball.JPG/revision/latest?cb=20110412175043",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Skyress_Closed.jpg/revision/latest?cb=20110412175131",
+        "https://static.wikia.nocookie.net/bakugan/images/1/19/Storm_Skyress_Anime.jpg/revision/latest?cb=20090912193923",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/3D_Skyress.jpg/revision/latest?cb=20120206080117",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Bakugan_ATTACK_Skyress.png/revision/latest?cb=20180521080941",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/BKN_Storm_Skyress_HQ_Infbox.png/revision/latest?cb=20090912194455",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/BKN_Skyress.png/revision/latest?cb=20101227082135"
+      ]
     },
     {
       "id": "skyress-ventus",
@@ -6921,8 +8775,18 @@ window.BAKU_DATA = {
       },
       "bio": "Shun’un ilk partneri. Annesinden kalan bağ ve ninja disipliniyle efsaneleşir. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Translucent_Storm_Skyress_-_Ventus.png/revision/latest?cb=20100924155315",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c4/BK_CD_Skyress.jpg/revision/latest?cb=20090918211153",
-      "nickname": "Ventus Skyress"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d2/KeithStrife_Ventus_Skyress.JPG/revision/latest?cb=20120815192013",
+      "nickname": "Ventus Skyress",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/34/Ventus_Skyress.png/revision/latest?cb=20111207205833",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/KeithStrife_B1_Ventus_Skyress.JPG/revision/latest?cb=20130601144927",
+        "https://static.wikia.nocookie.net/bakugan/images/a/af/Pearl_Ventus_Skyress.jpg/revision/latest?cb=20100618224451",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7e/Skyress-ventus-ds1.PNG/revision/latest?cb=20100730132618",
+        "https://static.wikia.nocookie.net/bakugan/images/3/37/Storm_Skyress_Ventus_Unboxed.gif/revision/latest?cb=20100425051252",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/Skyress_Ventus.JPG/revision/latest?cb=20091101013712",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Storm_Skyress_Ball.JPG/revision/latest?cb=20091101013618",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Skyress_Ball.JPG/revision/latest?cb=20110412175043"
+      ]
     },
     {
       "id": "skyress-subterra",
@@ -6952,8 +8816,18 @@ window.BAKU_DATA = {
       },
       "bio": "Shun’un ilk partneri. Annesinden kalan bağ ve ninja disipliniyle efsaneleşir. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/61/Subterra_Skyress.jpg/revision/latest?cb=20091112013654",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c4/BK_CD_Skyress.jpg/revision/latest?cb=20090918211153",
-      "nickname": "Subterra Skyress"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/61/Subterra_Skyress.jpg/revision/latest?cb=20091112013654",
+      "nickname": "Subterra Skyress",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/60/Subterra_pearl_skyress.jpg/revision/latest?cb=20100803070807",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Storm_Skyress_Ball.JPG/revision/latest?cb=20091101013618",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Skyress_Ball.JPG/revision/latest?cb=20110412175043",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Skyress_Closed.jpg/revision/latest?cb=20110412175131",
+        "https://static.wikia.nocookie.net/bakugan/images/1/19/Storm_Skyress_Anime.jpg/revision/latest?cb=20090912193923",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/3D_Skyress.jpg/revision/latest?cb=20120206080117",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Bakugan_ATTACK_Skyress.png/revision/latest?cb=20180521080941",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/BKN_Storm_Skyress_HQ_Infbox.png/revision/latest?cb=20090912194455"
+      ]
     },
     {
       "id": "skyress-haos",
@@ -6983,8 +8857,18 @@ window.BAKU_DATA = {
       },
       "bio": "Shun’un ilk partneri. Annesinden kalan bağ ve ninja disipliniyle efsaneleşir. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c4/BK_CD_Skyress.jpg/revision/latest?cb=20090918211153",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c4/BK_CD_Skyress.jpg/revision/latest?cb=20090918211153",
-      "nickname": "Haos Skyress"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1e/Storm_Skyress_Ball.JPG/revision/latest?cb=20091101013618",
+      "nickname": "Haos Skyress",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Skyress_Ball.JPG/revision/latest?cb=20110412175043",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Skyress_Closed.jpg/revision/latest?cb=20110412175131",
+        "https://static.wikia.nocookie.net/bakugan/images/1/19/Storm_Skyress_Anime.jpg/revision/latest?cb=20090912193923",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/3D_Skyress.jpg/revision/latest?cb=20120206080117",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Bakugan_ATTACK_Skyress.png/revision/latest?cb=20180521080941",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/BKN_Storm_Skyress_HQ_Infbox.png/revision/latest?cb=20090912194455",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/BKN_Skyress.png/revision/latest?cb=20101227082135",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/Storm_skyress.png/revision/latest?cb=20111220081841"
+      ]
     },
     {
       "id": "skyress-darkus",
@@ -7015,7 +8899,17 @@ window.BAKU_DATA = {
       "bio": "Shun’un ilk partneri. Annesinden kalan bağ ve ninja disipliniyle efsaneleşir. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f9/Darkus_Storm_Skyress.jpg/revision/latest?cb=20090912194159",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c4/BK_CD_Skyress.jpg/revision/latest?cb=20090918211153",
-      "nickname": "Darkus Skyress"
+      "nickname": "Darkus Skyress",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Storm_Skyress_Ball.JPG/revision/latest?cb=20091101013618",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Skyress_Ball.JPG/revision/latest?cb=20110412175043",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Skyress_Closed.jpg/revision/latest?cb=20110412175131",
+        "https://static.wikia.nocookie.net/bakugan/images/1/19/Storm_Skyress_Anime.jpg/revision/latest?cb=20090912193923",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/3D_Skyress.jpg/revision/latest?cb=20120206080117",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Bakugan_ATTACK_Skyress.png/revision/latest?cb=20180521080941",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/BKN_Storm_Skyress_HQ_Infbox.png/revision/latest?cb=20090912194455",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/BKN_Skyress.png/revision/latest?cb=20101227082135"
+      ]
     },
     {
       "id": "stinglash-pyrus",
@@ -7043,9 +8937,19 @@ window.BAKU_DATA = {
         "gForce": 89
       },
       "bio": "Stinglash, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b2/Darkus_Stinglash_VS_Pyrus_Saurus.jpg/revision/latest?cb=20120117014621",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ec/BK_CD_Stinglash.jpg/revision/latest?cb=20090826180150",
-      "nickname": "Pyrus Stinglash"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3c/Pyrus_Stinglash.jpg/revision/latest?cb=20110413235706",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3c/Pyrus_Stinglash.jpg/revision/latest?cb=20110413235706",
+      "nickname": "Pyrus Stinglash",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b2/Darkus_Stinglash_VS_Pyrus_Saurus.jpg/revision/latest?cb=20120117014621",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Darkus_Stinglash_Sphere.png/revision/latest?cb=20181026183037",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d4/Stinglash_Ball.JPG/revision/latest?cb=20091101012346",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Stinglash_open.PNG/revision/latest?cb=20110702091741",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Darkus_Stinglash_Bakugan.png/revision/latest?cb=20181026183201",
+        "https://static.wikia.nocookie.net/bakugan/images/2/26/KeithStrife_Aquos_Stinglash.JPG/revision/latest?cb=20120815183851",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/BK_CD_Stinglash.jpg/revision/latest?cb=20090826180150",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/B2_stinglash.jpg/revision/latest?cb=20101011153329"
+      ]
     },
     {
       "id": "stinglash-aquos",
@@ -7074,8 +8978,18 @@ window.BAKU_DATA = {
       },
       "bio": "Stinglash, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/26/KeithStrife_Aquos_Stinglash.JPG/revision/latest?cb=20120815183851",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ec/BK_CD_Stinglash.jpg/revision/latest?cb=20090826180150",
-      "nickname": "Aquos Stinglash"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/26/KeithStrife_Aquos_Stinglash.JPG/revision/latest?cb=20120815183851",
+      "nickname": "Aquos Stinglash",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Darkus_Stinglash_Sphere.png/revision/latest?cb=20181026183037",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d4/Stinglash_Ball.JPG/revision/latest?cb=20091101012346",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Stinglash_open.PNG/revision/latest?cb=20110702091741",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Darkus_Stinglash_Bakugan.png/revision/latest?cb=20181026183201",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Pyrus_Stinglash.jpg/revision/latest?cb=20110413235706",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/BK_CD_Stinglash.jpg/revision/latest?cb=20090826180150",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/B2_stinglash.jpg/revision/latest?cb=20101011153329",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/393px-B2_stinglash.jpg/revision/latest?cb=20110526224515"
+      ]
     },
     {
       "id": "stinglash-ventus",
@@ -7103,9 +9017,19 @@ window.BAKU_DATA = {
         "gForce": 89
       },
       "bio": "Stinglash, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ec/BK_CD_Stinglash.jpg/revision/latest?cb=20090826180150",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ec/BK_CD_Stinglash.jpg/revision/latest?cb=20090826180150",
-      "nickname": "Ventus Stinglash"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/15/Stinglash_open.PNG/revision/latest?cb=20110702091741",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Darkus_Stinglash_Sphere.png/revision/latest?cb=20181026183037",
+      "nickname": "Ventus Stinglash",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/d4/Stinglash_Ball.JPG/revision/latest?cb=20091101012346",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Darkus_Stinglash_Bakugan.png/revision/latest?cb=20181026183201",
+        "https://static.wikia.nocookie.net/bakugan/images/2/26/KeithStrife_Aquos_Stinglash.JPG/revision/latest?cb=20120815183851",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Pyrus_Stinglash.jpg/revision/latest?cb=20110413235706",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/BK_CD_Stinglash.jpg/revision/latest?cb=20090826180150",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/B2_stinglash.jpg/revision/latest?cb=20101011153329",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/393px-B2_stinglash.jpg/revision/latest?cb=20110526224515",
+        "https://static.wikia.nocookie.net/bakugan/images/5/50/Stinglash_sent_to_Doom_Dimension_2.JPG/revision/latest?cb=20130106073055"
+      ]
     },
     {
       "id": "stinglash-subterra",
@@ -7134,8 +9058,18 @@ window.BAKU_DATA = {
       },
       "bio": "Stinglash, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/0e/Stinglash_Subterra.JPG/revision/latest?cb=20091101012535",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ec/BK_CD_Stinglash.jpg/revision/latest?cb=20090826180150",
-      "nickname": "Subterra Stinglash"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7b/Stinglash_subterra_o.jpg/revision/latest?cb=20100917114932",
+      "nickname": "Subterra Stinglash",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Darkus_Stinglash_Sphere.png/revision/latest?cb=20181026183037",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d4/Stinglash_Ball.JPG/revision/latest?cb=20091101012346",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Stinglash_open.PNG/revision/latest?cb=20110702091741",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Darkus_Stinglash_Bakugan.png/revision/latest?cb=20181026183201",
+        "https://static.wikia.nocookie.net/bakugan/images/2/26/KeithStrife_Aquos_Stinglash.JPG/revision/latest?cb=20120815183851",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Pyrus_Stinglash.jpg/revision/latest?cb=20110413235706",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/BK_CD_Stinglash.jpg/revision/latest?cb=20090826180150",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/B2_stinglash.jpg/revision/latest?cb=20101011153329"
+      ]
     },
     {
       "id": "stinglash-haos",
@@ -7164,8 +9098,18 @@ window.BAKU_DATA = {
       },
       "bio": "Stinglash, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ec/BK_CD_Stinglash.jpg/revision/latest?cb=20090826180150",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ec/BK_CD_Stinglash.jpg/revision/latest?cb=20090826180150",
-      "nickname": "Haos Stinglash"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Darkus_Stinglash_Sphere.png/revision/latest?cb=20181026183037",
+      "nickname": "Haos Stinglash",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/d4/Stinglash_Ball.JPG/revision/latest?cb=20091101012346",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Stinglash_open.PNG/revision/latest?cb=20110702091741",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Darkus_Stinglash_Bakugan.png/revision/latest?cb=20181026183201",
+        "https://static.wikia.nocookie.net/bakugan/images/2/26/KeithStrife_Aquos_Stinglash.JPG/revision/latest?cb=20120815183851",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Pyrus_Stinglash.jpg/revision/latest?cb=20110413235706",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/B2_stinglash.jpg/revision/latest?cb=20101011153329",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/393px-B2_stinglash.jpg/revision/latest?cb=20110526224515",
+        "https://static.wikia.nocookie.net/bakugan/images/5/50/Stinglash_sent_to_Doom_Dimension_2.JPG/revision/latest?cb=20130106073055"
+      ]
     },
     {
       "id": "stinglash-darkus",
@@ -7195,7 +9139,17 @@ window.BAKU_DATA = {
       "bio": "Stinglash, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b2/Darkus_Stinglash_VS_Pyrus_Saurus.jpg/revision/latest?cb=20120117014621",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ec/BK_CD_Stinglash.jpg/revision/latest?cb=20090826180150",
-      "nickname": "Darkus Stinglash"
+      "nickname": "Darkus Stinglash",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Darkus_Stinglash_Sphere.png/revision/latest?cb=20181026183037",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Darkus_Stinglash_Bakugan.png/revision/latest?cb=20181026183201",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Reverse_darkus_stinglash.gif/revision/latest?cb=20091003225137",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d4/Stinglash_Ball.JPG/revision/latest?cb=20091101012346",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Stinglash_open.PNG/revision/latest?cb=20110702091741",
+        "https://static.wikia.nocookie.net/bakugan/images/2/26/KeithStrife_Aquos_Stinglash.JPG/revision/latest?cb=20120815183851",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Pyrus_Stinglash.jpg/revision/latest?cb=20110413235706",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/B2_stinglash.jpg/revision/latest?cb=20101011153329"
+      ]
     },
     {
       "id": "storm-skyress",
@@ -7224,8 +9178,18 @@ window.BAKU_DATA = {
         "gForce": 89
       },
       "bio": "Skyress’in fırtına evrimi. Gökyüzü artık Shun’un arenasıdır.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/27/BK_CD_StormSkyress.jpg/revision/latest?cb=20090912200723",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/27/BK_CD_StormSkyress.jpg/revision/latest?cb=20090912200723"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Translucent_Storm_Skyress_-_Ventus.png/revision/latest?cb=20100924155315",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/27/BK_CD_StormSkyress.jpg/revision/latest?cb=20090912200723",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/37/Storm_Skyress_Ventus_Unboxed.gif/revision/latest?cb=20100425051252",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Storm_Skyress_Ball.JPG/revision/latest?cb=20091101013618",
+        "https://static.wikia.nocookie.net/bakugan/images/1/19/Storm_Skyress_Anime.jpg/revision/latest?cb=20090912193923",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/BKN_Storm_Skyress_HQ_Infbox.png/revision/latest?cb=20090912194455",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/Storm_skyress.png/revision/latest?cb=20111220081841",
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Storm_Skyress.png/revision/latest?cb=20101006224516",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Storm_Skyress_flying.jpg/revision/latest?cb=20250325023916",
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/Storm_Skyress%27_beauty.jpg/revision/latest?cb=20250325023732"
+      ]
     },
     {
       "id": "tayghen",
@@ -7254,7 +9218,17 @@ window.BAKU_DATA = {
       },
       "bio": "Tayghen, Sezon 1 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Taygen.jpg/revision/latest?cb=20091204004922",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Taygen.jpg/revision/latest?cb=20091204004922"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Taygen.jpg/revision/latest?cb=20091204004922",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Tayghen_Figure_Package.jpeg/revision/latest?cb=20180507194335",
+        "https://static.wikia.nocookie.net/bakugan/images/d/df/Tayghen.png/revision/latest?cb=20160901080116",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Aquos_tayghen.PNG/revision/latest?cb=20101029001825",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/Subterra_tayghen.PNG/revision/latest?cb=20101029182320",
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Ventus_tayghen.PNG/revision/latest?cb=20101029001946",
+        "https://static.wikia.nocookie.net/bakugan/images/d/da/Water_tayghen.PNG/revision/latest?cb=20101029182028",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Harpus_speaks_to_Tayghen.png/revision/latest?cb=20200828094624",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Tayghen.jpg/revision/latest?cb=20100118043953"
+      ]
     },
     {
       "id": "tentaclear-pyrus",
@@ -7283,8 +9257,18 @@ window.BAKU_DATA = {
       },
       "bio": "Tentaclear, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1e/Pyrus_Tentaclear.jpg/revision/latest?cb=20100414001800",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/41/Tentaclear.png/revision/latest?cb=20110407211256",
-      "nickname": "Pyrus Tentaclear"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1e/Pyrus_Tentaclear.jpg/revision/latest?cb=20100414001800",
+      "nickname": "Pyrus Tentaclear",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/4e/Tentaclear_Ball.JPG/revision/latest?cb=20091101012734",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Haos_Tentaclear.jpg/revision/latest?cb=20110815020356",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/BA291_AB_tentaclear_48.png/revision/latest?cb=20170702054747",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a5/Tentaclear_Screen.JPG/revision/latest?cb=20190901141522",
+        "https://static.wikia.nocookie.net/bakugan/images/5/59/Fortress_and_Tentaclear.PNG/revision/latest?cb=20100920233341",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/KeithStrife_Haos_Tentaclear.JPG/revision/latest?cb=20120815184115",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Tentaclear.png/revision/latest?cb=20110407211256",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/Bk_cd_tentaclear.jpg/revision/latest?cb=20090807160247"
+      ]
     },
     {
       "id": "tentaclear-aquos",
@@ -7312,9 +9296,19 @@ window.BAKU_DATA = {
         "gForce": 61
       },
       "bio": "Tentaclear, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/41/Tentaclear.png/revision/latest?cb=20110407211256",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/41/Tentaclear.png/revision/latest?cb=20110407211256",
-      "nickname": "Aquos Tentaclear"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1e/Pyrus_Tentaclear.jpg/revision/latest?cb=20100414001800",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4e/Tentaclear_Ball.JPG/revision/latest?cb=20091101012734",
+      "nickname": "Aquos Tentaclear",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Haos_Tentaclear.jpg/revision/latest?cb=20110815020356",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/BA291_AB_tentaclear_48.png/revision/latest?cb=20170702054747",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a5/Tentaclear_Screen.JPG/revision/latest?cb=20190901141522",
+        "https://static.wikia.nocookie.net/bakugan/images/5/59/Fortress_and_Tentaclear.PNG/revision/latest?cb=20100920233341",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/KeithStrife_Haos_Tentaclear.JPG/revision/latest?cb=20120815184115",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Tentaclear.png/revision/latest?cb=20110407211256",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/Bk_cd_tentaclear.jpg/revision/latest?cb=20090807160247",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Tentaclear-haos-frost.jpg/revision/latest?cb=20100716043854"
+      ]
     },
     {
       "id": "tentaclear-ventus",
@@ -7342,9 +9336,19 @@ window.BAKU_DATA = {
         "gForce": 61
       },
       "bio": "Tentaclear, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/41/Tentaclear.png/revision/latest?cb=20110407211256",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/41/Tentaclear.png/revision/latest?cb=20110407211256",
-      "nickname": "Ventus Tentaclear"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1e/Pyrus_Tentaclear.jpg/revision/latest?cb=20100414001800",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4e/Tentaclear_Ball.JPG/revision/latest?cb=20091101012734",
+      "nickname": "Ventus Tentaclear",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Haos_Tentaclear.jpg/revision/latest?cb=20110815020356",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/BA291_AB_tentaclear_48.png/revision/latest?cb=20170702054747",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a5/Tentaclear_Screen.JPG/revision/latest?cb=20190901141522",
+        "https://static.wikia.nocookie.net/bakugan/images/5/59/Fortress_and_Tentaclear.PNG/revision/latest?cb=20100920233341",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/KeithStrife_Haos_Tentaclear.JPG/revision/latest?cb=20120815184115",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Tentaclear.png/revision/latest?cb=20110407211256",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/Bk_cd_tentaclear.jpg/revision/latest?cb=20090807160247",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Tentaclear-haos-frost.jpg/revision/latest?cb=20100716043854"
+      ]
     },
     {
       "id": "tentaclear-subterra",
@@ -7372,9 +9376,19 @@ window.BAKU_DATA = {
         "gForce": 61
       },
       "bio": "Tentaclear, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/41/Tentaclear.png/revision/latest?cb=20110407211256",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/41/Tentaclear.png/revision/latest?cb=20110407211256",
-      "nickname": "Subterra Tentaclear"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1e/Pyrus_Tentaclear.jpg/revision/latest?cb=20100414001800",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4e/Tentaclear_Ball.JPG/revision/latest?cb=20091101012734",
+      "nickname": "Subterra Tentaclear",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Haos_Tentaclear.jpg/revision/latest?cb=20110815020356",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/BA291_AB_tentaclear_48.png/revision/latest?cb=20170702054747",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a5/Tentaclear_Screen.JPG/revision/latest?cb=20190901141522",
+        "https://static.wikia.nocookie.net/bakugan/images/5/59/Fortress_and_Tentaclear.PNG/revision/latest?cb=20100920233341",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/KeithStrife_Haos_Tentaclear.JPG/revision/latest?cb=20120815184115",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Tentaclear.png/revision/latest?cb=20110407211256",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/Bk_cd_tentaclear.jpg/revision/latest?cb=20090807160247",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Tentaclear-haos-frost.jpg/revision/latest?cb=20100716043854"
+      ]
     },
     {
       "id": "tentaclear-haos",
@@ -7403,8 +9417,18 @@ window.BAKU_DATA = {
       },
       "bio": "Tentaclear, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5d/Haos_Tentaclear.jpg/revision/latest?cb=20110815020356",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/41/Tentaclear.png/revision/latest?cb=20110407211256",
-      "nickname": "Haos Tentaclear"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5d/Haos_Tentaclear.jpg/revision/latest?cb=20110815020356",
+      "nickname": "Haos Tentaclear",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/KeithStrife_Haos_Tentaclear.JPG/revision/latest?cb=20120815184115",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Tentaclear-haos-frost.jpg/revision/latest?cb=20100716043854",
+        "https://static.wikia.nocookie.net/bakugan/images/2/23/Tentaclear_Haos.JPG/revision/latest?cb=20091101013004",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4e/Tentaclear_Ball.JPG/revision/latest?cb=20091101012734",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Pyrus_Tentaclear.jpg/revision/latest?cb=20100414001800",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/BA291_AB_tentaclear_48.png/revision/latest?cb=20170702054747",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a5/Tentaclear_Screen.JPG/revision/latest?cb=20190901141522",
+        "https://static.wikia.nocookie.net/bakugan/images/5/59/Fortress_and_Tentaclear.PNG/revision/latest?cb=20100920233341"
+      ]
     },
     {
       "id": "tentaclear-darkus",
@@ -7434,7 +9458,17 @@ window.BAKU_DATA = {
       "bio": "Tentaclear, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/41/Tentaclear.png/revision/latest?cb=20110407211256",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/41/Tentaclear.png/revision/latest?cb=20110407211256",
-      "nickname": "Darkus Tentaclear"
+      "nickname": "Darkus Tentaclear",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/4e/Tentaclear_Ball.JPG/revision/latest?cb=20091101012734",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Pyrus_Tentaclear.jpg/revision/latest?cb=20100414001800",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Haos_Tentaclear.jpg/revision/latest?cb=20110815020356",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/BA291_AB_tentaclear_48.png/revision/latest?cb=20170702054747",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a5/Tentaclear_Screen.JPG/revision/latest?cb=20190901141522",
+        "https://static.wikia.nocookie.net/bakugan/images/5/59/Fortress_and_Tentaclear.PNG/revision/latest?cb=20100920233341",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/KeithStrife_Haos_Tentaclear.JPG/revision/latest?cb=20120815184115",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/Bk_cd_tentaclear.jpg/revision/latest?cb=20090807160247"
+      ]
     },
     {
       "id": "terrorclaw-pyrus",
@@ -7463,8 +9497,18 @@ window.BAKU_DATA = {
       },
       "bio": "Terrorclaw, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f1/Pyrus_Terrorclaw_Bakugan.png/revision/latest?cb=20181027121011",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/90/BK_CD_Terrorclaw.jpg/revision/latest?cb=20090826183904",
-      "nickname": "Pyrus Terrorclaw"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/dd/Pyrus_Terrorclaw_Sphere.png/revision/latest?cb=20181027120841",
+      "nickname": "Pyrus Terrorclaw",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Pyrus_Terrorclaw.jpg/revision/latest?cb=20100414012023",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7b/Subterra_Terrorclaw_Sphere.png/revision/latest?cb=20181024163921",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/Terrorclaw_Ball.JPG/revision/latest?cb=20091101012346",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Subterra_Terrorclaw_Bakugan.png/revision/latest?cb=20181024163953",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/BA144_GA_SM_terrorclaw_F.png/revision/latest?cb=20170519043930",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/KeithStrife_Aquos_Terrorclaw.jpg/revision/latest?cb=20120826150745",
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/BK_CD_Terrorclaw.jpg/revision/latest?cb=20090826183904",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Terrorclaw_Aquos.JPG/revision/latest?cb=20091101012535"
+      ]
     },
     {
       "id": "terrorclaw-aquos",
@@ -7493,8 +9537,18 @@ window.BAKU_DATA = {
       },
       "bio": "Terrorclaw, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/75/KeithStrife_Aquos_Terrorclaw.jpg/revision/latest?cb=20120826150745",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/90/BK_CD_Terrorclaw.jpg/revision/latest?cb=20090826183904",
-      "nickname": "Aquos Terrorclaw"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/75/KeithStrife_Aquos_Terrorclaw.jpg/revision/latest?cb=20120826150745",
+      "nickname": "Aquos Terrorclaw",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Terrorclaw_Aquos.JPG/revision/latest?cb=20091101012535",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Pyrus_Terrorclaw_Sphere.png/revision/latest?cb=20181027120841",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7b/Subterra_Terrorclaw_Sphere.png/revision/latest?cb=20181024163921",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/Terrorclaw_Ball.JPG/revision/latest?cb=20091101012346",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Pyrus_Terrorclaw.jpg/revision/latest?cb=20100414012023",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Pyrus_Terrorclaw_Bakugan.png/revision/latest?cb=20181027121011",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Subterra_Terrorclaw_Bakugan.png/revision/latest?cb=20181024163953",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/BA144_GA_SM_terrorclaw_F.png/revision/latest?cb=20170519043930"
+      ]
     },
     {
       "id": "terrorclaw-ventus",
@@ -7522,9 +9576,19 @@ window.BAKU_DATA = {
         "gForce": 67
       },
       "bio": "Terrorclaw, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/90/BK_CD_Terrorclaw.jpg/revision/latest?cb=20090826183904",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/90/BK_CD_Terrorclaw.jpg/revision/latest?cb=20090826183904",
-      "nickname": "Ventus Terrorclaw"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5d/Pyrus_Terrorclaw.jpg/revision/latest?cb=20100414012023",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/dd/Pyrus_Terrorclaw_Sphere.png/revision/latest?cb=20181027120841",
+      "nickname": "Ventus Terrorclaw",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/7/7b/Subterra_Terrorclaw_Sphere.png/revision/latest?cb=20181024163921",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/Terrorclaw_Ball.JPG/revision/latest?cb=20091101012346",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Pyrus_Terrorclaw_Bakugan.png/revision/latest?cb=20181027121011",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Subterra_Terrorclaw_Bakugan.png/revision/latest?cb=20181024163953",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/BA144_GA_SM_terrorclaw_F.png/revision/latest?cb=20170519043930",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/KeithStrife_Aquos_Terrorclaw.jpg/revision/latest?cb=20120826150745",
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/BK_CD_Terrorclaw.jpg/revision/latest?cb=20090826183904",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Terrorclaw_Aquos.JPG/revision/latest?cb=20091101012535"
+      ]
     },
     {
       "id": "terrorclaw-subterra",
@@ -7553,8 +9617,18 @@ window.BAKU_DATA = {
       },
       "bio": "Terrorclaw, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1d/Subterra_Terrorclaw_Bakugan.png/revision/latest?cb=20181024163953",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/90/BK_CD_Terrorclaw.jpg/revision/latest?cb=20090826183904",
-      "nickname": "Subterra Terrorclaw"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7b/Subterra_Terrorclaw_Sphere.png/revision/latest?cb=20181024163921",
+      "nickname": "Subterra Terrorclaw",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Pyrus_Terrorclaw_Sphere.png/revision/latest?cb=20181027120841",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/Terrorclaw_Ball.JPG/revision/latest?cb=20091101012346",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Pyrus_Terrorclaw.jpg/revision/latest?cb=20100414012023",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Pyrus_Terrorclaw_Bakugan.png/revision/latest?cb=20181027121011",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/BA144_GA_SM_terrorclaw_F.png/revision/latest?cb=20170519043930",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/KeithStrife_Aquos_Terrorclaw.jpg/revision/latest?cb=20120826150745",
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/BK_CD_Terrorclaw.jpg/revision/latest?cb=20090826183904",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Terrorclaw_Aquos.JPG/revision/latest?cb=20091101012535"
+      ]
     },
     {
       "id": "terrorclaw-haos",
@@ -7583,8 +9657,18 @@ window.BAKU_DATA = {
       },
       "bio": "Terrorclaw, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6c/Haos_Terrorclaw.jpg/revision/latest?cb=20101215174215",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/90/BK_CD_Terrorclaw.jpg/revision/latest?cb=20090826183904",
-      "nickname": "Haos Terrorclaw"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6c/Haos_Terrorclaw.jpg/revision/latest?cb=20101215174215",
+      "nickname": "Haos Terrorclaw",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Pyrus_Terrorclaw_Sphere.png/revision/latest?cb=20181027120841",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7b/Subterra_Terrorclaw_Sphere.png/revision/latest?cb=20181024163921",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/Terrorclaw_Ball.JPG/revision/latest?cb=20091101012346",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Pyrus_Terrorclaw.jpg/revision/latest?cb=20100414012023",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Pyrus_Terrorclaw_Bakugan.png/revision/latest?cb=20181027121011",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Subterra_Terrorclaw_Bakugan.png/revision/latest?cb=20181024163953",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/BA144_GA_SM_terrorclaw_F.png/revision/latest?cb=20170519043930",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/KeithStrife_Aquos_Terrorclaw.jpg/revision/latest?cb=20120826150745"
+      ]
     },
     {
       "id": "terrorclaw-darkus",
@@ -7614,7 +9698,17 @@ window.BAKU_DATA = {
       "bio": "Terrorclaw, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/90/BK_CD_Terrorclaw.jpg/revision/latest?cb=20090826183904",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/90/BK_CD_Terrorclaw.jpg/revision/latest?cb=20090826183904",
-      "nickname": "Darkus Terrorclaw"
+      "nickname": "Darkus Terrorclaw",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Pyrus_Terrorclaw_Sphere.png/revision/latest?cb=20181027120841",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7b/Subterra_Terrorclaw_Sphere.png/revision/latest?cb=20181024163921",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/Terrorclaw_Ball.JPG/revision/latest?cb=20091101012346",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Pyrus_Terrorclaw.jpg/revision/latest?cb=20100414012023",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Pyrus_Terrorclaw_Bakugan.png/revision/latest?cb=20181027121011",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Subterra_Terrorclaw_Bakugan.png/revision/latest?cb=20181024163953",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/BA144_GA_SM_terrorclaw_F.png/revision/latest?cb=20170519043930",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/KeithStrife_Aquos_Terrorclaw.jpg/revision/latest?cb=20120826150745"
+      ]
     },
     {
       "id": "tigrerra-pyrus",
@@ -7643,9 +9737,19 @@ window.BAKU_DATA = {
         "gForce": 82
       },
       "bio": "Haos’un asil avcısı. Runo’nun kararlılığıyla birleşince dengeyi koruyan kılıç olur. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/58/BK_CD_Tigrerra.jpg/revision/latest?cb=20090918204950",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/58/BK_CD_Tigrerra.jpg/revision/latest?cb=20090918204950",
-      "nickname": "Pyrus Tigrerra"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e6/Tigrerra_Transparent_Background.png/revision/latest?cb=20180402020531",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f5/Blade_Tigrerra_Ball.png/revision/latest?cb=20180815211638",
+      "nickname": "Pyrus Tigrerra",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Ball_form_chamelia_gorem_tigrerra.jpg/revision/latest?cb=20200721194023",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Haos_Blade_Tigrerra_%28closed%29.jpg/revision/latest?cb=20110614173945",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Tigrerra_Anime.jpg/revision/latest?cb=20110413183238",
+        "https://static.wikia.nocookie.net/bakugan/images/8/80/Runo_throwing_Blade_Tigrerra.gif/revision/latest?cb=20190901042854",
+        "https://static.wikia.nocookie.net/bakugan/images/9/93/Bakugan_ATTACK_Tigrerra.png/revision/latest?cb=20180521081011",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Haos_Blade_Tigrerra.jpg/revision/latest?cb=20110827063645",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Bakugan_tigrerra_2.jpg/revision/latest?cb=20180210102120",
+        "https://static.wikia.nocookie.net/bakugan/images/9/94/Tigrerra.jpeg/revision/latest?cb=20180210102109"
+      ]
     },
     {
       "id": "tigrerra-aquos",
@@ -7674,9 +9778,19 @@ window.BAKU_DATA = {
         "gForce": 82
       },
       "bio": "Haos’un asil avcısı. Runo’nun kararlılığıyla birleşince dengeyi koruyan kılıç olur. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/58/BK_CD_Tigrerra.jpg/revision/latest?cb=20090918204950",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/58/BK_CD_Tigrerra.jpg/revision/latest?cb=20090918204950",
-      "nickname": "Aquos Tigrerra"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e6/Tigrerra_Transparent_Background.png/revision/latest?cb=20180402020531",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f5/Blade_Tigrerra_Ball.png/revision/latest?cb=20180815211638",
+      "nickname": "Aquos Tigrerra",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Ball_form_chamelia_gorem_tigrerra.jpg/revision/latest?cb=20200721194023",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Haos_Blade_Tigrerra_%28closed%29.jpg/revision/latest?cb=20110614173945",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Tigrerra_Anime.jpg/revision/latest?cb=20110413183238",
+        "https://static.wikia.nocookie.net/bakugan/images/8/80/Runo_throwing_Blade_Tigrerra.gif/revision/latest?cb=20190901042854",
+        "https://static.wikia.nocookie.net/bakugan/images/9/93/Bakugan_ATTACK_Tigrerra.png/revision/latest?cb=20180521081011",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Haos_Blade_Tigrerra.jpg/revision/latest?cb=20110827063645",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Bakugan_tigrerra_2.jpg/revision/latest?cb=20180210102120",
+        "https://static.wikia.nocookie.net/bakugan/images/9/94/Tigrerra.jpeg/revision/latest?cb=20180210102109"
+      ]
     },
     {
       "id": "tigrerra-ventus",
@@ -7705,9 +9819,19 @@ window.BAKU_DATA = {
         "gForce": 82
       },
       "bio": "Haos’un asil avcısı. Runo’nun kararlılığıyla birleşince dengeyi koruyan kılıç olur. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/58/BK_CD_Tigrerra.jpg/revision/latest?cb=20090918204950",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/58/BK_CD_Tigrerra.jpg/revision/latest?cb=20090918204950",
-      "nickname": "Ventus Tigrerra"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e6/Tigrerra_Transparent_Background.png/revision/latest?cb=20180402020531",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f5/Blade_Tigrerra_Ball.png/revision/latest?cb=20180815211638",
+      "nickname": "Ventus Tigrerra",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Ball_form_chamelia_gorem_tigrerra.jpg/revision/latest?cb=20200721194023",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Haos_Blade_Tigrerra_%28closed%29.jpg/revision/latest?cb=20110614173945",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Tigrerra_Anime.jpg/revision/latest?cb=20110413183238",
+        "https://static.wikia.nocookie.net/bakugan/images/8/80/Runo_throwing_Blade_Tigrerra.gif/revision/latest?cb=20190901042854",
+        "https://static.wikia.nocookie.net/bakugan/images/9/93/Bakugan_ATTACK_Tigrerra.png/revision/latest?cb=20180521081011",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Haos_Blade_Tigrerra.jpg/revision/latest?cb=20110827063645",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Bakugan_tigrerra_2.jpg/revision/latest?cb=20180210102120",
+        "https://static.wikia.nocookie.net/bakugan/images/9/94/Tigrerra.jpeg/revision/latest?cb=20180210102109"
+      ]
     },
     {
       "id": "tigrerra-subterra",
@@ -7737,8 +9861,18 @@ window.BAKU_DATA = {
       },
       "bio": "Haos’un asil avcısı. Runo’nun kararlılığıyla birleşince dengeyi koruyan kılıç olur. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/33/Subterra_Tigrerra.jpg/revision/latest?cb=20141125015911",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/58/BK_CD_Tigrerra.jpg/revision/latest?cb=20090918204950",
-      "nickname": "Subterra Tigrerra"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/33/Subterra_Tigrerra.jpg/revision/latest?cb=20141125015911",
+      "nickname": "Subterra Tigrerra",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Blade_Tigrerra_Ball.png/revision/latest?cb=20180815211638",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Ball_form_chamelia_gorem_tigrerra.jpg/revision/latest?cb=20200721194023",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Haos_Blade_Tigrerra_%28closed%29.jpg/revision/latest?cb=20110614173945",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Tigrerra_Transparent_Background.png/revision/latest?cb=20180402020531",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Tigrerra_Anime.jpg/revision/latest?cb=20110413183238",
+        "https://static.wikia.nocookie.net/bakugan/images/8/80/Runo_throwing_Blade_Tigrerra.gif/revision/latest?cb=20190901042854",
+        "https://static.wikia.nocookie.net/bakugan/images/9/93/Bakugan_ATTACK_Tigrerra.png/revision/latest?cb=20180521081011",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Haos_Blade_Tigrerra.jpg/revision/latest?cb=20110827063645"
+      ]
     },
     {
       "id": "tigrerra-haos",
@@ -7768,8 +9902,18 @@ window.BAKU_DATA = {
       },
       "bio": "Haos’un asil avcısı. Runo’nun kararlılığıyla birleşince dengeyi koruyan kılıç olur. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/95/KeithStrife_Haos_Tigrerra.JPG/revision/latest?cb=20120815184115",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/58/BK_CD_Tigrerra.jpg/revision/latest?cb=20090918204950",
-      "nickname": "Haos Tigrerra"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0f/Haos_Blade_Tigrerra_%28closed%29.jpg/revision/latest?cb=20110614173945",
+      "nickname": "Haos Tigrerra",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9d/KeithStrife_B1_Haos_Tigrerra.JPG/revision/latest?cb=20120816044445",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Haos_Blade_Tigrerra.jpg/revision/latest?cb=20110827063645",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Haos_Blade_Tigrerra_toy.jpg/revision/latest?cb=20110614173932",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Blade_Tigrerra_Ball.png/revision/latest?cb=20180815211638",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Ball_form_chamelia_gorem_tigrerra.jpg/revision/latest?cb=20200721194023",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Tigrerra_Transparent_Background.png/revision/latest?cb=20180402020531",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Tigrerra_Anime.jpg/revision/latest?cb=20110413183238",
+        "https://static.wikia.nocookie.net/bakugan/images/8/80/Runo_throwing_Blade_Tigrerra.gif/revision/latest?cb=20190901042854"
+      ]
     },
     {
       "id": "tigrerra-darkus",
@@ -7798,9 +9942,19 @@ window.BAKU_DATA = {
         "gForce": 82
       },
       "bio": "Haos’un asil avcısı. Runo’nun kararlılığıyla birleşince dengeyi koruyan kılıç olur. Bu kayıt Darkus (Karanlık) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/58/BK_CD_Tigrerra.jpg/revision/latest?cb=20090918204950",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b0/Flip_Darkus_Blade_Tigrerra.jpg/revision/latest?cb=20100618232330",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/58/BK_CD_Tigrerra.jpg/revision/latest?cb=20090918204950",
-      "nickname": "Darkus Tigrerra"
+      "nickname": "Darkus Tigrerra",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Blade_Tigrerra_Ball.png/revision/latest?cb=20180815211638",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Ball_form_chamelia_gorem_tigrerra.jpg/revision/latest?cb=20200721194023",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Haos_Blade_Tigrerra_%28closed%29.jpg/revision/latest?cb=20110614173945",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Tigrerra_Transparent_Background.png/revision/latest?cb=20180402020531",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Tigrerra_Anime.jpg/revision/latest?cb=20110413183238",
+        "https://static.wikia.nocookie.net/bakugan/images/8/80/Runo_throwing_Blade_Tigrerra.gif/revision/latest?cb=20190901042854",
+        "https://static.wikia.nocookie.net/bakugan/images/9/93/Bakugan_ATTACK_Tigrerra.png/revision/latest?cb=20180521081011",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Haos_Blade_Tigrerra.jpg/revision/latest?cb=20110827063645"
+      ]
     },
     {
       "id": "tricloid",
@@ -7829,7 +9983,10 @@ window.BAKU_DATA = {
       },
       "bio": "Tricloid, Sezon 1 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e5/Tricloid.jpg/revision/latest?cb=20091204005629",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e5/Tricloid.jpg/revision/latest?cb=20091204005629"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e5/Tricloid.jpg/revision/latest?cb=20091204005629",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Tricloid.png/revision/latest?cb=20160903132757"
+      ]
     },
     {
       "id": "tuskor-pyrus",
@@ -7858,8 +10015,18 @@ window.BAKU_DATA = {
       },
       "bio": "Tuskor, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/71/Pyrus_Tuskor_side%21.jpeg/revision/latest?cb=20120208102343",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/82/Bk_cd_tuskor-1-.jpg/revision/latest?cb=20090807155629",
-      "nickname": "Pyrus Tuskor"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7e/Pyrus_Tuskor%21%21.jpeg/revision/latest?cb=20120208102256",
+      "nickname": "Pyrus Tuskor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b9/Haos_Tuskor_Ball_Anime.jpg/revision/latest?cb=20100403040850",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Tuskor_Ball.JPG/revision/latest?cb=20091101012534",
+        "https://static.wikia.nocookie.net/bakugan/images/3/30/Haos_Tuskor_Anime.jpg/revision/latest?cb=20100403041149",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/BA148_GA_SM_tuskor_F.png/revision/latest?cb=20170519044917",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/KeithStrife_Subterra_Tuskor.JPG/revision/latest?cb=20120815184550",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/Tuskor_and_Siege.PNG/revision/latest?cb=20101002215322",
+        "https://static.wikia.nocookie.net/bakugan/images/a/af/Tuskor.png/revision/latest?cb=20180730194137",
+        "https://static.wikia.nocookie.net/bakugan/images/8/82/Bk_cd_tuskor-1-.jpg/revision/latest?cb=20090807155629"
+      ]
     },
     {
       "id": "tuskor-aquos",
@@ -7887,9 +10054,19 @@ window.BAKU_DATA = {
         "gForce": 81
       },
       "bio": "Tuskor, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/82/Bk_cd_tuskor-1-.jpg/revision/latest?cb=20090807155629",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/82/Bk_cd_tuskor-1-.jpg/revision/latest?cb=20090807155629",
-      "nickname": "Aquos Tuskor"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/30/Haos_Tuskor_Anime.jpg/revision/latest?cb=20100403041149",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b9/Haos_Tuskor_Ball_Anime.jpg/revision/latest?cb=20100403040850",
+      "nickname": "Aquos Tuskor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Tuskor_Ball.JPG/revision/latest?cb=20091101012534",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/BA148_GA_SM_tuskor_F.png/revision/latest?cb=20170519044917",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/KeithStrife_Subterra_Tuskor.JPG/revision/latest?cb=20120815184550",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/Tuskor_and_Siege.PNG/revision/latest?cb=20101002215322",
+        "https://static.wikia.nocookie.net/bakugan/images/a/af/Tuskor.png/revision/latest?cb=20180730194137",
+        "https://static.wikia.nocookie.net/bakugan/images/8/82/Bk_cd_tuskor-1-.jpg/revision/latest?cb=20090807155629",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Tuskor_Hynoid_Nose_Slap.jpg/revision/latest?cb=20100624042037",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Tuskor.JPG/revision/latest?cb=20091101012534"
+      ]
     },
     {
       "id": "tuskor-ventus",
@@ -7918,8 +10095,18 @@ window.BAKU_DATA = {
       },
       "bio": "Tuskor, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/82/Bk_cd_tuskor-1-.jpg/revision/latest?cb=20090807155629",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/82/Bk_cd_tuskor-1-.jpg/revision/latest?cb=20090807155629",
-      "nickname": "Ventus Tuskor"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b9/Haos_Tuskor_Ball_Anime.jpg/revision/latest?cb=20100403040850",
+      "nickname": "Ventus Tuskor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Tuskor_Ball.JPG/revision/latest?cb=20091101012534",
+        "https://static.wikia.nocookie.net/bakugan/images/3/30/Haos_Tuskor_Anime.jpg/revision/latest?cb=20100403041149",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/BA148_GA_SM_tuskor_F.png/revision/latest?cb=20170519044917",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/KeithStrife_Subterra_Tuskor.JPG/revision/latest?cb=20120815184550",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/Tuskor_and_Siege.PNG/revision/latest?cb=20101002215322",
+        "https://static.wikia.nocookie.net/bakugan/images/a/af/Tuskor.png/revision/latest?cb=20180730194137",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Tuskor_Hynoid_Nose_Slap.jpg/revision/latest?cb=20100624042037",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Tuskor.JPG/revision/latest?cb=20091101012534"
+      ]
     },
     {
       "id": "tuskor-subterra",
@@ -7948,8 +10135,18 @@ window.BAKU_DATA = {
       },
       "bio": "Tuskor, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/64/KeithStrife_Subterra_Tuskor.JPG/revision/latest?cb=20120815184550",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/82/Bk_cd_tuskor-1-.jpg/revision/latest?cb=20090807155629",
-      "nickname": "Subterra Tuskor"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/64/KeithStrife_Subterra_Tuskor.JPG/revision/latest?cb=20120815184550",
+      "nickname": "Subterra Tuskor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b3/Tuskor_subterra.jpg/revision/latest?cb=20110501013111",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b9/Haos_Tuskor_Ball_Anime.jpg/revision/latest?cb=20100403040850",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Tuskor_Ball.JPG/revision/latest?cb=20091101012534",
+        "https://static.wikia.nocookie.net/bakugan/images/3/30/Haos_Tuskor_Anime.jpg/revision/latest?cb=20100403041149",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/BA148_GA_SM_tuskor_F.png/revision/latest?cb=20170519044917",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/Tuskor_and_Siege.PNG/revision/latest?cb=20101002215322",
+        "https://static.wikia.nocookie.net/bakugan/images/a/af/Tuskor.png/revision/latest?cb=20180730194137",
+        "https://static.wikia.nocookie.net/bakugan/images/8/82/Bk_cd_tuskor-1-.jpg/revision/latest?cb=20090807155629"
+      ]
     },
     {
       "id": "tuskor-haos",
@@ -7978,8 +10175,18 @@ window.BAKU_DATA = {
       },
       "bio": "Tuskor, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/19/Haos_Tuskor.jpeg/revision/latest?cb=20120208101805",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/82/Bk_cd_tuskor-1-.jpg/revision/latest?cb=20090807155629",
-      "nickname": "Haos Tuskor"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b9/Haos_Tuskor_Ball_Anime.jpg/revision/latest?cb=20100403040850",
+      "nickname": "Haos Tuskor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/30/Haos_Tuskor_Anime.jpg/revision/latest?cb=20100403041149",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Tuskor_Ball.JPG/revision/latest?cb=20091101012534",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/BA148_GA_SM_tuskor_F.png/revision/latest?cb=20170519044917",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/KeithStrife_Subterra_Tuskor.JPG/revision/latest?cb=20120815184550",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/Tuskor_and_Siege.PNG/revision/latest?cb=20101002215322",
+        "https://static.wikia.nocookie.net/bakugan/images/a/af/Tuskor.png/revision/latest?cb=20180730194137",
+        "https://static.wikia.nocookie.net/bakugan/images/8/82/Bk_cd_tuskor-1-.jpg/revision/latest?cb=20090807155629",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Tuskor_Hynoid_Nose_Slap.jpg/revision/latest?cb=20100624042037"
+      ]
     },
     {
       "id": "tuskor-darkus",
@@ -8009,7 +10216,17 @@ window.BAKU_DATA = {
       "bio": "Tuskor, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f8/Darkus_Tuskor.jpeg/revision/latest?cb=20120208102136",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/82/Bk_cd_tuskor-1-.jpg/revision/latest?cb=20090807155629",
-      "nickname": "Darkus Tuskor"
+      "nickname": "Darkus Tuskor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b9/Haos_Tuskor_Ball_Anime.jpg/revision/latest?cb=20100403040850",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Tuskor_Ball.JPG/revision/latest?cb=20091101012534",
+        "https://static.wikia.nocookie.net/bakugan/images/3/30/Haos_Tuskor_Anime.jpg/revision/latest?cb=20100403041149",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/BA148_GA_SM_tuskor_F.png/revision/latest?cb=20170519044917",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/KeithStrife_Subterra_Tuskor.JPG/revision/latest?cb=20120815184550",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/Tuskor_and_Siege.PNG/revision/latest?cb=20101002215322",
+        "https://static.wikia.nocookie.net/bakugan/images/a/af/Tuskor.png/revision/latest?cb=20180730194137",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Tuskor_Hynoid_Nose_Slap.jpg/revision/latest?cb=20100624042037"
+      ]
     },
     {
       "id": "ultimate-dragonoid",
@@ -8040,7 +10257,17 @@ window.BAKU_DATA = {
       "bio": "Sezon 1 finalinin sembolü. Perfect Core ile birleşerek Silent Core tehdidini dengeler.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Ultimate_Drago_Ball.JPG/revision/latest?cb=20091101013619",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Ultimate_Drago_Ball.JPG/revision/latest?cb=20091101013619",
-      "nickname": "Ultimate Drago"
+      "nickname": "Ultimate Drago",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9c/Ultimate_Dragonoid_%28closed%29.PNG/revision/latest?cb=20110508151607",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Dragonoid_Infinity_reach_Ultimate_Infinity.png/revision/latest?cb=20250130084543",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Ultimate_Dragonoid_vs._Serpenoid.png/revision/latest?cb=20200412074103",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Ultimate_Dragonoid-0.jpg/revision/latest?cb=20160913121805",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/Dragonoid_ultimate.jpg/revision/latest?cb=20110918130719",
+        "https://static.wikia.nocookie.net/bakugan/images/2/29/Ultimate_dragonoid.png/revision/latest?cb=20110420053114",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a9/Ultimate_dragonoid.jpg/revision/latest?cb=20180210103759",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a0/185px-Dragonoid_Ultimate.png/revision/latest?cb=20110925211224"
+      ]
     },
     {
       "id": "warius-pyrus",
@@ -8068,9 +10295,19 @@ window.BAKU_DATA = {
         "gForce": 62
       },
       "bio": "Warius, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/50/Pyrus_Bronze_Warius_vs._Subterra_Fear_Ripper.JPG/revision/latest?cb=20100817144928",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a1/Warius.png/revision/latest?cb=20151117194452",
-      "nickname": "Pyrus Warius"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/87/KeithStrife_Pyrus_Warius.JPG/revision/latest?cb=20120815184331",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/dc/Pyrus_Bronze_Warius_in_ball_form_%28closed.JPG/revision/latest?cb=20100817144245",
+      "nickname": "Pyrus Warius",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c2/Pyrus_Warius.jpg/revision/latest?cb=20100817143354",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/PYRUS_CENTIPOID_AND_PYRUS_WARIUS.jpg/revision/latest?cb=20110412174038",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Pyrus_Bronze_Warius_in_ball_form_%28open%29.JPG/revision/latest?cb=20100817144339",
+        "https://static.wikia.nocookie.net/bakugan/images/5/50/Pyrus_Bronze_Warius_vs._Subterra_Fear_Ripper.JPG/revision/latest?cb=20100817144928",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Pyrus_Bronze_Warius_in_bakugan_form.JPG/revision/latest?cb=20100817144801",
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Warius_Ball.JPG/revision/latest?cb=20091101012535",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Darkus_Warius_in_ball_form_%28closed%29.JPG/revision/latest?cb=20110423180651",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Darkus_Warius_in_ball_form_%28open%29.JPG/revision/latest?cb=20110423180659"
+      ]
     },
     {
       "id": "warius-aquos",
@@ -8099,8 +10336,18 @@ window.BAKU_DATA = {
       },
       "bio": "Warius, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/78/Aquos_Warius.jpg/revision/latest?cb=20120304153550",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a1/Warius.png/revision/latest?cb=20151117194452",
-      "nickname": "Aquos Warius"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d8/Aquos_Warius_in_ball_form_%28closed%29.JPG/revision/latest?cb=20100816195555",
+      "nickname": "Aquos Warius",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Aquos_Warius_in_ball_form_%28open%29.JPG/revision/latest?cb=20100816195731",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/Aquos_Warius_in_Bakugan_form.JPG/revision/latest?cb=20100816200125",
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Warius_Ball.JPG/revision/latest?cb=20091101012535",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Darkus_Warius_in_ball_form_%28closed%29.JPG/revision/latest?cb=20110423180651",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Pyrus_Bronze_Warius_in_ball_form_%28open%29.JPG/revision/latest?cb=20100817144339",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Darkus_Warius_in_ball_form_%28open%29.JPG/revision/latest?cb=20110423180659",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cd/BA206_GA_SM_warius.png/revision/latest?cb=20170630192826",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Warius.png/revision/latest?cb=20151117194452"
+      ]
     },
     {
       "id": "warius-ventus",
@@ -8129,8 +10376,18 @@ window.BAKU_DATA = {
       },
       "bio": "Warius, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a1/Warius.png/revision/latest?cb=20151117194452",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a1/Warius.png/revision/latest?cb=20151117194452",
-      "nickname": "Ventus Warius"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/10/Warius_Ball.JPG/revision/latest?cb=20091101012535",
+      "nickname": "Ventus Warius",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Darkus_Warius_in_ball_form_%28closed%29.JPG/revision/latest?cb=20110423180651",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Pyrus_Bronze_Warius_in_ball_form_%28open%29.JPG/revision/latest?cb=20100817144339",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Darkus_Warius_in_ball_form_%28open%29.JPG/revision/latest?cb=20110423180659",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Aquos_Warius_in_ball_form_%28open%29.JPG/revision/latest?cb=20100816195731",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cd/BA206_GA_SM_warius.png/revision/latest?cb=20170630192826",
+        "https://static.wikia.nocookie.net/bakugan/images/8/87/KeithStrife_Pyrus_Warius.JPG/revision/latest?cb=20120815184331",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/BK_CD_Warius.jpg/revision/latest?cb=20091022153408",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Darkus_Warius_in_Bakugan_form.JPG/revision/latest?cb=20110423180705"
+      ]
     },
     {
       "id": "warius-subterra",
@@ -8159,8 +10416,18 @@ window.BAKU_DATA = {
       },
       "bio": "Warius, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/50/Pyrus_Bronze_Warius_vs._Subterra_Fear_Ripper.JPG/revision/latest?cb=20100817144928",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a1/Warius.png/revision/latest?cb=20151117194452",
-      "nickname": "Subterra Warius"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/50/Pyrus_Bronze_Warius_vs._Subterra_Fear_Ripper.JPG/revision/latest?cb=20100817144928",
+      "nickname": "Subterra Warius",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Warius_Ball.JPG/revision/latest?cb=20091101012535",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Darkus_Warius_in_ball_form_%28closed%29.JPG/revision/latest?cb=20110423180651",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Pyrus_Bronze_Warius_in_ball_form_%28open%29.JPG/revision/latest?cb=20100817144339",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Darkus_Warius_in_ball_form_%28open%29.JPG/revision/latest?cb=20110423180659",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Aquos_Warius_in_ball_form_%28open%29.JPG/revision/latest?cb=20100816195731",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cd/BA206_GA_SM_warius.png/revision/latest?cb=20170630192826",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Warius.png/revision/latest?cb=20151117194452",
+        "https://static.wikia.nocookie.net/bakugan/images/8/87/KeithStrife_Pyrus_Warius.JPG/revision/latest?cb=20120815184331"
+      ]
     },
     {
       "id": "warius-haos",
@@ -8189,8 +10456,18 @@ window.BAKU_DATA = {
       },
       "bio": "Warius, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Haos_Warius.jpg/revision/latest?cb=20100817143430",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a1/Warius.png/revision/latest?cb=20151117194452",
-      "nickname": "Haos Warius"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Haos_Warius.jpg/revision/latest?cb=20100817143430",
+      "nickname": "Haos Warius",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Warius_Ball.JPG/revision/latest?cb=20091101012535",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Darkus_Warius_in_ball_form_%28closed%29.JPG/revision/latest?cb=20110423180651",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Pyrus_Bronze_Warius_in_ball_form_%28open%29.JPG/revision/latest?cb=20100817144339",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Darkus_Warius_in_ball_form_%28open%29.JPG/revision/latest?cb=20110423180659",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Aquos_Warius_in_ball_form_%28open%29.JPG/revision/latest?cb=20100816195731",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cd/BA206_GA_SM_warius.png/revision/latest?cb=20170630192826",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Warius.png/revision/latest?cb=20151117194452",
+        "https://static.wikia.nocookie.net/bakugan/images/8/87/KeithStrife_Pyrus_Warius.JPG/revision/latest?cb=20120815184331"
+      ]
     },
     {
       "id": "warius-darkus",
@@ -8220,7 +10497,17 @@ window.BAKU_DATA = {
       "bio": "Warius, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e5/Darkus_Warius_in_ball_form_%28open%29.JPG/revision/latest?cb=20110423180659",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a1/Warius.png/revision/latest?cb=20151117194452",
-      "nickname": "Darkus Warius"
+      "nickname": "Darkus Warius",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Darkus_Warius_in_ball_form_%28closed%29.JPG/revision/latest?cb=20110423180651",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Darkus_Warius_in_Bakugan_form.JPG/revision/latest?cb=20110423180705",
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Warius_Ball.JPG/revision/latest?cb=20091101012535",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Pyrus_Bronze_Warius_in_ball_form_%28open%29.JPG/revision/latest?cb=20100817144339",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Aquos_Warius_in_ball_form_%28open%29.JPG/revision/latest?cb=20100816195731",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cd/BA206_GA_SM_warius.png/revision/latest?cb=20170630192826",
+        "https://static.wikia.nocookie.net/bakugan/images/8/87/KeithStrife_Pyrus_Warius.JPG/revision/latest?cb=20120815184331",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/BK_CD_Warius.jpg/revision/latest?cb=20091022153408"
+      ]
     },
     {
       "id": "wavern",
@@ -8249,8 +10536,18 @@ window.BAKU_DATA = {
         "gForce": 92
       },
       "bio": "Perfect Core’un koruyucusu. Savaştan çok denge ve fedakârlık timsali.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3b/BK_CD_Wavern.jpg/revision/latest?cb=20090715014320",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3b/BK_CD_Wavern.jpg/revision/latest?cb=20090715014320"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/dc/KeithStrife_Haos_Wavern.JPG/revision/latest?cb=20120815184116",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3b/BK_CD_Wavern.jpg/revision/latest?cb=20090715014320",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Wavern_Ball.JPG/revision/latest?cb=20091101013619",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/Wavern_vs_hydranoid.png/revision/latest?cb=20170403163102",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c9/BA300_GA_wavern_09d.png/revision/latest?cb=20170702203210",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Spirit_wavern_and_dragonoid.png/revision/latest?cb=20120331165624",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f7/Dan_drago_wavern.png/revision/latest?cb=20110509170521",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Drago_and_Wavern_on_a_date.png/revision/latest?cb=20121116120543",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d1/Wavern_stand.png/revision/latest?cb=20110420055045",
+        "https://static.wikia.nocookie.net/bakugan/images/3/34/Wavern%27s_refelction.png/revision/latest?cb=20110420055514"
+      ]
     },
     {
       "id": "wormquake-pyrus",
@@ -8278,9 +10575,19 @@ window.BAKU_DATA = {
         "gForce": 73
       },
       "bio": "Wormquake, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/82/BK_CD_Wormquake.jpg/revision/latest?cb=20091022152612",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/82/BK_CD_Wormquake.jpg/revision/latest?cb=20091022152612",
-      "nickname": "Pyrus Wormquake"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d2/BA207_GA_SM_wormquake.png/revision/latest?cb=20170630192955",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3a/Subterra_Wormquake_Ball.jpg/revision/latest?cb=20100624033744",
+      "nickname": "Pyrus Wormquake",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Wormquake_Ball.JPG/revision/latest?cb=20091101012535",
+        "https://static.wikia.nocookie.net/bakugan/images/8/81/KeithStrife_Subterra_Wormquake.jpg/revision/latest?cb=20121227052410",
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/Subterra_Wormquake.jpg/revision/latest?cb=20100624034021",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6f/Excedra_Wormquake.PNG/revision/latest?cb=20101002212502",
+        "https://static.wikia.nocookie.net/bakugan/images/8/82/BK_CD_Wormquake.jpg/revision/latest?cb=20091022152612",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Darkus_wormquake.jpg/revision/latest?cb=20110531205834",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Wormquake_below_Gate_Card_2.JPG/revision/latest?cb=20130106072720",
+        "https://static.wikia.nocookie.net/bakugan/images/0/04/Darkus_Wormquake.png/revision/latest?cb=20130106040954"
+      ]
     },
     {
       "id": "wormquake-aquos",
@@ -8309,8 +10616,18 @@ window.BAKU_DATA = {
       },
       "bio": "Wormquake, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/88/Aquos_wormquake.jpeg/revision/latest?cb=20120208094314",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/82/BK_CD_Wormquake.jpg/revision/latest?cb=20091022152612",
-      "nickname": "Aquos Wormquake"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/88/Aquos_wormquake.jpeg/revision/latest?cb=20120208094314",
+      "nickname": "Aquos Wormquake",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b9/Wormquake_-_Aquos.jpg/revision/latest?cb=20110531205826",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Subterra_Wormquake_Ball.jpg/revision/latest?cb=20100624033744",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Wormquake_Ball.JPG/revision/latest?cb=20091101012535",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/BA207_GA_SM_wormquake.png/revision/latest?cb=20170630192955",
+        "https://static.wikia.nocookie.net/bakugan/images/8/81/KeithStrife_Subterra_Wormquake.jpg/revision/latest?cb=20121227052410",
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/Subterra_Wormquake.jpg/revision/latest?cb=20100624034021",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6f/Excedra_Wormquake.PNG/revision/latest?cb=20101002212502",
+        "https://static.wikia.nocookie.net/bakugan/images/8/82/BK_CD_Wormquake.jpg/revision/latest?cb=20091022152612"
+      ]
     },
     {
       "id": "wormquake-ventus",
@@ -8339,8 +10656,18 @@ window.BAKU_DATA = {
       },
       "bio": "Wormquake, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/82/BK_CD_Wormquake.jpg/revision/latest?cb=20091022152612",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/82/BK_CD_Wormquake.jpg/revision/latest?cb=20091022152612",
-      "nickname": "Ventus Wormquake"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3a/Subterra_Wormquake_Ball.jpg/revision/latest?cb=20100624033744",
+      "nickname": "Ventus Wormquake",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Wormquake_Ball.JPG/revision/latest?cb=20091101012535",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/BA207_GA_SM_wormquake.png/revision/latest?cb=20170630192955",
+        "https://static.wikia.nocookie.net/bakugan/images/8/81/KeithStrife_Subterra_Wormquake.jpg/revision/latest?cb=20121227052410",
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/Subterra_Wormquake.jpg/revision/latest?cb=20100624034021",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6f/Excedra_Wormquake.PNG/revision/latest?cb=20101002212502",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Darkus_wormquake.jpg/revision/latest?cb=20110531205834",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Wormquake_below_Gate_Card_2.JPG/revision/latest?cb=20130106072720",
+        "https://static.wikia.nocookie.net/bakugan/images/0/04/Darkus_Wormquake.png/revision/latest?cb=20130106040954"
+      ]
     },
     {
       "id": "wormquake-subterra",
@@ -8369,8 +10696,18 @@ window.BAKU_DATA = {
       },
       "bio": "Wormquake, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/81/KeithStrife_Subterra_Wormquake.jpg/revision/latest?cb=20121227052410",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/82/BK_CD_Wormquake.jpg/revision/latest?cb=20091022152612",
-      "nickname": "Subterra Wormquake"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3a/Subterra_Wormquake_Ball.jpg/revision/latest?cb=20100624033744",
+      "nickname": "Subterra Wormquake",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/Subterra_Wormquake.jpg/revision/latest?cb=20100624034021",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Wormquake_Ball.JPG/revision/latest?cb=20091101012535",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/BA207_GA_SM_wormquake.png/revision/latest?cb=20170630192955",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6f/Excedra_Wormquake.PNG/revision/latest?cb=20101002212502",
+        "https://static.wikia.nocookie.net/bakugan/images/8/82/BK_CD_Wormquake.jpg/revision/latest?cb=20091022152612",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Darkus_wormquake.jpg/revision/latest?cb=20110531205834",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Wormquake_below_Gate_Card_2.JPG/revision/latest?cb=20130106072720",
+        "https://static.wikia.nocookie.net/bakugan/images/0/04/Darkus_Wormquake.png/revision/latest?cb=20130106040954"
+      ]
     },
     {
       "id": "wormquake-haos",
@@ -8399,8 +10736,18 @@ window.BAKU_DATA = {
       },
       "bio": "Wormquake, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/69/Haos_wormquake%28side%29.jpeg/revision/latest?cb=20120208094105",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/82/BK_CD_Wormquake.jpg/revision/latest?cb=20091022152612",
-      "nickname": "Haos Wormquake"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/69/Haos_wormquake%28side%29.jpeg/revision/latest?cb=20120208094105",
+      "nickname": "Haos Wormquake",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Subterra_Wormquake_Ball.jpg/revision/latest?cb=20100624033744",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Wormquake_Ball.JPG/revision/latest?cb=20091101012535",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/BA207_GA_SM_wormquake.png/revision/latest?cb=20170630192955",
+        "https://static.wikia.nocookie.net/bakugan/images/8/81/KeithStrife_Subterra_Wormquake.jpg/revision/latest?cb=20121227052410",
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/Subterra_Wormquake.jpg/revision/latest?cb=20100624034021",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6f/Excedra_Wormquake.PNG/revision/latest?cb=20101002212502",
+        "https://static.wikia.nocookie.net/bakugan/images/8/82/BK_CD_Wormquake.jpg/revision/latest?cb=20091022152612",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Darkus_wormquake.jpg/revision/latest?cb=20110531205834"
+      ]
     },
     {
       "id": "wormquake-darkus",
@@ -8430,7 +10777,17 @@ window.BAKU_DATA = {
       "bio": "Wormquake, Sezon 1 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/04/Darkus_Wormquake.png/revision/latest?cb=20130106040954",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/82/BK_CD_Wormquake.jpg/revision/latest?cb=20091022152612",
-      "nickname": "Darkus Wormquake"
+      "nickname": "Darkus Wormquake",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Darkus_wormquake.jpg/revision/latest?cb=20110531205834",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Subterra_Wormquake_Ball.jpg/revision/latest?cb=20100624033744",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Wormquake_Ball.JPG/revision/latest?cb=20091101012535",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/BA207_GA_SM_wormquake.png/revision/latest?cb=20170630192955",
+        "https://static.wikia.nocookie.net/bakugan/images/8/81/KeithStrife_Subterra_Wormquake.jpg/revision/latest?cb=20121227052410",
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/Subterra_Wormquake.jpg/revision/latest?cb=20100624034021",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6f/Excedra_Wormquake.PNG/revision/latest?cb=20101002212502",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Wormquake_below_Gate_Card_2.JPG/revision/latest?cb=20130106072720"
+      ]
     },
     {
       "id": "abis-omega",
@@ -8459,7 +10816,17 @@ window.BAKU_DATA = {
       },
       "bio": "Abis Omega, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1b/Abis_omega.png/revision/latest?cb=20110407193855",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Abis_Omega_Anime.jpg/revision/latest?cb=20100330054332",
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/Abis_Omega.PNG/revision/latest?cb=20101006223733",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d7/Abis_Omega_bakugan_form.png/revision/latest?cb=20120207013018",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e3/Abis_Omega_ballform.png/revision/latest?cb=20120207012935",
+        "https://static.wikia.nocookie.net/bakugan/images/7/70/Haos_bakulyte_Abis_Omega_by_redryan2001.jpg/revision/latest?cb=20110428165841",
+        "https://static.wikia.nocookie.net/bakugan/images/6/66/Abis_Omega_Elfin.png/revision/latest?cb=20120207013109",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Abis_Omega_-_Dry_World.png/revision/latest?cb=20120207013141",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Abis_Omega_talking.png/revision/latest?cb=20120207012957"
+      ]
     },
     {
       "id": "alpha-percival",
@@ -8488,7 +10855,13 @@ window.BAKU_DATA = {
       },
       "bio": "Alpha Percival, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/72/Alpha_Percival.png/revision/latest?cb=20110915015506",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/72/Alpha_Percival.png/revision/latest?cb=20110915015506"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/72/Alpha_Percival.png/revision/latest?cb=20110915015506",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/BK_Alpha_Percival_Cyclone.png/revision/latest?cb=20091119001737",
+        "https://static.wikia.nocookie.net/bakugan/images/2/23/Alpha_percival.png/revision/latest?cb=20110531061049",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Darkus_Alpha_Percival.gif/revision/latest?cb=20131113175042",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Tory_Alpha_Percival.jpg/revision/latest?cb=20090912195405"
+      ]
     },
     {
       "id": "altair",
@@ -8516,8 +10889,18 @@ window.BAKU_DATA = {
         "gForce": 62
       },
       "bio": "Altair, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_CD_Altair.jpg/revision/latest?cb=20091107205126",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6a/Pyrus_Altair.jpg/revision/latest?cb=20090611050151",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Altair_Wired_Ballform_%28closed%29.png/revision/latest?cb=20120117110237",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b4/Altair_Ballform_%28closed%29.png/revision/latest?cb=20120117022635",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Altair_Ballform_%28open%29.png/revision/latest?cb=20120117022702",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/Altair-and-wired-s.gif/revision/latest?cb=20190901042317",
+        "https://static.wikia.nocookie.net/bakugan/images/1/14/Altair.JPG/revision/latest?cb=20100821155837",
+        "https://static.wikia.nocookie.net/bakugan/images/d/db/Lync_Volan_with_Altair.jpg/revision/latest?cb=20110514052424",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Altair_S2PosterImage.png/revision/latest?cb=20120327075905",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/Ingram_vs_Altair.PNG/revision/latest?cb=20101016201352"
+      ]
     },
     {
       "id": "alto-brontes",
@@ -8546,7 +10929,15 @@ window.BAKU_DATA = {
       },
       "bio": "Alto Brontes, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3d/BK_Alto_Brontes.png/revision/latest?cb=20091010215902",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/BK_Alto_Brontes.png/revision/latest?cb=20091010215902"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/BK_Alto_Brontes.png/revision/latest?cb=20091010215902",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/Alto_Brontes_Bakusteel_Silver_Black_Haos_640g.JPG/revision/latest?cb=20110624161220",
+        "https://static.wikia.nocookie.net/bakugan/images/6/69/377917-alto_brontes.jpg/revision/latest?cb=20140602092632",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/15q_Alto_Brontes.jpg/revision/latest?cb=20160530053224",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ef/Gus_and_Alto_Brontes.jpg/revision/latest?cb=20091208231950",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4e/Alto_brontes_yo.jpg/revision/latest?cb=20110420082131",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/Alto_Brontes_-_Reverse_Haos.jpg/revision/latest?cb=20090713025542"
+      ]
     },
     {
       "id": "anchorsaur",
@@ -8574,8 +10965,18 @@ window.BAKU_DATA = {
         "gForce": 79
       },
       "bio": "Anchorsaur, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Image_320_240_%282%29.png/revision/latest?cb=20110519193249",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Image_320_240_%282%29.png/revision/latest?cb=20110519193249"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/38/Haos_Anchorsaur_in_ball_form.PNG/revision/latest?cb=20100920160021",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Image_320_240_%282%29.png/revision/latest?cb=20110519193249",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Anchorsaur_ballform_%28closed%29.png/revision/latest?cb=20120809011101",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a3/Anchorsaur_closed.jpg/revision/latest?cb=20110913180537",
+        "https://static.wikia.nocookie.net/bakugan/images/9/92/Phantom_Anchorsaur_ball_form.PNG/revision/latest?cb=20110113130038",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5c/Anchorsaur_ballform_%28open%29.png/revision/latest?cb=20120809011131",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Anchorsaur_in_bakugan_mode.PNG/revision/latest?cb=20100920155641",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Anchorsaur_using_Spark_Protection.PNG/revision/latest?cb=20100920160134",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Anchorsaur_using_Shock_Down.PNG/revision/latest?cb=20100920152142",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b9/Hammersaur_Anchorsaur.PNG/revision/latest?cb=20101118174547"
+      ]
     },
     {
       "id": "atchibee",
@@ -8604,7 +11005,17 @@ window.BAKU_DATA = {
       },
       "bio": "Atchibee, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/0f/Image_320_240_%2818%29.png/revision/latest?cb=20110519200038",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0f/Image_320_240_%2818%29.png/revision/latest?cb=20110519200038"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0f/Image_320_240_%2818%29.png/revision/latest?cb=20110519200038",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/Atchibee_closed.PNG/revision/latest?cb=20100930201347",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Atchibee_Ball.jpg/revision/latest?cb=20091109223900",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/Atchibee_Vermillion_Jet_Black_On.png/revision/latest?cb=20130531202714",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c1/Atchibee_VS_Mega_Nemus.PNG/revision/latest?cb=20110112192459",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a0/Darkus_Atchibee.PNG/revision/latest?cb=20110112192700",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/Atchibee_Vermillion_Jet_Black.PNG/revision/latest?cb=20110112192549",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Atchibee_Escaneado.PNG/revision/latest?cb=20110112193147",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b7/Atchibee.jpg/revision/latest?cb=20091109223727"
+      ]
     },
     {
       "id": "atmos",
@@ -8632,8 +11043,18 @@ window.BAKU_DATA = {
         "gForce": 55
       },
       "bio": "Atmos, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5d/BK_CD_Atmos.jpg/revision/latest?cb=20090516092440",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5d/BK_CD_Atmos.jpg/revision/latest?cb=20090516092440"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/81/Pyrus_atmos.jpg/revision/latest?cb=20120101105648",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5d/BK_CD_Atmos.jpg/revision/latest?cb=20090516092440",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9d/Atmos_Card.PNG/revision/latest?cb=20140225135952",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ef/Atmos-aquos-pearl.JPG/revision/latest?cb=20091104135852",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e3/Bakugan_Atmos.jpg/revision/latest?cb=20110204220535",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8c/Atmos_S2PosterImage.png/revision/latest?cb=20120327075443",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Haos_Atmos_vs_Subterra_Fly_Beetl.PNG/revision/latest?cb=20110115151946",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8a/Atmos-rainbow.jpg/revision/latest?cb=20090926164906",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a7/Atmos_Flying.PNG/revision/latest?cb=20101105230549",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5c/Ventus_atmos_bc.jpg/revision/latest?cb=20100824151448"
+      ]
     },
     {
       "id": "brontes",
@@ -8662,7 +11083,17 @@ window.BAKU_DATA = {
       },
       "bio": "Brontes, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/bc/BK_CD_Brontes.jpg/revision/latest?cb=20091101211655",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/bc/BK_CD_Brontes.jpg/revision/latest?cb=20091101211655"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/bc/BK_CD_Brontes.jpg/revision/latest?cb=20091101211655",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Mega_Brontes_Ballform_%28closed%29.png/revision/latest?cb=20120117221643",
+        "https://static.wikia.nocookie.net/bakugan/images/8/81/Mega_Brontes_Ballform_%28open%29.png/revision/latest?cb=20120117221703",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fd/Subterra_Mega_Brontes_Anime.jpg/revision/latest?cb=20100728224725",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Clear_Brontes.jpg/revision/latest?cb=20100414010904",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Subterra_Mega_Brontes.jpg/revision/latest?cb=20100414011619",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Haos_Brontes.jpg/revision/latest?cb=20101230234532",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/Alto_Brontes_Bakusteel_Silver_Black_Haos_640g.JPG/revision/latest?cb=20110624161220",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/07_18_Brontes.jpg/revision/latest?cb=20110718134033"
+      ]
     },
     {
       "id": "clawcer",
@@ -8691,7 +11122,14 @@ window.BAKU_DATA = {
       },
       "bio": "Clawcer, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Image_320_240_%2814%29.png/revision/latest?cb=20110519194749",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Image_320_240_%2814%29.png/revision/latest?cb=20110519194749"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Image_320_240_%2814%29.png/revision/latest?cb=20110519194749",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Clawcer_and_Stug_2.png/revision/latest?cb=20120207014203",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7e/Clawcer_ballform.png/revision/latest?cb=20120207013805",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ac/Clawcer_and_Stug.png/revision/latest?cb=20120207014139",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c7/Clawcer.jpg/revision/latest?cb=20091108204747",
+        "https://static.wikia.nocookie.net/bakugan/images/8/85/Clawcer-aquos-ca.jpg/revision/latest?cb=20091127152505"
+      ]
     },
     {
       "id": "cosmic-ingram",
@@ -8719,8 +11157,18 @@ window.BAKU_DATA = {
         "gForce": 56
       },
       "bio": "Cosmic Ingram, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/60/CosmicIngram.jpg/revision/latest?cb=20100415205204",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/60/CosmicIngram.jpg/revision/latest?cb=20100415205204"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/06/Pyrus_CosmicIngram_Open.png/revision/latest?cb=20110416194939",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/60/CosmicIngram.jpg/revision/latest?cb=20100415205204",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/18/Pyrus_Cosmic_Ingram_in_Ball_form.png/revision/latest?cb=20110414032219",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Pyrus_CosmicIngram_Closed.png/revision/latest?cb=20110621052554",
+        "https://static.wikia.nocookie.net/bakugan/images/7/71/Pyrus_Cosmic_Ingram.jpg/revision/latest?cb=20110101070945",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ce/BakuBronze_Subterra_Cosmic_Ingram.jpg/revision/latest?cb=20100414010137",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Ninja_style_ingram_cosmic_KICK_%21.png/revision/latest?cb=20110422061255",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9d/Clear_Cosmic_Ingram.jpeg/revision/latest?cb=20101011151825",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d1/Cosmic_ingram.jpg/revision/latest?cb=20120805161724",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/Ventus-cosmic-ingram-000.jpg/revision/latest?cb=20110205151728"
+      ]
     },
     {
       "id": "cross-dragonoid",
@@ -8748,8 +11196,18 @@ window.BAKU_DATA = {
         "gForce": 95
       },
       "bio": "Altı attribute enerjisini birleştiren evrim. Vestal teknolojisine karşı doğanın cevabı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/50/A-Cross-Dragonoid.jpg/revision/latest?cb=20110106003657",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/50/A-Cross-Dragonoid.jpg/revision/latest?cb=20110106003657"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/bd/Pyrus_Cross_Dragonoid.png/revision/latest?cb=20171029193633",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/50/A-Cross-Dragonoid.jpg/revision/latest?cb=20110106003657",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/Pyrus_Cross_Dragonoid_in_Battle.png/revision/latest?cb=20171029193556",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Bakugan_Battle_Brawlers_DS_Defenders_of_the_Core_JP_Pyrus_Cross_Dragonoid.jpg/revision/latest?cb=20170808025136",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d4/Cross_Dragonoid_Ball_form.PNG/revision/latest?cb=20101118173210",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/Helios_MK2_falling_by_Cross_Dragonoid.png/revision/latest?cb=20150921112132",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Cross_maxus_dragonoid.jpg/revision/latest?cb=20171213043715",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7d/Lumino_Dragonoid_and_Cross_Buster.PNG/revision/latest?cb=20100819122546",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4f/Cross_Dragonoid_%28stand%29.png/revision/latest?cb=20120212172147",
+        "https://static.wikia.nocookie.net/bakugan/images/5/50/Cross_dragonoid.png/revision/latest?cb=20120108110707"
+      ]
     },
     {
       "id": "cyborg-helios",
@@ -8777,8 +11235,18 @@ window.BAKU_DATA = {
         "gForce": 96
       },
       "bio": "Helios’un aşırı evrimi. Makine ve canavarın sınırında.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/13/Helios_NB.png/revision/latest?cb=20110407210905",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/13/Helios_NB.png/revision/latest?cb=20110407210905"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3a/Pyrus_Cyborg_Helios_Maxus.jpg/revision/latest?cb=20110823024843",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/13/Helios_NB.png/revision/latest?cb=20110407210905",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/2c/Pyrus_Cyborg_Helios.jpg/revision/latest?cb=20100305065300",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cyborg_Helios_Ball_Form_%28Closed%29.jpg/revision/latest?cb=20240429144820",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3b/Darkus_Cyborg_Helios_%28closed%29.jpg/revision/latest?cb=20110605071721",
+        "https://static.wikia.nocookie.net/bakugan/images/9/99/Cyborg_Helios_Ball_Form_%28Open%29.jpg/revision/latest?cb=20240429150111",
+        "https://static.wikia.nocookie.net/bakugan/images/6/60/Cyborg_helios_2.png/revision/latest?cb=20170914132031",
+        "https://static.wikia.nocookie.net/bakugan/images/e/eb/Cyborg_helios.png/revision/latest?cb=20170914131935",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/Haos_Cyborg_Helios.png/revision/latest?cb=20110211070758",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Haos_cyborg_helios.png/revision/latest?cb=20110308132308"
+      ]
     },
     {
       "id": "dryoid",
@@ -8807,7 +11275,17 @@ window.BAKU_DATA = {
       },
       "bio": "Dryoid, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/90/Dryoid_Bakugan_form.png/revision/latest?cb=20171102090349",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/90/Dryoid_Bakugan_form.png/revision/latest?cb=20171102090349"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/90/Dryoid_Bakugan_form.png/revision/latest?cb=20171102090349",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b9/Dryoid_Ballform_%28closed%29.png/revision/latest?cb=20120121234529",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d6/Dryoid_Ballform_%28open%29.png/revision/latest?cb=20120121234544",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/Dryoid..png/revision/latest?cb=20110805064800",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Dryoid_BRR.jpg/revision/latest?cb=20191228204519",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Dryoid.png/revision/latest?cb=20091115135321",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a9/Dryoid.jpg/revision/latest?cb=20110420225449",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8a/Subterra_Dryoid.png/revision/latest?cb=20111124115712",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/One_of_these_Dryoid%27s_3D%27s_attacks....PNG/revision/latest?cb=20110123171733"
+      ]
     },
     {
       "id": "dual-elfin",
@@ -8835,8 +11313,18 @@ window.BAKU_DATA = {
         "gForce": 74
       },
       "bio": "Dual Elfin, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a4/BK_SA_Dual_Elfin.png/revision/latest?cb=20090926004657",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a4/BK_SA_Dual_Elfin.png/revision/latest?cb=20090926004657"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/16/Pyrus_DualElfin.jpg/revision/latest?cb=20110815014750",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a4/BK_SA_Dual_Elfin.png/revision/latest?cb=20090926004657",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Dual_Elfin_-_Translucent_Pyrus.jpg/revision/latest?cb=20090926010446",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Aquos_Dual_Elfin_%28closed%29.jpg/revision/latest?cb=20110614175856",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Aquos_Dual_Elfin_%28open%29.jpg/revision/latest?cb=20110614175837",
+        "https://static.wikia.nocookie.net/bakugan/images/1/11/BK_SA_Dual_Elfin_Revolution.png/revision/latest?cb=20091029220410",
+        "https://static.wikia.nocookie.net/bakugan/images/1/18/My_Dual_Elfin_Revolution.jpg/revision/latest?cb=20130603204643",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d1/Translucent_Aquos_Dual_Elfin.jpg/revision/latest?cb=20100629004749",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Darkus_Dual_elfin_revolution.jpg/revision/latest?cb=20230909165632",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Dual_elfin_blue_aquos.gif/revision/latest?cb=20090926010424"
+      ]
     },
     {
       "id": "elfin-pyrus",
@@ -8865,8 +11353,18 @@ window.BAKU_DATA = {
       },
       "bio": "Preyas’tan sonra Marucho’nun partneri. Şirin görünür, sahada acımasızdır. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/09/Pyrus_Elfin.jpg/revision/latest?cb=20100531074052",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/63/Image_320_240_%2813%29.png/revision/latest?cb=20110519194615",
-      "nickname": "Pyrus Elfin"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/09/Pyrus_Elfin.jpg/revision/latest?cb=20100531074052",
+      "nickname": "Pyrus Elfin",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Dual_Elfin_-_Translucent_Pyrus.jpg/revision/latest?cb=20090926010446",
+        "https://static.wikia.nocookie.net/bakugan/images/0/07/Minx_Elfin_in_Ball_form_%28Closed%29.png/revision/latest?cb=20240330033837",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Aquos_Dual_Elfin_%28closed%29.jpg/revision/latest?cb=20110614175856",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Minx_Elfin_Preyas_Ball.jpg/revision/latest?cb=20100628214054",
+        "https://static.wikia.nocookie.net/bakugan/images/7/70/Minks-Elfin-ball.jpg/revision/latest?cb=20100929100410",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Darkus_Elfin_Ball.jpg/revision/latest?cb=20100629212327",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a2/Ventus_Elfin_Ball.jpg/revision/latest?cb=20100629011849",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Elfin_Ball.jpg/revision/latest?cb=20091115183806"
+      ]
     },
     {
       "id": "elfin-aquos",
@@ -8895,8 +11393,18 @@ window.BAKU_DATA = {
       },
       "bio": "Preyas’tan sonra Marucho’nun partneri. Şirin görünür, sahada acımasızdır. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/63/Aquos_Mutant_Elfin.jpg/revision/latest?cb=20110605071244",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/63/Image_320_240_%2813%29.png/revision/latest?cb=20110519194615",
-      "nickname": "Aquos Elfin"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ab/Aquos_Dual_Elfin_%28closed%29.jpg/revision/latest?cb=20110614175856",
+      "nickname": "Aquos Elfin",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Elfin_aquos_ab_ball.jpg/revision/latest?cb=20101022175727",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Aquos_Dual_Elfin_%28open%29.jpg/revision/latest?cb=20110614175837",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c6/KeithStrife_Aquos_Elfin.JPG/revision/latest?cb=20120815184925",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Translucent_Aquos_Elfin.jpg/revision/latest?cb=20100629004652",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/Aquos_Elfin.jpg/revision/latest?cb=20100629004617",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/Aquos_Mutant_Elfin_closed.jpg/revision/latest?cb=20110605071331",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d5/Aquos_mutant_Elfin_%28closed%29.jpg/revision/latest?cb=20110614180714",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6c/Aquos_Phantom_Elfin_-_BakuHybrid.png/revision/latest?cb=20110822151707"
+      ]
     },
     {
       "id": "elfin-ventus",
@@ -8925,8 +11433,18 @@ window.BAKU_DATA = {
       },
       "bio": "Preyas’tan sonra Marucho’nun partneri. Şirin görünür, sahada acımasızdır. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/db/Elfin_Ventus.jpg/revision/latest?cb=20091115183857",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/63/Image_320_240_%2813%29.png/revision/latest?cb=20110519194615",
-      "nickname": "Ventus Elfin"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a2/Ventus_Elfin_Ball.jpg/revision/latest?cb=20100629011849",
+      "nickname": "Ventus Elfin",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/0d/Ventus_Minx_Elfin_Ball.jpg/revision/latest?cb=20100628221043",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Ventus_Elfin_Game.jpg/revision/latest?cb=20100721024822",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/Ventus_Elfin_Headshot.jpg/revision/latest?cb=20100911001218",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Ventus_Elfin_Ingram.jpg/revision/latest?cb=20100703234013",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Ventus_Elfin.jpg/revision/latest?cb=20100629004511",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b3/Ventus_Mutant_Elfin_%28closed%29.jpg/revision/latest?cb=20110614180500",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Minx_Elfin_Ventus_Lyte.jpg/revision/latest?cb=20120109045603",
+        "https://static.wikia.nocookie.net/bakugan/images/8/81/Ventus_Minx_Elfin.jpg/revision/latest?cb=20100628215432"
+      ]
     },
     {
       "id": "elfin-subterra",
@@ -8954,9 +11472,19 @@ window.BAKU_DATA = {
         "gForce": 86
       },
       "bio": "Preyas’tan sonra Marucho’nun partneri. Şirin görünür, sahada acımasızdır. Bu kayıt Subterra (Toprak) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/63/Image_320_240_%2813%29.png/revision/latest?cb=20110519194615",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/63/Image_320_240_%2813%29.png/revision/latest?cb=20110519194615",
-      "nickname": "Subterra Elfin"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b0/Elfin_Anime.jpg/revision/latest?cb=20161028133016",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/07/Minx_Elfin_in_Ball_form_%28Closed%29.png/revision/latest?cb=20240330033837",
+      "nickname": "Subterra Elfin",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Aquos_Dual_Elfin_%28closed%29.jpg/revision/latest?cb=20110614175856",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Minx_Elfin_Preyas_Ball.jpg/revision/latest?cb=20100628214054",
+        "https://static.wikia.nocookie.net/bakugan/images/7/70/Minks-Elfin-ball.jpg/revision/latest?cb=20100929100410",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Darkus_Elfin_Ball.jpg/revision/latest?cb=20100629212327",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a2/Ventus_Elfin_Ball.jpg/revision/latest?cb=20100629011849",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Elfin_Ball.jpg/revision/latest?cb=20091115183806",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Elfin_aquos_ab_ball.jpg/revision/latest?cb=20101022175727",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0d/Ventus_Minx_Elfin_Ball.jpg/revision/latest?cb=20100628221043"
+      ]
     },
     {
       "id": "elfin-haos",
@@ -8985,8 +11513,18 @@ window.BAKU_DATA = {
       },
       "bio": "Preyas’tan sonra Marucho’nun partneri. Şirin görünür, sahada acımasızdır. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/63/Image_320_240_%2813%29.png/revision/latest?cb=20110519194615",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/63/Image_320_240_%2813%29.png/revision/latest?cb=20110519194615",
-      "nickname": "Haos Elfin"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/07/Minx_Elfin_in_Ball_form_%28Closed%29.png/revision/latest?cb=20240330033837",
+      "nickname": "Haos Elfin",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Aquos_Dual_Elfin_%28closed%29.jpg/revision/latest?cb=20110614175856",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Minx_Elfin_Preyas_Ball.jpg/revision/latest?cb=20100628214054",
+        "https://static.wikia.nocookie.net/bakugan/images/7/70/Minks-Elfin-ball.jpg/revision/latest?cb=20100929100410",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Darkus_Elfin_Ball.jpg/revision/latest?cb=20100629212327",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a2/Ventus_Elfin_Ball.jpg/revision/latest?cb=20100629011849",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Elfin_Ball.jpg/revision/latest?cb=20091115183806",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Elfin_aquos_ab_ball.jpg/revision/latest?cb=20101022175727",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0d/Ventus_Minx_Elfin_Ball.jpg/revision/latest?cb=20100628221043"
+      ]
     },
     {
       "id": "elfin-darkus",
@@ -9016,7 +11554,17 @@ window.BAKU_DATA = {
       "bio": "Preyas’tan sonra Marucho’nun partneri. Şirin görünür, sahada acımasızdır. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/96/Darkus_Elfin.jpg/revision/latest?cb=20100629212738",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/63/Image_320_240_%2813%29.png/revision/latest?cb=20110519194615",
-      "nickname": "Darkus Elfin"
+      "nickname": "Darkus Elfin",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Darkus_Elfin_Ball.jpg/revision/latest?cb=20100629212327",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Darkus_Elfin_Headshot.jpg/revision/latest?cb=20100911000907",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ea/KeithStrife_Darkus_Elfin.JPG/revision/latest?cb=20120815184927",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Darkus_Elfin_3.jpg/revision/latest?cb=20101214194127",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Darkus_Dual_elfin_revolution.jpg/revision/latest?cb=20230909165632",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Darkus_Minx_Elfin_Gauntlet.jpg/revision/latest?cb=20100628210320",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c2/Darkus_Minx_Elfin.jpg/revision/latest?cb=20110714143007",
+        "https://static.wikia.nocookie.net/bakugan/images/0/07/Minx_Elfin_in_Ball_form_%28Closed%29.png/revision/latest?cb=20240330033837"
+      ]
     },
     {
       "id": "fencer",
@@ -9044,8 +11592,18 @@ window.BAKU_DATA = {
         "gForce": 74
       },
       "bio": "Fencer, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_Fencer.png/revision/latest?cb=20090620121011",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_Fencer.png/revision/latest?cb=20090620121011"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f0/Pyrus_Fencer_Open.png/revision/latest?cb=20110416192206",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_Fencer.png/revision/latest?cb=20090620121011",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/59/Pyrus_Fencer_Closed.png/revision/latest?cb=20110621054040",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/Pyrus_Fencer_Stats.PNG/revision/latest?cb=20110111013359",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4d/Pyrus_Fencer.png/revision/latest?cb=20110922194822",
+        "https://static.wikia.nocookie.net/bakugan/images/9/94/Pyrus_fencer.png/revision/latest?cb=20110321173859",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fe/KeithStrife_Maxus_Pyrus_Fencer.jpg/revision/latest?cb=20121216165900",
+        "https://static.wikia.nocookie.net/bakugan/images/2/20/Pyrus_Fencer.jpg/revision/latest?cb=20110101071005",
+        "https://static.wikia.nocookie.net/bakugan/images/d/de/Fencer-pyrus-d.PNG/revision/latest?cb=20100528175008",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Fencer-pyrus-ca.jpg/revision/latest?cb=20091127151609"
+      ]
     },
     {
       "id": "fly-beetle",
@@ -9073,8 +11631,14 @@ window.BAKU_DATA = {
         "gForce": 94
       },
       "bio": "Fly Beetle, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b0/Image_320_240_%2811%29.png/revision/latest?cb=20110519194319",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b0/Image_320_240_%2811%29.png/revision/latest?cb=20110519194319"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1b/Aquos_Fly_Beetle_Ball.PNG/revision/latest?cb=20110114213457",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b0/Image_320_240_%2811%29.png/revision/latest?cb=20110519194319",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/fd/Fly_Beetle_Closed.PNG/revision/latest?cb=20101006232208",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Fly_Beetle_Open.PNG/revision/latest?cb=20101006232343",
+        "https://static.wikia.nocookie.net/bakugan/images/f/ff/Subterra_Fly_Beetle.PNG/revision/latest?cb=20101006232440",
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Pyrus_Fly_Beetle.PNG/revision/latest?cb=20101007164013"
+      ]
     },
     {
       "id": "foxbat",
@@ -9102,8 +11666,18 @@ window.BAKU_DATA = {
         "gForce": 65
       },
       "bio": "Foxbat, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f0/GI_Foxbat.png/revision/latest?cb=20110223142651",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f0/GI_Foxbat.png/revision/latest?cb=20110223142651"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/04/Pyrus_Foxbat_Open.png/revision/latest?cb=20110416192643",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f0/GI_Foxbat.png/revision/latest?cb=20110223142651",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c6/Pyrus_Foxbat.png/revision/latest?cb=20110223141229",
+        "https://static.wikia.nocookie.net/bakugan/images/9/91/Pyrus_Foxbat_Opened.png/revision/latest?cb=20110621054407",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Foxbat-darkus-sphere-d.png/revision/latest?cb=20100709045734",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Clear_Foxbat_Closed.png/revision/latest?cb=20110621054339",
+        "https://static.wikia.nocookie.net/bakugan/images/2/22/Haos_Foxbat_Closed.png/revision/latest?cb=20110621054359",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Subterra_Foxbat_Closed.png/revision/latest?cb=20110621054418",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/Ventus_Foxbat_Closed.png/revision/latest?cb=20110621054427",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/Aquos_Foxbat_Closed.png/revision/latest?cb=20110621054329"
+      ]
     },
     {
       "id": "freezer",
@@ -9131,8 +11705,18 @@ window.BAKU_DATA = {
         "gForce": 70
       },
       "bio": "Freezer, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/11/Freezer.jpg/revision/latest?cb=20110808094331",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/11/Freezer.jpg/revision/latest?cb=20110808094331"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e7/Aquos_Freezer_Ball.PNG/revision/latest?cb=20110114213449",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/11/Freezer.jpg/revision/latest?cb=20110808094331",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/d9/Freezer_S2PosterImage.png/revision/latest?cb=20120327074638",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Freezer_Using_Freezer_Jail.png/revision/latest?cb=20130531191352",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f6/BK_Freezer.jpg/revision/latest?cb=20091206161322",
+        "https://static.wikia.nocookie.net/bakugan/images/1/11/46ah_Freezer.jpg/revision/latest?cb=20160530082450",
+        "https://static.wikia.nocookie.net/bakugan/images/2/23/Bk_cd_freezer.jpg/revision/latest?cb=20100921155800",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ce/Pearl_Freezer.jpg/revision/latest?cb=20091030224205",
+        "https://static.wikia.nocookie.net/bakugan/images/9/91/Freezer-haos-close-v.PNG/revision/latest?cb=20100717040129",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/BakuFlip_Darkus_Freezer.jpg/revision/latest?cb=20100726010046"
+      ]
     },
     {
       "id": "goblinball",
@@ -9161,7 +11745,11 @@ window.BAKU_DATA = {
       },
       "bio": "Goblinball, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/95/Goblinball.jpg/revision/latest?cb=20091109214414",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/95/Goblinball.jpg/revision/latest?cb=20091109214414"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/95/Goblinball.jpg/revision/latest?cb=20091109214414",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Goblinball_closed.jpg/revision/latest?cb=20091109200401",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9f/Goblinball_open.jpg/revision/latest?cb=20091109200802"
+      ]
     },
     {
       "id": "hades",
@@ -9189,8 +11777,18 @@ window.BAKU_DATA = {
         "gForce": 80
       },
       "bio": "Hades, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c8/BK_CD_Hades.jpg/revision/latest?cb=20090616224849",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Darkus_Hades_in_Ball_form_open..png/revision/latest?cb=20240427165507"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/54/Pyrus_Hades_Open.png/revision/latest?cb=20110416193734",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Darkus_Hades_in_Ball_form_open..png/revision/latest?cb=20240427165507",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Pyrus_Hades_Closed.png/revision/latest?cb=20110621054727",
+        "https://static.wikia.nocookie.net/bakugan/images/6/68/Pyrus_Hades.png/revision/latest?cb=20110319221926",
+        "https://static.wikia.nocookie.net/bakugan/images/2/29/Pyrus_hades_on_rattkeoid_gate_card.jpg/revision/latest?cb=20180903005841",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Hades-pyrus.JPG/revision/latest?cb=20090918144602",
+        "https://static.wikia.nocookie.net/bakugan/images/4/40/Hades-pyrus-d.jpg/revision/latest?cb=20100625202329",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Hades_Ball_Form_%28Closed%29.jpg/revision/latest?cb=20240413195225",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/Darkus_Hades_%28closed%29.jpg/revision/latest?cb=20110614174834",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9f/Darkus_Myriad_Hades_%28closed%29.jpg/revision/latest?cb=20110614173847"
+      ]
     },
     {
       "id": "hammersaur",
@@ -9219,7 +11817,13 @@ window.BAKU_DATA = {
       },
       "bio": "Hammersaur, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Hammersaur.jpg/revision/latest?cb=20091109223315",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Hammersaur.jpg/revision/latest?cb=20091109223315"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Hammersaur.jpg/revision/latest?cb=20091109223315",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c1/Hammersaur_closed_ball.png/revision/latest?cb=20110129175944",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b9/Hammersaur_Anchorsaur.PNG/revision/latest?cb=20101118174547",
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Hammersaur.JPG/revision/latest?cb=20120325134541",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Hammersaur_0.JPG/revision/latest?cb=20120325134641"
+      ]
     },
     {
       "id": "helios-pyrus",
@@ -9248,8 +11852,18 @@ window.BAKU_DATA = {
       },
       "bio": "Spectra’nın mükemmeliyetçi yaratımı. Drago’nun gölgesi ve aynası. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d0/Helios-pyrus-frost.jpg/revision/latest?cb=20091229060715",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/BK_CD_ViperHelios.jpg/revision/latest?cb=20090516095246",
-      "nickname": "Pyrus Helios"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d6/Pyrus_Helios_Closed.png/revision/latest?cb=20110621055115",
+      "nickname": "Pyrus Helios",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/7/7f/Pyrus_Helios_Open.png/revision/latest?cb=20110416193134",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Pyrus_helios.png/revision/latest?cb=20170914131732",
+        "https://static.wikia.nocookie.net/bakugan/images/9/92/Pyrus_V-Helios_Stats.PNG/revision/latest?cb=20110111141955",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Helios-pyrus-half.jpg/revision/latest?cb=20091020131318",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cyborg_Helios_Ball_Form_%28Closed%29.jpg/revision/latest?cb=20240429144820",
+        "https://static.wikia.nocookie.net/bakugan/images/e/eb/Viper_Helios_Ballform_%28closed%29.png/revision/latest?cb=20171205011522",
+        "https://static.wikia.nocookie.net/bakugan/images/7/71/Helios_and_drago_ball.png/revision/latest?cb=20111207034058",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/M-Helios_%28ball_forms%29.png/revision/latest?cb=20120817170748"
+      ]
     },
     {
       "id": "helios-aquos",
@@ -9278,8 +11892,18 @@ window.BAKU_DATA = {
       },
       "bio": "Spectra’nın mükemmeliyetçi yaratımı. Drago’nun gölgesi ve aynası. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/7c/Helios-aquos-clear-half.jpg/revision/latest?cb=20091020132608",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/BK_CD_ViperHelios.jpg/revision/latest?cb=20090516095246",
-      "nickname": "Aquos Helios"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/68/Aquos_Helios_Closed.png/revision/latest?cb=20110621055032",
+      "nickname": "Aquos Helios",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/87/Aquos_Helios_Open.png/revision/latest?cb=20110416193023",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Aquos_Helios.png/revision/latest?cb=20110408204549",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/Helios-aquos-d.jpg/revision/latest?cb=20100625202329",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f8/Infinity_Helios_Aquos_%28open%29.jpg/revision/latest?cb=20110605070823",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cyborg_Helios_Ball_Form_%28Closed%29.jpg/revision/latest?cb=20240429144820",
+        "https://static.wikia.nocookie.net/bakugan/images/e/eb/Viper_Helios_Ballform_%28closed%29.png/revision/latest?cb=20171205011522",
+        "https://static.wikia.nocookie.net/bakugan/images/7/71/Helios_and_drago_ball.png/revision/latest?cb=20111207034058",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/M-Helios_%28ball_forms%29.png/revision/latest?cb=20120817170748"
+      ]
     },
     {
       "id": "helios-ventus",
@@ -9308,8 +11932,18 @@ window.BAKU_DATA = {
       },
       "bio": "Spectra’nın mükemmeliyetçi yaratımı. Drago’nun gölgesi ve aynası. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/77/Helios-ventus-d.jpg/revision/latest?cb=20100625202331",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/BK_CD_ViperHelios.jpg/revision/latest?cb=20090516095246",
-      "nickname": "Ventus Helios"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5f/Helios-ventus-sphere-d.jpg/revision/latest?cb=20100625202331",
+      "nickname": "Ventus Helios",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/4f/Ventus_Helios_Open.png/revision/latest?cb=20110416193158",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7b/Ventus_Helios.JPG/revision/latest?cb=20100711204724",
+        "https://static.wikia.nocookie.net/bakugan/images/6/61/Ventus_Mutant_Helios_%28closed%29.jpg/revision/latest?cb=20110614181548",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ce/Helios_mk2_ventus.jpg/revision/latest?cb=20101022164446",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Helios_MK2_Ventus.jpg/revision/latest?cb=20110714143236",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cyborg_Helios_Ball_Form_%28Closed%29.jpg/revision/latest?cb=20240429144820",
+        "https://static.wikia.nocookie.net/bakugan/images/e/eb/Viper_Helios_Ballform_%28closed%29.png/revision/latest?cb=20171205011522",
+        "https://static.wikia.nocookie.net/bakugan/images/7/71/Helios_and_drago_ball.png/revision/latest?cb=20111207034058"
+      ]
     },
     {
       "id": "helios-subterra",
@@ -9338,8 +11972,18 @@ window.BAKU_DATA = {
       },
       "bio": "Spectra’nın mükemmeliyetçi yaratımı. Drago’nun gölgesi ve aynası. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6a/Helios-subterra-core.jpg/revision/latest?cb=20100716055204",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/BK_CD_ViperHelios.jpg/revision/latest?cb=20090516095246",
-      "nickname": "Subterra Helios"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/31/Subterra_Helios_Closed.png/revision/latest?cb=20110621055123",
+      "nickname": "Subterra Helios",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b8/Subterra_Helios_Open.png/revision/latest?cb=20110416193148",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d7/Subterra_Helios.png/revision/latest?cb=20110408205010",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cyborg_Helios_Ball_Form_%28Closed%29.jpg/revision/latest?cb=20240429144820",
+        "https://static.wikia.nocookie.net/bakugan/images/e/eb/Viper_Helios_Ballform_%28closed%29.png/revision/latest?cb=20171205011522",
+        "https://static.wikia.nocookie.net/bakugan/images/7/71/Helios_and_drago_ball.png/revision/latest?cb=20111207034058",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/M-Helios_%28ball_forms%29.png/revision/latest?cb=20120817170748",
+        "https://static.wikia.nocookie.net/bakugan/images/2/27/Helios_MK2_in_bal_form_%28closed%29.png/revision/latest?cb=20091210065629",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Darkus_Helios_Closed.jpg/revision/latest?cb=20101214031624"
+      ]
     },
     {
       "id": "helios-haos",
@@ -9368,8 +12012,18 @@ window.BAKU_DATA = {
       },
       "bio": "Spectra’nın mükemmeliyetçi yaratımı. Drago’nun gölgesi ve aynası. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f0/Helios-haos.jpg/revision/latest?cb=20090814084429",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/BK_CD_ViperHelios.jpg/revision/latest?cb=20090516095246",
-      "nickname": "Haos Helios"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/87/Haos_Helios_Closed.png/revision/latest?cb=20110621055105",
+      "nickname": "Haos Helios",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Haos_Helios_Open.png/revision/latest?cb=20110416193122",
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Helios_MK2_using_ability_Chaos_Power_Cannon.png/revision/latest?cb=20150921112624",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Cyborg_Helios_Ball_Form_%28Closed%29.jpg/revision/latest?cb=20240429144820",
+        "https://static.wikia.nocookie.net/bakugan/images/e/eb/Viper_Helios_Ballform_%28closed%29.png/revision/latest?cb=20171205011522",
+        "https://static.wikia.nocookie.net/bakugan/images/7/71/Helios_and_drago_ball.png/revision/latest?cb=20111207034058",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/M-Helios_%28ball_forms%29.png/revision/latest?cb=20120817170748",
+        "https://static.wikia.nocookie.net/bakugan/images/2/27/Helios_MK2_in_bal_form_%28closed%29.png/revision/latest?cb=20091210065629",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Darkus_Helios_Closed.jpg/revision/latest?cb=20101214031624"
+      ]
     },
     {
       "id": "helios-darkus",
@@ -9399,7 +12053,17 @@ window.BAKU_DATA = {
       "bio": "Spectra’nın mükemmeliyetçi yaratımı. Drago’nun gölgesi ve aynası. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/82/Spectra-and-Helios-Episode-19-spectra-and-darkus-infinity-helios-23225068-716-537_.jpg/revision/latest?cb=20120730144624",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/BK_CD_ViperHelios.jpg/revision/latest?cb=20090516095246",
-      "nickname": "Darkus Helios"
+      "nickname": "Darkus Helios",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Darkus_Helios_Closed.jpg/revision/latest?cb=20101214031624",
+        "https://static.wikia.nocookie.net/bakugan/images/9/92/Darkus_Helios_Closed.png/revision/latest?cb=20110621055055",
+        "https://static.wikia.nocookie.net/bakugan/images/9/99/Darkus_helios_ball.jpg/revision/latest?cb=20110615132427",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Darkus_Helios_Open.png/revision/latest?cb=20110416193045",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/Darkus_Helios_Evo_Open.png/revision/latest?cb=20110625221126",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5c/Darkus_Helios.png/revision/latest?cb=20110408204624",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5f/Darkus_Helios.jpg/revision/latest?cb=20101214031601",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/Darkus_Helios_Evo.png/revision/latest?cb=20110625221140"
+      ]
     },
     {
       "id": "hyper-dragonoid",
@@ -9428,7 +12092,17 @@ window.BAKU_DATA = {
       },
       "bio": "Hyper Dragonoid, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/7f/BK_Hyper_Dragonoid.png/revision/latest?cb=20100311031934",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7f/BK_Hyper_Dragonoid.png/revision/latest?cb=20100311031934"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7f/BK_Hyper_Dragonoid.png/revision/latest?cb=20100311031934",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/BBP-Hyper_Dragonoid_anime.png/revision/latest?cb=20210117033511",
+        "https://static.wikia.nocookie.net/bakugan/images/2/20/Pyrus_Hyper_Dragonoid_becomes_Titan_Dragonoid.png/revision/latest?cb=20210715190755",
+        "https://static.wikia.nocookie.net/bakugan/images/1/16/Pyrus_Dragonoid_becomes_Hyper_Dragonoid.png/revision/latest?cb=20210715063306",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/Hyper_Dragonoid_%28Day_time%29.png/revision/latest?cb=20201112165648",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fa/Hyper_Dragonoid.PNG/revision/latest?cb=20190915133117",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Pyrus_Hyper_Dragonoid.png/revision/latest?cb=20101012000539",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Hyper_Dragonoid_Darkus_background.png/revision/latest?cb=20250331143828",
+        "https://static.wikia.nocookie.net/bakugan/images/9/93/Hyper_dragonoid.jpg/revision/latest?cb=20100720075845"
+      ]
     },
     {
       "id": "ingram-pyrus",
@@ -9456,9 +12130,19 @@ window.BAKU_DATA = {
         "gForce": 90
       },
       "bio": "Skyress’ten sonra Shun’un yeni partneri. Ninja sanatının bakugan hali. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_CD_Ingram.jpg/revision/latest?cb=20090516113040",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_CD_Ingram.jpg/revision/latest?cb=20090516113040",
-      "nickname": "Pyrus Ingram"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/cd/Pyrus_Ingram_Open.png/revision/latest?cb=20110416194506",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f3/Pyrus_Ingram_Closed.png/revision/latest?cb=20110621131307",
+      "nickname": "Pyrus Ingram",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/92/Pyrus_Ingram.png/revision/latest?cb=20110416194454",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/196px-Pyrus_Ingram_3.png/revision/latest?cb=20110527011320",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8a/Ingram%27s_Pyrus_Ziperator.png/revision/latest?cb=20110603202151",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Pyrus_Zenthon_Ingram_Titan.png/revision/latest?cb=20110603202353",
+        "https://static.wikia.nocookie.net/bakugan/images/8/80/199px-Ingram_Pyrus_1.png/revision/latest?cb=20110527011123",
+        "https://static.wikia.nocookie.net/bakugan/images/7/71/Pyrus_Cosmic_Ingram.jpg/revision/latest?cb=20110101070945",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/%28Pyrus%29_Flash_Ingram.jpg/revision/latest?cb=20101120210748",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bb/Master_Ingram_Ballform_%28closed%29.png/revision/latest?cb=20120121234001"
+      ]
     },
     {
       "id": "ingram-aquos",
@@ -9487,8 +12171,18 @@ window.BAKU_DATA = {
       },
       "bio": "Skyress’ten sonra Shun’un yeni partneri. Ninja sanatının bakugan hali. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ee/463px-Ingram%27s_Aquos_cy.png/revision/latest?cb=20110605154911",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_CD_Ingram.jpg/revision/latest?cb=20090516113040",
-      "nickname": "Aquos Ingram"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/04/Aquos_Ingram_Closed.png/revision/latest?cb=20110621131236",
+      "nickname": "Aquos Ingram",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a0/Aquos_Ingram_Open.png/revision/latest?cb=20110416194235",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Aquos_Ingram.png/revision/latest?cb=20110416194100",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ed/Ingram%27s_Aquos_cy.png/revision/latest?cb=20110603201945",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bb/Master_Ingram_Ballform_%28closed%29.png/revision/latest?cb=20120121234001",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d3/Clear_Ingram%28closed%29.jpg/revision/latest?cb=20110614180005",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ce/Ventus_Flash_Ingram_%28closed%29.jpg/revision/latest?cb=20110605071144",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e1/Ingram_in_ball_form.PNG/revision/latest?cb=20150420150336",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ce/Ventus_Ingram_%28closed%29.jpg/revision/latest?cb=20110614174645"
+      ]
     },
     {
       "id": "ingram-ventus",
@@ -9517,8 +12211,18 @@ window.BAKU_DATA = {
       },
       "bio": "Skyress’ten sonra Shun’un yeni partneri. Ninja sanatının bakugan hali. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a7/Ingram-ventus-neon.png/revision/latest?cb=20090826192558",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_CD_Ingram.jpg/revision/latest?cb=20090516113040",
-      "nickname": "Ventus Ingram"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/ce/Ventus_Ingram_%28closed%29.jpg/revision/latest?cb=20110614174645",
+      "nickname": "Ventus Ingram",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/93/GI_Ventus_Ingram_%28closed%29.jpg/revision/latest?cb=20110614174748",
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Ventus_Ingram_Closed.png/revision/latest?cb=20110621131351",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e2/Ventus_Ingram_Open.png/revision/latest?cb=20110416194557",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ce/Ventus_Ingram_%28open%29.jpg/revision/latest?cb=20110614174620",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7d/GI_Ventus_Ingram_%28open%29.jpg/revision/latest?cb=20110614174735",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ce/Ventus_Flash_Ingram_%28closed%29.jpg/revision/latest?cb=20110605071144",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/Flash_Ingram_%28Ventus%29_open.jpg/revision/latest?cb=20110605071025",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Ventus_Ingram.png/revision/latest?cb=20110416194544"
+      ]
     },
     {
       "id": "ingram-subterra",
@@ -9547,8 +12251,18 @@ window.BAKU_DATA = {
       },
       "bio": "Skyress’ten sonra Shun’un yeni partneri. Ninja sanatının bakugan hali. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/20/Ingram-subterra-half.jpg/revision/latest?cb=20091020131859",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_CD_Ingram.jpg/revision/latest?cb=20090516113040",
-      "nickname": "Subterra Ingram"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/60/Subterra_Ingram_Closed.png/revision/latest?cb=20110621131318",
+      "nickname": "Subterra Ingram",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e1/Subterra_Ingram_Open.png/revision/latest?cb=20110416194529",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/AlltributeMaNaga%27s_Subterra_Ingram.png/revision/latest?cb=20101016002659",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Subterra_Ingram.png/revision/latest?cb=20110416194520",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f6/183px-Subterra_Ingram.png/revision/latest?cb=20110527011351",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b9/Subterra_ingram.jpg/revision/latest?cb=20180915214039",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ce/BakuBronze_Subterra_Cosmic_Ingram.jpg/revision/latest?cb=20100414010137",
+        "https://static.wikia.nocookie.net/bakugan/images/8/86/Subterra_flash_ingram.png/revision/latest?cb=20110411205051",
+        "https://static.wikia.nocookie.net/bakugan/images/3/34/Ingram_Subterra.JPG/revision/latest?cb=20100714123016"
+      ]
     },
     {
       "id": "ingram-haos",
@@ -9577,8 +12291,18 @@ window.BAKU_DATA = {
       },
       "bio": "Skyress’ten sonra Shun’un yeni partneri. Ninja sanatının bakugan hali. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3b/Ingram-haos-half.jpg/revision/latest?cb=20091020132115",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_CD_Ingram.jpg/revision/latest?cb=20090516113040",
-      "nickname": "Haos Ingram"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/24/Haos_Ingram_Closed.png/revision/latest?cb=20110621131258",
+      "nickname": "Haos Ingram",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b7/Haos_Ingram_Open.png/revision/latest?cb=20110416194438",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c6/Haos_Ingram.png/revision/latest?cb=20110416194428",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8a/Ingram-haos-clear-half.jpg/revision/latest?cb=20091020132323",
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Haos_Flash_Ingram_attack.jpg/revision/latest?cb=20110213021855",
+        "https://static.wikia.nocookie.net/bakugan/images/9/93/Haos_Flash_Ingram_loses.jpg/revision/latest?cb=20110213022022",
+        "https://static.wikia.nocookie.net/bakugan/images/6/69/Haos_Flash_Ingram.jpg/revision/latest?cb=20110213021940",
+        "https://static.wikia.nocookie.net/bakugan/images/d/da/Haos_Master_Ingram_%2B_Hurrix.JPG/revision/latest?cb=20110721201100",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bb/Master_Ingram_Ballform_%28closed%29.png/revision/latest?cb=20120121234001"
+      ]
     },
     {
       "id": "ingram-darkus",
@@ -9608,7 +12332,17 @@ window.BAKU_DATA = {
       "bio": "Skyress’ten sonra Shun’un yeni partneri. Ninja sanatının bakugan hali. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a1/Ingram-darkus-solar.jpg/revision/latest?cb=20100716055453",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_CD_Ingram.jpg/revision/latest?cb=20090516113040",
-      "nickname": "Darkus Ingram"
+      "nickname": "Darkus Ingram",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/34/Darkus_Ingram_Ball.jpg/revision/latest?cb=20110611152314",
+        "https://static.wikia.nocookie.net/bakugan/images/2/27/Darkus_Ingram_Closed.png/revision/latest?cb=20110621131252",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6c/Darkus_Ingram_Open.png/revision/latest?cb=20110416194333",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/B3_BakuCore_Darkus_Ingram.JPG/revision/latest?cb=20101027150229",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bd/Darkus_Ingram.png/revision/latest?cb=20110416194320",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4e/Darkus_ingram.jpg/revision/latest?cb=20100418233618",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Darkus_Cyclone_Percival_%26_Ventus_Flash_Ingram.png/revision/latest?cb=20110818170502",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e8/Ingram-ventus%2Bhades-darkus-dc0.PNG/revision/latest?cb=20100716041631"
+      ]
     },
     {
       "id": "jelldon",
@@ -9636,8 +12370,17 @@ window.BAKU_DATA = {
         "gForce": 86
       },
       "bio": "Jelldon, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/50/Image_320_240_%2838%29.png/revision/latest?cb=20110520050950",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/50/Image_320_240_%2838%29.png/revision/latest?cb=20110520050950"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c6/Jelldon_pyrus_open.PNG/revision/latest?cb=20101006234115",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/50/Image_320_240_%2838%29.png/revision/latest?cb=20110520050950",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Jelldon_pyrus_closed.PNG/revision/latest?cb=20101006234037",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/Aqua_Jelldon_Ball.PNG/revision/latest?cb=20110114213429",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Jelldon_closed.jpg/revision/latest?cb=20091106230729",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2b/Jelldon_open.jpg/revision/latest?cb=20091106230840",
+        "https://static.wikia.nocookie.net/bakugan/images/d/da/Haos_Jelldon.PNG/revision/latest?cb=20101007161951",
+        "https://static.wikia.nocookie.net/bakugan/images/7/71/Aquos_Jelldon.PNG/revision/latest?cb=20101214193451",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c7/Jelldon.jpg/revision/latest?cb=20091108204559"
+      ]
     },
     {
       "id": "klawgor",
@@ -9665,8 +12408,18 @@ window.BAKU_DATA = {
         "gForce": 58
       },
       "bio": "Klawgor, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/07/Klawgor.png/revision/latest?cb=20090926232750",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/07/Klawgor.png/revision/latest?cb=20090926232750"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/bf/KeithStrife_Maxus_Ventus_Klawgor.jpg/revision/latest?cb=20121216170320",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/07/Klawgor.png/revision/latest?cb=20090926232750",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b4/Ventus_Klawgor.jpg/revision/latest?cb=20100712124904",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/Maxus_Klawgor.jpg/revision/latest?cb=20110823024326",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/KeithStrife_Darkus_Klawgor.jpg/revision/latest?cb=20121105114628",
+        "https://static.wikia.nocookie.net/bakugan/images/d/db/Klawgor_Back.jpg/revision/latest?cb=20120426111024",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Klawgor_S2PosterImage.png/revision/latest?cb=20120327074028",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Klawgor_JP_Card.jpg/revision/latest?cb=20120426111455",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5c/KeithStrife_Pyrus_Klawgor.JPG/revision/latest?cb=20121101153542",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/KeithStrife_Haos_Klawgor.jpg/revision/latest?cb=20130125143752"
+      ]
     },
     {
       "id": "knight-percival",
@@ -9695,7 +12448,14 @@ window.BAKU_DATA = {
       },
       "bio": "Percival’ın evrimi. Karanlıkta bile bir şövalye kodu vardır.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Realkp.png/revision/latest?cb=20100927081928",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Realkp.png/revision/latest?cb=20100927081928"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Realkp.png/revision/latest?cb=20100927081928",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9c/Hammer_Gorem_punching_Knight_Percival.jpg/revision/latest?cb=20110605183359",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Falcon_Flu_and_Knight_Percival.PNG/revision/latest?cb=20100921151953",
+        "https://static.wikia.nocookie.net/bakugan/images/2/20/Knight_Percival_jumping_at_FALCON_FLY.PNG/revision/latest?cb=20100921152918",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Aquos_Knight_Percival.JPG/revision/latest?cb=20110721201403",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Knightpercival_pyrus.jpg/revision/latest?cb=20101022165231"
+      ]
     },
     {
       "id": "leefram",
@@ -9723,8 +12483,18 @@ window.BAKU_DATA = {
         "gForce": 74
       },
       "bio": "Leefram, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/72/BK_Leefram.png/revision/latest?cb=20090704113229",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/72/BK_Leefram.png/revision/latest?cb=20090704113229"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ae/KeithStrife_Maxus_Aquos_Leefram.jpg/revision/latest?cb=20121216165859",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/72/BK_Leefram.png/revision/latest?cb=20090704113229",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e8/KeithStrife_Aquos_Leefram.JPG/revision/latest?cb=20120815190804",
+        "https://static.wikia.nocookie.net/bakugan/images/9/91/Aquos_3D_Leefram.PNG/revision/latest?cb=20100928211916",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4d/Leefram_aquos_chara_pack.jpg/revision/latest?cb=20100930130539",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5c/Leefram-aquos-trans.jpg/revision/latest?cb=20100716055206",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5f/Maxus_Leefram.jpg/revision/latest?cb=20110823024359",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Ability_Gray_Leefram.jpg/revision/latest?cb=20110823030447",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Leefram_Back.jpg/revision/latest?cb=20120426112415",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Leefram_JP_Card.jpg/revision/latest?cb=20120426112504"
+      ]
     },
     {
       "id": "macubass",
@@ -9753,7 +12523,17 @@ window.BAKU_DATA = {
       },
       "bio": "Macubass, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/01/Mcbss.jpg/revision/latest?cb=20171201171037",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/01/Mcbss.jpg/revision/latest?cb=20171201171037"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/01/Mcbss.jpg/revision/latest?cb=20171201171037",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Macubass_Ballform_%28closed%29.png/revision/latest?cb=20171213035807",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/Macubass_Ballform_%28open%29.png/revision/latest?cb=20171213035858",
+        "https://static.wikia.nocookie.net/bakugan/images/6/69/Macubass_eyecatch.png/revision/latest?cb=20171213040118",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0b/Macubass_mauser.png/revision/latest?cb=20171213040738",
+        "https://static.wikia.nocookie.net/bakugan/images/5/51/Macubass_in_the_battle.png/revision/latest?cb=20200709123155",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Mylene_%26_Macubass.png/revision/latest?cb=20100808181727",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Mylene_and_Macubass.png/revision/latest?cb=20100808181801",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/Macubass_midnight_percival00.jpg/revision/latest?cb=20091124113811"
+      ]
     },
     {
       "id": "magma-wilda",
@@ -9782,7 +12562,14 @@ window.BAKU_DATA = {
       },
       "bio": "Wilda’nın zirve formu. Vexos zırhlarını eritebilir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/0a/Magma_Wilda_AS.png/revision/latest?cb=20120808224651",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0a/Magma_Wilda_AS.png/revision/latest?cb=20120808224651"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0a/Magma_Wilda_AS.png/revision/latest?cb=20120808224651",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a9/Magma_Wilda_in_Bakugan_Form.png/revision/latest?cb=20240413200341",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a9/Helios_MK2_after_blocked_your_ability_by_Magma_Wilda.png/revision/latest?cb=20150921112056",
+        "https://static.wikia.nocookie.net/bakugan/images/5/59/Helios_MK2_Magma_Wilda.PNG/revision/latest?cb=20101119214803",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b9/Birth_of_Magma_Wilda.JPG/revision/latest?cb=20130118204049",
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Magma_Wilda_%282%29.JPG/revision/latest?cb=20111107050536"
+      ]
     },
     {
       "id": "master-ingram",
@@ -9810,8 +12597,18 @@ window.BAKU_DATA = {
         "gForce": 94
       },
       "bio": "Ingram’ın ustalık evrimi. Shun ile mükemmel senkron.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Realmi.png/revision/latest?cb=20100927082005",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Realmi.png/revision/latest?cb=20100927082005"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/dc/Ventus_Master_Ingram.jpg/revision/latest?cb=20110608094203",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Realmi.png/revision/latest?cb=20100927082005",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/bb/Master_Ingram_Ballform_%28closed%29.png/revision/latest?cb=20120121234001",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c5/Master_ingram_closed_left.JPG/revision/latest?cb=20110903174020",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/Master_Ingram_Ballform_%28open%29.png/revision/latest?cb=20120121234019",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/Master_Ingram_%28bakuganform%29.png/revision/latest?cb=20171122105658",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Ninjutsu_Master_Ingram.jpg/revision/latest?cb=20120313111127",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/Ninjitsu_master_Ingram.png/revision/latest?cb=20120212230350",
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Master_Ingram_%28Wind_Power_Extreme%29.png/revision/latest?cb=20120211031212",
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/Master_Ingram_%28Shadow_Split%29.png/revision/latest?cb=20120211031638"
+      ]
     },
     {
       "id": "mega-brontes",
@@ -9840,7 +12637,15 @@ window.BAKU_DATA = {
       },
       "bio": "Mega Brontes, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/dd/BK_CD_MegaBrontes.jpg/revision/latest?cb=20091107205828",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/dd/BK_CD_MegaBrontes.jpg/revision/latest?cb=20091107205828"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/dd/BK_CD_MegaBrontes.jpg/revision/latest?cb=20091107205828",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Mega_Brontes_Ballform_%28closed%29.png/revision/latest?cb=20120117221643",
+        "https://static.wikia.nocookie.net/bakugan/images/8/81/Mega_Brontes_Ballform_%28open%29.png/revision/latest?cb=20120117221703",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fd/Subterra_Mega_Brontes_Anime.jpg/revision/latest?cb=20100728224725",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Subterra_Mega_Brontes.jpg/revision/latest?cb=20100414011619",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/Volt_Mega_Brontes.jpg/revision/latest?cb=20190901111906",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Mega_Brontes_Darkus_Ability.jpg/revision/latest?cb=20101214193901"
+      ]
     },
     {
       "id": "mega-nemus",
@@ -9869,7 +12674,17 @@ window.BAKU_DATA = {
       },
       "bio": "Mega Nemus, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/21/Mega_nemus.png/revision/latest?cb=20090906203617",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/21/Mega_nemus.png/revision/latest?cb=20090906203617"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/21/Mega_nemus.png/revision/latest?cb=20090906203617",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Mega_Nemus_Ballform_%28closed%29.png/revision/latest?cb=20120117224632",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Haos_Mega_Nemus_%28closed%29.jpg/revision/latest?cb=20110614175020",
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Mega_Nemus_Ballform_%28open%29.png/revision/latest?cb=20120117224653",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Haos_Mega_Nemus_%28open%29.jpg/revision/latest?cb=20110614174954",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f6/Baron_Mega_Nemus.jpg/revision/latest?cb=20190901111957",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c1/Atchibee_VS_Mega_Nemus.PNG/revision/latest?cb=20110112192459",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Mega_Nemus_HD.PNG/revision/latest?cb=20101112000453",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cc/Mega_Nemus_Scanned.PNG/revision/latest?cb=20110123164501"
+      ]
     },
     {
       "id": "midnight-percival",
@@ -9898,7 +12713,17 @@ window.BAKU_DATA = {
       },
       "bio": "Midnight Percival, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/91/BK_CD_MidnightPercival.jpg/revision/latest?cb=20091011194626",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/91/BK_CD_MidnightPercival.jpg/revision/latest?cb=20091011194626"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/91/BK_CD_MidnightPercival.jpg/revision/latest?cb=20091011194626",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/ef/Midnight_Percival_brawl.gif/revision/latest?cb=20110427060853",
+        "https://static.wikia.nocookie.net/bakugan/images/a/af/Midnight_percival-sword2.jpg/revision/latest?cb=20091124123210",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a8/Midnight_percival-sword0.jpg/revision/latest?cb=20091124122228",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Birth_of_Midnight_Percival.JPG/revision/latest?cb=20130118204131",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Midnight_percival%2Bfalconfly-b.jpg/revision/latest?cb=20100119151717",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8a/Midnight_percival-sword00-1-.jpg/revision/latest?cb=20091206132036",
+        "https://static.wikia.nocookie.net/bakugan/images/7/76/Macubass_midnight_percival.jpg/revision/latest?cb=20091124113712",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Aquos_Midnight_Percival.jpg/revision/latest?cb=20100618235150"
+      ]
     },
     {
       "id": "minx-elfin",
@@ -9927,7 +12752,17 @@ window.BAKU_DATA = {
       },
       "bio": "Elfin’in evrimi. Marucho’nun taktik zekâsına mükemmel uyum.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/72/Realmf.png/revision/latest?cb=20100927081947",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/72/Realmf.png/revision/latest?cb=20100927081947"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/72/Realmf.png/revision/latest?cb=20100927081947",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/07/Minx_Elfin_in_Ball_form_%28Closed%29.png/revision/latest?cb=20240330033837",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Minx_Elfin_Preyas_Ball.jpg/revision/latest?cb=20100628214054",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0d/Ventus_Minx_Elfin_Ball.jpg/revision/latest?cb=20100628221043",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Minx_Elfin_in_Ball_Form_%28Open%29.jpg/revision/latest?cb=20240330142508",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b2/Minx_Elfin.png/revision/latest?cb=20101028070219",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8b/Birth_of_Minx_Elfin.JPG/revision/latest?cb=20130118204141",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Minx_Elfin_Ventus_Lyte.jpg/revision/latest?cb=20120109045603",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7f/Minx_Elfin_Marucho.jpg/revision/latest?cb=20100628191437"
+      ]
     },
     {
       "id": "moskeeto",
@@ -9956,7 +12791,16 @@ window.BAKU_DATA = {
       },
       "bio": "Moskeeto, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b1/BK_Moskeeto.png/revision/latest?cb=20090930011259",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b1/BK_Moskeeto.png/revision/latest?cb=20090930011259"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b1/BK_Moskeeto.png/revision/latest?cb=20090930011259",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/60/Moskeeto_Bakusteel_Silver_Darkus_740g.JPG/revision/latest?cb=20110624161126",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/29q_Moskeeto.jpg/revision/latest?cb=20160530062239",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6b/KeithStrife_Bakusteel_Darkus_Moskeeto.jpg/revision/latest?cb=20130329122452",
+        "https://static.wikia.nocookie.net/bakugan/images/6/62/Haos_bakuflip_moskeeto.jpg/revision/latest?cb=20091008231621",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Moskeeto-darkus-clear.jpg/revision/latest?cb=20090814083740",
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Moskeeto.JPG/revision/latest?cb=20130712151815",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/Moskeeto_-_Darkus.jpg/revision/latest?cb=20090713025125"
+      ]
     },
     {
       "id": "myriad-hades",
@@ -9985,7 +12829,16 @@ window.BAKU_DATA = {
       },
       "bio": "Myriad Hades, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/2b/MyraidHades_S2PosterImage.png/revision/latest?cb=20120306033044",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/MyraidHades_S2PosterImage.png/revision/latest?cb=20120306033044"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/MyraidHades_S2PosterImage.png/revision/latest?cb=20120306033044",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9f/Darkus_Myriad_Hades_%28closed%29.jpg/revision/latest?cb=20110614173847",
+        "https://static.wikia.nocookie.net/bakugan/images/7/79/Bakucore_Ventus_Myriad_Hades.jpg/revision/latest?cb=20110827064330",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/13ah_Myriad_Hades.jpg/revision/latest?cb=20160530072657",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/BK_Myriad_Hades.jpg/revision/latest?cb=20091117234941",
+        "https://static.wikia.nocookie.net/bakugan/images/8/87/Haos_myriad_hades.jpg/revision/latest?cb=20120101105406",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f7/Darkus_Myriad_Hades.jpg/revision/latest?cb=20110614173835",
+        "https://static.wikia.nocookie.net/bakugan/images/1/19/52b125-bakugan-brawler-black-silver-myriad-hades-520g_160493315124.jpg/revision/latest?cb=20110217201437"
+      ]
     },
     {
       "id": "nemus-pyrus",
@@ -10013,9 +12866,19 @@ window.BAKU_DATA = {
         "gForce": 87
       },
       "bio": "Baron’un koruyucu melek-şövalyesi. Takımı ayakta tutan kalkan. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1f/BK_CD_Nemus.jpg/revision/latest?cb=20090523045500",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1f/BK_CD_Nemus.jpg/revision/latest?cb=20090523045500",
-      "nickname": "Pyrus Nemus"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/44/Mega_Nemus_Ballform_%28open%29.png/revision/latest?cb=20120117224653",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f3/Mega_Nemus_Ballform_%28closed%29.png/revision/latest?cb=20120117224632",
+      "nickname": "Pyrus Nemus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Nemus_Closed.png/revision/latest?cb=20110721193219",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7f/Transparent_Haos_Nemus_%28closed%29_.jpg/revision/latest?cb=20110614174050",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Haos_Mega_Nemus_%28closed%29.jpg/revision/latest?cb=20110614175020",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8a/Transparent_Nemus_%28closed%29.jpg/revision/latest?cb=20110614174939",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8c/Darkus_Ancient_Nemus_Ball_form.PNG/revision/latest?cb=20100920150835",
+        "https://static.wikia.nocookie.net/bakugan/images/0/04/Haos_Nemus_%28transparent%29.jpg/revision/latest?cb=20110614174031",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c7/Transparent_Nemus_%28open%29.jpg/revision/latest?cb=20110614174922",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Haos_Mega_Nemus_%28open%29.jpg/revision/latest?cb=20110614174954"
+      ]
     },
     {
       "id": "nemus-aquos",
@@ -10044,8 +12907,18 @@ window.BAKU_DATA = {
       },
       "bio": "Baron’un koruyucu melek-şövalyesi. Takımı ayakta tutan kalkan. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/86/Aquos_Nemus.jpg/revision/latest?cb=20100930231532",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1f/BK_CD_Nemus.jpg/revision/latest?cb=20090523045500",
-      "nickname": "Aquos Nemus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/86/Aquos_Nemus.jpg/revision/latest?cb=20100930231532",
+      "nickname": "Aquos Nemus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Mega_Nemus_Ballform_%28closed%29.png/revision/latest?cb=20120117224632",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Nemus_Closed.png/revision/latest?cb=20110721193219",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7f/Transparent_Haos_Nemus_%28closed%29_.jpg/revision/latest?cb=20110614174050",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Haos_Mega_Nemus_%28closed%29.jpg/revision/latest?cb=20110614175020",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8a/Transparent_Nemus_%28closed%29.jpg/revision/latest?cb=20110614174939",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8c/Darkus_Ancient_Nemus_Ball_form.PNG/revision/latest?cb=20100920150835",
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Mega_Nemus_Ballform_%28open%29.png/revision/latest?cb=20120117224653",
+        "https://static.wikia.nocookie.net/bakugan/images/0/04/Haos_Nemus_%28transparent%29.jpg/revision/latest?cb=20110614174031"
+      ]
     },
     {
       "id": "nemus-ventus",
@@ -10074,8 +12947,18 @@ window.BAKU_DATA = {
       },
       "bio": "Baron’un koruyucu melek-şövalyesi. Takımı ayakta tutan kalkan. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/92/Ventus_Nemus.jpg/revision/latest?cb=20100930231426",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1f/BK_CD_Nemus.jpg/revision/latest?cb=20090523045500",
-      "nickname": "Ventus Nemus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/92/Ventus_Nemus.jpg/revision/latest?cb=20100930231426",
+      "nickname": "Ventus Nemus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Mega_Nemus_Ballform_%28closed%29.png/revision/latest?cb=20120117224632",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Nemus_Closed.png/revision/latest?cb=20110721193219",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7f/Transparent_Haos_Nemus_%28closed%29_.jpg/revision/latest?cb=20110614174050",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Haos_Mega_Nemus_%28closed%29.jpg/revision/latest?cb=20110614175020",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8a/Transparent_Nemus_%28closed%29.jpg/revision/latest?cb=20110614174939",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8c/Darkus_Ancient_Nemus_Ball_form.PNG/revision/latest?cb=20100920150835",
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Mega_Nemus_Ballform_%28open%29.png/revision/latest?cb=20120117224653",
+        "https://static.wikia.nocookie.net/bakugan/images/0/04/Haos_Nemus_%28transparent%29.jpg/revision/latest?cb=20110614174031"
+      ]
     },
     {
       "id": "nemus-subterra",
@@ -10103,9 +12986,19 @@ window.BAKU_DATA = {
         "gForce": 87
       },
       "bio": "Baron’un koruyucu melek-şövalyesi. Takımı ayakta tutan kalkan. Bu kayıt Subterra (Toprak) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1f/BK_CD_Nemus.jpg/revision/latest?cb=20090523045500",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1f/BK_CD_Nemus.jpg/revision/latest?cb=20090523045500",
-      "nickname": "Subterra Nemus"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/22/BakuBronze_Subterra_Nemus.jpg/revision/latest?cb=20100414014817",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/22/BakuBronze_Subterra_Nemus.jpg/revision/latest?cb=20100414014817",
+      "nickname": "Subterra Nemus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/de/Subterra_mega_nemus.jpg/revision/latest?cb=20090913195520",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Mega_Nemus_Ballform_%28closed%29.png/revision/latest?cb=20120117224632",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Nemus_Closed.png/revision/latest?cb=20110721193219",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7f/Transparent_Haos_Nemus_%28closed%29_.jpg/revision/latest?cb=20110614174050",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Haos_Mega_Nemus_%28closed%29.jpg/revision/latest?cb=20110614175020",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8a/Transparent_Nemus_%28closed%29.jpg/revision/latest?cb=20110614174939",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8c/Darkus_Ancient_Nemus_Ball_form.PNG/revision/latest?cb=20100920150835",
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Mega_Nemus_Ballform_%28open%29.png/revision/latest?cb=20120117224653"
+      ]
     },
     {
       "id": "nemus-haos",
@@ -10134,8 +13027,18 @@ window.BAKU_DATA = {
       },
       "bio": "Baron’un koruyucu melek-şövalyesi. Takımı ayakta tutan kalkan. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5d/Mega_Nemus_-_Haos.jpg/revision/latest?cb=20090913195448",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1f/BK_CD_Nemus.jpg/revision/latest?cb=20090523045500",
-      "nickname": "Haos Nemus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7f/Transparent_Haos_Nemus_%28closed%29_.jpg/revision/latest?cb=20110614174050",
+      "nickname": "Haos Nemus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/04/Haos_Nemus_%28transparent%29.jpg/revision/latest?cb=20110614174031",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Haos_Mega_Nemus_%28closed%29.jpg/revision/latest?cb=20110614175020",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Haos_Mega_Nemus_%28open%29.jpg/revision/latest?cb=20110614174954",
+        "https://static.wikia.nocookie.net/bakugan/images/7/78/KeithStrife_Haos_Nemus.JPG/revision/latest?cb=20120815185753",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4e/Haos_Nemus_%28figure%29.JPG/revision/latest?cb=20110721155700",
+        "https://static.wikia.nocookie.net/bakugan/images/5/59/Haos-nemus-000.jpg/revision/latest?cb=20110205155542",
+        "https://static.wikia.nocookie.net/bakugan/images/6/69/Haos_Nemus.JPG/revision/latest?cb=20110721201116",
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Nemus-haos%2Bhades-darkus-dc.PNG/revision/latest?cb=20100716041631"
+      ]
     },
     {
       "id": "nemus-darkus",
@@ -10165,7 +13068,17 @@ window.BAKU_DATA = {
       "bio": "Baron’un koruyucu melek-şövalyesi. Takımı ayakta tutan kalkan. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/77/Nemus-haos%2Bhades-darkus-dc.PNG/revision/latest?cb=20100716041631",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1f/BK_CD_Nemus.jpg/revision/latest?cb=20090523045500",
-      "nickname": "Darkus Nemus"
+      "nickname": "Darkus Nemus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/8c/Darkus_Ancient_Nemus_Ball_form.PNG/revision/latest?cb=20100920150835",
+        "https://static.wikia.nocookie.net/bakugan/images/5/53/Darkus_Saint_Nemus.PNG/revision/latest?cb=20101118175456",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Mega_Nemus_Ballform_%28closed%29.png/revision/latest?cb=20120117224632",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Nemus_Closed.png/revision/latest?cb=20110721193219",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7f/Transparent_Haos_Nemus_%28closed%29_.jpg/revision/latest?cb=20110614174050",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Haos_Mega_Nemus_%28closed%29.jpg/revision/latest?cb=20110614175020",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8a/Transparent_Nemus_%28closed%29.jpg/revision/latest?cb=20110614174939",
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Mega_Nemus_Ballform_%28open%29.png/revision/latest?cb=20120117224653"
+      ]
     },
     {
       "id": "neo-dragonoid-pyrus",
@@ -10194,8 +13107,18 @@ window.BAKU_DATA = {
       },
       "bio": "Drago’nun New Vestroia formu. Vexos’a karşı Perfect Core’un umudu. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a1/Neo_Dragonoid_Pyrus.JPG/revision/latest?cb=20100716183759",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Pyrus Neo Dragonoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/Pyrus_Neo_Dragonoid_%281%29_D.E..jpg/revision/latest?cb=20190816172642",
+      "nickname": "Pyrus Neo Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e7/Neo_dragonoid_ball.PNG/revision/latest?cb=20101214151616",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fe/120px-Neo_dragonoid_ball.PNG/revision/latest?cb=20110507171856",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fe/DSCN0087_Neo_Dragonoid.jpg/revision/latest?cb=20100218031830",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/DSCN0094_BakuBronze_Neo_Dragonoid.jpg/revision/latest?cb=20100225024146",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Neo_Dragonoid.PNG/revision/latest?cb=20100922191348",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f8/Neo-Dragonoid-vs-Viper-1024-768.jpg/revision/latest?cb=20110820091113",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/Darkus_Neo_Dragonoid_NV_Character_Pack.JPG/revision/latest?cb=20130731232905",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/BK_SA_Neo_Dragonoid_Vortex.png/revision/latest?cb=20110707173215"
+      ]
     },
     {
       "id": "neo-dragonoid-aquos",
@@ -10224,8 +13147,18 @@ window.BAKU_DATA = {
       },
       "bio": "Drago’nun New Vestroia formu. Vexos’a karşı Perfect Core’un umudu. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e7/Aquos_Neo_Dragonoid.jpeg/revision/latest?cb=20101011151423",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Aquos Neo Dragonoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e7/Aquos_Neo_Dragonoid.jpeg/revision/latest?cb=20101011151423",
+      "nickname": "Aquos Neo Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e7/Neo_dragonoid_ball.PNG/revision/latest?cb=20101214151616",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fe/120px-Neo_dragonoid_ball.PNG/revision/latest?cb=20110507171856",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fe/DSCN0087_Neo_Dragonoid.jpg/revision/latest?cb=20100218031830",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/DSCN0094_BakuBronze_Neo_Dragonoid.jpg/revision/latest?cb=20100225024146",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Neo_Dragonoid.PNG/revision/latest?cb=20100922191348",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f8/Neo-Dragonoid-vs-Viper-1024-768.jpg/revision/latest?cb=20110820091113",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Pyrus_Neo_Dragonoid_%281%29_D.E..jpg/revision/latest?cb=20190816172642",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/Darkus_Neo_Dragonoid_NV_Character_Pack.JPG/revision/latest?cb=20130731232905"
+      ]
     },
     {
       "id": "neo-dragonoid-ventus",
@@ -10253,9 +13186,19 @@ window.BAKU_DATA = {
         "gForce": 90
       },
       "bio": "Drago’nun New Vestroia formu. Vexos’a karşı Perfect Core’un umudu. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/18/Neo_dragonoid.png/revision/latest?cb=20110407205913",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Ventus Neo Dragonoid"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/fe/DSCN0087_Neo_Dragonoid.jpg/revision/latest?cb=20100218031830",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e7/Neo_dragonoid_ball.PNG/revision/latest?cb=20101214151616",
+      "nickname": "Ventus Neo Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/fe/120px-Neo_dragonoid_ball.PNG/revision/latest?cb=20110507171856",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/DSCN0094_BakuBronze_Neo_Dragonoid.jpg/revision/latest?cb=20100225024146",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Neo_Dragonoid.PNG/revision/latest?cb=20100922191348",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f8/Neo-Dragonoid-vs-Viper-1024-768.jpg/revision/latest?cb=20110820091113",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Pyrus_Neo_Dragonoid_%281%29_D.E..jpg/revision/latest?cb=20190816172642",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/Darkus_Neo_Dragonoid_NV_Character_Pack.JPG/revision/latest?cb=20130731232905",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/BK_SA_Neo_Dragonoid_Vortex.png/revision/latest?cb=20110707173215",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/BK_Neo_Dragonoid_Maxus.png/revision/latest?cb=20091112160554"
+      ]
     },
     {
       "id": "neo-dragonoid-subterra",
@@ -10284,8 +13227,18 @@ window.BAKU_DATA = {
       },
       "bio": "Drago’nun New Vestroia formu. Vexos’a karşı Perfect Core’un umudu. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/91/99px-Neo_dragonoid_subterra.jpg/revision/latest?cb=20110507172831",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Subterra Neo Dragonoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/91/99px-Neo_dragonoid_subterra.jpg/revision/latest?cb=20110507172831",
+      "nickname": "Subterra Neo Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e7/Neo_dragonoid_ball.PNG/revision/latest?cb=20101214151616",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fe/120px-Neo_dragonoid_ball.PNG/revision/latest?cb=20110507171856",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fe/DSCN0087_Neo_Dragonoid.jpg/revision/latest?cb=20100218031830",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/DSCN0094_BakuBronze_Neo_Dragonoid.jpg/revision/latest?cb=20100225024146",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Neo_Dragonoid.PNG/revision/latest?cb=20100922191348",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f8/Neo-Dragonoid-vs-Viper-1024-768.jpg/revision/latest?cb=20110820091113",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Pyrus_Neo_Dragonoid_%281%29_D.E..jpg/revision/latest?cb=20190816172642",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/Darkus_Neo_Dragonoid_NV_Character_Pack.JPG/revision/latest?cb=20130731232905"
+      ]
     },
     {
       "id": "neo-dragonoid-haos",
@@ -10314,8 +13267,18 @@ window.BAKU_DATA = {
       },
       "bio": "Drago’nun New Vestroia formu. Vexos’a karşı Perfect Core’un umudu. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/90/Haos_Neo_Dragonoid.JPG/revision/latest?cb=20100711205518",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Haos Neo Dragonoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/90/Haos_Neo_Dragonoid.JPG/revision/latest?cb=20100711205518",
+      "nickname": "Haos Neo Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e8/Neo_Dragonoid_Haos.JPG/revision/latest?cb=20100712204921",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e7/Neo_dragonoid_ball.PNG/revision/latest?cb=20101214151616",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fe/120px-Neo_dragonoid_ball.PNG/revision/latest?cb=20110507171856",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fe/DSCN0087_Neo_Dragonoid.jpg/revision/latest?cb=20100218031830",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/DSCN0094_BakuBronze_Neo_Dragonoid.jpg/revision/latest?cb=20100225024146",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Neo_Dragonoid.PNG/revision/latest?cb=20100922191348",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f8/Neo-Dragonoid-vs-Viper-1024-768.jpg/revision/latest?cb=20110820091113",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Pyrus_Neo_Dragonoid_%281%29_D.E..jpg/revision/latest?cb=20190816172642"
+      ]
     },
     {
       "id": "neo-dragonoid-darkus",
@@ -10343,9 +13306,19 @@ window.BAKU_DATA = {
         "gForce": 90
       },
       "bio": "Drago’nun New Vestroia formu. Vexos’a karşı Perfect Core’un umudu. Bu kayıt Darkus (Karanlık) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/18/Neo_dragonoid.png/revision/latest?cb=20110407205913",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/67/Darkus_Neo_Dragonoid_NV_Character_Pack.JPG/revision/latest?cb=20130731232905",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Darkus Neo Dragonoid"
+      "nickname": "Darkus Neo Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e7/Neo_dragonoid_ball.PNG/revision/latest?cb=20101214151616",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fe/120px-Neo_dragonoid_ball.PNG/revision/latest?cb=20110507171856",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fe/DSCN0087_Neo_Dragonoid.jpg/revision/latest?cb=20100218031830",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/DSCN0094_BakuBronze_Neo_Dragonoid.jpg/revision/latest?cb=20100225024146",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Neo_Dragonoid.PNG/revision/latest?cb=20100922191348",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f8/Neo-Dragonoid-vs-Viper-1024-768.jpg/revision/latest?cb=20110820091113",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Pyrus_Neo_Dragonoid_%281%29_D.E..jpg/revision/latest?cb=20190816172642",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/BK_SA_Neo_Dragonoid_Vortex.png/revision/latest?cb=20110707173215"
+      ]
     },
     {
       "id": "percival-pyrus",
@@ -10373,9 +13346,19 @@ window.BAKU_DATA = {
         "gForce": 89
       },
       "bio": "Ace’in gurur kaynağı. Darkus’u şövalye onuruyla taşır. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/11/Bk_cd_percival.jpg/revision/latest?cb=20090905193511",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Pyrus Percival"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/62/Two_pyrus_neo_dragonoids_on_the_percival_gate_card.jpg/revision/latest?cb=20180903002920",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/62/Two_pyrus_neo_dragonoids_on_the_percival_gate_card.jpg/revision/latest?cb=20180903002920",
+      "nickname": "Pyrus Percival",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c7/Darkus_Cyclone_Percival_%28closed%29.jpg/revision/latest?cb=20110605072328",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Percival_using_Battle_Marionette.gif/revision/latest?cb=20221221204118",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ef/Midnight_Percival_brawl.gif/revision/latest?cb=20110427060853",
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/Subterra_Percival.jpg/revision/latest?cb=20110730211851",
+        "https://static.wikia.nocookie.net/bakugan/images/1/11/07_18_Percival.jpg/revision/latest?cb=20110718132553",
+        "https://static.wikia.nocookie.net/bakugan/images/d/df/Darkus_Percival.png/revision/latest?cb=20120316172846",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Lumina_Cyclone_Percival.png/revision/latest?cb=20161229012958",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/AM_percival.png/revision/latest?cb=20110410021113"
+      ]
     },
     {
       "id": "percival-aquos",
@@ -10403,9 +13386,19 @@ window.BAKU_DATA = {
         "gForce": 89
       },
       "bio": "Ace’in gurur kaynağı. Darkus’u şövalye onuruyla taşır. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/11/Bk_cd_percival.jpg/revision/latest?cb=20090905193511",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Aquos Percival"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/0c/Transclusent_Aquos_Percival.JPG/revision/latest?cb=20101206090801",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0c/Transclusent_Aquos_Percival.JPG/revision/latest?cb=20101206090801",
+      "nickname": "Aquos Percival",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/Aquos_Cyclone_Percival_lose.jpg/revision/latest?cb=20110220013038",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bf/Aquos_Cyclone_Percival_attacking.jpg/revision/latest?cb=20110220012619",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Aquos_Cyclone_Percival.jpg/revision/latest?cb=20110220012545",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Aquos_Midnight_Percival.jpg/revision/latest?cb=20100618235150",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Aquos_Knight_Percival.JPG/revision/latest?cb=20110721201403",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c7/Darkus_Cyclone_Percival_%28closed%29.jpg/revision/latest?cb=20110605072328",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Percival_using_Battle_Marionette.gif/revision/latest?cb=20221221204118",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ef/Midnight_Percival_brawl.gif/revision/latest?cb=20110427060853"
+      ]
     },
     {
       "id": "percival-ventus",
@@ -10434,8 +13427,18 @@ window.BAKU_DATA = {
       },
       "bio": "Ace’in gurur kaynağı. Darkus’u şövalye onuruyla taşır. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b3/Ventus_Percival.jpg/revision/latest?cb=20100312055910",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Ventus Percival"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b3/Ventus_Percival.jpg/revision/latest?cb=20100312055910",
+      "nickname": "Ventus Percival",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Darkus_Cyclone_Percival_%26_Ventus_Flash_Ingram.png/revision/latest?cb=20110818170502",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c7/Darkus_Cyclone_Percival_%28closed%29.jpg/revision/latest?cb=20110605072328",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Percival_using_Battle_Marionette.gif/revision/latest?cb=20221221204118",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ef/Midnight_Percival_brawl.gif/revision/latest?cb=20110427060853",
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/Subterra_Percival.jpg/revision/latest?cb=20110730211851",
+        "https://static.wikia.nocookie.net/bakugan/images/1/11/07_18_Percival.jpg/revision/latest?cb=20110718132553",
+        "https://static.wikia.nocookie.net/bakugan/images/d/df/Darkus_Percival.png/revision/latest?cb=20120316172846",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Lumina_Cyclone_Percival.png/revision/latest?cb=20161229012958"
+      ]
     },
     {
       "id": "percival-subterra",
@@ -10464,8 +13467,18 @@ window.BAKU_DATA = {
       },
       "bio": "Ace’in gurur kaynağı. Darkus’u şövalye onuruyla taşır. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/90/Subterra_Percival.jpg/revision/latest?cb=20110730211851",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Subterra Percival"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/90/Subterra_Percival.jpg/revision/latest?cb=20110730211851",
+      "nickname": "Subterra Percival",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e2/Subterra_percival.png/revision/latest?cb=20110418205248",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c7/Darkus_Cyclone_Percival_%28closed%29.jpg/revision/latest?cb=20110605072328",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Percival_using_Battle_Marionette.gif/revision/latest?cb=20221221204118",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ef/Midnight_Percival_brawl.gif/revision/latest?cb=20110427060853",
+        "https://static.wikia.nocookie.net/bakugan/images/1/11/07_18_Percival.jpg/revision/latest?cb=20110718132553",
+        "https://static.wikia.nocookie.net/bakugan/images/d/df/Darkus_Percival.png/revision/latest?cb=20120316172846",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Lumina_Cyclone_Percival.png/revision/latest?cb=20161229012958",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/AM_percival.png/revision/latest?cb=20110410021113"
+      ]
     },
     {
       "id": "percival-haos",
@@ -10494,8 +13507,18 @@ window.BAKU_DATA = {
       },
       "bio": "Ace’in gurur kaynağı. Darkus’u şövalye onuruyla taşır. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e4/Percival_haos.jpg/revision/latest?cb=20110528112951",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Haos Percival"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/26/Haos_Cyclone_Percival.JPG/revision/latest?cb=20110306194009",
+      "nickname": "Haos Percival",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/68/Haos_Midnight_Percival.gif/revision/latest?cb=20110830191906",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c7/Darkus_Cyclone_Percival_%28closed%29.jpg/revision/latest?cb=20110605072328",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Percival_using_Battle_Marionette.gif/revision/latest?cb=20221221204118",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ef/Midnight_Percival_brawl.gif/revision/latest?cb=20110427060853",
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/Subterra_Percival.jpg/revision/latest?cb=20110730211851",
+        "https://static.wikia.nocookie.net/bakugan/images/1/11/07_18_Percival.jpg/revision/latest?cb=20110718132553",
+        "https://static.wikia.nocookie.net/bakugan/images/d/df/Darkus_Percival.png/revision/latest?cb=20120316172846",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Lumina_Cyclone_Percival.png/revision/latest?cb=20161229012958"
+      ]
     },
     {
       "id": "percival-darkus",
@@ -10525,7 +13548,17 @@ window.BAKU_DATA = {
       "bio": "Ace’in gurur kaynağı. Darkus’u şövalye onuruyla taşır. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/df/Darkus_Percival.png/revision/latest?cb=20120316172846",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Darkus Percival"
+      "nickname": "Darkus Percival",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c7/Darkus_Cyclone_Percival_%28closed%29.jpg/revision/latest?cb=20110605072328",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/KeithStrife_Darkus_Percival_Campaign.JPG/revision/latest?cb=20120815185316",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d5/KeithStrife_Darkus_Percival_Vortex.JPG/revision/latest?cb=20120815185316",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/KeithStrife_Darkus_Percival.JPG/revision/latest?cb=20120815185316",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/Darkus_Percival.jpg/revision/latest?cb=20110614173816",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Hades-percival-the-bakugan-darkus-club-11389431-800-600.jpg/revision/latest?cb=20110904095418",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Darkus_Cyclone_Percival_%26_Ventus_Flash_Ingram.png/revision/latest?cb=20110818170502",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/KeithStrife_Darkus_Cyclone_Percival.jpg/revision/latest?cb=20130122235139"
+      ]
     },
     {
       "id": "pyro-dragonoid",
@@ -10553,8 +13586,12 @@ window.BAKU_DATA = {
         "gForce": 80
       },
       "bio": "Pyro Dragonoid, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3b/PyroDragonoid_S2PosterImage.png/revision/latest?cb=20120306031212",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3b/PyroDragonoid_S2PosterImage.png/revision/latest?cb=20120306031212"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/ca/KeithStrife_Pyrus_PyroDragonoid.JPG/revision/latest?cb=20120815185756",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3b/PyroDragonoid_S2PosterImage.png/revision/latest?cb=20120306031212",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/85/BK_Pyro_Dragonoid.png/revision/latest?cb=20091124034717",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Pyro_dragonoid_subterra.gif/revision/latest?cb=20100803072504"
+      ]
     },
     {
       "id": "rafflesian",
@@ -10583,7 +13620,17 @@ window.BAKU_DATA = {
       },
       "bio": "Rafflesian, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9d/Image_320_240_%2846%29.png/revision/latest?cb=20110520050845",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9d/Image_320_240_%2846%29.png/revision/latest?cb=20110520050845"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9d/Image_320_240_%2846%29.png/revision/latest?cb=20110520050845",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/Rafflesian_subterra_closed.PNG/revision/latest?cb=20101006235014",
+        "https://static.wikia.nocookie.net/bakugan/images/9/92/Rafflesian_closed.jpg/revision/latest?cb=20091105012635",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/Rafflesian_subterra_open.PNG/revision/latest?cb=20101006234925",
+        "https://static.wikia.nocookie.net/bakugan/images/8/83/Rafflesian_open.jpg/revision/latest?cb=20091105012657",
+        "https://static.wikia.nocookie.net/bakugan/images/6/62/Rafflesian_stand.gif/revision/latest?cb=20110618194058",
+        "https://static.wikia.nocookie.net/bakugan/images/8/83/Rafflesian_Using_Glow_Shield.png/revision/latest?cb=20130531201112",
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Rafflesian_Using_Mirror_Window.png/revision/latest?cb=20130531201332",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/Rafflesian_Using_Glow_Roa.png/revision/latest?cb=20130531200927"
+      ]
     },
     {
       "id": "saint-nemus",
@@ -10612,7 +13659,14 @@ window.BAKU_DATA = {
       },
       "bio": "Nemus’un aziz formu. Haos inancının somut hali.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6c/Saint_Nemus_Bakugan_Form.png/revision/latest?cb=20120121235047",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6c/Saint_Nemus_Bakugan_Form.png/revision/latest?cb=20120121235047"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6c/Saint_Nemus_Bakugan_Form.png/revision/latest?cb=20120121235047",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Saint_Nemus_in_Bakugan_form.jpg/revision/latest?cb=20240330144034",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Birth_of_Saint_Nemus.JPG/revision/latest?cb=20130118204153",
+        "https://static.wikia.nocookie.net/bakugan/images/5/53/Darkus_Saint_Nemus.PNG/revision/latest?cb=20101118175456",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Saint_Nemus_%2815%29.JPG/revision/latest?cb=20110207172315",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Saint_Nemus_%2812%29.JPG/revision/latest?cb=20110207172247"
+      ]
     },
     {
       "id": "scraper",
@@ -10640,8 +13694,17 @@ window.BAKU_DATA = {
         "gForce": 84
       },
       "bio": "Scraper, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/35/BK_Scraper.png/revision/latest?cb=20090620130124",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/35/BK_Scraper.png/revision/latest?cb=20090620130124"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/cd/KeithStrife_Maxus_Subterra_Scraper.jpg/revision/latest?cb=20121216165900",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/35/BK_Scraper.png/revision/latest?cb=20090620130124",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/Maxus_Scraper.jpg/revision/latest?cb=20110823024543",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Scraper_S2PosterImage.png/revision/latest?cb=20120306030942",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/KeithStrife_Darkus_Scraper.JPG/revision/latest?cb=20121101153541",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/KeithStrife_Ventus_Scraper.JPG/revision/latest?cb=20120815191121",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e1/KeithStrife_Aquos_Scraper.JPG/revision/latest?cb=20121101153541",
+        "https://static.wikia.nocookie.net/bakugan/images/2/27/Scraper.jpg/revision/latest?cb=20090619184247",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Pyrus_scraper.jpg/revision/latest?cb=20090821011710"
+      ]
     },
     {
       "id": "shadow-vulcan",
@@ -10670,7 +13733,13 @@ window.BAKU_DATA = {
       },
       "bio": "Shadow Vulcan, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f8/BK_Shadow_Vulcan.png/revision/latest?cb=20090706130752",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f8/BK_Shadow_Vulcan.png/revision/latest?cb=20090706130752"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f8/BK_Shadow_Vulcan.png/revision/latest?cb=20090706130752",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a2/Shadow_vulcan.png/revision/latest?cb=20110327053340",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0b/Subterra-shadow-vulcan-002.jpg/revision/latest?cb=20110205155512",
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Subterra-shadow-vulcan-650g.jpg/revision/latest?cb=20130330131426",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/Darkus_Shadow_Vulcan.jpg/revision/latest?cb=20100622210244"
+      ]
     },
     {
       "id": "spindle",
@@ -10698,8 +13767,18 @@ window.BAKU_DATA = {
         "gForce": 60
       },
       "bio": "Spindle, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1e/Spindle_S2PosterImage.png/revision/latest?cb=20120229151644",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d5/KeithStrife_Pyrus_Spindle.JPG/revision/latest?cb=20120815191120",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5c/Pyrus_spindle.jpg/revision/latest?cb=20090821011347",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Spindle-pyrus-ca.jpg/revision/latest?cb=20091127143421",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d3/Spindle-pyrus.jpg/revision/latest?cb=20090814085645",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/Maxus_Spindle.jpg/revision/latest?cb=20110823024713",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/Spindle_JP_Card.jpg/revision/latest?cb=20120426105551",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_Spindle.png/revision/latest?cb=20090709182308",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Spindle_Back.jpg/revision/latest?cb=20120426105512",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Spindle_S2PosterImage.png/revision/latest?cb=20120229151644"
+      ]
     },
     {
       "id": "stug",
@@ -10727,8 +13806,18 @@ window.BAKU_DATA = {
         "gForce": 85
       },
       "bio": "Stug, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/af/Stug_S2PosterImage.png/revision/latest?cb=20120229151523",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/af/Stug_S2PosterImage.png/revision/latest?cb=20120229151523"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ec/Stug_Aquos.jpg/revision/latest?cb=20091108205139",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/af/Stug_S2PosterImage.png/revision/latest?cb=20120229151523",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/29/Stug_Ball.jpg/revision/latest?cb=20091108205059",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2d/BK_Stug.jpg/revision/latest?cb=20091117235004",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Clawcer_and_Stug_2.png/revision/latest?cb=20120207014203",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9f/48ah_Stug.jpg/revision/latest?cb=20160530082616",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ac/Clawcer_and_Stug.png/revision/latest?cb=20120207014139",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/BK_CD_Stug.jpg/revision/latest?cb=20090826180318",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Subterra_Stug.jpg/revision/latest?cb=20101026234237",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b0/Stug_1000g.jpeg/revision/latest?cb=20110223205922"
+      ]
     },
     {
       "id": "thunder-wilda",
@@ -10757,7 +13846,17 @@ window.BAKU_DATA = {
       },
       "bio": "Thunder Wilda, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9a/ThunderWilda_S2PosterImage.png/revision/latest?cb=20120229151343",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9a/ThunderWilda_S2PosterImage.png/revision/latest?cb=20120229151343"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9a/ThunderWilda_S2PosterImage.png/revision/latest?cb=20120229151343",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Thunder_Wilda_Ballform_%28closed%29.png/revision/latest?cb=20120117224004",
+        "https://static.wikia.nocookie.net/bakugan/images/3/32/Thunder_Wilda_Ballform_%28open%29.png/revision/latest?cb=20120117224023",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d6/Thunderwilda-j-subterra.JPG/revision/latest?cb=20100518192524",
+        "https://static.wikia.nocookie.net/bakugan/images/9/92/BK_Thunder_Wilda.png/revision/latest?cb=20091011041839",
+        "https://static.wikia.nocookie.net/bakugan/images/0/04/KeithStrife_Subterra_ThunderWilda.JPG/revision/latest?cb=20120815190122",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/42q_Thunder_Wilda.jpg/revision/latest?cb=20110710000211",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Thunder_Wilda_destroying_Altair.PNG/revision/latest?cb=20110115150456",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/Thunder_Wilda_pose.PNG/revision/latest?cb=20110115150533"
+      ]
     },
     {
       "id": "ultra-dragonoid",
@@ -10785,8 +13884,18 @@ window.BAKU_DATA = {
         "gForce": 88
       },
       "bio": "Ultra Dragonoid, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/40/BK_Ultra_Dragonoid.jpg/revision/latest?cb=20091117022133",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/40/BK_Ultra_Dragonoid.jpg/revision/latest?cb=20091117022133"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/15/250px-Pyrus_Dragonoid_Ultra_BBP_%28open%29.png/revision/latest?cb=20210111234020",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/40/BK_Ultra_Dragonoid.jpg/revision/latest?cb=20091117022133",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/47/125px-Pyrus_Dragonoid_Ultra_BAA_%28open%29.png/revision/latest?cb=20210111234318",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3b/BAA_Dragonoid_x_Auxillataur_Ultra_Pyrus_Aurelus_Details.jpg/revision/latest?cb=20210721151331",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/BGR_Dragonoid_Ultra_Pyrus_Details.jpg/revision/latest?cb=20210227155530",
+        "https://static.wikia.nocookie.net/bakugan/images/1/18/BAA_Dragonoid_Ultra_Pyrus_Details.jpg/revision/latest?cb=20201227211020",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/Pyrus_bakulyte_Ultra_Dragonoid_by_redryan2001.jpg/revision/latest?cb=20110428165926",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Pyrus_Dragonoid_Ultra_BakuLog.jpg/revision/latest?cb=20201227211005",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Diamond_Dragonoid_Ultra_Pyrus_BakuLog.jpg/revision/latest?cb=20210227155742",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/Ventus_Ultra_Dragonoid_Typhoon.jpg/revision/latest?cb=20100413000550"
+      ]
     },
     {
       "id": "verias",
@@ -10814,8 +13923,18 @@ window.BAKU_DATA = {
         "gForce": 80
       },
       "bio": "Verias, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Verias_S2PosterImage.png/revision/latest?cb=20120229150756",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Verias_S2PosterImage.png/revision/latest?cb=20120229150756"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d8/Pyrus_Verias.PNG/revision/latest?cb=20101007163906",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a8/Verias_S2PosterImage.png/revision/latest?cb=20120229150756",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Pyrus_Verias_ball.PNG/revision/latest?cb=20101016220955",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b4/Pyrus_verias_bc.jpg/revision/latest?cb=20100824151446",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/Verias_ball_form.PNG/revision/latest?cb=20101006223228",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f6/Verias.png/revision/latest?cb=20160326015330",
+        "https://static.wikia.nocookie.net/bakugan/images/6/60/Verias_and_Wontu.PNG/revision/latest?cb=20101006222845",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Verias_Peace.PNG/revision/latest?cb=20101105230338",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/Verias_Siba.PNG/revision/latest?cb=20101016221043",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9c/41q_Verias.jpg/revision/latest?cb=20160530063955"
+      ]
     },
     {
       "id": "viper-helios",
@@ -10843,8 +13962,18 @@ window.BAKU_DATA = {
         "gForce": 94
       },
       "bio": "Helios ailesinin zehirli-agresif yüzü. Spectra’nın denemelerinden biri.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e2/BK_CD_ViperHelios.jpg/revision/latest?cb=20090516095246",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/BK_CD_ViperHelios.jpg/revision/latest?cb=20090516095246"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/af/Pyrus_viper_helios.png/revision/latest?cb=20110922195443",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/BK_CD_ViperHelios.jpg/revision/latest?cb=20090516095246",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a2/Pyrus_viper_helios.jpg/revision/latest?cb=20120101105928",
+        "https://static.wikia.nocookie.net/bakugan/images/e/eb/Viper_Helios_Ballform_%28closed%29.png/revision/latest?cb=20171205011522",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Viper_Helios_Ballform_%28open%29.png/revision/latest?cb=20171205011529",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bb/Viper_helios.jpg/revision/latest?cb=20100720075414",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/Viper_Helios_scanned_by_the_gauntlet.PNG/revision/latest?cb=20110123173924",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/15q_Viper_Helios.jpg/revision/latest?cb=20160530033659",
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Clear_Viper_Helios.jpeg/revision/latest?cb=20101011152455",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Maxus_Viper_Helios.png/revision/latest?cb=20101009123947"
+      ]
     },
     {
       "id": "wilda-pyrus",
@@ -10873,8 +14002,18 @@ window.BAKU_DATA = {
       },
       "bio": "Mira’nın sadık partneri. Resistance’ın toprak yumruğu. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/95/Pyrus_Wilda.png/revision/latest?cb=20110223142928",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Pyrus Wilda"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2a/Pyrus_Wilda_Closed.png/revision/latest?cb=20110621134004",
+      "nickname": "Pyrus Wilda",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/ed/Pyrus_Wilda_Open.png/revision/latest?cb=20110418004736",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Subterra_Flare_Wilda_closed_ball_form.jpg/revision/latest?cb=20240428191723",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Thunder_Wilda_Ballform_%28closed%29.png/revision/latest?cb=20120117224004",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Clear_Wilda_Closed.png/revision/latest?cb=20110621133938",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/Haos_Wilda_Closed.png/revision/latest?cb=20110621133954",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/Aquos_Wilda_Closed.png/revision/latest?cb=20110621133930",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Ventus_Wilda_Closed.png/revision/latest?cb=20110621134025",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ea/Subterra_Wilda_Closed.png/revision/latest?cb=20110621134015"
+      ]
     },
     {
       "id": "wilda-aquos",
@@ -10903,8 +14042,18 @@ window.BAKU_DATA = {
       },
       "bio": "Mira’nın sadık partneri. Resistance’ın toprak yumruğu. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9b/Aquos_Wilda_Open.png/revision/latest?cb=20110515134845",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Aquos Wilda"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0c/Aquos_Wilda_Closed.png/revision/latest?cb=20110621133930",
+      "nickname": "Aquos Wilda",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Subterra_Flare_Wilda_closed_ball_form.jpg/revision/latest?cb=20240428191723",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Thunder_Wilda_Ballform_%28closed%29.png/revision/latest?cb=20120117224004",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Clear_Wilda_Closed.png/revision/latest?cb=20110621133938",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/Haos_Wilda_Closed.png/revision/latest?cb=20110621133954",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Ventus_Wilda_Closed.png/revision/latest?cb=20110621134025",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ea/Subterra_Wilda_Closed.png/revision/latest?cb=20110621134015",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Darkus_Wilda_Closed.png/revision/latest?cb=20110621133947",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Pyrus_Wilda_Closed.png/revision/latest?cb=20110621134004"
+      ]
     },
     {
       "id": "wilda-ventus",
@@ -10933,8 +14082,18 @@ window.BAKU_DATA = {
       },
       "bio": "Mira’nın sadık partneri. Resistance’ın toprak yumruğu. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/bb/Ventus_Wilda_Open.png/revision/latest?cb=20110515135012",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Ventus Wilda"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/88/Ventus_Wilda_Closed.png/revision/latest?cb=20110621134025",
+      "nickname": "Ventus Wilda",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/cf/Ventus_Wilda.png/revision/latest?cb=20110223143232",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Thunder_Wilda_-_Bakusteel_Ventus.JPG/revision/latest?cb=20110624161000",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Subterra_Flare_Wilda_closed_ball_form.jpg/revision/latest?cb=20240428191723",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Thunder_Wilda_Ballform_%28closed%29.png/revision/latest?cb=20120117224004",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Clear_Wilda_Closed.png/revision/latest?cb=20110621133938",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/Haos_Wilda_Closed.png/revision/latest?cb=20110621133954",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/Aquos_Wilda_Closed.png/revision/latest?cb=20110621133930",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ea/Subterra_Wilda_Closed.png/revision/latest?cb=20110621134015"
+      ]
     },
     {
       "id": "wilda-subterra",
@@ -10963,8 +14122,18 @@ window.BAKU_DATA = {
       },
       "bio": "Mira’nın sadık partneri. Resistance’ın toprak yumruğu. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e7/Subterra-wilda-000.jpg/revision/latest?cb=20110205155456",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Subterra Wilda"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ea/Subterra_Wilda_Closed.png/revision/latest?cb=20110621134015",
+      "nickname": "Subterra Wilda",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/39/Subterra_Wilda_Open.png/revision/latest?cb=20110515134957",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Subterra_Flare_Wilda_closed_ball_form.jpg/revision/latest?cb=20240428191723",
+        "https://static.wikia.nocookie.net/bakugan/images/8/81/Subterra_Flare_Wilda_open.jpg/revision/latest?cb=20240428191709",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a8/AlltributeMaNaga%27s_Subterra_Wilda.png/revision/latest?cb=20101016002915",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b1/Subterra_Wilda.png/revision/latest?cb=20110223143208",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/KeithStrife_Subterra_Wilda.JPG/revision/latest?cb=20120815190123",
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/Subterra_Wilda_Bakugan.PNG/revision/latest?cb=20110521103152",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c6/Subterra_wilda_bc.jpg/revision/latest?cb=20100824151447"
+      ]
     },
     {
       "id": "wilda-haos",
@@ -10992,9 +14161,19 @@ window.BAKU_DATA = {
         "gForce": 88
       },
       "bio": "Mira’nın sadık partneri. Resistance’ın toprak yumruğu. Bu kayıt Haos (Işık) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/28/Wilda_S2PosterImage.png/revision/latest?cb=20120229150123",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Haos Wilda"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/73/Haos_Wilda_Open.png/revision/latest?cb=20110515134929",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ee/Haos_Wilda_Closed.png/revision/latest?cb=20110621133954",
+      "nickname": "Haos Wilda",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/ff/Haos_Wilda.png/revision/latest?cb=20110223143049",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Subterra_Flare_Wilda_closed_ball_form.jpg/revision/latest?cb=20240428191723",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Thunder_Wilda_Ballform_%28closed%29.png/revision/latest?cb=20120117224004",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Clear_Wilda_Closed.png/revision/latest?cb=20110621133938",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/Aquos_Wilda_Closed.png/revision/latest?cb=20110621133930",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Ventus_Wilda_Closed.png/revision/latest?cb=20110621134025",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ea/Subterra_Wilda_Closed.png/revision/latest?cb=20110621134015",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Darkus_Wilda_Closed.png/revision/latest?cb=20110621133947"
+      ]
     },
     {
       "id": "wilda-darkus",
@@ -11024,7 +14203,17 @@ window.BAKU_DATA = {
       "bio": "Mira’nın sadık partneri. Resistance’ın toprak yumruğu. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/32/Darkus_Wilda_Open.png/revision/latest?cb=20110515134916",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Darkus Wilda"
+      "nickname": "Darkus Wilda",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Darkus_Wilda_Closed.png/revision/latest?cb=20110621133947",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4e/Darkus_Wilda.png/revision/latest?cb=20110223143026",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Subterra_Flare_Wilda_closed_ball_form.jpg/revision/latest?cb=20240428191723",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Thunder_Wilda_Ballform_%28closed%29.png/revision/latest?cb=20120117224004",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Clear_Wilda_Closed.png/revision/latest?cb=20110621133938",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/Haos_Wilda_Closed.png/revision/latest?cb=20110621133954",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/Aquos_Wilda_Closed.png/revision/latest?cb=20110621133930",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Ventus_Wilda_Closed.png/revision/latest?cb=20110621134025"
+      ]
     },
     {
       "id": "wired",
@@ -11052,8 +14241,18 @@ window.BAKU_DATA = {
         "gForce": 55
       },
       "bio": "Wired, Sezon 2 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/34/Wired_S2PosterImage.png/revision/latest?cb=20120229143023",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/34/Wired_S2PosterImage.png/revision/latest?cb=20120229143023"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/82/Pyrus_Wired.jpg/revision/latest?cb=20090611051416",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/34/Wired_S2PosterImage.png/revision/latest?cb=20120229143023",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Altair_Wired_Ballform_%28closed%29.png/revision/latest?cb=20120117110237",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Wired_ball_form_%28closed%29.png/revision/latest?cb=20120323174015",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9f/Wired_ball_form_%28open%29.png/revision/latest?cb=20120323174034",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/Altair-and-wired-s.gif/revision/latest?cb=20190901042317",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7e/Wired_using_Shower_Harpoon.png/revision/latest?cb=20110719015029",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e3/29q_Wired.jpg/revision/latest?cb=20160530041102",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a7/BK_CD_Wired.jpg/revision/latest?cb=20090516101648",
+        "https://static.wikia.nocookie.net/bakugan/images/1/14/Lync%2C_Altair_and_WIred.PNG/revision/latest?cb=20101002223638"
+      ]
     },
     {
       "id": "wontu",
@@ -11082,7 +14281,15 @@ window.BAKU_DATA = {
       },
       "bio": "Wontu, Sezon 2 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/79/Wontu_Aquos.jpg/revision/latest?cb=20091108204139",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/79/Wontu_Aquos.jpg/revision/latest?cb=20091108204139"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/79/Wontu_Aquos.jpg/revision/latest?cb=20091108204139",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/60/Verias_and_Wontu.PNG/revision/latest?cb=20101006222845",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ce/2_Wontu.PNG/revision/latest?cb=20101006223450",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Darkus_Wontu.PNG/revision/latest?cb=20130109124355",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/Wontu.jpg/revision/latest?cb=20090702132406",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Aquos_Wontu.jpg/revision/latest?cb=20110906152833",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/Is_this_wontu.jpg/revision/latest?cb=20100524112615"
+      ]
     },
     {
       "id": "aksela",
@@ -11110,8 +14317,18 @@ window.BAKU_DATA = {
         "gForce": 72
       },
       "bio": "Aksela, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/32/Aksela.png/revision/latest?cb=20100903123227",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/32/Aksela.png/revision/latest?cb=20100903123227"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d8/Pyrus_Aksela_Open.png/revision/latest?cb=20110416203911",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/32/Aksela.png/revision/latest?cb=20100903123227",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/86/Pyrus_Aksela_Closed.png/revision/latest?cb=20110621154029",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Pyrus_Aksela.png/revision/latest?cb=20110225165738",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Pyrus_Aksela_GM.jpg/revision/latest?cb=20101204175520",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b0/Clear_Aksela_Closed.png/revision/latest?cb=20110621153956",
+        "https://static.wikia.nocookie.net/bakugan/images/8/83/Haos_Aksela_Closed.png/revision/latest?cb=20110621154021",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Subterra_Aksela_Closed.png/revision/latest?cb=20110621154037",
+        "https://static.wikia.nocookie.net/bakugan/images/5/57/Aquos_Aksela_Closed.png/revision/latest?cb=20110621153947",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e7/Ventus_Aksela_Closed.png/revision/latest?cb=20110621154046"
+      ]
     },
     {
       "id": "akwimos-pyrus",
@@ -11140,8 +14357,18 @@ window.BAKU_DATA = {
       },
       "bio": "Marucho’nun Gundalia partneri. Su ve strateji bir arada. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/12/Pyrus_Akwimos.jpg/revision/latest?cb=20100728191614",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Pyrus Akwimos"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/43/Pyrus_Akwimos_Closed.png/revision/latest?cb=20110621140427",
+      "nickname": "Pyrus Akwimos",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5c/Pyrus_Akwimos_Open.png/revision/latest?cb=20110416184149",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fd/Pyrus_Akwimos.png/revision/latest?cb=20110302021726",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Akwimos_Gigarth_Ball_Form.png/revision/latest?cb=20111230034721",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d7/Aquos_Akwimos_%28closed%29.jpg/revision/latest?cb=20130322145348",
+        "https://static.wikia.nocookie.net/bakugan/images/3/34/Akwimos_Ball_form.PNG/revision/latest?cb=20101118172803",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fd/Akwimos_Ball_Form.jpg/revision/latest?cb=20100519110706",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bc/Clear_Akwimos_Closed.png/revision/latest?cb=20110621140405",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d5/Haos_Akwimos_Closed.png/revision/latest?cb=20110621140419"
+      ]
     },
     {
       "id": "akwimos-aquos",
@@ -11170,8 +14397,18 @@ window.BAKU_DATA = {
       },
       "bio": "Marucho’nun Gundalia partneri. Su ve strateji bir arada. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3c/KeithStrife_Aquos_Akwimos.JPG/revision/latest?cb=20120816042934",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Aquos Akwimos"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d7/Aquos_Akwimos_%28closed%29.jpg/revision/latest?cb=20130322145348",
+      "nickname": "Aquos Akwimos",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/ef/Aquos_Akwimos_Closed.png/revision/latest?cb=20110621140356",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b4/Aquos_Akwimos_%28open%29.jpg/revision/latest?cb=20110614174442",
+        "https://static.wikia.nocookie.net/bakugan/images/1/18/Aquos_Akwimos_Open.png/revision/latest?cb=20110416184137",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Aquos_Akwimos.png/revision/latest?cb=20101012005651",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2c/Aquos_Akwimos.jpeg/revision/latest?cb=20101011150529",
+        "https://static.wikia.nocookie.net/bakugan/images/4/47/Clear_Aquos_Akwimos.jpg/revision/latest?cb=20100728220423",
+        "https://static.wikia.nocookie.net/bakugan/images/5/59/Aquos_Akwimos.jpg/revision/latest?cb=20100417200857",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Subterra_Akwimos_Haos_Sabator_Aquos_Avior.jpg/revision/latest?cb=20100611221942"
+      ]
     },
     {
       "id": "akwimos-ventus",
@@ -11199,9 +14436,19 @@ window.BAKU_DATA = {
         "gForce": 91
       },
       "bio": "Marucho’nun Gundalia partneri. Su ve strateji bir arada. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/66/BK_Akwimos.png/revision/latest?cb=20100430171928",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Ventus Akwimos"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ee/Ventus_Akwimos_Open.png/revision/latest?cb=20110416184218",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/24/Ventus_Akwimos_Closed.png/revision/latest?cb=20110621140445",
+      "nickname": "Ventus Akwimos",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/da/Ventus_Akwimos.png/revision/latest?cb=20110302021707",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/BuzHornix-ventus_akwimos-aquos-a.png/revision/latest?cb=20100714084836",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Akwimos_Gigarth_Ball_Form.png/revision/latest?cb=20111230034721",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d7/Aquos_Akwimos_%28closed%29.jpg/revision/latest?cb=20130322145348",
+        "https://static.wikia.nocookie.net/bakugan/images/3/34/Akwimos_Ball_form.PNG/revision/latest?cb=20101118172803",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fd/Akwimos_Ball_Form.jpg/revision/latest?cb=20100519110706",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bc/Clear_Akwimos_Closed.png/revision/latest?cb=20110621140405",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d5/Haos_Akwimos_Closed.png/revision/latest?cb=20110621140419"
+      ]
     },
     {
       "id": "akwimos-subterra",
@@ -11230,8 +14477,18 @@ window.BAKU_DATA = {
       },
       "bio": "Marucho’nun Gundalia partneri. Su ve strateji bir arada. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/95/Subterra_Akwimos.jpg/revision/latest?cb=20100417200922",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Subterra Akwimos"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d5/Subterra_Akwimos_Closed.png/revision/latest?cb=20110621140437",
+      "nickname": "Subterra Akwimos",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Subterra_Akwimos_Open.png/revision/latest?cb=20110416184234",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Subterra_Akwimos_Haos_Sabator_Aquos_Avior.jpg/revision/latest?cb=20100611221942",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6e/Subterra_Akwimos.png/revision/latest?cb=20100731033830",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/Subterra_akwimos.png/revision/latest?cb=20100825034104",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Akwimos_Gigarth_Ball_Form.png/revision/latest?cb=20111230034721",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d7/Aquos_Akwimos_%28closed%29.jpg/revision/latest?cb=20130322145348",
+        "https://static.wikia.nocookie.net/bakugan/images/3/34/Akwimos_Ball_form.PNG/revision/latest?cb=20101118172803",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fd/Akwimos_Ball_Form.jpg/revision/latest?cb=20100519110706"
+      ]
     },
     {
       "id": "akwimos-haos",
@@ -11260,8 +14517,18 @@ window.BAKU_DATA = {
       },
       "bio": "Marucho’nun Gundalia partneri. Su ve strateji bir arada. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/ba/Haos_Akwimos.png/revision/latest?cb=20110302021803",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Haos Akwimos"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d5/Haos_Akwimos_Closed.png/revision/latest?cb=20110621140419",
+      "nickname": "Haos Akwimos",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/ff/Haos_Akwimos_Open.png/revision/latest?cb=20110416184243",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Subterra_Akwimos_Haos_Sabator_Aquos_Avior.jpg/revision/latest?cb=20100611221942",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Akwimos_Gigarth_Ball_Form.png/revision/latest?cb=20111230034721",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d7/Aquos_Akwimos_%28closed%29.jpg/revision/latest?cb=20130322145348",
+        "https://static.wikia.nocookie.net/bakugan/images/3/34/Akwimos_Ball_form.PNG/revision/latest?cb=20101118172803",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fd/Akwimos_Ball_Form.jpg/revision/latest?cb=20100519110706",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bc/Clear_Akwimos_Closed.png/revision/latest?cb=20110621140405",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d5/Subterra_Akwimos_Closed.png/revision/latest?cb=20110621140437"
+      ]
     },
     {
       "id": "akwimos-darkus",
@@ -11291,7 +14558,17 @@ window.BAKU_DATA = {
       "bio": "Marucho’nun Gundalia partneri. Su ve strateji bir arada. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c8/Darkus_Akwimos_Open.png/revision/latest?cb=20110416184302",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Darkus Akwimos"
+      "nickname": "Darkus Akwimos",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Darkus_Akwimos_Closed.png/revision/latest?cb=20110621140412",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Darkus_Coredem_Darkus_Akwimos_Ball.jpg/revision/latest?cb=20110411082515",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b1/Darkus_Akwimos.jpg/revision/latest?cb=20130322150631",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2f/Darkus_Akwimos_BD.png/revision/latest?cb=20110223132820",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b1/Darkus_Akwimos.png/revision/latest?cb=20100807114747",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Akwimos_Gigarth_Ball_Form.png/revision/latest?cb=20111230034721",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d7/Aquos_Akwimos_%28closed%29.jpg/revision/latest?cb=20130322145348",
+        "https://static.wikia.nocookie.net/bakugan/images/3/34/Akwimos_Ball_form.PNG/revision/latest?cb=20101118172803"
+      ]
     },
     {
       "id": "aranaut-pyrus",
@@ -11320,8 +14597,18 @@ window.BAKU_DATA = {
       },
       "bio": "Fabia’nın partneri. Neathia’nın kutsal savaşçısı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/47/Aranaut-pyrus.jpg/revision/latest?cb=20100116080943",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ee/BK_Aranaut.png/revision/latest?cb=20100427233335",
-      "nickname": "Pyrus Aranaut"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/ce/Pyrus_Aranaut_Closed.png/revision/latest?cb=20110621140837",
+      "nickname": "Pyrus Aranaut",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9f/Pyrus_Aranaut_Open.png/revision/latest?cb=20110416183547",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8a/Pyrus_Aranaut.png/revision/latest?cb=20101011235153",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fa/Pyrus_aranaut.png/revision/latest?cb=20110327011325",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ac/Pyrus_Aranaut_in_battle_form.png/revision/latest?cb=20110414043932",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d4/Pyrus_aranaut_%281%29.png/revision/latest?cb=20110327011351",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Haos_Aranaut_defeats_Pyrus_Rubanoid_%28Season_3%2C_Episode_26%29.png/revision/latest?cb=20251215192428",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/2_Aranaut_Ball.jpg/revision/latest?cb=20100809223823",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cc/Aranaut_Ball.jpg/revision/latest?cb=20100728222922"
+      ]
     },
     {
       "id": "aranaut-aquos",
@@ -11350,8 +14637,18 @@ window.BAKU_DATA = {
       },
       "bio": "Fabia’nın partneri. Neathia’nın kutsal savaşçısı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/be/Aquos_Aranaut.jpg/revision/latest?cb=20100426221208",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ee/BK_Aranaut.png/revision/latest?cb=20100427233335",
-      "nickname": "Aquos Aranaut"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7e/Aquos_Aranaut_Closed.png/revision/latest?cb=20110621140802",
+      "nickname": "Aquos Aranaut",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Aquos_Aranaut_Open.png/revision/latest?cb=20110416183645",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1c/Aquos_Aranaut.png/revision/latest?cb=20110225010926",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b4/Aquos_Aranaut.jpeg/revision/latest?cb=20101011151014",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/Aquos_aranaut.jpg/revision/latest?cb=20100728191854",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/2_Aranaut_Ball.jpg/revision/latest?cb=20100809223823",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cc/Aranaut_Ball.jpg/revision/latest?cb=20100728222922",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Subterra_Aranaut_Closed.png/revision/latest?cb=20110621140857",
+        "https://static.wikia.nocookie.net/bakugan/images/1/14/Clear_Aranaut_Closed.png/revision/latest?cb=20110621140810"
+      ]
     },
     {
       "id": "aranaut-ventus",
@@ -11380,8 +14677,18 @@ window.BAKU_DATA = {
       },
       "bio": "Fabia’nın partneri. Neathia’nın kutsal savaşçısı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9e/Ventus_Aranaut.png/revision/latest?cb=20110225011130",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ee/BK_Aranaut.png/revision/latest?cb=20100427233335",
-      "nickname": "Ventus Aranaut"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6b/Ventus_Aranaut_Closed.png/revision/latest?cb=20110621140907",
+      "nickname": "Ventus Aranaut",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/cc/Ventus_Aranaut_Open.png/revision/latest?cb=20110416183635",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d9/Ventus_Aranaut.jpg/revision/latest?cb=20100417200719",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/2_Aranaut_Ball.jpg/revision/latest?cb=20100809223823",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cc/Aranaut_Ball.jpg/revision/latest?cb=20100728222922",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Subterra_Aranaut_Closed.png/revision/latest?cb=20110621140857",
+        "https://static.wikia.nocookie.net/bakugan/images/1/14/Clear_Aranaut_Closed.png/revision/latest?cb=20110621140810",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7e/Aquos_Aranaut_Closed.png/revision/latest?cb=20110621140802",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/BlackStealth_Aranaut_Closed.png/revision/latest?cb=20110624030217"
+      ]
     },
     {
       "id": "aranaut-subterra",
@@ -11410,8 +14717,18 @@ window.BAKU_DATA = {
       },
       "bio": "Fabia’nın partneri. Neathia’nın kutsal savaşçısı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/94/Subterra_Aranaut.jpg/revision/latest?cb=20100426220333",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ee/BK_Aranaut.png/revision/latest?cb=20100427233335",
-      "nickname": "Subterra Aranaut"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0e/Subterra_Aranaut_Closed.png/revision/latest?cb=20110621140857",
+      "nickname": "Subterra Aranaut",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/ac/Subterra_Aranaut_Open.png/revision/latest?cb=20110416183624",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c7/Subterra_Aranaut.png/revision/latest?cb=20110225011115",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/2_Aranaut_Ball.jpg/revision/latest?cb=20100809223823",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cc/Aranaut_Ball.jpg/revision/latest?cb=20100728222922",
+        "https://static.wikia.nocookie.net/bakugan/images/1/14/Clear_Aranaut_Closed.png/revision/latest?cb=20110621140810",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7e/Aquos_Aranaut_Closed.png/revision/latest?cb=20110621140802",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6b/Ventus_Aranaut_Closed.png/revision/latest?cb=20110621140907",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/BlackStealth_Aranaut_Closed.png/revision/latest?cb=20110624030217"
+      ]
     },
     {
       "id": "aranaut-haos",
@@ -11440,8 +14757,18 @@ window.BAKU_DATA = {
       },
       "bio": "Fabia’nın partneri. Neathia’nın kutsal savaşçısı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/01/Haos_Aranaut.jpg/revision/latest?cb=20100417200734",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ee/BK_Aranaut.png/revision/latest?cb=20100427233335",
-      "nickname": "Haos Aranaut"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ad/Haos_Aranaut_defeats_Pyrus_Rubanoid_%28Season_3%2C_Episode_26%29.png/revision/latest?cb=20251215192428",
+      "nickname": "Haos Aranaut",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/20/Haos_Aranaut_Open.png/revision/latest?cb=20110416183528",
+        "https://static.wikia.nocookie.net/bakugan/images/d/df/Haos_Aranaut_in_battle_gear_position.JPG/revision/latest?cb=20100701123614",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Haos_Aranaut.png/revision/latest?cb=20100808143452",
+        "https://static.wikia.nocookie.net/bakugan/images/5/51/Hex_Haos_Aranaut.png/revision/latest?cb=20111102202739",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d6/KeithStrife_Haos_Aranaut.JPG/revision/latest?cb=20120816042935",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Haos_Aranaut.jpeg/revision/latest?cb=20101011202100",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Haos_Aranaut_Battle_Crasher.jpg/revision/latest?cb=20100428012157",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1c/Haos_aranaut.png/revision/latest?cb=20100825133448"
+      ]
     },
     {
       "id": "aranaut-darkus",
@@ -11469,9 +14796,19 @@ window.BAKU_DATA = {
         "gForce": 92
       },
       "bio": "Fabia’nın partneri. Neathia’nın kutsal savaşçısı. Bu kayıt Darkus (Karanlık) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ee/BK_Aranaut.png/revision/latest?cb=20100427233335",
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/0b/Darkus_Aranaut_Open.png/revision/latest?cb=20110223001146",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ee/BK_Aranaut.png/revision/latest?cb=20100427233335",
-      "nickname": "Darkus Aranaut"
+      "nickname": "Darkus Aranaut",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Darkus_Aranaut_Closed.png/revision/latest?cb=20110621140816",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Darkus_Aranaut.png/revision/latest?cb=20110225011003",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9c/Darkus_Aranaut.jpeg/revision/latest?cb=20101011193027",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Darkus_aranaut.png/revision/latest?cb=20101011154708",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a8/Stealth_Aranaut_Darkus.jpg/revision/latest?cb=20100930090708",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/2_Aranaut_Ball.jpg/revision/latest?cb=20100809223823",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cc/Aranaut_Ball.jpg/revision/latest?cb=20100728222922",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Subterra_Aranaut_Closed.png/revision/latest?cb=20110621140857"
+      ]
     },
     {
       "id": "avior-pyrus",
@@ -11500,8 +14837,18 @@ window.BAKU_DATA = {
       },
       "bio": "Avior, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/83/Pyrus_Avior.jpg/revision/latest?cb=20100623173533",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BC_Avior.png/revision/latest?cb=20100514104421",
-      "nickname": "Pyrus Avior"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4d/Pyrus_Avior_Closed.png/revision/latest?cb=20110621052237",
+      "nickname": "Pyrus Avior",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/bc/Pyrus_Avior_Open.png/revision/latest?cb=20110418004131",
+        "https://static.wikia.nocookie.net/bakugan/images/9/92/Pyrus_Avior.png/revision/latest?cb=20110223225246",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b0/Subterra_Avior_VS_Pyrus_Avior.jpg/revision/latest?cb=20101220041956",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/592px-Pyrus_Cyborg_Avior_copy.png/revision/latest?cb=20120305074932",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Avior_Ball_form.jpg/revision/latest?cb=20100613183632",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Cyborg_Avior_%28Ball_Form%29.png/revision/latest?cb=20120703084729",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f7/Clear_Avior_Closed.png/revision/latest?cb=20110621052203",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d7/Haos_Avior_Closed.png/revision/latest?cb=20110621052227"
+      ]
     },
     {
       "id": "avior-aquos",
@@ -11529,9 +14876,19 @@ window.BAKU_DATA = {
         "gForce": 89
       },
       "bio": "Avior, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BC_Avior.png/revision/latest?cb=20100514104421",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BC_Avior.png/revision/latest?cb=20100514104421",
-      "nickname": "Aquos Avior"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c9/Aquos_Avior_Open.png/revision/latest?cb=20110624034534",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/25/Aquos_Avior_Closed.png/revision/latest?cb=20110621052156",
+      "nickname": "Aquos Avior",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Subterra_Akwimos_Haos_Sabator_Aquos_Avior.jpg/revision/latest?cb=20100611221942",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e8/Aquos_Avior.png/revision/latest?cb=20110223225313",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/Aquos_Avior_BD.jpg/revision/latest?cb=20100611203716",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Avior_Ball_form.jpg/revision/latest?cb=20100613183632",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Cyborg_Avior_%28Ball_Form%29.png/revision/latest?cb=20120703084729",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f7/Clear_Avior_Closed.png/revision/latest?cb=20110621052203",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d7/Haos_Avior_Closed.png/revision/latest?cb=20110621052227",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6b/Ventus_Avior_Closed.png/revision/latest?cb=20110621052253"
+      ]
     },
     {
       "id": "avior-ventus",
@@ -11560,8 +14917,18 @@ window.BAKU_DATA = {
       },
       "bio": "Avior, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4d/Ventus_Avior.png/revision/latest?cb=20110223225225",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BC_Avior.png/revision/latest?cb=20100514104421",
-      "nickname": "Ventus Avior"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6b/Ventus_Avior_Closed.png/revision/latest?cb=20110621052253",
+      "nickname": "Ventus Avior",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5f/Ventus_Avior_Open.png/revision/latest?cb=20110624034946",
+        "https://static.wikia.nocookie.net/bakugan/images/2/22/Ventus_Avior_Code.PNG/revision/latest?cb=20110110232156",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fd/Ventus_Avior_Stats.PNG/revision/latest?cb=20110111142057",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Avior_Ball_form.jpg/revision/latest?cb=20100613183632",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Cyborg_Avior_%28Ball_Form%29.png/revision/latest?cb=20120703084729",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f7/Clear_Avior_Closed.png/revision/latest?cb=20110621052203",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d7/Haos_Avior_Closed.png/revision/latest?cb=20110621052227",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Aquos_Avior_Closed.png/revision/latest?cb=20110621052156"
+      ]
     },
     {
       "id": "avior-subterra",
@@ -11589,9 +14956,19 @@ window.BAKU_DATA = {
         "gForce": 89
       },
       "bio": "Avior, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BC_Avior.png/revision/latest?cb=20100514104421",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BC_Avior.png/revision/latest?cb=20100514104421",
-      "nickname": "Subterra Avior"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d4/Subterra_Avior_Open.png/revision/latest?cb=20110624034922",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/37/Subterra_Avior_Closed.png/revision/latest?cb=20110621052245",
+      "nickname": "Subterra Avior",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Subterra_Avior.png/revision/latest?cb=20110223225203",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d6/KeithStrife_Subterra_Avior.JPG/revision/latest?cb=20120816043442",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b0/Subterra_Avior_VS_Pyrus_Avior.jpg/revision/latest?cb=20101220041956",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Subterra_Akwimos_Haos_Sabator_Aquos_Avior.jpg/revision/latest?cb=20100611221942",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Avior_Ball_form.jpg/revision/latest?cb=20100613183632",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Cyborg_Avior_%28Ball_Form%29.png/revision/latest?cb=20120703084729",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f7/Clear_Avior_Closed.png/revision/latest?cb=20110621052203",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d7/Haos_Avior_Closed.png/revision/latest?cb=20110621052227"
+      ]
     },
     {
       "id": "avior-haos",
@@ -11619,9 +14996,19 @@ window.BAKU_DATA = {
         "gForce": 89
       },
       "bio": "Avior, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BC_Avior.png/revision/latest?cb=20100514104421",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BC_Avior.png/revision/latest?cb=20100514104421",
-      "nickname": "Haos Avior"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/50/Haos_Avior_Open.png/revision/latest?cb=20110624034735",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d7/Haos_Avior_Closed.png/revision/latest?cb=20110621052227",
+      "nickname": "Haos Avior",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/24/Haos_Avior.png/revision/latest?cb=20110223225143",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Subterra_Akwimos_Haos_Sabator_Aquos_Avior.jpg/revision/latest?cb=20100611221942",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Avior_Ball_form.jpg/revision/latest?cb=20100613183632",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Cyborg_Avior_%28Ball_Form%29.png/revision/latest?cb=20120703084729",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f7/Clear_Avior_Closed.png/revision/latest?cb=20110621052203",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Aquos_Avior_Closed.png/revision/latest?cb=20110621052156",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6b/Ventus_Avior_Closed.png/revision/latest?cb=20110621052253",
+        "https://static.wikia.nocookie.net/bakugan/images/3/37/Subterra_Avior_Closed.png/revision/latest?cb=20110621052245"
+      ]
     },
     {
       "id": "avior-darkus",
@@ -11651,7 +15038,17 @@ window.BAKU_DATA = {
       "bio": "Avior, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ab/Avior-darkus.jpg/revision/latest?cb=20091213080420",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BC_Avior.png/revision/latest?cb=20100514104421",
-      "nickname": "Darkus Avior"
+      "nickname": "Darkus Avior",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/7/7b/Darkus_Avior_Closed.png/revision/latest?cb=20110621052211",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e9/Darkus_Avior_Open.png/revision/latest?cb=20110701044938",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Darkus_Avior.png/revision/latest?cb=20110223225123",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Darkus_Avior.jpeg/revision/latest?cb=20101011193028",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7d/Darkus_Clear_Avior.PNG/revision/latest?cb=20110424001712",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Avior_Ball_form.jpg/revision/latest?cb=20100613183632",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Cyborg_Avior_%28Ball_Form%29.png/revision/latest?cb=20120703084729",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f7/Clear_Avior_Closed.png/revision/latest?cb=20110621052203"
+      ]
     },
     {
       "id": "battalix-dragonoid",
@@ -11679,8 +15076,18 @@ window.BAKU_DATA = {
         "gForce": 82
       },
       "bio": "Battalix Dragonoid, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/73/BK_Battalix_Dragonoid.png/revision/latest?cb=20101007120626",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/73/BK_Battalix_Dragonoid.png/revision/latest?cb=20101007120626"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Pyrus_Battalix_Dragonoid.png/revision/latest?cb=20101011235153",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/73/BK_Battalix_Dragonoid.png/revision/latest?cb=20101007120626",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Pyrus_Battalix_Dragonoid_%28gate_card%29.JPG/revision/latest?cb=20110722071903",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Pyrus_Battalix_Dragonoid.jpg/revision/latest?cb=20110721201549",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Battalix_Dragonoid_%28gpower%29.jpg/revision/latest?cb=20110722072146",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/Battalix_Dragonoid_BD.jpg/revision/latest?cb=20101020002339",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8c/Battalix_Dragonoid_%2B_Twin_Destructor.JPG/revision/latest?cb=20110722071835",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Battalix_Dragonoid_%2B_Twin_Destructor.jpg/revision/latest?cb=20110722071936",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Battalix_Dragonoid_%28left_view%29.JPG/revision/latest?cb=20110722071921",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b1/BK_CD_Battalix_Dragonoid.jpg/revision/latest?cb=20100928233800"
+      ]
     },
     {
       "id": "blitz-dragonoid",
@@ -11708,8 +15115,18 @@ window.BAKU_DATA = {
         "gForce": 98
       },
       "bio": "Drago’nun Gundalia zirvesi. Barodius/Dharak’a karşı son koz.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Blitz_Dragonoid.png/revision/latest?cb=20100903123537",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Blitz_Dragonoid.png/revision/latest?cb=20100903123537"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b9/Pyrus_Blitz_Dragonoid_%28open%29.jpg/revision/latest?cb=20110614180038",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Blitz_Dragonoid.png/revision/latest?cb=20100903123537",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/Pyrus_Blitz_Dragonoid_%28closed%29.jpg/revision/latest?cb=20110614180105",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6c/Pyrus_Blitz_Dragonoid_Entered_Code.JPG/revision/latest?cb=20101226195014",
+        "https://static.wikia.nocookie.net/bakugan/images/4/43/Pyrus_Hex_Blitz_Dragonoid.png/revision/latest?cb=20111103182347",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Bakugan-wave-4-bakuboost-pyrus-blitz-dragonoid-SML.png/revision/latest?cb=20110411194438",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Blitz_dragonoid_pyrus.jpg/revision/latest?cb=20110820015154",
+        "https://static.wikia.nocookie.net/bakugan/images/0/04/Blitz_dragonoid_ball_form_%28closed%29.png/revision/latest?cb=20111218225159",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a2/Blitz_dragonoid_in_open_ball_form.jpg/revision/latest?cb=20250604222416",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/--Helix_Dragonoid--%2C_--Lumino_Dragonoid--%2C_--Blitz_Dragonoid--%2C_--Titanium_Dragonoid--.jpg/revision/latest?cb=20110827012101"
+      ]
     },
     {
       "id": "brawlacus-dharak",
@@ -11738,7 +15155,10 @@ window.BAKU_DATA = {
       },
       "bio": "Brawlacus Dharak, Sezon 3 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5b/BK_Brawlacus_Dharak.png/revision/latest?cb=20101007120032",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5b/BK_Brawlacus_Dharak.png/revision/latest?cb=20101007120032"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5b/BK_Brawlacus_Dharak.png/revision/latest?cb=20101007120032",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a3/Darkus_Brawlacus_Dharak.png/revision/latest?cb=20101012004532"
+      ]
     },
     {
       "id": "contestir-pyrus",
@@ -11767,8 +15187,18 @@ window.BAKU_DATA = {
       },
       "bio": "Contestir, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/cf/CP_Pyrus_Contestir_BD.jpg/revision/latest?cb=20100828210520",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_Contestir.png/revision/latest?cb=20100810102837",
-      "nickname": "Pyrus Contestir"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/df/Pyrus_Contestir_Closed.png/revision/latest?cb=20110621145117",
+      "nickname": "Pyrus Contestir",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/30/Pyrus_Contestir_Open.png/revision/latest?cb=20110418003350",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Pyrus_Contestir.png/revision/latest?cb=20110226023631",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c5/Contestir_ball_form_%28closed%29.png/revision/latest?cb=20111227002958",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d5/Haos_Contestir_Closed.png/revision/latest?cb=20110621145057",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Clear_Contestir_Closed.png/revision/latest?cb=20110621145032",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b2/Subterra_Contestir_Closed.png/revision/latest?cb=20110621145129",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/BlueGold_Contestir_Closed.png/revision/latest?cb=20110621145104",
+        "https://static.wikia.nocookie.net/bakugan/images/5/50/Ventus_Contestir_Closed.png/revision/latest?cb=20110621145138"
+      ]
     },
     {
       "id": "contestir-aquos",
@@ -11797,8 +15227,18 @@ window.BAKU_DATA = {
       },
       "bio": "Contestir, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/10/Aquos_Contestir_Closed.png/revision/latest?cb=20110621145026",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_Contestir.png/revision/latest?cb=20100810102837",
-      "nickname": "Aquos Contestir"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/10/Aquos_Contestir_Closed.png/revision/latest?cb=20110621145026",
+      "nickname": "Aquos Contestir",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Aquos_Contestir_Open.png/revision/latest?cb=20110624142035",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5f/Aquos_Contestir.png/revision/latest?cb=20101020024837",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c5/Contestir_ball_form_%28closed%29.png/revision/latest?cb=20111227002958",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d5/Haos_Contestir_Closed.png/revision/latest?cb=20110621145057",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Clear_Contestir_Closed.png/revision/latest?cb=20110621145032",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b2/Subterra_Contestir_Closed.png/revision/latest?cb=20110621145129",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/BlueGold_Contestir_Closed.png/revision/latest?cb=20110621145104",
+        "https://static.wikia.nocookie.net/bakugan/images/5/50/Ventus_Contestir_Closed.png/revision/latest?cb=20110621145138"
+      ]
     },
     {
       "id": "contestir-ventus",
@@ -11827,8 +15267,18 @@ window.BAKU_DATA = {
       },
       "bio": "Contestir, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/be/Ventus_Contestir.png/revision/latest?cb=20110226023544",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_Contestir.png/revision/latest?cb=20100810102837",
-      "nickname": "Ventus Contestir"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/50/Ventus_Contestir_Closed.png/revision/latest?cb=20110621145138",
+      "nickname": "Ventus Contestir",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Ventus_Contestir_Open.png/revision/latest?cb=20110624142913",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c5/Contestir_ball_form_%28closed%29.png/revision/latest?cb=20111227002958",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d5/Haos_Contestir_Closed.png/revision/latest?cb=20110621145057",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Clear_Contestir_Closed.png/revision/latest?cb=20110621145032",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b2/Subterra_Contestir_Closed.png/revision/latest?cb=20110621145129",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/BlueGold_Contestir_Closed.png/revision/latest?cb=20110621145104",
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Aquos_Contestir_Closed.png/revision/latest?cb=20110621145026",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/Darkus_Contestir_Closed.png/revision/latest?cb=20110621145042"
+      ]
     },
     {
       "id": "contestir-subterra",
@@ -11857,8 +15307,18 @@ window.BAKU_DATA = {
       },
       "bio": "Contestir, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/99/Translucent_Subterra_Contestir.jpg/revision/latest?cb=20100607212431",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_Contestir.png/revision/latest?cb=20100810102837",
-      "nickname": "Subterra Contestir"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b2/Subterra_Contestir_Closed.png/revision/latest?cb=20110621145129",
+      "nickname": "Subterra Contestir",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Subterra_Contestir_Open.png/revision/latest?cb=20110624142901",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Subterra_Contestir.png/revision/latest?cb=20110226023646",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6a/Subterra_Contestir.jpg/revision/latest?cb=20100807135836",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Haos_Contestir_as_Subterra_Coredem.png/revision/latest?cb=20111102110516",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c5/Contestir_ball_form_%28closed%29.png/revision/latest?cb=20111227002958",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d5/Haos_Contestir_Closed.png/revision/latest?cb=20110621145057",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Clear_Contestir_Closed.png/revision/latest?cb=20110621145032",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/BlueGold_Contestir_Closed.png/revision/latest?cb=20110621145104"
+      ]
     },
     {
       "id": "contestir-haos",
@@ -11887,8 +15347,18 @@ window.BAKU_DATA = {
       },
       "bio": "Contestir, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e7/Haos_Contestir_Open.png/revision/latest?cb=20110624142831",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_Contestir.png/revision/latest?cb=20100810102837",
-      "nickname": "Haos Contestir"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d5/Haos_Contestir_Closed.png/revision/latest?cb=20110621145057",
+      "nickname": "Haos Contestir",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Haos_Contestir_as_Subterra_Coredem.png/revision/latest?cb=20111102110516",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cf/Haos_Contestir.jpg/revision/latest?cb=20130322151203",
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Haos_Contestir.png/revision/latest?cb=20110226023614",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Haos_Contestir.jpeg/revision/latest?cb=20101011202234",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ef/KeithStrife_Haos_Contestir.JPG/revision/latest?cb=20120816042935",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b8/Contestir_Haos-300x292.png/revision/latest?cb=20100614053646",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Haos_Contestir_as_Pyrus_Lumino_Dragonoid.png/revision/latest?cb=20111102110817",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c5/Contestir_ball_form_%28closed%29.png/revision/latest?cb=20111227002958"
+      ]
     },
     {
       "id": "contestir-darkus",
@@ -11918,7 +15388,17 @@ window.BAKU_DATA = {
       "bio": "Contestir, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1f/Darkus_Contestir_Closed.png/revision/latest?cb=20110621145042",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_Contestir.png/revision/latest?cb=20100810102837",
-      "nickname": "Darkus Contestir"
+      "nickname": "Darkus Contestir",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/11/Darkus_Contestir_Open.png/revision/latest?cb=20110624142759",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Darkus_Contestir.png/revision/latest?cb=20110226023558",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c5/Contestir_ball_form_%28closed%29.png/revision/latest?cb=20111227002958",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d5/Haos_Contestir_Closed.png/revision/latest?cb=20110621145057",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Clear_Contestir_Closed.png/revision/latest?cb=20110621145032",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b2/Subterra_Contestir_Closed.png/revision/latest?cb=20110621145129",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/BlueGold_Contestir_Closed.png/revision/latest?cb=20110621145104",
+        "https://static.wikia.nocookie.net/bakugan/images/5/50/Ventus_Contestir_Closed.png/revision/latest?cb=20110621145138"
+      ]
     },
     {
       "id": "coredem-pyrus",
@@ -11947,8 +15427,18 @@ window.BAKU_DATA = {
       },
       "bio": "Jake’in saf güç partneri. Basit ama ezici. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Pyrus_Coredem.png/revision/latest?cb=20101011235153",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d1/BC_Coredem_3.png/revision/latest?cb=20100524023402",
-      "nickname": "Pyrus Coredem"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/36/Pyrus_Coredem_Closed.png/revision/latest?cb=20110621053003",
+      "nickname": "Pyrus Coredem",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e2/Pyrus_Coredem_Open.png/revision/latest?cb=20110624143650",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/Pyrus_Coredem_BD.png/revision/latest?cb=20110922195623",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Evil_Twin_Coredem_%28closed%29.jpg/revision/latest?cb=20110614174015",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c4/Clear_Coredem_Closed.png/revision/latest?cb=20110621052922",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Subterra_Coredem_Closed.png/revision/latest?cb=20110621053019",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Haos_Coredem_Closed.png/revision/latest?cb=20110621052954",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Aquos_Coredem_Closed.png/revision/latest?cb=20110621052914",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6e/Ventus_Coredem_Closed.png/revision/latest?cb=20110621053026"
+      ]
     },
     {
       "id": "coredem-aquos",
@@ -11977,8 +15467,18 @@ window.BAKU_DATA = {
       },
       "bio": "Jake’in saf güç partneri. Basit ama ezici. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/92/Aquos_Coredem.png/revision/latest?cb=20110223125635",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d1/BC_Coredem_3.png/revision/latest?cb=20100524023402",
-      "nickname": "Aquos Coredem"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2a/Aquos_Coredem_Closed.png/revision/latest?cb=20110621052914",
+      "nickname": "Aquos Coredem",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/Aquos_Coredem_Open.png/revision/latest?cb=20110624143256",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0d/Aquos_Coredem_BD.jpg/revision/latest?cb=20100605022630",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Evil_Twin_Coredem_%28closed%29.jpg/revision/latest?cb=20110614174015",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c4/Clear_Coredem_Closed.png/revision/latest?cb=20110621052922",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Subterra_Coredem_Closed.png/revision/latest?cb=20110621053019",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Haos_Coredem_Closed.png/revision/latest?cb=20110621052954",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6e/Ventus_Coredem_Closed.png/revision/latest?cb=20110621053026",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a8/Darkus_Coredem_Closed.png/revision/latest?cb=20110621052945"
+      ]
     },
     {
       "id": "coredem-ventus",
@@ -12007,8 +15507,18 @@ window.BAKU_DATA = {
       },
       "bio": "Jake’in saf güç partneri. Basit ama ezici. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/27/Ventus_Coredem.png/revision/latest?cb=20110223125533",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d1/BC_Coredem_3.png/revision/latest?cb=20100524023402",
-      "nickname": "Ventus Coredem"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6e/Ventus_Coredem_Closed.png/revision/latest?cb=20110621053026",
+      "nickname": "Ventus Coredem",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Ventus_Coredem_Open.png/revision/latest?cb=20110624143440",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Strikeflier_ventus_with_coredem_arm.jpg/revision/latest?cb=20100917120557",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Evil_Twin_Coredem_%28closed%29.jpg/revision/latest?cb=20110614174015",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c4/Clear_Coredem_Closed.png/revision/latest?cb=20110621052922",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Subterra_Coredem_Closed.png/revision/latest?cb=20110621053019",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Haos_Coredem_Closed.png/revision/latest?cb=20110621052954",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Aquos_Coredem_Closed.png/revision/latest?cb=20110621052914",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a8/Darkus_Coredem_Closed.png/revision/latest?cb=20110621052945"
+      ]
     },
     {
       "id": "coredem-subterra",
@@ -12037,8 +15547,18 @@ window.BAKU_DATA = {
       },
       "bio": "Jake’in saf güç partneri. Basit ama ezici. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Subterra_Coredem.jpg/revision/latest?cb=20110101071045",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d1/BC_Coredem_3.png/revision/latest?cb=20100524023402",
-      "nickname": "Subterra Coredem"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d8/Subterra_Coredem_Closed.png/revision/latest?cb=20110621053019",
+      "nickname": "Subterra Coredem",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/Subterra_Coredem_Open.png/revision/latest?cb=20110624143509",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Haos_Contestir_as_Subterra_Coredem.png/revision/latest?cb=20111102110516",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Subterra_Coredem.png/revision/latest?cb=20110922014640",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/AlltributeMaNaga%27s_Subterra_Coredem.png/revision/latest?cb=20101016002343",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9c/Subterra_Coredem_BD.png/revision/latest?cb=20110223125511",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/KeithStrife_Subterra_Coredem.JPG/revision/latest?cb=20120816043443",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Translucent_Subterra_Coredem.jpg/revision/latest?cb=20100814232124",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Darkus_Dartaak_attacking_Subterra_Coredem_d.jpg/revision/latest?cb=20101018184223"
+      ]
     },
     {
       "id": "coredem-haos",
@@ -12067,8 +15587,18 @@ window.BAKU_DATA = {
       },
       "bio": "Jake’in saf güç partneri. Basit ama ezici. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/23/Haos_Coredem.PNG/revision/latest?cb=20100712185244",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d1/BC_Coredem_3.png/revision/latest?cb=20100524023402",
-      "nickname": "Haos Coredem"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/89/Haos_Coredem_Closed.png/revision/latest?cb=20110621052954",
+      "nickname": "Haos Coredem",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/8a/Haos_Coredem_Open.png/revision/latest?cb=20110624143335",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f7/Haos_Coredem.png/revision/latest?cb=20110223125654",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Haos_Contestir_as_Subterra_Coredem.png/revision/latest?cb=20111102110516",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Evil_Twin_Coredem_%28closed%29.jpg/revision/latest?cb=20110614174015",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c4/Clear_Coredem_Closed.png/revision/latest?cb=20110621052922",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Subterra_Coredem_Closed.png/revision/latest?cb=20110621053019",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Aquos_Coredem_Closed.png/revision/latest?cb=20110621052914",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6e/Ventus_Coredem_Closed.png/revision/latest?cb=20110621053026"
+      ]
     },
     {
       "id": "coredem-darkus",
@@ -12098,7 +15628,17 @@ window.BAKU_DATA = {
       "bio": "Jake’in saf güç partneri. Basit ama ezici. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/53/Darkus_coredem.png/revision/latest?cb=20101011155825",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d1/BC_Coredem_3.png/revision/latest?cb=20100524023402",
-      "nickname": "Darkus Coredem"
+      "nickname": "Darkus Coredem",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a8/Darkus_Coredem_Closed.png/revision/latest?cb=20110621052945",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Darkus_Coredem_Darkus_Akwimos_Ball.jpg/revision/latest?cb=20110411082515",
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Darkus_Coredem_Open.png/revision/latest?cb=20110624143324",
+        "https://static.wikia.nocookie.net/bakugan/images/9/96/Darkus_Coredem.png/revision/latest?cb=20100807115704",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Darkus_Coredem_BD.png/revision/latest?cb=20110223125758",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Darkus_Dartaak_attacking_Subterra_Coredem_d.jpg/revision/latest?cb=20101018184223",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Evil_Twin_Coredem_%28closed%29.jpg/revision/latest?cb=20110614174015",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c4/Clear_Coredem_Closed.png/revision/latest?cb=20110621052922"
+      ]
     },
     {
       "id": "damakor",
@@ -12126,8 +15666,18 @@ window.BAKU_DATA = {
         "gForce": 61
       },
       "bio": "Damakor, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ea/BK_Damakor.png/revision/latest?cb=20101011175729",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ea/BK_Damakor.png/revision/latest?cb=20101011175729"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/78/Pyrus_Damakor_Open.png/revision/latest?cb=20110418001700",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ea/BK_Damakor.png/revision/latest?cb=20101011175729",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Pyrus_Damakor_Closed.png/revision/latest?cb=20110621164623",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c6/Pyrus_Damakor.png/revision/latest?cb=20110624054416",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Subterra_Damakor_and_Pyrus_Spidaro_%28Ep._30%29.png/revision/latest?cb=20251117040614",
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Haos_Damakor_Closed.png/revision/latest?cb=20110621164617",
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Subterra_Damakor_Closed.png/revision/latest?cb=20110621164630",
+        "https://static.wikia.nocookie.net/bakugan/images/2/29/Clear_Damakor_Closed.png/revision/latest?cb=20110621164604",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7d/Ventus_Damakor_Closed.png/revision/latest?cb=20110621164637",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b1/Aquos_Damakor_Closed.png/revision/latest?cb=20110621164558"
+      ]
     },
     {
       "id": "dartaak",
@@ -12155,8 +15705,18 @@ window.BAKU_DATA = {
         "gForce": 63
       },
       "bio": "Dartaak, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a4/Dartaak1.png/revision/latest?cb=20100903124048",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a4/Dartaak1.png/revision/latest?cb=20100903124048"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e7/Pyrus_Dartaak_Open.png/revision/latest?cb=20110418004648",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a4/Dartaak1.png/revision/latest?cb=20100903124048",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/7/70/Pyrus_Dartaak_Closed.png/revision/latest?cb=20110621154649",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Pyrus_Dartaak.png/revision/latest?cb=20110223223751",
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Pyrus_Dartaak_GM.jpg/revision/latest?cb=20101204175225",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c6/Clear_Dartaak_Closed.png/revision/latest?cb=20110621154625",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Haos_Dartaak_Closed.png/revision/latest?cb=20110621154642",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Subterra_Dartaak_Closed.png/revision/latest?cb=20110621154700",
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Aquos_Dartaak_Closed.png/revision/latest?cb=20110621154616",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e2/Ventus_Dartaak_Closed.png/revision/latest?cb=20110621154711"
+      ]
     },
     {
       "id": "dharak-pyrus",
@@ -12184,9 +15744,19 @@ window.BAKU_DATA = {
         "gForce": 98
       },
       "bio": "Gundalia imparatorunun partneri. Sezon 3’ün nihai karanlık gücü. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c6/BC_Dharak.png/revision/latest?cb=20100516134144",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c6/BC_Dharak.png/revision/latest?cb=20100516134144",
-      "nickname": "Pyrus Dharak"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/bc/Pyrus_Dharak_Open.png/revision/latest?cb=20110418004402",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/33/Pyrus_Dharak_Closed.png/revision/latest?cb=20110621053616",
+      "nickname": "Pyrus Dharak",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Pyrus_Dharak.png/revision/latest?cb=20110223135030",
+        "https://static.wikia.nocookie.net/bakugan/images/9/94/Crimson_%26_Pearl_Dharak_Vs._Pyrus_Dharak.JPG/revision/latest?cb=20100722213628",
+        "https://static.wikia.nocookie.net/bakugan/images/4/43/Dharak_AirKor_Ball_Form.png/revision/latest?cb=20191008042533",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Dharak_colossus_airkor_ball_form.png/revision/latest?cb=20111220034514",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Dharak_Colossus_in_ball_form.png/revision/latest?cb=20100917175831",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Evil_Twin_Dharak_%28closed%29.jpg/revision/latest?cb=20110614173920",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/Dharak_ball.jpg/revision/latest?cb=20100628210839",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Clear_Dharak_Closed.png/revision/latest?cb=20110621053542"
+      ]
     },
     {
       "id": "dharak-aquos",
@@ -12214,9 +15784,19 @@ window.BAKU_DATA = {
         "gForce": 98
       },
       "bio": "Gundalia imparatorunun partneri. Sezon 3’ün nihai karanlık gücü. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c6/BC_Dharak.png/revision/latest?cb=20100516134144",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c6/BC_Dharak.png/revision/latest?cb=20100516134144",
-      "nickname": "Aquos Dharak"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/11/Aquos_Dharak_Open.png/revision/latest?cb=20110427012652",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4b/Aquos_Dharak_Closed.png/revision/latest?cb=20110621053516",
+      "nickname": "Aquos Dharak",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Aquos_Dharak.png/revision/latest?cb=20110223135054",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Dharak_aquos_bluegold.jpg/revision/latest?cb=20100918011036",
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Aquos_Phantom_Dharak_2.jpg/revision/latest?cb=20100910134407",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Aquos_Phantom_Dharak.jpg/revision/latest?cb=20100910134142",
+        "https://static.wikia.nocookie.net/bakugan/images/4/43/Dharak_AirKor_Ball_Form.png/revision/latest?cb=20191008042533",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Dharak_colossus_airkor_ball_form.png/revision/latest?cb=20111220034514",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Dharak_Colossus_in_ball_form.png/revision/latest?cb=20100917175831",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Evil_Twin_Dharak_%28closed%29.jpg/revision/latest?cb=20110614173920"
+      ]
     },
     {
       "id": "dharak-ventus",
@@ -12244,9 +15824,19 @@ window.BAKU_DATA = {
         "gForce": 98
       },
       "bio": "Gundalia imparatorunun partneri. Sezon 3’ün nihai karanlık gücü. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c6/BC_Dharak.png/revision/latest?cb=20100516134144",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c6/BC_Dharak.png/revision/latest?cb=20100516134144",
-      "nickname": "Ventus Dharak"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d6/Ventus_Dharak_Open.png/revision/latest?cb=20110427012803",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/43/Ventus_Dharak_Closed.png/revision/latest?cb=20110621053655",
+      "nickname": "Ventus Dharak",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/6e/Ventus_Dharak.png/revision/latest?cb=20110223135525",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Ventus_dharak.png/revision/latest?cb=20100825133631",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c4/Dharak_Ventus.jpg/revision/latest?cb=20100112021825",
+        "https://static.wikia.nocookie.net/bakugan/images/4/43/Dharak_AirKor_Ball_Form.png/revision/latest?cb=20191008042533",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Dharak_colossus_airkor_ball_form.png/revision/latest?cb=20111220034514",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Dharak_Colossus_in_ball_form.png/revision/latest?cb=20100917175831",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Evil_Twin_Dharak_%28closed%29.jpg/revision/latest?cb=20110614173920",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/Dharak_ball.jpg/revision/latest?cb=20100628210839"
+      ]
     },
     {
       "id": "dharak-subterra",
@@ -12274,9 +15864,19 @@ window.BAKU_DATA = {
         "gForce": 98
       },
       "bio": "Gundalia imparatorunun partneri. Sezon 3’ün nihai karanlık gücü. Bu kayıt Subterra (Toprak) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c6/BC_Dharak.png/revision/latest?cb=20100516134144",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c6/BC_Dharak.png/revision/latest?cb=20100516134144",
-      "nickname": "Subterra Dharak"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/36/Subterra_Dharak_Open.png/revision/latest?cb=20110427012754",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/10/Subterra_Dharak_Closed.png/revision/latest?cb=20110621053647",
+      "nickname": "Subterra Dharak",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/Subterra_Dharak.png/revision/latest?cb=20110223135245",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b4/Subterra_Dharak.JPG/revision/latest?cb=20100719224327",
+        "https://static.wikia.nocookie.net/bakugan/images/4/43/Dharak_AirKor_Ball_Form.png/revision/latest?cb=20191008042533",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Dharak_colossus_airkor_ball_form.png/revision/latest?cb=20111220034514",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Dharak_Colossus_in_ball_form.png/revision/latest?cb=20100917175831",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Evil_Twin_Dharak_%28closed%29.jpg/revision/latest?cb=20110614173920",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/Dharak_ball.jpg/revision/latest?cb=20100628210839",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Clear_Dharak_Closed.png/revision/latest?cb=20110621053542"
+      ]
     },
     {
       "id": "dharak-haos",
@@ -12305,8 +15905,18 @@ window.BAKU_DATA = {
       },
       "bio": "Gundalia imparatorunun partneri. Sezon 3’ün nihai karanlık gücü. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/77/Haos_Dharak.jpg/revision/latest?cb=20100516043235",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c6/BC_Dharak.png/revision/latest?cb=20100516134144",
-      "nickname": "Haos Dharak"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/44/Haos_Dharak_Closed.png/revision/latest?cb=20110621053606",
+      "nickname": "Haos Dharak",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Haos_Dharak_Open.png/revision/latest?cb=20110427012724",
+        "https://static.wikia.nocookie.net/bakugan/images/6/69/Haos_Dharak.png/revision/latest?cb=20110223135218",
+        "https://static.wikia.nocookie.net/bakugan/images/d/df/Haos_Dharak.JPG/revision/latest?cb=20100711203820",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a2/Crimson_%26_Pearl_Dharak_Vs._Haos_Dharak.JPG/revision/latest?cb=20100724210628",
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Regular_Haos_Dharak.jpg/revision/latest?cb=20100623174208",
+        "https://static.wikia.nocookie.net/bakugan/images/9/91/%28my%29Haos_Dharak.jpg/revision/latest?cb=20100622210523",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6b/Phantom_dharak_haos.JPG/revision/latest?cb=20100913031150",
+        "https://static.wikia.nocookie.net/bakugan/images/4/43/Dharak_AirKor_Ball_Form.png/revision/latest?cb=20191008042533"
+      ]
     },
     {
       "id": "dharak-darkus",
@@ -12336,7 +15946,17 @@ window.BAKU_DATA = {
       "bio": "Gundalia imparatorunun partneri. Sezon 3’ün nihai karanlık gücü. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/0d/Dharak_Darkus.JPG/revision/latest?cb=20100712205658",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c6/BC_Dharak.png/revision/latest?cb=20100516134144",
-      "nickname": "Darkus Dharak"
+      "nickname": "Darkus Dharak",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Darkus_Dharak_Closed.png/revision/latest?cb=20110621053554",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Darkus_Dharak_Open.png/revision/latest?cb=20110427012714",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/AlltributeMaNaga%27s_Darkus_Dharak.png/revision/latest?cb=20101016001926",
+        "https://static.wikia.nocookie.net/bakugan/images/7/78/Darkus_Dharak.png/revision/latest?cb=20110223135128",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Darkus_dharak.png/revision/latest?cb=20100825134828",
+        "https://static.wikia.nocookie.net/bakugan/images/3/34/Darkus_Dharak.jpeg/revision/latest?cb=20101011201842",
+        "https://static.wikia.nocookie.net/bakugan/images/5/51/Crimson_%26_Pearl_Dharak_Vs._Darkus_Dharak.JPG/revision/latest?cb=20100725235940",
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Darkus_Dharak.JPG/revision/latest?cb=20100719223350"
+      ]
     },
     {
       "id": "dragonoid-colossus",
@@ -12365,7 +15985,15 @@ window.BAKU_DATA = {
       },
       "bio": "Dragonoid Colossus, Sezon 3 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d6/Dragonoid_Colossus.png/revision/latest?cb=20101002153506",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d6/Dragonoid_Colossus.png/revision/latest?cb=20101002153506"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d6/Dragonoid_Colossus.png/revision/latest?cb=20101002153506",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Maxus_Dragonoid_Colossus.jpg/revision/latest?cb=20101019222553",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b9/Pyrus_Dragonoid_Colossus.png/revision/latest?cb=20101011235154",
+        "https://static.wikia.nocookie.net/bakugan/images/6/68/Dragonoid_colossus.png/revision/latest?cb=20101201164956",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/Bakugan_Dragonoid_Colossus_2.jpg/revision/latest?cb=20101228181858",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/Maxus_Dragonoid_Colossus.png/revision/latest?cb=20110101022910",
+        "https://static.wikia.nocookie.net/bakugan/images/4/43/Dragonoid_colossus.JPG/revision/latest?cb=20120120224207"
+      ]
     },
     {
       "id": "exokor",
@@ -12394,7 +16022,14 @@ window.BAKU_DATA = {
       },
       "bio": "Exokor, Sezon 3 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b6/ExoKorHub.jpg/revision/latest?cb=20110409140922",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b6/ExoKorHub.jpg/revision/latest?cb=20110409140922"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b6/ExoKorHub.jpg/revision/latest?cb=20110409140922",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/Exokor%28Closed%29.png/revision/latest?cb=20100917175704",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ea/Exokor%28Open%29.png/revision/latest?cb=20100917175724",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Exokor_%284%29.jpg/revision/latest?cb=20110831190311",
+        "https://static.wikia.nocookie.net/bakugan/images/2/22/Exokor_%282%29.jpg/revision/latest?cb=20110830171716",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b0/KeithStrife_Exokor.JPG/revision/latest?cb=20120819155750"
+      ]
     },
     {
       "id": "fangoid",
@@ -12422,8 +16057,18 @@ window.BAKU_DATA = {
         "gForce": 74
       },
       "bio": "Fangoid, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/0e/Fangoid1.png/revision/latest?cb=20100903124229",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0e/Fangoid1.png/revision/latest?cb=20100903124229"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ac/Pyrus_Fangoid_Open.png/revision/latest?cb=20110416180227",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0e/Fangoid1.png/revision/latest?cb=20100903124229",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/2b/Pyrus_Fangoid_Closed.png/revision/latest?cb=20110621155010",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/Pyrus_Fangoid.png/revision/latest?cb=20110416175737",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6f/Pyrus_fangoid.JPG/revision/latest?cb=20110116193403",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6a/Pyrus_Fangoid.jpg/revision/latest?cb=20100810201245",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Pyrus_Fangoid_%28gate_card%29.JPG/revision/latest?cb=20110621141509",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Pyrus_Fangoid_with_Zukanator.JPG/revision/latest?cb=20110621141520",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5f/Pyrus_Fangoid.JPG/revision/latest?cb=20110621141305",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Pyrus_Fangoid_%28right_view%29.JPG/revision/latest?cb=20110621141317"
+      ]
     },
     {
       "id": "gren",
@@ -12451,8 +16096,18 @@ window.BAKU_DATA = {
         "gForce": 56
       },
       "bio": "Gren, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c7/BK_Gren.png/revision/latest?cb=20101011175318",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c7/BK_Gren.png/revision/latest?cb=20101011175318"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/ce/Aquos_Gren_Open.png/revision/latest?cb=20110508204637",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c7/BK_Gren.png/revision/latest?cb=20101011175318",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Aquos_Gren_Closed.png/revision/latest?cb=20110621164906",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Aquos_Nastix_and_Aquos_Gren_in_battle_%28S03E30%29.png/revision/latest?cb=20251026194907",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Aquos_Nastix_and_Aquos_Gren_attack_%28S03E30%29.png/revision/latest?cb=20251026194807",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Aquos_Nastix_and_Aquos_Gren_%28S03E30%29.png/revision/latest?cb=20251026194711",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4d/KeithStrife_Aquos_Gren.jpg/revision/latest?cb=20130122235139",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/Aquos_Gren_at_work..png/revision/latest?cb=20251026194617",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Aquos_Gren.png/revision/latest?cb=20110624051750",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/Battalix_vs_Aquos_Gren.jpg/revision/latest?cb=20101114193802"
+      ]
     },
     {
       "id": "hakapoid",
@@ -12480,8 +16135,18 @@ window.BAKU_DATA = {
         "gForce": 68
       },
       "bio": "Hakapoid, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f1/BK_Hakapoid.png/revision/latest?cb=20100429161604",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f1/BK_Hakapoid.png/revision/latest?cb=20100429161604"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/04/Pyrus_Hakapoid_Open.png/revision/latest?cb=20110416202048",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f1/BK_Hakapoid.png/revision/latest?cb=20100429161604",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Pyrus_Hakapoid_Closed.png/revision/latest?cb=20110621141255",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Pyrus_Hakapoid.png/revision/latest?cb=20101011235154",
+        "https://static.wikia.nocookie.net/bakugan/images/7/71/Pyrus_Hakapoid_BD.png/revision/latest?cb=20110223222846",
+        "https://static.wikia.nocookie.net/bakugan/images/2/29/Pyrus_Hakapoid.JPG/revision/latest?cb=20100718211404",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/Pyrus_Hakapoid.jpg/revision/latest?cb=20100417194707",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/Hakapoid_Pyrus.JPG/revision/latest?cb=20100718210624",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Clear_Hakapoid_Closed.png/revision/latest?cb=20110621141229",
+        "https://static.wikia.nocookie.net/bakugan/images/7/78/Haos_Hakapoid_Closed.png/revision/latest?cb=20110621141245"
+      ]
     },
     {
       "id": "hawktor-pyrus",
@@ -12510,8 +16175,18 @@ window.BAKU_DATA = {
       },
       "bio": "Shun’un Gundalia dönemi partneri. Hızda neredeyse rakipsiz. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4f/Pyrus_Hawktor.PNG/revision/latest?cb=20110604144936",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_Hawktor.png/revision/latest?cb=20100810103338",
-      "nickname": "Pyrus Hawktor"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b7/Pyrus_Hawktor_Closed.png/revision/latest?cb=20110621145542",
+      "nickname": "Pyrus Hawktor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e3/Pyrus_Hawktor_Open.png/revision/latest?cb=20110416190320",
+        "https://static.wikia.nocookie.net/bakugan/images/2/29/Pyrus_Hawktor.png/revision/latest?cb=20101012000539",
+        "https://static.wikia.nocookie.net/bakugan/images/8/86/Pyrus_nega_hawktor.jpg/revision/latest?cb=20101022234120",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Hawktor_Swayther--Ball_Form.png/revision/latest?cb=20111230031111",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Hawktor_ballform_%28closed%29.png/revision/latest?cb=20120122041055",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Hawktor_Ball_form.PNG/revision/latest?cb=20101119214722",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/Ventus_Hawktor_%28closed%29.jpg/revision/latest?cb=20110614175539",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/Clear_Hawktor_Closed.png/revision/latest?cb=20110621145504"
+      ]
     },
     {
       "id": "hawktor-aquos",
@@ -12540,8 +16215,18 @@ window.BAKU_DATA = {
       },
       "bio": "Shun’un Gundalia dönemi partneri. Hızda neredeyse rakipsiz. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d3/Aquos_Hawktor_Open.png/revision/latest?cb=20110416190214",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_Hawktor.png/revision/latest?cb=20100810103338",
-      "nickname": "Aquos Hawktor"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1b/Aquos_Hawktor_Closed.png/revision/latest?cb=20110621145453",
+      "nickname": "Aquos Hawktor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/07/Aquos_Hawktor_in_battle.png/revision/latest?cb=20110214223255",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Aquos_Hawktor.png/revision/latest?cb=20101214222636",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Hawktor_Swayther--Ball_Form.png/revision/latest?cb=20111230031111",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Hawktor_ballform_%28closed%29.png/revision/latest?cb=20120122041055",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Hawktor_Ball_form.PNG/revision/latest?cb=20101119214722",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/Ventus_Hawktor_%28closed%29.jpg/revision/latest?cb=20110614175539",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/Clear_Hawktor_Closed.png/revision/latest?cb=20110621145504",
+        "https://static.wikia.nocookie.net/bakugan/images/0/04/Haos_Hawktor_Closed.png/revision/latest?cb=20110621145524"
+      ]
     },
     {
       "id": "hawktor-ventus",
@@ -12570,8 +16255,18 @@ window.BAKU_DATA = {
       },
       "bio": "Shun’un Gundalia dönemi partneri. Hızda neredeyse rakipsiz. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f3/KeithStrife_Ventus_Hawktor.JPG/revision/latest?cb=20120816043444",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_Hawktor.png/revision/latest?cb=20100810103338",
-      "nickname": "Ventus Hawktor"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/64/Ventus_Hawktor_%28closed%29.jpg/revision/latest?cb=20110614175539",
+      "nickname": "Ventus Hawktor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f8/Ventus_Hawktor_Closed.png/revision/latest?cb=20110621145600",
+        "https://static.wikia.nocookie.net/bakugan/images/2/23/Ventus_Hawktor_%28open%29.jpg/revision/latest?cb=20110614175508",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Ventus_Hawktor_Open.png/revision/latest?cb=20110416190346",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/KeithStrife_Ventus_Hawktor.jpg/revision/latest?cb=20110827063904",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2f/20110321173418%21Ventus_Hawktor.png/revision/latest?cb=20110612141753",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Ventus_Hawktor.png/revision/latest?cb=20110321173418",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2c/Ventus_Hawktor.jpg/revision/latest?cb=20110101071255",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Ventus_nega_hawktor.jpg/revision/latest?cb=20101022233924"
+      ]
     },
     {
       "id": "hawktor-subterra",
@@ -12599,9 +16294,19 @@ window.BAKU_DATA = {
         "gForce": 93
       },
       "bio": "Shun’un Gundalia dönemi partneri. Hızda neredeyse rakipsiz. Bu kayıt Subterra (Toprak) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_Hawktor.png/revision/latest?cb=20100810103338",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_Hawktor.png/revision/latest?cb=20100810103338",
-      "nickname": "Subterra Hawktor"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5a/Subterra_Hawktor_Open.png/revision/latest?cb=20110416190334",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7f/Subterra_Hawktor_Closed.png/revision/latest?cb=20110621145550",
+      "nickname": "Subterra Hawktor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Subterra_Hawktor.png/revision/latest?cb=20110625215737",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Subterra_Damakor%E2%80%99s_head_%28Ep._30_Hawktor_attacks%29.png/revision/latest?cb=20251112035848",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Hawktor_Swayther--Ball_Form.png/revision/latest?cb=20111230031111",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Hawktor_ballform_%28closed%29.png/revision/latest?cb=20120122041055",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Hawktor_Ball_form.PNG/revision/latest?cb=20101119214722",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/Ventus_Hawktor_%28closed%29.jpg/revision/latest?cb=20110614175539",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/Clear_Hawktor_Closed.png/revision/latest?cb=20110621145504",
+        "https://static.wikia.nocookie.net/bakugan/images/0/04/Haos_Hawktor_Closed.png/revision/latest?cb=20110621145524"
+      ]
     },
     {
       "id": "hawktor-haos",
@@ -12630,8 +16335,18 @@ window.BAKU_DATA = {
       },
       "bio": "Shun’un Gundalia dönemi partneri. Hızda neredeyse rakipsiz. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f6/Haos_Hawktor.jpg/revision/latest?cb=20100426220834",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_Hawktor.png/revision/latest?cb=20100810103338",
-      "nickname": "Haos Hawktor"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/04/Haos_Hawktor_Closed.png/revision/latest?cb=20110621145524",
+      "nickname": "Haos Hawktor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/59/Haos_Hawktor_Open.png/revision/latest?cb=20110416190246",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/Haos_Hawktor.png/revision/latest?cb=20110625215609",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8b/Haosnega_hawktor.jpg/revision/latest?cb=20101022233804",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Hawktor_Swayther--Ball_Form.png/revision/latest?cb=20111230031111",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Hawktor_ballform_%28closed%29.png/revision/latest?cb=20120122041055",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Hawktor_Ball_form.PNG/revision/latest?cb=20101119214722",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/Ventus_Hawktor_%28closed%29.jpg/revision/latest?cb=20110614175539",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/Clear_Hawktor_Closed.png/revision/latest?cb=20110621145504"
+      ]
     },
     {
       "id": "hawktor-darkus",
@@ -12661,7 +16376,17 @@ window.BAKU_DATA = {
       "bio": "Shun’un Gundalia dönemi partneri. Hızda neredeyse rakipsiz. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f3/Translucent_Darkus_Hawktor.jpg/revision/latest?cb=20100728220025",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ae/BK_Hawktor.png/revision/latest?cb=20100810103338",
-      "nickname": "Darkus Hawktor"
+      "nickname": "Darkus Hawktor",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Darkus_Hawktor_Closed.png/revision/latest?cb=20110621145511",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Darkus_Hawktor_Open.png/revision/latest?cb=20110416190235",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2b/Darkus_Hawktor.png/revision/latest?cb=20110407101142",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ed/Darkus_nega_hawktor.jpg/revision/latest?cb=20101022234232",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Hawktor_Swayther--Ball_Form.png/revision/latest?cb=20111230031111",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Hawktor_ballform_%28closed%29.png/revision/latest?cb=20120122041055",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Hawktor_Ball_form.PNG/revision/latest?cb=20101119214722",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/Ventus_Hawktor_%28closed%29.jpg/revision/latest?cb=20110614175539"
+      ]
     },
     {
       "id": "helix-dragonoid-pyrus",
@@ -12690,8 +16415,18 @@ window.BAKU_DATA = {
       },
       "bio": "Gundalian Invaders’ın Drago’su. DNA sistemiyle attribute değiştirebilir. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/60/Pyrus_Helix_Dragonoid.jpg/revision/latest?cb=20120102185101",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b7/BC_Helixdragonoid.png/revision/latest?cb=20100517035819",
-      "nickname": "Pyrus Helix Dragonoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4a/KeithStrife_Pyrus_Helix_Dragonoid.jpg/revision/latest?cb=20110827064000",
+      "nickname": "Pyrus Helix Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Helix_Dragonoid_Pyrus.JPG/revision/latest?cb=20100714153826",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Z-Helix_Dragonoid_Ball_form.PNG/revision/latest?cb=20101119220519",
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/Helix_Dragonoid_attached_to_Jetkor_in_open_ball_form.jpg/revision/latest?cb=20250604221900",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/Helix_Dragonoid_open_ball_form.jpg/revision/latest?cb=20250604221758",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/--Helix_Dragonoid--%2C_--Lumino_Dragonoid--%2C_--Blitz_Dragonoid--%2C_--Titanium_Dragonoid--.jpg/revision/latest?cb=20110827012101",
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Helix-dragonoid-battle-gear-o.gif/revision/latest?cb=20100914083601",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Helix_Dragonoid_and_Rock_Hammer.jpg/revision/latest?cb=20100410201050",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Crimson_And_Pearl_Helix_Dragonoid.jpg/revision/latest?cb=20100613042753"
+      ]
     },
     {
       "id": "helix-dragonoid-aquos",
@@ -12720,8 +16455,18 @@ window.BAKU_DATA = {
       },
       "bio": "Gundalian Invaders’ın Drago’su. DNA sistemiyle attribute değiştirebilir. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b5/Aquos_helix_dragonoid.jpg/revision/latest?cb=20100307185736",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b7/BC_Helixdragonoid.png/revision/latest?cb=20100517035819",
-      "nickname": "Aquos Helix Dragonoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/96/Aquos_Helix_Dragonoid_BD.JPG/revision/latest?cb=20100612001522",
+      "nickname": "Aquos Helix Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e8/Aquos_Helix_Dragonoid.jpeg/revision/latest?cb=20101011151258",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Z-Helix_Dragonoid_Ball_form.PNG/revision/latest?cb=20101119220519",
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/Helix_Dragonoid_attached_to_Jetkor_in_open_ball_form.jpg/revision/latest?cb=20250604221900",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/Helix_Dragonoid_open_ball_form.jpg/revision/latest?cb=20250604221758",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/--Helix_Dragonoid--%2C_--Lumino_Dragonoid--%2C_--Blitz_Dragonoid--%2C_--Titanium_Dragonoid--.jpg/revision/latest?cb=20110827012101",
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Helix-dragonoid-battle-gear-o.gif/revision/latest?cb=20100914083601",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Helix_Dragonoid_and_Rock_Hammer.jpg/revision/latest?cb=20100410201050",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Crimson_And_Pearl_Helix_Dragonoid.jpg/revision/latest?cb=20100613042753"
+      ]
     },
     {
       "id": "helix-dragonoid-ventus",
@@ -12750,8 +16495,18 @@ window.BAKU_DATA = {
       },
       "bio": "Gundalian Invaders’ın Drago’su. DNA sistemiyle attribute değiştirebilir. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e8/Ventus_Helix_Dragonoid.png/revision/latest?cb=20110321173514",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b7/BC_Helixdragonoid.png/revision/latest?cb=20100517035819",
-      "nickname": "Ventus Helix Dragonoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e8/Ventus_Helix_Dragonoid.png/revision/latest?cb=20110321173514",
+      "nickname": "Ventus Helix Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a3/BakuCamo_Ventus_Helix_Dragonoid.jpg/revision/latest?cb=20100504003353",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Ventus_Helix_Dragonoid.jpg/revision/latest?cb=20110101071307",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d5/BakuCamo_Ventus_Helix_Dragonoid_2.jpg/revision/latest?cb=20100810202426",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Z-Helix_Dragonoid_Ball_form.PNG/revision/latest?cb=20101119220519",
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/Helix_Dragonoid_attached_to_Jetkor_in_open_ball_form.jpg/revision/latest?cb=20250604221900",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/Helix_Dragonoid_open_ball_form.jpg/revision/latest?cb=20250604221758",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/--Helix_Dragonoid--%2C_--Lumino_Dragonoid--%2C_--Blitz_Dragonoid--%2C_--Titanium_Dragonoid--.jpg/revision/latest?cb=20110827012101",
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Helix-dragonoid-battle-gear-o.gif/revision/latest?cb=20100914083601"
+      ]
     },
     {
       "id": "helix-dragonoid-subterra",
@@ -12780,8 +16535,18 @@ window.BAKU_DATA = {
       },
       "bio": "Gundalian Invaders’ın Drago’su. DNA sistemiyle attribute değiştirebilir. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/cd/Subterra_Helix_Dragonoid.jpg/revision/latest?cb=20100628055924",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b7/BC_Helixdragonoid.png/revision/latest?cb=20100517035819",
-      "nickname": "Subterra Helix Dragonoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/cd/Subterra_Helix_Dragonoid.jpg/revision/latest?cb=20100628055924",
+      "nickname": "Subterra Helix Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Z-Helix_Dragonoid_Ball_form.PNG/revision/latest?cb=20101119220519",
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/Helix_Dragonoid_attached_to_Jetkor_in_open_ball_form.jpg/revision/latest?cb=20250604221900",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/Helix_Dragonoid_open_ball_form.jpg/revision/latest?cb=20250604221758",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/--Helix_Dragonoid--%2C_--Lumino_Dragonoid--%2C_--Blitz_Dragonoid--%2C_--Titanium_Dragonoid--.jpg/revision/latest?cb=20110827012101",
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Helix-dragonoid-battle-gear-o.gif/revision/latest?cb=20100914083601",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Helix_Dragonoid_and_Rock_Hammer.jpg/revision/latest?cb=20100410201050",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Crimson_And_Pearl_Helix_Dragonoid.jpg/revision/latest?cb=20100613042753",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/2_Helix_Dragonoid_2_JetKor.jpg/revision/latest?cb=20100814043321"
+      ]
     },
     {
       "id": "helix-dragonoid-haos",
@@ -12810,8 +16575,18 @@ window.BAKU_DATA = {
       },
       "bio": "Gundalian Invaders’ın Drago’su. DNA sistemiyle attribute değiştirebilir. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/63/Haos_Helix_Dragonoid.jpg/revision/latest?cb=20100623173355",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b7/BC_Helixdragonoid.png/revision/latest?cb=20100517035819",
-      "nickname": "Haos Helix Dragonoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/63/Haos_Helix_Dragonoid.jpg/revision/latest?cb=20100623173355",
+      "nickname": "Haos Helix Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Haos_Helix_Dragonoid_2.jpg/revision/latest?cb=20100829005858",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Z-Helix_Dragonoid_Ball_form.PNG/revision/latest?cb=20101119220519",
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/Helix_Dragonoid_attached_to_Jetkor_in_open_ball_form.jpg/revision/latest?cb=20250604221900",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/Helix_Dragonoid_open_ball_form.jpg/revision/latest?cb=20250604221758",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/--Helix_Dragonoid--%2C_--Lumino_Dragonoid--%2C_--Blitz_Dragonoid--%2C_--Titanium_Dragonoid--.jpg/revision/latest?cb=20110827012101",
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Helix-dragonoid-battle-gear-o.gif/revision/latest?cb=20100914083601",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Helix_Dragonoid_and_Rock_Hammer.jpg/revision/latest?cb=20100410201050",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Crimson_And_Pearl_Helix_Dragonoid.jpg/revision/latest?cb=20100613042753"
+      ]
     },
     {
       "id": "helix-dragonoid-darkus",
@@ -12841,7 +16616,17 @@ window.BAKU_DATA = {
       "bio": "Gundalian Invaders’ın Drago’su. DNA sistemiyle attribute değiştirebilir. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c3/Darkus_Helix_Dragonoid.jpeg/revision/latest?cb=20101011193029",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b7/BC_Helixdragonoid.png/revision/latest?cb=20100517035819",
-      "nickname": "Darkus Helix Dragonoid"
+      "nickname": "Darkus Helix Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Z-Helix_Dragonoid_Ball_form.PNG/revision/latest?cb=20101119220519",
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/Helix_Dragonoid_attached_to_Jetkor_in_open_ball_form.jpg/revision/latest?cb=20250604221900",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/Helix_Dragonoid_open_ball_form.jpg/revision/latest?cb=20250604221758",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/--Helix_Dragonoid--%2C_--Lumino_Dragonoid--%2C_--Blitz_Dragonoid--%2C_--Titanium_Dragonoid--.jpg/revision/latest?cb=20110827012101",
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Helix-dragonoid-battle-gear-o.gif/revision/latest?cb=20100914083601",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Helix_Dragonoid_and_Rock_Hammer.jpg/revision/latest?cb=20100410201050",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Crimson_And_Pearl_Helix_Dragonoid.jpg/revision/latest?cb=20100613042753",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/2_Helix_Dragonoid_2_JetKor.jpg/revision/latest?cb=20100814043321"
+      ]
     },
     {
       "id": "jetro",
@@ -12869,8 +16654,18 @@ window.BAKU_DATA = {
         "gForce": 88
       },
       "bio": "Jetro, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ad/Jetro.png/revision/latest?cb=20100903130005",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ad/Jetro.png/revision/latest?cb=20100903130005"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/98/Pyrus_Jetro_Open.png/revision/latest?cb=20110320191145",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ad/Jetro.png/revision/latest?cb=20100903130005",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Pyrus_Jetro_Closed.png/revision/latest?cb=20110621155329",
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Pyrus_Jetro.png/revision/latest?cb=20110223223611",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b8/Clear_Jetro_Closed.png/revision/latest?cb=20110621155256",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bf/Haos_Jetro_Closed.png/revision/latest?cb=20110621155319",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Subterra_Jetro_Closed.png/revision/latest?cb=20110621155347",
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Ventus_Jetro_Closed.png/revision/latest?cb=20110621155359",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Aquos_Jetro_Closed.png/revision/latest?cb=20110621155246",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6e/Darkus_Jetro_Closed.png/revision/latest?cb=20110621155311"
+      ]
     },
     {
       "id": "krakix-pyrus",
@@ -12899,8 +16694,18 @@ window.BAKU_DATA = {
       },
       "bio": "Krakix, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/19/Translucent_Pyrus_Krakix.jpg/revision/latest?cb=20100811223904",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Pyrus Krakix"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/96/Pyrus_Krakix.png/revision/latest?cb=20101012000540",
+      "nickname": "Pyrus Krakix",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c7/Pyrus_Krakix_Open.png/revision/latest?cb=20110416203121",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b1/Pyrus_Krakix_BD.png/revision/latest?cb=20110224013606",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e8/KeithStrife_Pyrus_Krakix.JPG/revision/latest?cb=20120816043441",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e3/Pyrus_Krakix_BD.jpg/revision/latest?cb=20100829010739",
+        "https://static.wikia.nocookie.net/bakugan/images/0/03/Pyrus_krakix.png/revision/latest?cb=20101017034408",
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Pyrus_Krakix.jpg/revision/latest?cb=20100417194741",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Krakix_Vicer_Ball_Form.png/revision/latest?cb=20111230023436",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Krakix_Ballform_%28closed%29.png/revision/latest?cb=20120117231105"
+      ]
     },
     {
       "id": "krakix-aquos",
@@ -12928,9 +16733,19 @@ window.BAKU_DATA = {
         "gForce": 68
       },
       "bio": "Krakix, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/dc/BK_Krakix.png/revision/latest?cb=20100429162221",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Aquos Krakix"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/16/Aquos_Krakix_Open.png/revision/latest?cb=20110320191826",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/52/Aquos_Krakix_Closed.png/revision/latest?cb=20110621141626",
+      "nickname": "Aquos Krakix",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/db/Aquos_Krakix.png/revision/latest?cb=20110224013618",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Krakix_Vicer_Ball_Form.png/revision/latest?cb=20111230023436",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Krakix_Ballform_%28closed%29.png/revision/latest?cb=20120117231105",
+        "https://static.wikia.nocookie.net/bakugan/images/1/18/Clear_Krakix_Closed.png/revision/latest?cb=20110621141635",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/Haos_Krakix_Closed.png/revision/latest?cb=20110621141652",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Subterra_Krakix_Closed.png/revision/latest?cb=20110621141722",
+        "https://static.wikia.nocookie.net/bakugan/images/5/50/Ventus_Krakix_Closed.png/revision/latest?cb=20110621141742",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/LavaRock_Krakix_Closed.png/revision/latest?cb=20110621141703"
+      ]
     },
     {
       "id": "krakix-ventus",
@@ -12958,9 +16773,19 @@ window.BAKU_DATA = {
         "gForce": 68
       },
       "bio": "Krakix, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/dc/BK_Krakix.png/revision/latest?cb=20100429162221",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Ventus Krakix"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/19/Ventus_Krakix_Open.png/revision/latest?cb=20110320191836",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/50/Ventus_Krakix_Closed.png/revision/latest?cb=20110621141742",
+      "nickname": "Ventus Krakix",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Ventus_Krakix.png/revision/latest?cb=20110224013640",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Krakix_Vicer_Ball_Form.png/revision/latest?cb=20111230023436",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Krakix_Ballform_%28closed%29.png/revision/latest?cb=20120117231105",
+        "https://static.wikia.nocookie.net/bakugan/images/1/18/Clear_Krakix_Closed.png/revision/latest?cb=20110621141635",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/Haos_Krakix_Closed.png/revision/latest?cb=20110621141652",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Subterra_Krakix_Closed.png/revision/latest?cb=20110621141722",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Aquos_Krakix_Closed.png/revision/latest?cb=20110621141626",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/LavaRock_Krakix_Closed.png/revision/latest?cb=20110621141703"
+      ]
     },
     {
       "id": "krakix-subterra",
@@ -12989,8 +16814,18 @@ window.BAKU_DATA = {
       },
       "bio": "Krakix, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/cf/Subterra_Krakix.png/revision/latest?cb=20110224013701",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Subterra Krakix"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5a/Subterra_Krakix_Closed.png/revision/latest?cb=20110621141722",
+      "nickname": "Subterra Krakix",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/bd/Subterra_Krakix_Open.png/revision/latest?cb=20110320191858",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Krakix_Vicer_Ball_Form.png/revision/latest?cb=20111230023436",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Krakix_Ballform_%28closed%29.png/revision/latest?cb=20120117231105",
+        "https://static.wikia.nocookie.net/bakugan/images/1/18/Clear_Krakix_Closed.png/revision/latest?cb=20110621141635",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/Haos_Krakix_Closed.png/revision/latest?cb=20110621141652",
+        "https://static.wikia.nocookie.net/bakugan/images/5/50/Ventus_Krakix_Closed.png/revision/latest?cb=20110621141742",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Aquos_Krakix_Closed.png/revision/latest?cb=20110621141626",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/LavaRock_Krakix_Closed.png/revision/latest?cb=20110621141703"
+      ]
     },
     {
       "id": "krakix-haos",
@@ -13019,8 +16854,18 @@ window.BAKU_DATA = {
       },
       "bio": "Krakix, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f4/Haos_Krakix.png/revision/latest?cb=20110224013743",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Haos Krakix"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ee/Haos_Krakix_Closed.png/revision/latest?cb=20110621141652",
+      "nickname": "Haos Krakix",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/7/78/Haos_Krakix_Open.png/revision/latest?cb=20110320191920",
+        "https://static.wikia.nocookie.net/bakugan/images/6/62/Haos_Krakix_Battle_Crusher.jpg/revision/latest?cb=20100530205757",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Krakix_Vicer_Ball_Form.png/revision/latest?cb=20111230023436",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Krakix_Ballform_%28closed%29.png/revision/latest?cb=20120117231105",
+        "https://static.wikia.nocookie.net/bakugan/images/1/18/Clear_Krakix_Closed.png/revision/latest?cb=20110621141635",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Subterra_Krakix_Closed.png/revision/latest?cb=20110621141722",
+        "https://static.wikia.nocookie.net/bakugan/images/5/50/Ventus_Krakix_Closed.png/revision/latest?cb=20110621141742",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Aquos_Krakix_Closed.png/revision/latest?cb=20110621141626"
+      ]
     },
     {
       "id": "krakix-darkus",
@@ -13050,7 +16895,17 @@ window.BAKU_DATA = {
       "bio": "Krakix, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4f/Darkus_krakix.png/revision/latest?cb=20101011170436",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Darkus Krakix"
+      "nickname": "Darkus Krakix",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a5/Darkus_Krakix_Closed.png/revision/latest?cb=20110621141642",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/Darkus_Krakix_Open.png/revision/latest?cb=20110320191909",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Darkus_Krakix.png/revision/latest?cb=20110224013722",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Darkus_Krakix.jpeg/revision/latest?cb=20101011193029",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/BakuGranite_Darkus_Krakix_Lansor.jpg/revision/latest?cb=20100427221315",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bf/BakuGranite_Darkus_Krakix.jpg/revision/latest?cb=20100427221250",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Krakix_Vicer_Ball_Form.png/revision/latest?cb=20111230023436",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Krakix_Ballform_%28closed%29.png/revision/latest?cb=20120117231105"
+      ]
     },
     {
       "id": "linehalt-pyrus",
@@ -13079,8 +16934,18 @@ window.BAKU_DATA = {
       },
       "bio": "Yasaklı gücü olan bakugan. Ren’in sadakatiyle taraf değiştirir. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e7/Pyrus_Linehalt.jpg/revision/latest?cb=20100607215529",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/de/BK_Linehalt.png/revision/latest?cb=20100810103539",
-      "nickname": "Pyrus Linehalt"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/72/Pyrus_Linehalt_Closed.png/revision/latest?cb=20110621150000",
+      "nickname": "Pyrus Linehalt",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Pyrus_Linehalt_Open.png/revision/latest?cb=20110416180931",
+        "https://static.wikia.nocookie.net/bakugan/images/0/02/Pyrus_Linehalt_Copper_Rock_Hammer.jpg/revision/latest?cb=20100918223817",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Pyrus_Linehalt_Copper_Boomix.jpg/revision/latest?cb=20100929230817",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Pyrus_Linehalt.png/revision/latest?cb=20110922195251",
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/Pyrus_Linehalt.JPG/revision/latest?cb=20101225223547",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1c/Pyrus_Linehalt_BD.jpg/revision/latest?cb=20100918224638",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/Pyrus_linehalt.png/revision/latest?cb=20101011154922",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Linehalt_Boomix_Ball_Gear.jpg/revision/latest?cb=20100726005458"
+      ]
     },
     {
       "id": "linehalt-aquos",
@@ -13109,8 +16974,18 @@ window.BAKU_DATA = {
       },
       "bio": "Yasaklı gücü olan bakugan. Ren’in sadakatiyle taraf değiştirir. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b5/Aquos_Linehalt_Open.png/revision/latest?cb=20110416180830",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/de/BK_Linehalt.png/revision/latest?cb=20100810103539",
-      "nickname": "Aquos Linehalt"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/26/Aquos_Linehalt_Closed.png/revision/latest?cb=20110621145900",
+      "nickname": "Aquos Linehalt",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Aquos_Linehalt_Standing.png/revision/latest?cb=20111024200002",
+        "https://static.wikia.nocookie.net/bakugan/images/4/47/Aquos_Linehalt.png/revision/latest?cb=20110319203839",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Linehalt_Boomix_Ball_Gear.jpg/revision/latest?cb=20100726005458",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Haos_Linehalt_Closed.png/revision/latest?cb=20110621145951",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Clear_Linehalt_Closed.png/revision/latest?cb=20110621145912",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Subterra_Linehalt_Closed.png/revision/latest?cb=20110621150016",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/BlueGold_Linehalt_Closed.png/revision/latest?cb=20110621145938",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Ventus_Linehalt_Closed.png/revision/latest?cb=20110621150027"
+      ]
     },
     {
       "id": "linehalt-ventus",
@@ -13139,8 +17014,18 @@ window.BAKU_DATA = {
       },
       "bio": "Yasaklı gücü olan bakugan. Ren’in sadakatiyle taraf değiştirir. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5c/Ventus_Linehalt_Open.png/revision/latest?cb=20110416181002",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/de/BK_Linehalt.png/revision/latest?cb=20100810103539",
-      "nickname": "Ventus Linehalt"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Ventus_Linehalt_Closed.png/revision/latest?cb=20110621150027",
+      "nickname": "Ventus Linehalt",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Ventus_Linehalt.png/revision/latest?cb=20110319204123",
+        "https://static.wikia.nocookie.net/bakugan/images/1/18/Ventus_linehalt.png/revision/latest?cb=20100825034746",
+        "https://static.wikia.nocookie.net/bakugan/images/6/69/Ventus_Linehalt.jpg/revision/latest?cb=20100607215651",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Linehalt_Boomix_Ball_Gear.jpg/revision/latest?cb=20100726005458",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Haos_Linehalt_Closed.png/revision/latest?cb=20110621145951",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Clear_Linehalt_Closed.png/revision/latest?cb=20110621145912",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Subterra_Linehalt_Closed.png/revision/latest?cb=20110621150016",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/BlueGold_Linehalt_Closed.png/revision/latest?cb=20110621145938"
+      ]
     },
     {
       "id": "linehalt-subterra",
@@ -13169,8 +17054,18 @@ window.BAKU_DATA = {
       },
       "bio": "Yasaklı gücü olan bakugan. Ren’in sadakatiyle taraf değiştirir. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/21/Subterra_Linehalt_Open.png/revision/latest?cb=20110416180945",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/de/BK_Linehalt.png/revision/latest?cb=20100810103539",
-      "nickname": "Subterra Linehalt"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1b/Subterra_Linehalt_Closed.png/revision/latest?cb=20110621150016",
+      "nickname": "Subterra Linehalt",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e7/Subterra_Linehalt.png/revision/latest?cb=20101012003642",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/Subterra_Linehalt_Gold_Chompixx.jpg/revision/latest?cb=20100728204805",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Linehalt_Boomix_Ball_Gear.jpg/revision/latest?cb=20100726005458",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Haos_Linehalt_Closed.png/revision/latest?cb=20110621145951",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Clear_Linehalt_Closed.png/revision/latest?cb=20110621145912",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/BlueGold_Linehalt_Closed.png/revision/latest?cb=20110621145938",
+        "https://static.wikia.nocookie.net/bakugan/images/2/26/Aquos_Linehalt_Closed.png/revision/latest?cb=20110621145900",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Ventus_Linehalt_Closed.png/revision/latest?cb=20110621150027"
+      ]
     },
     {
       "id": "linehalt-haos",
@@ -13199,8 +17094,18 @@ window.BAKU_DATA = {
       },
       "bio": "Yasaklı gücü olan bakugan. Ren’in sadakatiyle taraf değiştirir. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/81/Haos_Linehalt.jpg/revision/latest?cb=20130408192424",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/de/BK_Linehalt.png/revision/latest?cb=20100810103539",
-      "nickname": "Haos Linehalt"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/56/Haos_Linehalt_Closed.png/revision/latest?cb=20110621145951",
+      "nickname": "Haos Linehalt",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Haos_Linehalt_Open.png/revision/latest?cb=20110416180920",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a3/Haos_Linehalt.png/revision/latest?cb=20110319204018",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Linehalt_Boomix_Ball_Gear.jpg/revision/latest?cb=20100726005458",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Clear_Linehalt_Closed.png/revision/latest?cb=20110621145912",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Subterra_Linehalt_Closed.png/revision/latest?cb=20110621150016",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/BlueGold_Linehalt_Closed.png/revision/latest?cb=20110621145938",
+        "https://static.wikia.nocookie.net/bakugan/images/2/26/Aquos_Linehalt_Closed.png/revision/latest?cb=20110621145900",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Ventus_Linehalt_Closed.png/revision/latest?cb=20110621150027"
+      ]
     },
     {
       "id": "linehalt-darkus",
@@ -13230,7 +17135,17 @@ window.BAKU_DATA = {
       "bio": "Yasaklı gücü olan bakugan. Ren’in sadakatiyle taraf değiştirir. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a2/Darkus_Linehalt_attack.png/revision/latest?cb=20100918035804",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/de/BK_Linehalt.png/revision/latest?cb=20100810103539",
-      "nickname": "Darkus Linehalt"
+      "nickname": "Darkus Linehalt",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9d/Darkus_Linehalt_Closed.png/revision/latest?cb=20110621145924",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Darkus_Linehalt_Open.png/revision/latest?cb=20110416180908",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Darkus_Linehalt_attacking.png/revision/latest?cb=20100918040034",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Darkus_Linehalt.png/revision/latest?cb=20110922014709",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/KeithStrife_Darkus_Linehalt.JPG/revision/latest?cb=20120816042935",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/Linehalt-darkus%2Bboomix-silver.png/revision/latest?cb=20100716041632",
+        "https://static.wikia.nocookie.net/bakugan/images/0/00/Linehalt-morph-darkus-package.jpg/revision/latest?cb=20100715113444",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Linehalt_Boomix_Ball_Gear.jpg/revision/latest?cb=20100726005458"
+      ]
     },
     {
       "id": "lockanoid",
@@ -13258,8 +17173,18 @@ window.BAKU_DATA = {
         "gForce": 68
       },
       "bio": "Lockanoid, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/35/BK_Lockanoid.png/revision/latest?cb=20101011173511",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/35/BK_Lockanoid.png/revision/latest?cb=20101011173511"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/26/Pyrus_Lockanoid_Open.png/revision/latest?cb=20110624050937",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/35/BK_Lockanoid.png/revision/latest?cb=20101011173511",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/81/Pyrus_Lockanoid_Closed.png/revision/latest?cb=20110621165544",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Pyrus_Lockanoid.png/revision/latest?cb=20110223130436",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bf/Haos_Lockanoid_Closed.png/revision/latest?cb=20110621165538",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Subterra_Lockanoid_Closed.png/revision/latest?cb=20110621165555",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4e/Clear_Lockanoid_Closed.png/revision/latest?cb=20110621165522",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d7/Aquos_Lockanoid_Closed.png/revision/latest?cb=20110621165515",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/Ventus_Lockanoid_Closed.png/revision/latest?cb=20110621165605",
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Darkus_Lockanoid_Closed.png/revision/latest?cb=20110621165528"
+      ]
     },
     {
       "id": "lumagrowl-pyrus",
@@ -13287,9 +17212,19 @@ window.BAKU_DATA = {
         "gForce": 55
       },
       "bio": "Lumagrowl, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c8/BC_Lumagrowl.png/revision/latest?cb=20100501072649",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c8/BC_Lumagrowl.png/revision/latest?cb=20100501072649",
-      "nickname": "Pyrus Lumagrowl"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/ca/Pyrus_Lumagrowl_Open.png/revision/latest?cb=20110427012317",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/33/Pyrus_lumagrowl.png/revision/latest?cb=20101017033910",
+      "nickname": "Pyrus Lumagrowl",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/ac/Pyrus_Lumagrowl_Clsoed.png/revision/latest?cb=20110621131805",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Clear_Lumagrowl_Closed.png/revision/latest?cb=20110621131731",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Haos_Lumagrowl_Closed.png/revision/latest?cb=20110621131748",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/Subterra_Lumagrowl_Closed.png/revision/latest?cb=20110621131813",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Aquos_Lumagrowl_Closed.png/revision/latest?cb=20110621131722",
+        "https://static.wikia.nocookie.net/bakugan/images/6/62/Ventus_Lumagrowl_Closed.png/revision/latest?cb=20110621131821",
+        "https://static.wikia.nocookie.net/bakugan/images/d/de/Darkus_Lumagrowl_Closed.png/revision/latest?cb=20110621131738",
+        "https://static.wikia.nocookie.net/bakugan/images/7/76/Clear_Lumagrowl_Open.png/revision/latest?cb=20110427012222"
+      ]
     },
     {
       "id": "lumagrowl-aquos",
@@ -13318,8 +17253,18 @@ window.BAKU_DATA = {
       },
       "bio": "Lumagrowl, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c8/Aquos_Lumagrowl_Closed.png/revision/latest?cb=20110621131722",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c8/BC_Lumagrowl.png/revision/latest?cb=20100501072649",
-      "nickname": "Aquos Lumagrowl"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c8/Aquos_Lumagrowl_Closed.png/revision/latest?cb=20110621131722",
+      "nickname": "Aquos Lumagrowl",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/Aquos_Lumagrowl_Open.png/revision/latest?cb=20110223000733",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Aquos_Lumagrowl.jpeg/revision/latest?cb=20101011151331",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fa/Aquos_lumagrowl.png/revision/latest?cb=20101017033841",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Clear_Lumagrowl_Closed.png/revision/latest?cb=20110621131731",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Haos_Lumagrowl_Closed.png/revision/latest?cb=20110621131748",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/Subterra_Lumagrowl_Closed.png/revision/latest?cb=20110621131813",
+        "https://static.wikia.nocookie.net/bakugan/images/6/62/Ventus_Lumagrowl_Closed.png/revision/latest?cb=20110621131821",
+        "https://static.wikia.nocookie.net/bakugan/images/d/de/Darkus_Lumagrowl_Closed.png/revision/latest?cb=20110621131738"
+      ]
     },
     {
       "id": "lumagrowl-ventus",
@@ -13348,8 +17293,18 @@ window.BAKU_DATA = {
       },
       "bio": "Lumagrowl, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c0/Translucent_Ventus_Lumagrowl.jpeg/revision/latest?cb=20120303053514",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c8/BC_Lumagrowl.png/revision/latest?cb=20100501072649",
-      "nickname": "Ventus Lumagrowl"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/62/Ventus_Lumagrowl_Closed.png/revision/latest?cb=20110621131821",
+      "nickname": "Ventus Lumagrowl",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/19/Ventus_Lumagrowl_Open.png/revision/latest?cb=20110427012359",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4f/Ventus_Translucent_Lumagrowl.jpeg/revision/latest?cb=20210516121939",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Clear_Lumagrowl_Closed.png/revision/latest?cb=20110621131731",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Haos_Lumagrowl_Closed.png/revision/latest?cb=20110621131748",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/Subterra_Lumagrowl_Closed.png/revision/latest?cb=20110621131813",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Aquos_Lumagrowl_Closed.png/revision/latest?cb=20110621131722",
+        "https://static.wikia.nocookie.net/bakugan/images/d/de/Darkus_Lumagrowl_Closed.png/revision/latest?cb=20110621131738",
+        "https://static.wikia.nocookie.net/bakugan/images/7/76/Clear_Lumagrowl_Open.png/revision/latest?cb=20110427012222"
+      ]
     },
     {
       "id": "lumagrowl-subterra",
@@ -13378,8 +17333,18 @@ window.BAKU_DATA = {
       },
       "bio": "Lumagrowl, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1a/Subterra_Lumagrowl_Open.png/revision/latest?cb=20110427012347",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c8/BC_Lumagrowl.png/revision/latest?cb=20100501072649",
-      "nickname": "Subterra Lumagrowl"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/aa/Subterra_Lumagrowl_Closed.png/revision/latest?cb=20110621131813",
+      "nickname": "Subterra Lumagrowl",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a0/Lumagrowl_Subterra.JPG/revision/latest?cb=20100712210033",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Clear_Lumagrowl_Closed.png/revision/latest?cb=20110621131731",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Haos_Lumagrowl_Closed.png/revision/latest?cb=20110621131748",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Aquos_Lumagrowl_Closed.png/revision/latest?cb=20110621131722",
+        "https://static.wikia.nocookie.net/bakugan/images/6/62/Ventus_Lumagrowl_Closed.png/revision/latest?cb=20110621131821",
+        "https://static.wikia.nocookie.net/bakugan/images/d/de/Darkus_Lumagrowl_Closed.png/revision/latest?cb=20110621131738",
+        "https://static.wikia.nocookie.net/bakugan/images/7/76/Clear_Lumagrowl_Open.png/revision/latest?cb=20110427012222",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Haos_Lumagrowl_Open.png/revision/latest?cb=20110427012300"
+      ]
     },
     {
       "id": "lumagrowl-haos",
@@ -13408,8 +17373,18 @@ window.BAKU_DATA = {
       },
       "bio": "Lumagrowl, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ed/Haos_Lumagrowl.jpg/revision/latest?cb=20100623174430",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c8/BC_Lumagrowl.png/revision/latest?cb=20100501072649",
-      "nickname": "Haos Lumagrowl"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e6/Haos_Lumagrowl_Closed.png/revision/latest?cb=20110621131748",
+      "nickname": "Haos Lumagrowl",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Haos_Lumagrowl_Open.png/revision/latest?cb=20110427012300",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Haos_Lumagrowl.png/revision/latest?cb=20110321174030",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c7/KeithStrife_Haos_Lumagrowl.JPG/revision/latest?cb=20120816042936",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d4/Haos_Lumagrowl_Victory_%21.png/revision/latest?cb=20110420022923",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Clear_Lumagrowl_Closed.png/revision/latest?cb=20110621131731",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/Subterra_Lumagrowl_Closed.png/revision/latest?cb=20110621131813",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Aquos_Lumagrowl_Closed.png/revision/latest?cb=20110621131722",
+        "https://static.wikia.nocookie.net/bakugan/images/6/62/Ventus_Lumagrowl_Closed.png/revision/latest?cb=20110621131821"
+      ]
     },
     {
       "id": "lumagrowl-darkus",
@@ -13439,7 +17414,17 @@ window.BAKU_DATA = {
       "bio": "Lumagrowl, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d3/Darkus_Lumagrowl.png/revision/latest?cb=20110407101553",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c8/BC_Lumagrowl.png/revision/latest?cb=20100501072649",
-      "nickname": "Darkus Lumagrowl"
+      "nickname": "Darkus Lumagrowl",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/de/Darkus_Lumagrowl_Closed.png/revision/latest?cb=20110621131738",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Darkus_Lumagrowl_Open.png/revision/latest?cb=20110427012234",
+        "https://static.wikia.nocookie.net/bakugan/images/4/48/Clear_Lumagrowl_Closed.png/revision/latest?cb=20110621131731",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Haos_Lumagrowl_Closed.png/revision/latest?cb=20110621131748",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/Subterra_Lumagrowl_Closed.png/revision/latest?cb=20110621131813",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Aquos_Lumagrowl_Closed.png/revision/latest?cb=20110621131722",
+        "https://static.wikia.nocookie.net/bakugan/images/6/62/Ventus_Lumagrowl_Closed.png/revision/latest?cb=20110621131821",
+        "https://static.wikia.nocookie.net/bakugan/images/7/76/Clear_Lumagrowl_Open.png/revision/latest?cb=20110427012222"
+      ]
     },
     {
       "id": "lumino-dragonoid",
@@ -13467,8 +17452,18 @@ window.BAKU_DATA = {
         "gForce": 96
       },
       "bio": "Helix’in ışıklı evrimi. Neathia savaşında umut sembolü.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ec/BK_Lumino_Dragonoid.png/revision/latest?cb=20100429162547",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f5/Pyrus_Lumino_Dragonoid_%28open%29.jpg/revision/latest?cb=20110614174231",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e9/Pyrus_Lumino_Dragonoid_%28closed%29.jpg/revision/latest?cb=20110614174243",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Haos_Contestir_as_Pyrus_Lumino_Dragonoid.png/revision/latest?cb=20111102110817",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Pyrus_Lumino_Dragonoid.png/revision/latest?cb=20150422130820",
+        "https://static.wikia.nocookie.net/bakugan/images/8/83/Pyrus_Lumino_Dragonoid.jpg/revision/latest?cb=20100417200642",
+        "https://static.wikia.nocookie.net/bakugan/images/9/93/Lumino_Dragonoid_ball_form.gif/revision/latest?cb=20100810165053",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bf/Lumino_Dragonoid_Ball.jpg/revision/latest?cb=20100809213839",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/--Helix_Dragonoid--%2C_--Lumino_Dragonoid--%2C_--Blitz_Dragonoid--%2C_--Titanium_Dragonoid--.jpg/revision/latest?cb=20110827012101",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7d/Lumino_Dragonoid.png/revision/latest?cb=20191014003202"
+      ]
     },
     {
       "id": "luxtor",
@@ -13496,8 +17491,18 @@ window.BAKU_DATA = {
         "gForce": 58
       },
       "bio": "Luxtor, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/09/Luxtor.png/revision/latest?cb=20100903130806",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/09/Luxtor.png/revision/latest?cb=20100903130806"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/dc/Pyrus_Luxtor_Open.png/revision/latest?cb=20110409100858",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/09/Luxtor.png/revision/latest?cb=20100903130806",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/69/Pyrus_Luxtor_Closed.png/revision/latest?cb=20110621155813",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Pyrus_Luxtor.png/revision/latest?cb=20110223223007",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/Haos_Luxtor_Closed.png/revision/latest?cb=20110621155721",
+        "https://static.wikia.nocookie.net/bakugan/images/7/79/Clear_Luxtor_Closed.png/revision/latest?cb=20110621155646",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e8/Subterra_Luxtor_Closed.png/revision/latest?cb=20110621155828",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cf/Ventus_Luxtor_Closed.png/revision/latest?cb=20110621155839",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Aquos_Luxtor_Closed.png/revision/latest?cb=20110621155639",
+        "https://static.wikia.nocookie.net/bakugan/images/3/32/Darkus_Luxtor_Closed.png/revision/latest?cb=20110621155708"
+      ]
     },
     {
       "id": "lythirus-pyrus",
@@ -13526,8 +17531,18 @@ window.BAKU_DATA = {
       },
       "bio": "Jesse’nin partneri. Görkem ve zehir bir arada. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/31/Pyrus_Lythirus.png/revision/latest?cb=20110223133939",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/BK_Lythirus.png/revision/latest?cb=20100806211256",
-      "nickname": "Pyrus Lythirus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/95/Pyrus_Lythirus_Closed.png/revision/latest?cb=20110621150311",
+      "nickname": "Pyrus Lythirus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Pyrus_Lythirus_Open.png/revision/latest?cb=20110625235516",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/Lythirus_Ballform_%28closed%29.png/revision/latest?cb=20120121025241",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Clear_Lythirus_Closed.png/revision/latest?cb=20110621150248",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Haos_Lythirus_Closed.png/revision/latest?cb=20110621150303",
+        "https://static.wikia.nocookie.net/bakugan/images/1/19/Subterra_Lythirus_Closed.png/revision/latest?cb=20110621150325",
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Ventus_Lythirus_Closed.png/revision/latest?cb=20110621150339",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e2/Aquos_Lythirus_Closed.png/revision/latest?cb=20110621150235",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c1/Darkus_Lythirus_Closed.png/revision/latest?cb=20110621150255"
+      ]
     },
     {
       "id": "lythirus-aquos",
@@ -13556,8 +17571,18 @@ window.BAKU_DATA = {
       },
       "bio": "Jesse’nin partneri. Görkem ve zehir bir arada. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e2/Aquos_Lythirus_Closed.png/revision/latest?cb=20110621150235",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/BK_Lythirus.png/revision/latest?cb=20100806211256",
-      "nickname": "Aquos Lythirus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/Aquos_Lythirus_Closed.png/revision/latest?cb=20110621150235",
+      "nickname": "Aquos Lythirus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Aquos_Lythirus_Open.png/revision/latest?cb=20140809144535",
+        "https://static.wikia.nocookie.net/bakugan/images/6/62/Aquos_Lythirus.png/revision/latest?cb=20101012005652",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/Aquos_Lythirus_BD.png/revision/latest?cb=20110223133930",
+        "https://static.wikia.nocookie.net/bakugan/images/2/23/Traslucent_aquos_lythirus_850_GS%21%21.jpg/revision/latest?cb=20100715204724",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/Lythirus_Ballform_%28closed%29.png/revision/latest?cb=20120121025241",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Clear_Lythirus_Closed.png/revision/latest?cb=20110621150248",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Haos_Lythirus_Closed.png/revision/latest?cb=20110621150303",
+        "https://static.wikia.nocookie.net/bakugan/images/1/19/Subterra_Lythirus_Closed.png/revision/latest?cb=20110621150325"
+      ]
     },
     {
       "id": "lythirus-ventus",
@@ -13585,9 +17610,19 @@ window.BAKU_DATA = {
         "gForce": 89
       },
       "bio": "Jesse’nin partneri. Görkem ve zehir bir arada. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3d/BK_Lythirus.png/revision/latest?cb=20100806211256",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/BK_Lythirus.png/revision/latest?cb=20100806211256",
-      "nickname": "Ventus Lythirus"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a6/Ventus_Lythirus_Open.png/revision/latest?cb=20110625235534",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/35/Ventus_Lythirus_Closed.png/revision/latest?cb=20110621150339",
+      "nickname": "Ventus Lythirus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Ventus_Lythirus.png/revision/latest?cb=20101017141505",
+        "https://static.wikia.nocookie.net/bakugan/images/7/70/Ventus_Lythirus_BD.png/revision/latest?cb=20110223134024",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/Lythirus_Ballform_%28closed%29.png/revision/latest?cb=20120121025241",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Clear_Lythirus_Closed.png/revision/latest?cb=20110621150248",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Haos_Lythirus_Closed.png/revision/latest?cb=20110621150303",
+        "https://static.wikia.nocookie.net/bakugan/images/1/19/Subterra_Lythirus_Closed.png/revision/latest?cb=20110621150325",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e2/Aquos_Lythirus_Closed.png/revision/latest?cb=20110621150235",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c1/Darkus_Lythirus_Closed.png/revision/latest?cb=20110621150255"
+      ]
     },
     {
       "id": "lythirus-subterra",
@@ -13616,8 +17651,18 @@ window.BAKU_DATA = {
       },
       "bio": "Jesse’nin partneri. Görkem ve zehir bir arada. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8d/Subterra_Lythirus_Open.png/revision/latest?cb=20110625235525",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/BK_Lythirus.png/revision/latest?cb=20100806211256",
-      "nickname": "Subterra Lythirus"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/19/Subterra_Lythirus_Closed.png/revision/latest?cb=20110621150325",
+      "nickname": "Subterra Lythirus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/24/Subterra_Lythirus.png/revision/latest?cb=20110223134052",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/Lythirus_Ballform_%28closed%29.png/revision/latest?cb=20120121025241",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Clear_Lythirus_Closed.png/revision/latest?cb=20110621150248",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Haos_Lythirus_Closed.png/revision/latest?cb=20110621150303",
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Ventus_Lythirus_Closed.png/revision/latest?cb=20110621150339",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e2/Aquos_Lythirus_Closed.png/revision/latest?cb=20110621150235",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c1/Darkus_Lythirus_Closed.png/revision/latest?cb=20110621150255",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Pyrus_Lythirus_Closed.png/revision/latest?cb=20110621150311"
+      ]
     },
     {
       "id": "lythirus-haos",
@@ -13645,9 +17690,19 @@ window.BAKU_DATA = {
         "gForce": 89
       },
       "bio": "Jesse’nin partneri. Görkem ve zehir bir arada. Bu kayıt Haos (Işık) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3d/BK_Lythirus.png/revision/latest?cb=20100806211256",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/BK_Lythirus.png/revision/latest?cb=20100806211256",
-      "nickname": "Haos Lythirus"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9e/Haos_Lythirus_Open.png/revision/latest?cb=20110625235505",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/52/Haos_Lythirus_Closed.png/revision/latest?cb=20110621150303",
+      "nickname": "Haos Lythirus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/Haos_Lythirus.png/revision/latest?cb=20110223134131",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/Lythirus_Ballform_%28closed%29.png/revision/latest?cb=20120121025241",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Clear_Lythirus_Closed.png/revision/latest?cb=20110621150248",
+        "https://static.wikia.nocookie.net/bakugan/images/1/19/Subterra_Lythirus_Closed.png/revision/latest?cb=20110621150325",
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Ventus_Lythirus_Closed.png/revision/latest?cb=20110621150339",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e2/Aquos_Lythirus_Closed.png/revision/latest?cb=20110621150235",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c1/Darkus_Lythirus_Closed.png/revision/latest?cb=20110621150255",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Pyrus_Lythirus_Closed.png/revision/latest?cb=20110621150311"
+      ]
     },
     {
       "id": "lythirus-darkus",
@@ -13677,7 +17732,17 @@ window.BAKU_DATA = {
       "bio": "Jesse’nin partneri. Görkem ve zehir bir arada. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c1/Darkus_Lythirus_Closed.png/revision/latest?cb=20110621150255",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3d/BK_Lythirus.png/revision/latest?cb=20100806211256",
-      "nickname": "Darkus Lythirus"
+      "nickname": "Darkus Lythirus",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Darkus_Lythirus_Open.png/revision/latest?cb=20110625235453",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Darkus_Lythirus.png/revision/latest?cb=20110223134114",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/Lythirus_Ballform_%28closed%29.png/revision/latest?cb=20120121025241",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Clear_Lythirus_Closed.png/revision/latest?cb=20110621150248",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Haos_Lythirus_Closed.png/revision/latest?cb=20110621150303",
+        "https://static.wikia.nocookie.net/bakugan/images/1/19/Subterra_Lythirus_Closed.png/revision/latest?cb=20110621150325",
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Ventus_Lythirus_Closed.png/revision/latest?cb=20110621150339",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e2/Aquos_Lythirus_Closed.png/revision/latest?cb=20110621150235"
+      ]
     },
     {
       "id": "megarus",
@@ -13705,8 +17770,18 @@ window.BAKU_DATA = {
         "gForce": 77
       },
       "bio": "Megarus, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/bc/BK_Megarus.png/revision/latest?cb=20101011175527",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/bc/BK_Megarus.png/revision/latest?cb=20101011175527"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d1/Aquos_Megarus_Open.png/revision/latest?cb=20110222235707",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/bc/BK_Megarus.png/revision/latest?cb=20101011175527",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/Aquos_Megarus_Closed.png/revision/latest?cb=20110621165952",
+        "https://static.wikia.nocookie.net/bakugan/images/1/16/Aquos_Megarus_took_a_hit_%28Ep._24%29.png/revision/latest?cb=20251118044224",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Aquos_Megarus.png/revision/latest?cb=20110701051016",
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/KeithStrife_Aquos_Megarus.jpg/revision/latest?cb=20130112155258",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6e/Aquos_Megarus.jpg/revision/latest?cb=20100811224404",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/Megarus_aquosx.jpg/revision/latest?cb=20100617120400",
+        "https://static.wikia.nocookie.net/bakugan/images/6/64/Clear_Megarus_Closed.png/revision/latest?cb=20110621165959",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ed/Haos_Megarus_Closed.png/revision/latest?cb=20110621170015"
+      ]
     },
     {
       "id": "nastix",
@@ -13734,8 +17809,18 @@ window.BAKU_DATA = {
         "gForce": 81
       },
       "bio": "Nastix, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/95/BK_Nastix.png/revision/latest?cb=20101011175854",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/95/BK_Nastix.png/revision/latest?cb=20101011175854"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1e/Pyrus_Nastix_Open.png/revision/latest?cb=20110508203948",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/95/BK_Nastix.png/revision/latest?cb=20101011175854",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Pyrus_Nastix_Closed.png/revision/latest?cb=20110621170346",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/Pyrus_Nastix.png/revision/latest?cb=20110624052416",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Clear_Nastix_Closed.png/revision/latest?cb=20110621170321",
+        "https://static.wikia.nocookie.net/bakugan/images/3/37/Haos_Nastix_Closed.png/revision/latest?cb=20110621170338",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Subterra_Nastix_Closed.png/revision/latest?cb=20110621170356",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4e/Aquos_Nastix_Closed.png/revision/latest?cb=20110621170314",
+        "https://static.wikia.nocookie.net/bakugan/images/5/50/Ventus_Nastix_Closed.png/revision/latest?cb=20110621170406",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/Darkus_Nastix_Closed.png/revision/latest?cb=20110621170330"
+      ]
     },
     {
       "id": "olifus",
@@ -13763,8 +17848,18 @@ window.BAKU_DATA = {
         "gForce": 71
       },
       "bio": "Olifus, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/42/BK_Olifus.png/revision/latest?cb=20101011173000",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/42/BK_Olifus.png/revision/latest?cb=20101011173000"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/30/Pyrus_Olifus_Open.png/revision/latest?cb=20110626000050",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/42/BK_Olifus.png/revision/latest?cb=20101011173000",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Pyrus_Olifus_Closed.png/revision/latest?cb=20110621170802",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cd/Pyrus_Olifus.png/revision/latest?cb=20110223133345",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9a/Clear_Olifus_Closed.png/revision/latest?cb=20110621170736",
+        "https://static.wikia.nocookie.net/bakugan/images/8/82/Haos_Olifus_Closed.png/revision/latest?cb=20110621170755",
+        "https://static.wikia.nocookie.net/bakugan/images/7/75/Subterra_Olifus_Closed.png/revision/latest?cb=20110621170811",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6e/Aquos_Olifus_Closed.png/revision/latest?cb=20110621170727",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/Ventus_Olifus_Closed.png/revision/latest?cb=20110621170826",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5b/Darkus_Olifus_Closed.png/revision/latest?cb=20110621170747"
+      ]
     },
     {
       "id": "phantom-dharak",
@@ -13793,7 +17888,17 @@ window.BAKU_DATA = {
       },
       "bio": "Dharak’ın phantom formu. Code Eve’e uzanan karanlık yol.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1e/Phantom_Dharak.png/revision/latest?cb=20100903131517",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1e/Phantom_Dharak.png/revision/latest?cb=20100903131517"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1e/Phantom_Dharak.png/revision/latest?cb=20100903131517",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/66/AM_phantom_dharak.png/revision/latest?cb=20110410020624",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6a/Phantom_Dharak_roaring.png/revision/latest?cb=20151129171830",
+        "https://static.wikia.nocookie.net/bakugan/images/4/47/Phantom_Dharak_using_ability_Exodus_Shaker.png/revision/latest?cb=20151129162139",
+        "https://static.wikia.nocookie.net/bakugan/images/3/30/Phantom_Dharak_using_ability_Lavolta.png/revision/latest?cb=20151129162147",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e1/Phantom_Dharak_using_ability_Thunder_Gladiator.png/revision/latest?cb=20151129171641",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Phantom_Dharak_about_to_use_ability_Exodus_Shaker.png/revision/latest?cb=20151129162000",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Phantom_Dharak_on_Sacred_Orb.png/revision/latest?cb=20151129171855",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Phantom_Dharak_using_ability_Tempest_Shield.png/revision/latest?cb=20151129171631"
+      ]
     },
     {
       "id": "phosphos-pyrus",
@@ -13822,8 +17927,18 @@ window.BAKU_DATA = {
       },
       "bio": "Phosphos, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a4/Pyrus_Phosphos_Gold_Terrorcrest.jpg/revision/latest?cb=20100728230123",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e7/BC_Phosphos.png/revision/latest?cb=20100501072358",
-      "nickname": "Pyrus Phosphos"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/63/Pyrus_Phosphos_Closed.png/revision/latest?cb=20110621132549",
+      "nickname": "Pyrus Phosphos",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Pyrus_Phosphos_Open.png/revision/latest?cb=20110416182037",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9c/Pyrus_Phosphos.png/revision/latest?cb=20110922195343",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Pyrus_phosphos.png/revision/latest?cb=20100825133815",
+        "https://static.wikia.nocookie.net/bakugan/images/d/db/Ventus_Phosphos_riding_on_Pyrus_Ramdol.jpg/revision/latest?cb=20131026185339",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/Phosphos_ball.JPG/revision/latest?cb=20100727211646",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Abyss_Phosphos_Ball_Form.png/revision/latest?cb=20120706075758",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/Haos_Phosphos_Closed.png/revision/latest?cb=20110621132539",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Clear_Phosphos_Closed.png/revision/latest?cb=20110621132516"
+      ]
     },
     {
       "id": "phosphos-aquos",
@@ -13852,8 +17967,18 @@ window.BAKU_DATA = {
       },
       "bio": "Phosphos, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3f/KeithStrife_Aquos_Phosphos_Wave5.jpg/revision/latest?cb=20121216165859",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e7/BC_Phosphos.png/revision/latest?cb=20100501072358",
-      "nickname": "Aquos Phosphos"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/73/Aquos_Phosphos_Closed.png/revision/latest?cb=20110621132509",
+      "nickname": "Aquos Phosphos",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/Aquos_Phosphos_Open.png/revision/latest?cb=20110416181943",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f6/KeithStrife_Aquos_Phosphos.jpg/revision/latest?cb=20121023025629",
+        "https://static.wikia.nocookie.net/bakugan/images/5/53/Aquos_Phosphos.png/revision/latest?cb=20110922014921",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Aquos_phosphos.jpg/revision/latest?cb=20100726212057",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e7/Aquos_Phosphos.jpg/revision/latest?cb=20110101070644",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/Phosphos_ball.JPG/revision/latest?cb=20100727211646",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Abyss_Phosphos_Ball_Form.png/revision/latest?cb=20120706075758",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/Haos_Phosphos_Closed.png/revision/latest?cb=20110621132539"
+      ]
     },
     {
       "id": "phosphos-ventus",
@@ -13882,8 +18007,18 @@ window.BAKU_DATA = {
       },
       "bio": "Phosphos, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/62/Ventus_Phosphos_Open.png/revision/latest?cb=20110416182102",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e7/BC_Phosphos.png/revision/latest?cb=20100501072358",
-      "nickname": "Ventus Phosphos"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/be/Ventus_Phosphos_Closed.png/revision/latest?cb=20110621132605",
+      "nickname": "Ventus Phosphos",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Ventus_Phosphos.png/revision/latest?cb=20110223142647",
+        "https://static.wikia.nocookie.net/bakugan/images/d/db/Ventus_Phosphos_riding_on_Pyrus_Ramdol.jpg/revision/latest?cb=20131026185339",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/Phosphos_ball.JPG/revision/latest?cb=20100727211646",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Abyss_Phosphos_Ball_Form.png/revision/latest?cb=20120706075758",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/Haos_Phosphos_Closed.png/revision/latest?cb=20110621132539",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Clear_Phosphos_Closed.png/revision/latest?cb=20110621132516",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d5/Subterra_Phosphos_Closed.png/revision/latest?cb=20110621132558",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bf/Phosphos_Ball.jpg/revision/latest?cb=20100728230048"
+      ]
     },
     {
       "id": "phosphos-subterra",
@@ -13911,9 +18046,19 @@ window.BAKU_DATA = {
         "gForce": 61
       },
       "bio": "Phosphos, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e7/BC_Phosphos.png/revision/latest?cb=20100501072358",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e7/BC_Phosphos.png/revision/latest?cb=20100501072358",
-      "nickname": "Subterra Phosphos"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a6/Subterra_Phosphos_Open.png/revision/latest?cb=20110416182052",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d5/Subterra_Phosphos_Closed.png/revision/latest?cb=20110621132558",
+      "nickname": "Subterra Phosphos",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Subterra_Phosphos.png/revision/latest?cb=20110223142734",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/Phosphos_ball.JPG/revision/latest?cb=20100727211646",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Abyss_Phosphos_Ball_Form.png/revision/latest?cb=20120706075758",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/Haos_Phosphos_Closed.png/revision/latest?cb=20110621132539",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Clear_Phosphos_Closed.png/revision/latest?cb=20110621132516",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bf/Phosphos_Ball.jpg/revision/latest?cb=20100728230048",
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/Aquos_Phosphos_Closed.png/revision/latest?cb=20110621132509",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Ventus_Phosphos_Closed.png/revision/latest?cb=20110621132605"
+      ]
     },
     {
       "id": "phosphos-haos",
@@ -13942,8 +18087,18 @@ window.BAKU_DATA = {
       },
       "bio": "Phosphos, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/28/Haos_Phosphos_Open.png/revision/latest?cb=20110416182025",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e7/BC_Phosphos.png/revision/latest?cb=20100501072358",
-      "nickname": "Haos Phosphos"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4a/Haos_Phosphos_Closed.png/revision/latest?cb=20110621132539",
+      "nickname": "Haos Phosphos",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Haos_Phosphos.png/revision/latest?cb=20110223142632",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/Phosphos_ball.JPG/revision/latest?cb=20100727211646",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Abyss_Phosphos_Ball_Form.png/revision/latest?cb=20120706075758",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Clear_Phosphos_Closed.png/revision/latest?cb=20110621132516",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d5/Subterra_Phosphos_Closed.png/revision/latest?cb=20110621132558",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bf/Phosphos_Ball.jpg/revision/latest?cb=20100728230048",
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/Aquos_Phosphos_Closed.png/revision/latest?cb=20110621132509",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Ventus_Phosphos_Closed.png/revision/latest?cb=20110621132605"
+      ]
     },
     {
       "id": "phosphos-darkus",
@@ -13973,7 +18128,17 @@ window.BAKU_DATA = {
       "bio": "Phosphos, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/41/Darkus_Phosphos.JPG/revision/latest?cb=20100413095203",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e7/BC_Phosphos.png/revision/latest?cb=20100501072358",
-      "nickname": "Darkus Phosphos"
+      "nickname": "Darkus Phosphos",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Darkus_Phosphos_Closed.png/revision/latest?cb=20110621132526",
+        "https://static.wikia.nocookie.net/bakugan/images/d/da/Darkus_Phosphos_Open.png/revision/latest?cb=20110416182000",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e8/Darkus_Phosphos.png/revision/latest?cb=20110223142715",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bc/Darkus_phosphos.png/revision/latest?cb=20101017034250",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/Phosphos_ball.JPG/revision/latest?cb=20100727211646",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Abyss_Phosphos_Ball_Form.png/revision/latest?cb=20120706075758",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/Haos_Phosphos_Closed.png/revision/latest?cb=20110621132539",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Clear_Phosphos_Closed.png/revision/latest?cb=20110621132516"
+      ]
     },
     {
       "id": "plitheon",
@@ -14001,8 +18166,18 @@ window.BAKU_DATA = {
         "gForce": 90
       },
       "bio": "Plitheon, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/79/BK_Plitheon.png/revision/latest?cb=20100810103824",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/79/BK_Plitheon.png/revision/latest?cb=20100810103824"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5a/Pyrus_Plitheon_Open.png/revision/latest?cb=20110416185827",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/79/BK_Plitheon.png/revision/latest?cb=20100810103824",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Pyrus_Plitheon_Closed.png/revision/latest?cb=20110621151545",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b2/Pyrus_Plitheon.png/revision/latest?cb=20110625233638",
+        "https://static.wikia.nocookie.net/bakugan/images/9/96/Plitheon_Vilantor_Gear_Ball.png/revision/latest?cb=20111226011043",
+        "https://static.wikia.nocookie.net/bakugan/images/7/70/Plitheon_Ball_Form.png/revision/latest?cb=20111226004423",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/Giga_Plitheon_Ball_Form_%28New_Version%29.png/revision/latest?cb=20120704084001",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6b/Plitheon_Ball.jpg/revision/latest?cb=20100628185335",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Haos_Plitheon_Closed.png/revision/latest?cb=20110621151535",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Subterra_Plitheon_Closed.png/revision/latest?cb=20110621151556"
+      ]
     },
     {
       "id": "ramdol",
@@ -14030,8 +18205,18 @@ window.BAKU_DATA = {
         "gForce": 61
       },
       "bio": "Ramdol, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6c/BK_Ramdol.png/revision/latest?cb=20101011175038",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6c/BK_Ramdol.png/revision/latest?cb=20101011175038"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/7b/Haos_Ramdol_Open.png/revision/latest?cb=20110624050212",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6c/BK_Ramdol.png/revision/latest?cb=20101011175038",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Haos_Ramdol_Closed.png/revision/latest?cb=20110621171233",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Haos_Ramdol.png/revision/latest?cb=20110223124710",
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Clear_Ramdol_Closed.png/revision/latest?cb=20110621171218",
+        "https://static.wikia.nocookie.net/bakugan/images/6/68/Subterra_Ramdol_Closed.png/revision/latest?cb=20110621171248",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Aquos_Ramdol_Closed.png/revision/latest?cb=20110621171211",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/Ventus_Ramdol_Closed.png/revision/latest?cb=20110621171255",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Darkus_Ramdol_Closed.png/revision/latest?cb=20110621171224",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Clear_Ramdol_Open.png/revision/latest?cb=20110624050136"
+      ]
     },
     {
       "id": "rickoran",
@@ -14059,8 +18244,18 @@ window.BAKU_DATA = {
         "gForce": 70
       },
       "bio": "Rickoran, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/65/BK_Rickoran.png/revision/latest?cb=20101011180337",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/65/BK_Rickoran.png/revision/latest?cb=20101011180337"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8c/Pyrus_Rickoran_Open.png/revision/latest?cb=20110624055317",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/65/BK_Rickoran.png/revision/latest?cb=20101011180337",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b1/Pyrus_Rickoran_Closed.png/revision/latest?cb=20110621172249",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/Pyrus_Rickoran.png/revision/latest?cb=20110223125048",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/KeithStrife_Pyrus_Rickoran.jpg/revision/latest?cb=20130125143753",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d4/Clear_Rickoran_Closed.png/revision/latest?cb=20110621172224",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Haos_Rickoran_Closed.png/revision/latest?cb=20110621172242",
+        "https://static.wikia.nocookie.net/bakugan/images/d/df/Subterra_Rickoran_Closed.png/revision/latest?cb=20110621172255",
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/Aquos_Rickoran_Closed.png/revision/latest?cb=20110621172217",
+        "https://static.wikia.nocookie.net/bakugan/images/d/da/Ventus_Rickoran_Closed.png/revision/latest?cb=20110621172303"
+      ]
     },
     {
       "id": "rubanoid",
@@ -14088,8 +18283,18 @@ window.BAKU_DATA = {
         "gForce": 77
       },
       "bio": "Rubanoid, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c1/BK_Rubanoid.png/revision/latest?cb=20100810103106",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c1/BK_Rubanoid.png/revision/latest?cb=20100810103106"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/75/Pyrus_Rubanoid_Open.png/revision/latest?cb=20110418004418",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c1/BK_Rubanoid.png/revision/latest?cb=20100810103106",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9f/Pyrus_Rubanoid_Closed.png/revision/latest?cb=20110621151922",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Haos_Aranaut_defeats_Pyrus_Rubanoid_%28Season_3%2C_Episode_26%29.png/revision/latest?cb=20251215192428",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fa/Pyrus_Rubanoid.png/revision/latest?cb=20110922195417",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/KeithStrife_Pyrus_Rubanoid_Opaque.JPG/revision/latest?cb=20120815190519",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f3/KeithStrife_Pyrus_Rubanoid_Lyte.JPG/revision/latest?cb=20120816043442",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1c/Pyrus_Rubanoid_w_Destrakon_Gear.JPG/revision/latest?cb=20110621140922",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Pyrus_Rubanoid_w_Destrakon_Gear.jpg/revision/latest?cb=20110621143932",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Pyrus-Subterra-Haos-Darkus-Aquos-Ventus_Rubanoid.png/revision/latest?cb=20110822103923"
+      ]
     },
     {
       "id": "sabator-pyrus",
@@ -14117,9 +18322,19 @@ window.BAKU_DATA = {
         "gForce": 94
       },
       "bio": "Sabator, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_Sabator.png/revision/latest?cb=20100429162920",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_Sabator.png/revision/latest?cb=20100429162920",
-      "nickname": "Pyrus Sabator"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b2/Pyrus_Sabator_Open.png/revision/latest?cb=20110416203001",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/1b/Pyrus_Sabator_Ball.png/revision/latest?cb=20110515214347",
+      "nickname": "Pyrus Sabator",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/Pyrus_Sabator_Closed.png/revision/latest?cb=20110621142821",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c5/Pyrus_Sabator.png/revision/latest?cb=20110225010157",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c9/Sabator_Chompixx_-Ball_Form.png/revision/latest?cb=20111230015328",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Haos_Sabator_Closed.png/revision/latest?cb=20110621142806",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Subterra_Sabator_Closed.png/revision/latest?cb=20110621142839",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Aquos_Sabator_Closed.png/revision/latest?cb=20110621142731",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/Ventus_Sabator_Closed.png/revision/latest?cb=20110621142849",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Darkus_Sabator_Closed.png/revision/latest?cb=20110621142751"
+      ]
     },
     {
       "id": "sabator-aquos",
@@ -14148,8 +18363,18 @@ window.BAKU_DATA = {
       },
       "bio": "Sabator, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/45/Aquos_Sabator_Open.png/revision/latest?cb=20110417154446",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_Sabator.png/revision/latest?cb=20100429162920",
-      "nickname": "Aquos Sabator"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f1/Aquos_Sabator_Closed.png/revision/latest?cb=20110621142731",
+      "nickname": "Aquos Sabator",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/Aquos_Sabator.png/revision/latest?cb=20110225005934",
+        "https://static.wikia.nocookie.net/bakugan/images/f/ff/Aquos_Sabator.jpeg/revision/latest?cb=20101011151456",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Aquos_Sabator.jpg/revision/latest?cb=20100426220242",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Subterra_Akwimos_Haos_Sabator_Aquos_Avior.jpg/revision/latest?cb=20100611221942",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c9/Sabator_Chompixx_-Ball_Form.png/revision/latest?cb=20111230015328",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Pyrus_Sabator_Ball.png/revision/latest?cb=20110515214347",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Haos_Sabator_Closed.png/revision/latest?cb=20110621142806",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Subterra_Sabator_Closed.png/revision/latest?cb=20110621142839"
+      ]
     },
     {
       "id": "sabator-ventus",
@@ -14178,8 +18403,18 @@ window.BAKU_DATA = {
       },
       "bio": "Sabator, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/82/Ventus_Sabator.jpg/revision/latest?cb=20100426220438",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_Sabator.png/revision/latest?cb=20100429162920",
-      "nickname": "Ventus Sabator"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/98/Ventus_Sabator_Closed.png/revision/latest?cb=20110621142849",
+      "nickname": "Ventus Sabator",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Ventus_Sabator_Open.png/revision/latest?cb=20110417154732",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cd/Ventus_sabator.png/revision/latest?cb=20110417233226",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ac/Ventus_Sabator.png/revision/latest?cb=20110225010118",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c9/Sabator_Chompixx_-Ball_Form.png/revision/latest?cb=20111230015328",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Pyrus_Sabator_Ball.png/revision/latest?cb=20110515214347",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Haos_Sabator_Closed.png/revision/latest?cb=20110621142806",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Subterra_Sabator_Closed.png/revision/latest?cb=20110621142839",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Aquos_Sabator_Closed.png/revision/latest?cb=20110621142731"
+      ]
     },
     {
       "id": "sabator-subterra",
@@ -14208,8 +18443,18 @@ window.BAKU_DATA = {
       },
       "bio": "Sabator, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1d/BakuGranite_Subterra_Sabator.jpg/revision/latest?cb=20100427221046",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_Sabator.png/revision/latest?cb=20100429162920",
-      "nickname": "Subterra Sabator"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3c/Subterra_Sabator_Closed.png/revision/latest?cb=20110621142839",
+      "nickname": "Subterra Sabator",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Subterra_Sabator_Open.png/revision/latest?cb=20110417154654",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/Subterra_Sabator.png/revision/latest?cb=20110922014959",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/KeithStrife_Subterra_Sabator.JPG/revision/latest?cb=20120816043443",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b3/Subterra_Sabator_with_Choppix.JPG/revision/latest?cb=20100805171249",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/Subterra_Sabator.jpg/revision/latest?cb=20100420223717",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Subterra_Akwimos_Haos_Sabator_Aquos_Avior.jpg/revision/latest?cb=20100611221942",
+        "https://static.wikia.nocookie.net/bakugan/images/3/32/Sabator_Subterra.JPG/revision/latest?cb=20100718214453",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c9/Sabator_Chompixx_-Ball_Form.png/revision/latest?cb=20111230015328"
+      ]
     },
     {
       "id": "sabator-haos",
@@ -14237,9 +18482,19 @@ window.BAKU_DATA = {
         "gForce": 94
       },
       "bio": "Sabator, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_Sabator.png/revision/latest?cb=20100429162920",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_Sabator.png/revision/latest?cb=20100429162920",
-      "nickname": "Haos Sabator"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5b/Haos_Sabator_Open.png/revision/latest?cb=20110417154634",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/88/Haos_Sabator_Closed.png/revision/latest?cb=20110621142806",
+      "nickname": "Haos Sabator",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Subterra_Akwimos_Haos_Sabator_Aquos_Avior.jpg/revision/latest?cb=20100611221942",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d7/Haos_Sabator.png/revision/latest?cb=20110205144728",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c9/Sabator_Chompixx_-Ball_Form.png/revision/latest?cb=20111230015328",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Pyrus_Sabator_Ball.png/revision/latest?cb=20110515214347",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Subterra_Sabator_Closed.png/revision/latest?cb=20110621142839",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Aquos_Sabator_Closed.png/revision/latest?cb=20110621142731",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/Ventus_Sabator_Closed.png/revision/latest?cb=20110621142849",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Darkus_Sabator_Closed.png/revision/latest?cb=20110621142751"
+      ]
     },
     {
       "id": "sabator-darkus",
@@ -14269,7 +18524,17 @@ window.BAKU_DATA = {
       "bio": "Sabator, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/86/Darkus_Sabator.png/revision/latest?cb=20110225005954",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/BK_Sabator.png/revision/latest?cb=20100429162920",
-      "nickname": "Darkus Sabator"
+      "nickname": "Darkus Sabator",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Darkus_Sabator_Closed.png/revision/latest?cb=20110621142751",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c4/Darkus_Sabator_Open.png/revision/latest?cb=20110417154516",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c9/Sabator_Chompixx_-Ball_Form.png/revision/latest?cb=20111230015328",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Pyrus_Sabator_Ball.png/revision/latest?cb=20110515214347",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Haos_Sabator_Closed.png/revision/latest?cb=20110621142806",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Subterra_Sabator_Closed.png/revision/latest?cb=20110621142839",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Aquos_Sabator_Closed.png/revision/latest?cb=20110621142731",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/Ventus_Sabator_Closed.png/revision/latest?cb=20110621142849"
+      ]
     },
     {
       "id": "scaboid",
@@ -14297,8 +18562,18 @@ window.BAKU_DATA = {
         "gForce": 57
       },
       "bio": "Scaboid, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/aa/BK_Scaboid.png/revision/latest?cb=20101011180046",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/aa/BK_Scaboid.png/revision/latest?cb=20101011180046"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/35/Pyrus_Scaboid_Open.png/revision/latest?cb=20110624055717",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/aa/BK_Scaboid.png/revision/latest?cb=20101011180046",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/Pyrus_Scaboid_Closed.png/revision/latest?cb=20110621171844",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/Pyrus_Scaboid_and_Aquos_Gren.png/revision/latest?cb=20251024094638",
+        "https://static.wikia.nocookie.net/bakugan/images/8/83/Pyrus_Scaboid_BD.png/revision/latest?cb=20110223134747",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/KeithStrife_Pyrus_Scaboid.jpg/revision/latest?cb=20130125143754",
+        "https://static.wikia.nocookie.net/bakugan/images/3/34/Pyrus_Scaboid.png/revision/latest?cb=20101125035959",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Pyrus_Scaboid.jpg/revision/latest?cb=20100805230741",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/Haos_Merlix_Longfly_Scaboid_Raptorix_Ball.png/revision/latest?cb=20110308133614",
+        "https://static.wikia.nocookie.net/bakugan/images/0/00/Haos_Merlix_Longfly_Scaboid_Raptorix_Ball.PNG/revision/latest?cb=20110123180238"
+      ]
     },
     {
       "id": "sky-gaia-dragonoid",
@@ -14326,8 +18601,18 @@ window.BAKU_DATA = {
         "gForce": 94
       },
       "bio": "Sky & Gaia Dragonoid, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/46/BK_SkyAndGaiaDragonoid-300x279.png/revision/latest?cb=20100903015403",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/46/BK_SkyAndGaiaDragonoid-300x279.png/revision/latest?cb=20100903015403"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/2f/Pyrus_SkyGaiaDragonoid_Open.png/revision/latest?cb=20110416183305",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/46/BK_SkyAndGaiaDragonoid-300x279.png/revision/latest?cb=20100903015403",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Pyrus_Sky_and_Gaia_Dragonoid_in_Ball_form.png/revision/latest?cb=20110414044223",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/Pyrus_SkyGaiaDragonoid_Closed.png/revision/latest?cb=20110621160928",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Pyrus_Sky_%26_Gaia_Dragonoid_BD.jpg/revision/latest?cb=20101007222515",
+        "https://static.wikia.nocookie.net/bakugan/images/1/16/Pyrus_SkyGaiaDragonoid.png/revision/latest?cb=20110620192437",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b3/Bakugan-wave-4-bakuboost-pyrus-skygaia-dragonoid-SML.png/revision/latest?cb=20110411200627",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Sky_Gaia_Dragonoid.jpg/revision/latest?cb=20110827063306",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b1/Sky_%26_gaia_Dragonoid.png/revision/latest?cb=20101012173205",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6c/Ventus_Sky_and_Gaia_Dragonoid.png/revision/latest?cb=20110408165445"
+      ]
     },
     {
       "id": "snapzoid",
@@ -14355,8 +18640,18 @@ window.BAKU_DATA = {
         "gForce": 58
       },
       "bio": "Snapzoid, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Bc_snapzoid.png/revision/latest?cb=20101029233544",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Bc_snapzoid.png/revision/latest?cb=20101029233544"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ad/Pyrus_Snapzoid_Open.png/revision/latest?cb=20110418002320",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Bc_snapzoid.png/revision/latest?cb=20101029233544",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Pyrus_Snapzoid_Closed.png/revision/latest?cb=20110621132932",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Pyrus_Snapzoid.png/revision/latest?cb=20110701052829",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/KeithStrife_Pyrus_Snapzoid.jpg/revision/latest?cb=20130125143754",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Pyrus_Snapzoid_BD.jpg/revision/latest?cb=20100818221706",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/Pyrus_Snapzoid.jpg/revision/latest?cb=20100728222633",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Clear_Snapzoid_Closed.png/revision/latest?cb=20110621132854",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8b/Haos_Snapzoid_Closed.png/revision/latest?cb=20110621132909",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Subterra_Snapzoid_Closed.png/revision/latest?cb=20110621132921"
+      ]
     },
     {
       "id": "spidaro",
@@ -14384,8 +18679,18 @@ window.BAKU_DATA = {
         "gForce": 91
       },
       "bio": "Spidaro, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/18/BK_Spidaro.png/revision/latest?cb=20101101123550",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/18/BK_Spidaro.png/revision/latest?cb=20101101123550"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1b/Pyrus_Spidaro_Open.png/revision/latest?cb=20110624044104",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/18/BK_Spidaro.png/revision/latest?cb=20101101123550",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/27/Pyrus_Spidaro_Ball.PNG/revision/latest?cb=20101220020110",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Pyrus_Spidaro_Closed.png/revision/latest?cb=20110621161230",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Pyrus_Spidaro_uses_Drain_Impact_%28S04E07%29.png/revision/latest?cb=20251028035631",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Subterra_Damakor_and_Pyrus_Spidaro_%28Ep._30%29.png/revision/latest?cb=20251117040614",
+        "https://static.wikia.nocookie.net/bakugan/images/7/76/Darkus_Ziperator_%26_Pyrus_Spidaro.png/revision/latest?cb=20150617115355",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Pyrus_Spidaro.png/revision/latest?cb=20110223223150",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Pyrus_Spidaro_Bakus.PNG/revision/latest?cb=20110123172506",
+        "https://static.wikia.nocookie.net/bakugan/images/4/42/120px-Pyrus_Spidaro_Bakus.PNG/revision/latest?cb=20110507200239"
+      ]
     },
     {
       "id": "strikeflier-pyrus",
@@ -14414,8 +18719,18 @@ window.BAKU_DATA = {
       },
       "bio": "Strikeflier, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6a/Strikeflier_Pyrus.JPG/revision/latest?cb=20100713202026",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/02/BC_Strikeflier_3.png/revision/latest?cb=20100524024138",
-      "nickname": "Pyrus Strikeflier"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f5/Pyrus_Strikeflier_Closed.png/revision/latest?cb=20110621133305",
+      "nickname": "Pyrus Strikeflier",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Pyrus_Strikeflier_Open.png/revision/latest?cb=20110524004755",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/Pyrus_Strikeflier.png/revision/latest?cb=20110701053425",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Strikeflier_Ballform_%28closed%29.png/revision/latest?cb=20120117231941",
+        "https://static.wikia.nocookie.net/bakugan/images/4/47/Clear_Strikeflier_ball_form.png/revision/latest?cb=20110119074104",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/Clear_Strikeflier_Closed.png/revision/latest?cb=20110621133230",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Haos_Strikeflier_Closed.png/revision/latest?cb=20110621133246",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Subterra_Strikeflier_Closed.png/revision/latest?cb=20110621133314",
+        "https://static.wikia.nocookie.net/bakugan/images/e/eb/Aquos_Strikeflier_Closed.png/revision/latest?cb=20110621133223"
+      ]
     },
     {
       "id": "strikeflier-aquos",
@@ -14444,8 +18759,18 @@ window.BAKU_DATA = {
       },
       "bio": "Strikeflier, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/bb/My_Aquos_strikeflier.png/revision/latest?cb=20110414212052",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/02/BC_Strikeflier_3.png/revision/latest?cb=20100524024138",
-      "nickname": "Aquos Strikeflier"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/eb/Aquos_Strikeflier_Closed.png/revision/latest?cb=20110621133223",
+      "nickname": "Aquos Strikeflier",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/Aquos_Strikeflier_Open.png/revision/latest?cb=20110524004706",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a9/Aquos_Strikeflier.png/revision/latest?cb=20110709220340",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/Aquos_Strikeflier.jpeg/revision/latest?cb=20101011151630",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Aquos_Strikeflier.jpg/revision/latest?cb=20110101070714",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Strikeflier_Ballform_%28closed%29.png/revision/latest?cb=20120117231941",
+        "https://static.wikia.nocookie.net/bakugan/images/4/47/Clear_Strikeflier_ball_form.png/revision/latest?cb=20110119074104",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/Clear_Strikeflier_Closed.png/revision/latest?cb=20110621133230",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Haos_Strikeflier_Closed.png/revision/latest?cb=20110621133246"
+      ]
     },
     {
       "id": "strikeflier-ventus",
@@ -14474,8 +18799,18 @@ window.BAKU_DATA = {
       },
       "bio": "Strikeflier, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/62/Ventus_Strikeflier_Closed.png/revision/latest?cb=20110621133324",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/02/BC_Strikeflier_3.png/revision/latest?cb=20100524024138",
-      "nickname": "Ventus Strikeflier"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/62/Ventus_Strikeflier_Closed.png/revision/latest?cb=20110621133324",
+      "nickname": "Ventus Strikeflier",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/Ventus_Strikeflier_Open.png/revision/latest?cb=20110524004836",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Ventus_Strikeflier.png/revision/latest?cb=20110701053502",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e6/KeithStrife_Ventus_Strikeflier.JPG/revision/latest?cb=20120816043853",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7e/Strikeflier-ventus-ca.jpg/revision/latest?cb=20100129185200",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9d/Strikeflier_ventus%2Bgear_battle_turbine_gold.jpg/revision/latest?cb=20100917115612",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Strikeflier_ventus_with_coredem_arm.jpg/revision/latest?cb=20100917120557",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Strikeflier_Ballform_%28closed%29.png/revision/latest?cb=20120117231941",
+        "https://static.wikia.nocookie.net/bakugan/images/4/47/Clear_Strikeflier_ball_form.png/revision/latest?cb=20110119074104"
+      ]
     },
     {
       "id": "strikeflier-subterra",
@@ -14504,8 +18839,18 @@ window.BAKU_DATA = {
       },
       "bio": "Strikeflier, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/00/Subterra_Strikeflier_Open.png/revision/latest?cb=20110524004807",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/02/BC_Strikeflier_3.png/revision/latest?cb=20100524024138",
-      "nickname": "Subterra Strikeflier"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/89/Subterra_Strikeflier_Closed.png/revision/latest?cb=20110621133314",
+      "nickname": "Subterra Strikeflier",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c4/Subterra_strikeflier_630_g.jpg/revision/latest?cb=20180909170735",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c6/Subterra_Strikeflier.png/revision/latest?cb=20110701053530",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Strikeflier_Ballform_%28closed%29.png/revision/latest?cb=20120117231941",
+        "https://static.wikia.nocookie.net/bakugan/images/4/47/Clear_Strikeflier_ball_form.png/revision/latest?cb=20110119074104",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/Clear_Strikeflier_Closed.png/revision/latest?cb=20110621133230",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Haos_Strikeflier_Closed.png/revision/latest?cb=20110621133246",
+        "https://static.wikia.nocookie.net/bakugan/images/e/eb/Aquos_Strikeflier_Closed.png/revision/latest?cb=20110621133223",
+        "https://static.wikia.nocookie.net/bakugan/images/8/86/Stealth_Strikeflier_Closed.png/revision/latest?cb=20110621133256"
+      ]
     },
     {
       "id": "strikeflier-haos",
@@ -14534,8 +18879,18 @@ window.BAKU_DATA = {
       },
       "bio": "Strikeflier, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/91/Haos_Strikeflier.png/revision/latest?cb=20110701053412",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/02/BC_Strikeflier_3.png/revision/latest?cb=20100524024138",
-      "nickname": "Haos Strikeflier"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a6/Haos_Strikeflier_Closed.png/revision/latest?cb=20110621133246",
+      "nickname": "Haos Strikeflier",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/Haos_Strikeflier_Open.png/revision/latest?cb=20110524004742",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Strikeflier_Ballform_%28closed%29.png/revision/latest?cb=20120117231941",
+        "https://static.wikia.nocookie.net/bakugan/images/4/47/Clear_Strikeflier_ball_form.png/revision/latest?cb=20110119074104",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/Clear_Strikeflier_Closed.png/revision/latest?cb=20110621133230",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Subterra_Strikeflier_Closed.png/revision/latest?cb=20110621133314",
+        "https://static.wikia.nocookie.net/bakugan/images/e/eb/Aquos_Strikeflier_Closed.png/revision/latest?cb=20110621133223",
+        "https://static.wikia.nocookie.net/bakugan/images/8/86/Stealth_Strikeflier_Closed.png/revision/latest?cb=20110621133256",
+        "https://static.wikia.nocookie.net/bakugan/images/6/62/Ventus_Strikeflier_Closed.png/revision/latest?cb=20110621133324"
+      ]
     },
     {
       "id": "strikeflier-darkus",
@@ -14565,7 +18920,17 @@ window.BAKU_DATA = {
       "bio": "Strikeflier, Sezon 3 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/ce/Strikeflier_Darkus.JPG/revision/latest?cb=20100712205259",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/02/BC_Strikeflier_3.png/revision/latest?cb=20100524024138",
-      "nickname": "Darkus Strikeflier"
+      "nickname": "Darkus Strikeflier",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e1/Darkus_Strikeflier_Closed.png/revision/latest?cb=20110621133237",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9f/Darkus_Strikeflier_Open.png/revision/latest?cb=20110524004728",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Darkus_Strikeflier.png/revision/latest?cb=20110701053401",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Strikeflier_Ballform_%28closed%29.png/revision/latest?cb=20120117231941",
+        "https://static.wikia.nocookie.net/bakugan/images/4/47/Clear_Strikeflier_ball_form.png/revision/latest?cb=20110119074104",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/Clear_Strikeflier_Closed.png/revision/latest?cb=20110621133230",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Haos_Strikeflier_Closed.png/revision/latest?cb=20110621133246",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Subterra_Strikeflier_Closed.png/revision/latest?cb=20110621133314"
+      ]
     },
     {
       "id": "zeon-hylash",
@@ -14593,8 +18958,18 @@ window.BAKU_DATA = {
         "gForce": 60
       },
       "bio": "Zeon Hylash, Sezon 3 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/63/BK_ZeonHylash.png/revision/latest?cb=20100922162628",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/63/BK_ZeonHylash.png/revision/latest?cb=20100922162628"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ec/Pyrus_Zeon_Hylash.jpg/revision/latest?cb=20100507132320",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/63/BK_ZeonHylash.png/revision/latest?cb=20100922162628",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/7/79/Hylash_and_Zeon_Hylash_%28closed%29.JPG/revision/latest?cb=20110621143638",
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Ventus_Zeon_Hylash_%28closed%29.JPG/revision/latest?cb=20110621143651",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ed/ZEON_HYLASH%21.png/revision/latest?cb=20101121155233",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/GM_Thunders_Zeon_Hylash.jpg/revision/latest?cb=20100829094455",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Zeon_Hylash.jpg/revision/latest?cb=20100426221538",
+        "https://static.wikia.nocookie.net/bakugan/images/3/34/Hylash_and_Zeon_Hylash_.JPG/revision/latest?cb=20110621143555",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/Ventus_Zeon_Hylash_%28g-power%29.JPG/revision/latest?cb=20110621143524",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b8/Subterra_zeon_hylash.png/revision/latest?cb=20101017133125"
+      ]
     },
     {
       "id": "aeroblitz",
@@ -14622,8 +18997,16 @@ window.BAKU_DATA = {
         "gForce": 70
       },
       "bio": "Aeroblitz, Sezon 4 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/db/Aeroblitz_BakuFusion.png/revision/latest?cb=20110713184712",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/db/Aeroblitz_BakuFusion.png/revision/latest?cb=20110713184712"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/31/Ventus%2FPyrus_Aeroblitz.png/revision/latest?cb=20110721203823",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/db/Aeroblitz_BakuFusion.png/revision/latest?cb=20110713184712",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/ef/Aeroblitz_Vid_Pic.png/revision/latest?cb=20110713180223",
+        "https://static.wikia.nocookie.net/bakugan/images/7/70/What_Makes_Aeroblitz.PNG/revision/latest?cb=20110803010025",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/Aeroblitz-4.png/revision/latest?cb=20111106141927",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/Gliderak_vs_Aeroblitz.png/revision/latest?cb=20110925112603",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Ep29_aeroblitz-277x300.png/revision/latest?cb=20111005001327",
+        "https://static.wikia.nocookie.net/bakugan/images/7/71/AeroBlitz.jpg/revision/latest?cb=20111114121345"
+      ]
     },
     {
       "id": "balista",
@@ -14652,7 +19035,16 @@ window.BAKU_DATA = {
       },
       "bio": "Balista, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/75/VentusBalista.png/revision/latest?cb=20110910050049",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/75/VentusBalista.png/revision/latest?cb=20110910050049"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/75/VentusBalista.png/revision/latest?cb=20110910050049",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/22/Balista_ball_form.jpg/revision/latest?cb=20111013232735",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b8/Balista.png/revision/latest?cb=20110909232006",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/Balista_%282%29.png/revision/latest?cb=20111220081615",
+        "https://static.wikia.nocookie.net/bakugan/images/6/68/Balista_E.A..png/revision/latest?cb=20110911105826",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fe/Balista_3dConcept.PNG/revision/latest?cb=20120108210335",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a9/Balista_is.jpg/revision/latest?cb=20121021165344",
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/Balista-Portal.png/revision/latest?cb=20111203115606"
+      ]
     },
     {
       "id": "betadron",
@@ -14681,7 +19073,17 @@ window.BAKU_DATA = {
       },
       "bio": "Betadron, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c7/PyrusBetadron.png/revision/latest?cb=20110910044720",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c7/PyrusBetadron.png/revision/latest?cb=20110910044720"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c7/PyrusBetadron.png/revision/latest?cb=20110910044720",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Betadron_ball_form.jpg/revision/latest?cb=20111108074754",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Flare_vs_Betadron.jpg/revision/latest?cb=20120307100143",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Betadron_holding_Drago_at_he%60s_neck.png/revision/latest?cb=20160123134717",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d6/Drago_using_Dragon_Trasher_and_against_Betadron%60s_Mest_Burn.png/revision/latest?cb=20160123134919",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Drago_against_Betadron.png/revision/latest?cb=20160123134746",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Drago_on_Betadron.png/revision/latest?cb=20160123134806",
+        "https://static.wikia.nocookie.net/bakugan/images/6/60/Betadron_vs_Drago.png/revision/latest?cb=20121030161503",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Betadron_Combustoid_%28ballform%29.png/revision/latest?cb=20120114011636"
+      ]
     },
     {
       "id": "bolcanon-pyrus",
@@ -14709,9 +19111,19 @@ window.BAKU_DATA = {
         "gForce": 58
       },
       "bio": "Bolcanon, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/bc/Dimensions_Darkus_Iron_Dragonoid_Pyrus_Bolcanon.png/revision/latest?cb=20180725063634",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f9/BolcanonMS.png/revision/latest?cb=20110301030809",
-      "nickname": "Pyrus Bolcanon"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/69/Pyrus_Bolcanon_Open.png/revision/latest?cb=20110625221625",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e5/Pyrus_Bolcanon_Closed.png/revision/latest?cb=20110621225349",
+      "nickname": "Pyrus Bolcanon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Pyrus_Bolcanon.png/revision/latest?cb=20110223143624",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d9/KeithStrife_Pyrus_Bolcanon.JPG/revision/latest?cb=20121124014221",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/Bolcanon_pyrus_close.jpg/revision/latest?cb=20131113174041",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bc/Dimensions_Darkus_Iron_Dragonoid_Pyrus_Bolcanon.png/revision/latest?cb=20180725063634",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Haos_Bolcanon_Closed.png/revision/latest?cb=20110621225651",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Subterra_Bolcanon_Closed.png/revision/latest?cb=20110621225411",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/Ventus_Bolcanon_Closed.png/revision/latest?cb=20110621225144",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6c/Clear_Bolcanon_Closed.png/revision/latest?cb=20110621225447"
+      ]
     },
     {
       "id": "bolcanon-aquos",
@@ -14740,8 +19152,18 @@ window.BAKU_DATA = {
       },
       "bio": "Bolcanon, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ea/Aquos_Bolcanon_Open.png/revision/latest?cb=20110625221535",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f9/BolcanonMS.png/revision/latest?cb=20110301030809",
-      "nickname": "Aquos Bolcanon"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/cf/Aquos_Bolcanon_Closed.png/revision/latest?cb=20110621225546",
+      "nickname": "Aquos Bolcanon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f6/Aquos_Bolcanon.png/revision/latest?cb=20110223143648",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Haos_Bolcanon_Closed.png/revision/latest?cb=20110621225651",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Subterra_Bolcanon_Closed.png/revision/latest?cb=20110621225411",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/Ventus_Bolcanon_Closed.png/revision/latest?cb=20110621225144",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6c/Clear_Bolcanon_Closed.png/revision/latest?cb=20110621225447",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Darkus_Bolcanon_Closed.png/revision/latest?cb=20110621225513",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Pyrus_Bolcanon_Closed.png/revision/latest?cb=20110621225349",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6b/Bolcanon_Ballform_%28open%29.png/revision/latest?cb=20120214232629"
+      ]
     },
     {
       "id": "bolcanon-ventus",
@@ -14769,9 +19191,19 @@ window.BAKU_DATA = {
         "gForce": 58
       },
       "bio": "Bolcanon, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f9/BolcanonMS.png/revision/latest?cb=20110301030809",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f9/BolcanonMS.png/revision/latest?cb=20110301030809",
-      "nickname": "Ventus Bolcanon"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5f/Ventus_Bolcanon_Open.png/revision/latest?cb=20110625221701",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/28/Ventus_Bolcanon_Closed.png/revision/latest?cb=20110621225144",
+      "nickname": "Ventus Bolcanon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/83/Ventus_Bolcanon.png/revision/latest?cb=20110223143712",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Haos_Bolcanon_Closed.png/revision/latest?cb=20110621225651",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Subterra_Bolcanon_Closed.png/revision/latest?cb=20110621225411",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6c/Clear_Bolcanon_Closed.png/revision/latest?cb=20110621225447",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cf/Aquos_Bolcanon_Closed.png/revision/latest?cb=20110621225546",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Darkus_Bolcanon_Closed.png/revision/latest?cb=20110621225513",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Pyrus_Bolcanon_Closed.png/revision/latest?cb=20110621225349",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6b/Bolcanon_Ballform_%28open%29.png/revision/latest?cb=20120214232629"
+      ]
     },
     {
       "id": "bolcanon-subterra",
@@ -14800,8 +19232,18 @@ window.BAKU_DATA = {
       },
       "bio": "Bolcanon, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/2c/Subterra_Bolcanon_In_battle.png/revision/latest?cb=20110410000851",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f9/BolcanonMS.png/revision/latest?cb=20110301030809",
-      "nickname": "Subterra Bolcanon"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/56/Subterra_Bolcanon_Closed.png/revision/latest?cb=20110621225411",
+      "nickname": "Subterra Bolcanon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/db/Subterra_Bolcanon_Open.png/revision/latest?cb=20110625221642",
+        "https://static.wikia.nocookie.net/bakugan/images/5/51/Subterra_Bolcanon.png/revision/latest?cb=20110223143739",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Haos_Bolcanon_Closed.png/revision/latest?cb=20110621225651",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/Ventus_Bolcanon_Closed.png/revision/latest?cb=20110621225144",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6c/Clear_Bolcanon_Closed.png/revision/latest?cb=20110621225447",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cf/Aquos_Bolcanon_Closed.png/revision/latest?cb=20110621225546",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Darkus_Bolcanon_Closed.png/revision/latest?cb=20110621225513",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Pyrus_Bolcanon_Closed.png/revision/latest?cb=20110621225349"
+      ]
     },
     {
       "id": "bolcanon-haos",
@@ -14830,8 +19272,18 @@ window.BAKU_DATA = {
       },
       "bio": "Bolcanon, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/da/Haos_Bolcanon_lose.jpg/revision/latest?cb=20110213213115",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f9/BolcanonMS.png/revision/latest?cb=20110301030809",
-      "nickname": "Haos Bolcanon"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3a/Haos_Bolcanon_Closed.png/revision/latest?cb=20110621225651",
+      "nickname": "Haos Bolcanon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/bd/Haos_Bolcanon_Open.png/revision/latest?cb=20110625221613",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Haos_Bolcanon.png/revision/latest?cb=20110223143801",
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Haos_Bolcanon_win.jpg/revision/latest?cb=20110213213022",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Haos_Bolcanon_2.jpg/revision/latest?cb=20110213212924",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Haos_Bolcanon_3.jpg/revision/latest?cb=20110213212946",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d6/Haos_Bolcanon.jpg/revision/latest?cb=20110213212900",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Subterra_Bolcanon_Closed.png/revision/latest?cb=20110621225411",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/Ventus_Bolcanon_Closed.png/revision/latest?cb=20110621225144"
+      ]
     },
     {
       "id": "bolcanon-darkus",
@@ -14861,7 +19313,17 @@ window.BAKU_DATA = {
       "bio": "Bolcanon, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/bc/Dimensions_Darkus_Iron_Dragonoid_Pyrus_Bolcanon.png/revision/latest?cb=20180725063634",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f9/BolcanonMS.png/revision/latest?cb=20110301030809",
-      "nickname": "Darkus Bolcanon"
+      "nickname": "Darkus Bolcanon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Darkus_Bolcanon_Closed.png/revision/latest?cb=20110621225513",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d3/Darkus_Bolcanon_Open.png/revision/latest?cb=20110625221603",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7d/Darkus_Bolcanon.png/revision/latest?cb=20110223143817",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Haos_Bolcanon_Closed.png/revision/latest?cb=20110621225651",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Subterra_Bolcanon_Closed.png/revision/latest?cb=20110621225411",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/Ventus_Bolcanon_Closed.png/revision/latest?cb=20110621225144",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6c/Clear_Bolcanon_Closed.png/revision/latest?cb=20110621225447",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cf/Aquos_Bolcanon_Closed.png/revision/latest?cb=20110621225546"
+      ]
     },
     {
       "id": "boulderon-pyrus",
@@ -14889,9 +19351,19 @@ window.BAKU_DATA = {
         "gForce": 93
       },
       "bio": "Jake’in Mechtanium tankı. Yerinden oynamaz, oynamazsa da seni ezer. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181744",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181744",
-      "nickname": "Pyrus Boulderon"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ee/Boulderon_Ballform_%28open%29.png/revision/latest?cb=20120118215831",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f5/Boulderon_Ballform_%28closed%29.png/revision/latest?cb=20120118215810",
+      "nickname": "Pyrus Boulderon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/Subterra_Boulderon_%28closed%29.jpg/revision/latest?cb=20110614181756",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Aquos_Boulderon_%28closed%29.jpg/revision/latest?cb=20110614181822",
+        "https://static.wikia.nocookie.net/bakugan/images/8/83/Haos_boulderon_%28closed%29.jpg/revision/latest?cb=20110614181703",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e9/Aquos_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181809",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181744",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Haos_boulderon_%28open%29.jpg/revision/latest?cb=20110614181637",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Boulderon_%28NA%29.png/revision/latest?cb=20120218211531",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2b/Boulderon%26Paige.png/revision/latest?cb=20110803163908"
+      ]
     },
     {
       "id": "boulderon-aquos",
@@ -14920,8 +19392,18 @@ window.BAKU_DATA = {
       },
       "bio": "Jake’in Mechtanium tankı. Yerinden oynamaz, oynamazsa da seni ezer. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e9/Aquos_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181809",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181744",
-      "nickname": "Aquos Boulderon"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/08/Aquos_Boulderon_%28closed%29.jpg/revision/latest?cb=20110614181822",
+      "nickname": "Aquos Boulderon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Boulderon_Ballform_%28closed%29.png/revision/latest?cb=20120118215810",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/Subterra_Boulderon_%28closed%29.jpg/revision/latest?cb=20110614181756",
+        "https://static.wikia.nocookie.net/bakugan/images/8/83/Haos_boulderon_%28closed%29.jpg/revision/latest?cb=20110614181703",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/Boulderon_Ballform_%28open%29.png/revision/latest?cb=20120118215831",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181744",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Haos_boulderon_%28open%29.jpg/revision/latest?cb=20110614181637",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Boulderon_%28NA%29.png/revision/latest?cb=20120218211531",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2b/Boulderon%26Paige.png/revision/latest?cb=20110803163908"
+      ]
     },
     {
       "id": "boulderon-ventus",
@@ -14949,9 +19431,19 @@ window.BAKU_DATA = {
         "gForce": 93
       },
       "bio": "Jake’in Mechtanium tankı. Yerinden oynamaz, oynamazsa da seni ezer. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181744",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181744",
-      "nickname": "Ventus Boulderon"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ee/Boulderon_Ballform_%28open%29.png/revision/latest?cb=20120118215831",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/f5/Boulderon_Ballform_%28closed%29.png/revision/latest?cb=20120118215810",
+      "nickname": "Ventus Boulderon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/Subterra_Boulderon_%28closed%29.jpg/revision/latest?cb=20110614181756",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Aquos_Boulderon_%28closed%29.jpg/revision/latest?cb=20110614181822",
+        "https://static.wikia.nocookie.net/bakugan/images/8/83/Haos_boulderon_%28closed%29.jpg/revision/latest?cb=20110614181703",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e9/Aquos_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181809",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181744",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Haos_boulderon_%28open%29.jpg/revision/latest?cb=20110614181637",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Boulderon_%28NA%29.png/revision/latest?cb=20120218211531",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2b/Boulderon%26Paige.png/revision/latest?cb=20110803163908"
+      ]
     },
     {
       "id": "boulderon-subterra",
@@ -14980,8 +19472,18 @@ window.BAKU_DATA = {
       },
       "bio": "Jake’in Mechtanium tankı. Yerinden oynamaz, oynamazsa da seni ezer. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3d/KeithStrife_Subterra_Boulderon.jpg/revision/latest?cb=20130329122453",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181744",
-      "nickname": "Subterra Boulderon"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/aa/Subterra_Boulderon_%28closed%29.jpg/revision/latest?cb=20110614181756",
+      "nickname": "Subterra Boulderon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181744",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Boulderon_Ballform_%28closed%29.png/revision/latest?cb=20120118215810",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Aquos_Boulderon_%28closed%29.jpg/revision/latest?cb=20110614181822",
+        "https://static.wikia.nocookie.net/bakugan/images/8/83/Haos_boulderon_%28closed%29.jpg/revision/latest?cb=20110614181703",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/Boulderon_Ballform_%28open%29.png/revision/latest?cb=20120118215831",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e9/Aquos_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181809",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Haos_boulderon_%28open%29.jpg/revision/latest?cb=20110614181637",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Boulderon_%28NA%29.png/revision/latest?cb=20120218211531"
+      ]
     },
     {
       "id": "boulderon-haos",
@@ -15010,8 +19512,18 @@ window.BAKU_DATA = {
       },
       "bio": "Jake’in Mechtanium tankı. Yerinden oynamaz, oynamazsa da seni ezer. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3e/Haos_boulderon_%28open%29.jpg/revision/latest?cb=20110614181637",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181744",
-      "nickname": "Haos Boulderon"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/83/Haos_boulderon_%28closed%29.jpg/revision/latest?cb=20110614181703",
+      "nickname": "Haos Boulderon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Boulderon_Ballform_%28closed%29.png/revision/latest?cb=20120118215810",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/Subterra_Boulderon_%28closed%29.jpg/revision/latest?cb=20110614181756",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Aquos_Boulderon_%28closed%29.jpg/revision/latest?cb=20110614181822",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/Boulderon_Ballform_%28open%29.png/revision/latest?cb=20120118215831",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e9/Aquos_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181809",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181744",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Boulderon_%28NA%29.png/revision/latest?cb=20120218211531",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2b/Boulderon%26Paige.png/revision/latest?cb=20110803163908"
+      ]
     },
     {
       "id": "boulderon-darkus",
@@ -15041,7 +19553,17 @@ window.BAKU_DATA = {
       "bio": "Jake’in Mechtanium tankı. Yerinden oynamaz, oynamazsa da seni ezer. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181744",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/25/Subterra_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181744",
-      "nickname": "Darkus Boulderon"
+      "nickname": "Darkus Boulderon",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Boulderon_Ballform_%28closed%29.png/revision/latest?cb=20120118215810",
+        "https://static.wikia.nocookie.net/bakugan/images/a/aa/Subterra_Boulderon_%28closed%29.jpg/revision/latest?cb=20110614181756",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Aquos_Boulderon_%28closed%29.jpg/revision/latest?cb=20110614181822",
+        "https://static.wikia.nocookie.net/bakugan/images/8/83/Haos_boulderon_%28closed%29.jpg/revision/latest?cb=20110614181703",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/Boulderon_Ballform_%28open%29.png/revision/latest?cb=20120118215831",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e9/Aquos_Boulderon_%28open%29.jpg/revision/latest?cb=20110614181809",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Haos_boulderon_%28open%29.jpg/revision/latest?cb=20110614181637",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Boulderon_%28NA%29.png/revision/latest?cb=20120218211531"
+      ]
     },
     {
       "id": "chromopod",
@@ -15070,7 +19592,10 @@ window.BAKU_DATA = {
       },
       "bio": "Chromopod, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/45/Chromopod.png/revision/latest?cb=20120109211204",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/45/Chromopod.png/revision/latest?cb=20120109211204"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/45/Chromopod.png/revision/latest?cb=20120109211204",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/ce/Quatrogan_-_Chromopod.png/revision/latest?cb=20120121014539"
+      ]
     },
     {
       "id": "clawsaurus",
@@ -15098,8 +19623,18 @@ window.BAKU_DATA = {
         "gForce": 66
       },
       "bio": "Clawsaurus, Sezon 4 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b1/SA_Clawsaurus.png/revision/latest?cb=20100514203328",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/88/Pyrus_Clawsaurus_Open.png/revision/latest?cb=20110418004114",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Pyrus_Clawsaurus_Closed.png/revision/latest?cb=20110621135850",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/Pyrus_Clawsaurus.png/revision/latest?cb=20110223221304",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f4/Aquos_Gren_Pyrus_Clawsaurus.jpg/revision/latest?cb=20100812001745",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/Clear_Clawsaurus_Closed.png/revision/latest?cb=20110621135828",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7f/Haos_Clawsaurus_Closed.png/revision/latest?cb=20110621135843",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c6/Subterra_Clawsaurus_Closed.png/revision/latest?cb=20110621135900",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Ventus_Clawsaurus_Closed.png/revision/latest?cb=20110621135910",
+        "https://static.wikia.nocookie.net/bakugan/images/9/93/Aquos_Clawsaurus_Closed.png/revision/latest?cb=20110621135820"
+      ]
     },
     {
       "id": "commandix-dragonoid",
@@ -15128,7 +19663,11 @@ window.BAKU_DATA = {
       },
       "bio": "Commandix Dragonoid, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/35/Aero1.PNG/revision/latest?cb=20110703235717",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/35/Aero1.PNG/revision/latest?cb=20110703235717"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/35/Aero1.PNG/revision/latest?cb=20110703235717",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/62/Commandix_Dragonoid.JPG/revision/latest?cb=20120311083737",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Commandix_Dragonoid_%284%29.JPG/revision/latest?cb=20120311083753"
+      ]
     },
     {
       "id": "cyclone-percival",
@@ -15157,7 +19696,17 @@ window.BAKU_DATA = {
       },
       "bio": "Cyclone Percival, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/7e/CyclonePercivalMS.png/revision/latest?cb=20110301041304",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7e/CyclonePercivalMS.png/revision/latest?cb=20110301041304"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7e/CyclonePercivalMS.png/revision/latest?cb=20110301041304",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c7/Darkus_Cyclone_Percival_%28closed%29.jpg/revision/latest?cb=20110605072328",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Lumina_Cyclone_Percival.png/revision/latest?cb=20161229012958",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/BK_Alpha_Percival_Cyclone.png/revision/latest?cb=20091119001737",
+        "https://static.wikia.nocookie.net/bakugan/images/7/74/Cyclone_Percival-300x163.png/revision/latest?cb=20110210033642",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Darkus_Cyclone_Percival_%26_Ventus_Flash_Ingram.png/revision/latest?cb=20110818170502",
+        "https://static.wikia.nocookie.net/bakugan/images/7/74/Cyclone_Percival_3.png/revision/latest?cb=20110818170407",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Cyclone_percival_2.png/revision/latest?cb=20110818170125",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d1/Cyclone_Percival_1.png/revision/latest?cb=20110818170038"
+      ]
     },
     {
       "id": "doomtronic",
@@ -15186,7 +19735,17 @@ window.BAKU_DATA = {
       },
       "bio": "Doomtronic, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/ca/Doomtronic_BattleSuit.png/revision/latest?cb=20110713184345",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/ca/Doomtronic_BattleSuit.png/revision/latest?cb=20110713184345"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/ca/Doomtronic_BattleSuit.png/revision/latest?cb=20110713184345",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Haos_Doomtronic_%28closed%29.png/revision/latest?cb=20120114011602",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Darkus_Doomtronic_%28closed%29.png/revision/latest?cb=20120114003339",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c7/Doomtronic-BakuLavaStorm.jpg/revision/latest?cb=20120214085101",
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Reptak_Doomtronic_%28ballform%29.png/revision/latest?cb=20120114011543",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Doomtronic.PNG/revision/latest?cb=20110707190138",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f7/S4.75_Bakugan_Battle_Suit_Doomtronic.png/revision/latest?cb=20120118005808",
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/Doomtronic_CANNON_ATTACK.png/revision/latest?cb=20110715170357",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c7/Doomtronic_%28NA%29.jpg/revision/latest?cb=20110729002517"
+      ]
     },
     {
       "id": "dragonoid-destroyer",
@@ -15215,7 +19774,17 @@ window.BAKU_DATA = {
       },
       "bio": "Dragonoid Destroyer, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/19/Image_197.png/revision/latest?cb=20111203015626",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/19/Image_197.png/revision/latest?cb=20111203015626"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/19/Image_197.png/revision/latest?cb=20111203015626",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Dragonoid_Destroyer_Closed.PNG/revision/latest?cb=20110825191736",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0b/Bakugan_Dragonoid_Destroyer.jpg/revision/latest?cb=20110907013400",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c5/Dragonoid_Destroyer_%28NA%29.jpg/revision/latest?cb=20111002174447",
+        "https://static.wikia.nocookie.net/bakugan/images/8/80/Dragonoid_Destroyer.PNG/revision/latest?cb=20111219065759",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cd/Dragonoid_Destroyer_G-Power_%28infinite%29.jpg_2.jpg/revision/latest?cb=20170815175430",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6c/Dragonoid_destroyer.jpg/revision/latest?cb=20120108011730",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4f/Dragonoid_Destroyer_%28prototype%29.jpg/revision/latest?cb=20110516195619",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/Dragonoid_Destroyer_and_Drago_in_actual_form.jpg/revision/latest?cb=20120111015114"
+      ]
     },
     {
       "id": "exostriker",
@@ -15244,7 +19813,17 @@ window.BAKU_DATA = {
       },
       "bio": "Exostriker, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ac/PyrusExostriker_PackagingImage.png/revision/latest?cb=20111210100044",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ac/PyrusExostriker_PackagingImage.png/revision/latest?cb=20111210100044"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/ac/PyrusExostriker_PackagingImage.png/revision/latest?cb=20111210100044",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/90/Exostriker_%28NA%29.jpg/revision/latest?cb=20111223015150",
+        "https://static.wikia.nocookie.net/bakugan/images/8/82/Advanced_Exostriker_%28NA%29.jpg/revision/latest?cb=20111002174838",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cd/Exostriker_attacking.jpg/revision/latest?cb=20120427175842",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bd/Exostriker_Description.png/revision/latest?cb=20110930235406",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c2/Exostriker_Prototype.PNG/revision/latest?cb=20110424065934",
+        "https://static.wikia.nocookie.net/bakugan/images/3/37/017_Exostriker.jpg/revision/latest?cb=20110620020509",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Exostriker-Portal.png/revision/latest?cb=20111203220202",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/Exostriker.jpg/revision/latest?cb=20160326015658"
+      ]
     },
     {
       "id": "faser-titan",
@@ -15272,8 +19851,18 @@ window.BAKU_DATA = {
         "gForce": 78
       },
       "bio": "Faser Titan, Sezon 4 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Faser_Titan.png/revision/latest?cb=20110505202307",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Faser_Titan.png/revision/latest?cb=20110505202307"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/7c/Pyrus_FaserTitan_Open.png/revision/latest?cb=20110320190830",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Faser_Titan.png/revision/latest?cb=20110505202307",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Pyrus_FaserTitan_Closed.png/revision/latest?cb=20110621045028",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Pyrus_FaserTitan.png/revision/latest?cb=20110412200729",
+        "https://static.wikia.nocookie.net/bakugan/images/8/83/Subterra_FaserTitan_Closed.png/revision/latest?cb=20110621045037",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Aquos_FaserTitan_Closed.png/revision/latest?cb=20110621044957",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f7/Darkus_FaserTitan_Closed.png/revision/latest?cb=20110621045011",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Subterra_FaserTitan_Open.png/revision/latest?cb=20110320190816",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Aquos_FaserTitan_Open.png/revision/latest?cb=20110320190846",
+        "https://static.wikia.nocookie.net/bakugan/images/3/32/Darkus_FaserTitan_Open.png/revision/latest?cb=20110320190747"
+      ]
     },
     {
       "id": "flash-ingram",
@@ -15301,8 +19890,18 @@ window.BAKU_DATA = {
         "gForce": 83
       },
       "bio": "Flash Ingram, Sezon 4 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b6/FlashIngramMS.png/revision/latest?cb=20110301042257",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b6/FlashIngramMS.png/revision/latest?cb=20110301042257"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e0/%28Pyrus%29_Flash_Ingram.jpg/revision/latest?cb=20101120210748",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b6/FlashIngramMS.png/revision/latest?cb=20110301042257",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/ce/Ventus_Flash_Ingram_%28closed%29.jpg/revision/latest?cb=20110605071144",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a4/Flash_Ingram_%28Ventus%29_open.jpg/revision/latest?cb=20110605071025",
+        "https://static.wikia.nocookie.net/bakugan/images/9/92/Flash_Ingram_Description_BD.png/revision/latest?cb=20110324040248",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c4/Flash_Ingram_%28NA%29.png/revision/latest?cb=20170108214527",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Flash_Ingram_14-48f_%28NA%29.png/revision/latest?cb=20180602071619",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Flash_Ingram-300x173.png/revision/latest?cb=20110210033533",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Darkus_Cyclone_Percival_%26_Ventus_Flash_Ingram.png/revision/latest?cb=20110818170502",
+        "https://static.wikia.nocookie.net/bakugan/images/8/86/Subterra_flash_ingram.png/revision/latest?cb=20110411205051"
+      ]
     },
     {
       "id": "fusion-dragonoid",
@@ -15331,8 +19930,18 @@ window.BAKU_DATA = {
         "gForce": 100
       },
       "bio": "Drago’nun Mechtanium zirvesi. Chaos ve Mag Mel’e karşı nihai ateş.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/ca/Bakuganspotlightfusiondragonoid.png/revision/latest?cb=20110728123735",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/ca/Bakuganspotlightfusiondragonoid.png/revision/latest?cb=20110728123735"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d1/Pyrus_Fusion_Dragonoid_Spotlight.png/revision/latest?cb=20110802034729",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/ca/Bakuganspotlightfusiondragonoid.png/revision/latest?cb=20110728123735",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Pyrus_Fusion_Dragonoid_Preview.png/revision/latest?cb=20110812003846",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fd/Pyrus_Fusion_Dragonoid.jpg/revision/latest?cb=20110721201346",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bf/Fusion_dragonoid_ball_form.jpg/revision/latest?cb=20111108081338",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/394px-Fusion_dragonoid_ball_form.jpg/revision/latest?cb=20120129115926",
+        "https://static.wikia.nocookie.net/bakugan/images/5/55/Fusion_Dragonoid_Ball_Form_2.PNG/revision/latest?cb=20110807234646",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Fusion_Dragonoid_1.png/revision/latest?cb=20190521150439",
+        "https://static.wikia.nocookie.net/bakugan/images/0/02/Fusion_Dragonoid.png/revision/latest?cb=20110827171827",
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Dragonoid_Infinity_and_Five_Fusion_Bakugan.png/revision/latest?cb=20211106164803"
+      ]
     },
     {
       "id": "horridian-pyrus",
@@ -15360,9 +19969,19 @@ window.BAKU_DATA = {
         "gForce": 95
       },
       "bio": "Anubias’ın imza bakuganı. Horridian göründüğünde arena karışır. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d8/Horridman.jpg/revision/latest?cb=20110429015539",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d8/Horridman.jpg/revision/latest?cb=20110429015539",
-      "nickname": "Pyrus Horridian"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Horridian_attacks_Drago_%28Ep._20%29.png/revision/latest?cb=20251129050751",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Horridian_attacks_Drago_%28Ep._20%29.png/revision/latest?cb=20251129050751",
+      "nickname": "Pyrus Horridian",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Drago_attacked_Horridian.png/revision/latest?cb=20151226060840",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d1/Horridian_%26_Drago.png/revision/latest?cb=20110301022604",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Horridian.png/revision/latest?cb=20110301022443",
+        "https://static.wikia.nocookie.net/bakugan/images/f/ff/Anubus_%26_Horridian.png/revision/latest?cb=20110301022859",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b8/588px-Horridian.png/revision/latest?cb=20110609204225",
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/Drago_VS_Horridian.png/revision/latest?cb=20110301022659",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fa/Horridian_Aeroblaze_BallForm.png/revision/latest?cb=20120113232101",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/KeithStrife_Darkus_Horridian.jpg/revision/latest?cb=20130329122453"
+      ]
     },
     {
       "id": "horridian-aquos",
@@ -15390,9 +20009,19 @@ window.BAKU_DATA = {
         "gForce": 95
       },
       "bio": "Anubias’ın imza bakuganı. Horridian göründüğünde arena karışır. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d8/Horridman.jpg/revision/latest?cb=20110429015539",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d8/Horridman.jpg/revision/latest?cb=20110429015539",
-      "nickname": "Aquos Horridian"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Horridian_attacks_Drago_%28Ep._20%29.png/revision/latest?cb=20251129050751",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Horridian_attacks_Drago_%28Ep._20%29.png/revision/latest?cb=20251129050751",
+      "nickname": "Aquos Horridian",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Drago_attacked_Horridian.png/revision/latest?cb=20151226060840",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d1/Horridian_%26_Drago.png/revision/latest?cb=20110301022604",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Horridian.png/revision/latest?cb=20110301022443",
+        "https://static.wikia.nocookie.net/bakugan/images/f/ff/Anubus_%26_Horridian.png/revision/latest?cb=20110301022859",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b8/588px-Horridian.png/revision/latest?cb=20110609204225",
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/Drago_VS_Horridian.png/revision/latest?cb=20110301022659",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fa/Horridian_Aeroblaze_BallForm.png/revision/latest?cb=20120113232101",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/KeithStrife_Darkus_Horridian.jpg/revision/latest?cb=20130329122453"
+      ]
     },
     {
       "id": "horridian-ventus",
@@ -15420,9 +20049,19 @@ window.BAKU_DATA = {
         "gForce": 95
       },
       "bio": "Anubias’ın imza bakuganı. Horridian göründüğünde arena karışır. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d8/Horridman.jpg/revision/latest?cb=20110429015539",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d8/Horridman.jpg/revision/latest?cb=20110429015539",
-      "nickname": "Ventus Horridian"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Horridian_attacks_Drago_%28Ep._20%29.png/revision/latest?cb=20251129050751",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Horridian_attacks_Drago_%28Ep._20%29.png/revision/latest?cb=20251129050751",
+      "nickname": "Ventus Horridian",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Drago_attacked_Horridian.png/revision/latest?cb=20151226060840",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d1/Horridian_%26_Drago.png/revision/latest?cb=20110301022604",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Horridian.png/revision/latest?cb=20110301022443",
+        "https://static.wikia.nocookie.net/bakugan/images/f/ff/Anubus_%26_Horridian.png/revision/latest?cb=20110301022859",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b8/588px-Horridian.png/revision/latest?cb=20110609204225",
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/Drago_VS_Horridian.png/revision/latest?cb=20110301022659",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fa/Horridian_Aeroblaze_BallForm.png/revision/latest?cb=20120113232101",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/KeithStrife_Darkus_Horridian.jpg/revision/latest?cb=20130329122453"
+      ]
     },
     {
       "id": "horridian-subterra",
@@ -15450,9 +20089,19 @@ window.BAKU_DATA = {
         "gForce": 95
       },
       "bio": "Anubias’ın imza bakuganı. Horridian göründüğünde arena karışır. Bu kayıt Subterra (Toprak) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d8/Horridman.jpg/revision/latest?cb=20110429015539",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d8/Horridman.jpg/revision/latest?cb=20110429015539",
-      "nickname": "Subterra Horridian"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Horridian_attacks_Drago_%28Ep._20%29.png/revision/latest?cb=20251129050751",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Horridian_attacks_Drago_%28Ep._20%29.png/revision/latest?cb=20251129050751",
+      "nickname": "Subterra Horridian",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Drago_attacked_Horridian.png/revision/latest?cb=20151226060840",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d1/Horridian_%26_Drago.png/revision/latest?cb=20110301022604",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Horridian.png/revision/latest?cb=20110301022443",
+        "https://static.wikia.nocookie.net/bakugan/images/f/ff/Anubus_%26_Horridian.png/revision/latest?cb=20110301022859",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b8/588px-Horridian.png/revision/latest?cb=20110609204225",
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/Drago_VS_Horridian.png/revision/latest?cb=20110301022659",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fa/Horridian_Aeroblaze_BallForm.png/revision/latest?cb=20120113232101",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/KeithStrife_Darkus_Horridian.jpg/revision/latest?cb=20130329122453"
+      ]
     },
     {
       "id": "horridian-haos",
@@ -15481,8 +20130,18 @@ window.BAKU_DATA = {
       },
       "bio": "Anubias’ın imza bakuganı. Horridian göründüğünde arena karışır. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d8/Horridman.jpg/revision/latest?cb=20110429015539",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d8/Horridman.jpg/revision/latest?cb=20110429015539",
-      "nickname": "Haos Horridian"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Horridian_attacks_Drago_%28Ep._20%29.png/revision/latest?cb=20251129050751",
+      "nickname": "Haos Horridian",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Drago_attacked_Horridian.png/revision/latest?cb=20151226060840",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d1/Horridian_%26_Drago.png/revision/latest?cb=20110301022604",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Horridian.png/revision/latest?cb=20110301022443",
+        "https://static.wikia.nocookie.net/bakugan/images/f/ff/Anubus_%26_Horridian.png/revision/latest?cb=20110301022859",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b8/588px-Horridian.png/revision/latest?cb=20110609204225",
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/Drago_VS_Horridian.png/revision/latest?cb=20110301022659",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fa/Horridian_Aeroblaze_BallForm.png/revision/latest?cb=20120113232101",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/KeithStrife_Darkus_Horridian.jpg/revision/latest?cb=20130329122453"
+      ]
     },
     {
       "id": "horridian-darkus",
@@ -15512,7 +20171,17 @@ window.BAKU_DATA = {
       "bio": "Anubias’ın imza bakuganı. Horridian göründüğünde arena karışır. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/84/KeithStrife_Darkus_Horridian.jpg/revision/latest?cb=20130329122453",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/d8/Horridman.jpg/revision/latest?cb=20110429015539",
-      "nickname": "Darkus Horridian"
+      "nickname": "Darkus Horridian",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/e/e0/Horridian_attacks_Drago_%28Ep._20%29.png/revision/latest?cb=20251129050751",
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Drago_attacked_Horridian.png/revision/latest?cb=20151226060840",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d1/Horridian_%26_Drago.png/revision/latest?cb=20110301022604",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Horridian.png/revision/latest?cb=20110301022443",
+        "https://static.wikia.nocookie.net/bakugan/images/f/ff/Anubus_%26_Horridian.png/revision/latest?cb=20110301022859",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b8/588px-Horridian.png/revision/latest?cb=20110609204225",
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/Drago_VS_Horridian.png/revision/latest?cb=20110301022659",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fa/Horridian_Aeroblaze_BallForm.png/revision/latest?cb=20120113232101"
+      ]
     },
     {
       "id": "infinity-helios-pyrus",
@@ -15541,8 +20210,18 @@ window.BAKU_DATA = {
       },
       "bio": "Spectra’nın son Helios’u. Makine mükemmelliğinin sınırında. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/ce/Pyrus_Infinity_Helios_%28two%29.JPG/revision/latest?cb=20110721155625",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Pyrus Infinity Helios"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/ce/Pyrus_Infinity_Helios_%28two%29.JPG/revision/latest?cb=20110721155625",
+      "nickname": "Pyrus Infinity Helios",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Darkus_Maxus_Infinity_Helios_Ball_Form.PNG/revision/latest?cb=20110821132426",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/Infinity_Helios_Ballform_%28closed%29.png/revision/latest?cb=20120121001318",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b4/Infinity_Helios_%28aquos%29_closed_2.jpg/revision/latest?cb=20110605070913",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Infinity_Helios_%28Aquos%29_closed.jpg/revision/latest?cb=20110605070902",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Infinity_Helios_Ballform_%28open%29.png/revision/latest?cb=20120121001337",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f8/Infinity_Helios_Aquos_%28open%29.jpg/revision/latest?cb=20110605070823",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Darkus_infinity_Helios_%28just_part_open%29.JPG/revision/latest?cb=20110722064400",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Darkus_Maxus_Infinity_Helios_Warrior_Form.png/revision/latest?cb=20110821132502"
+      ]
     },
     {
       "id": "infinity-helios-aquos",
@@ -15571,8 +20250,18 @@ window.BAKU_DATA = {
       },
       "bio": "Spectra’nın son Helios’u. Makine mükemmelliğinin sınırında. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b4/Infinity_Helios_%28aquos%29_closed_2.jpg/revision/latest?cb=20110605070913",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Aquos Infinity Helios"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b4/Infinity_Helios_%28aquos%29_closed_2.jpg/revision/latest?cb=20110605070913",
+      "nickname": "Aquos Infinity Helios",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Infinity_Helios_%28Aquos%29_closed.jpg/revision/latest?cb=20110605070902",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f8/Infinity_Helios_Aquos_%28open%29.jpg/revision/latest?cb=20110605070823",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Infinity_Helios_%28Aquos%29_back_view.jpg/revision/latest?cb=20110605070837",
+        "https://static.wikia.nocookie.net/bakugan/images/6/61/Infinity_Helios_%28Aquos%29_side_view.jpg/revision/latest?cb=20110605070851",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7e/Infinity_Helios_%28Aquos%29_side_view_2.jpg/revision/latest?cb=20110605070925",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Darkus_Maxus_Infinity_Helios_Ball_Form.PNG/revision/latest?cb=20110821132426",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/Infinity_Helios_Ballform_%28closed%29.png/revision/latest?cb=20120121001318",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Infinity_Helios_Ballform_%28open%29.png/revision/latest?cb=20120121001337"
+      ]
     },
     {
       "id": "infinity-helios-ventus",
@@ -15600,9 +20289,19 @@ window.BAKU_DATA = {
         "gForce": 98
       },
       "bio": "Spectra’nın son Helios’u. Makine mükemmelliğinin sınırında. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/46/Infinity_Helios.png/revision/latest?cb=20110829101131",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Ventus Infinity Helios"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ad/Infinity_Helios_Ballform_%28open%29.png/revision/latest?cb=20120121001337",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/Darkus_Maxus_Infinity_Helios_Ball_Form.PNG/revision/latest?cb=20110821132426",
+      "nickname": "Ventus Infinity Helios",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/Infinity_Helios_Ballform_%28closed%29.png/revision/latest?cb=20120121001318",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b4/Infinity_Helios_%28aquos%29_closed_2.jpg/revision/latest?cb=20110605070913",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Infinity_Helios_%28Aquos%29_closed.jpg/revision/latest?cb=20110605070902",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f8/Infinity_Helios_Aquos_%28open%29.jpg/revision/latest?cb=20110605070823",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Darkus_infinity_Helios_%28just_part_open%29.JPG/revision/latest?cb=20110722064400",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Darkus_Maxus_Infinity_Helios_Warrior_Form.png/revision/latest?cb=20110821132502",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Infinity_Helios_Doomtronic_%28BallForm%29.png/revision/latest?cb=20120114003406",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Infinity_Helios_with_Spectra.png/revision/latest?cb=20110801055655"
+      ]
     },
     {
       "id": "infinity-helios-subterra",
@@ -15630,9 +20329,19 @@ window.BAKU_DATA = {
         "gForce": 98
       },
       "bio": "Spectra’nın son Helios’u. Makine mükemmelliğinin sınırında. Bu kayıt Subterra (Toprak) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/46/Infinity_Helios.png/revision/latest?cb=20110829101131",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Subterra Infinity Helios"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ad/Infinity_Helios_Ballform_%28open%29.png/revision/latest?cb=20120121001337",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/Darkus_Maxus_Infinity_Helios_Ball_Form.PNG/revision/latest?cb=20110821132426",
+      "nickname": "Subterra Infinity Helios",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/Infinity_Helios_Ballform_%28closed%29.png/revision/latest?cb=20120121001318",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b4/Infinity_Helios_%28aquos%29_closed_2.jpg/revision/latest?cb=20110605070913",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Infinity_Helios_%28Aquos%29_closed.jpg/revision/latest?cb=20110605070902",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f8/Infinity_Helios_Aquos_%28open%29.jpg/revision/latest?cb=20110605070823",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Darkus_infinity_Helios_%28just_part_open%29.JPG/revision/latest?cb=20110722064400",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Darkus_Maxus_Infinity_Helios_Warrior_Form.png/revision/latest?cb=20110821132502",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Infinity_Helios_Doomtronic_%28BallForm%29.png/revision/latest?cb=20120114003406",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Infinity_Helios_with_Spectra.png/revision/latest?cb=20110801055655"
+      ]
     },
     {
       "id": "infinity-helios-haos",
@@ -15661,8 +20370,18 @@ window.BAKU_DATA = {
       },
       "bio": "Spectra’nın son Helios’u. Makine mükemmelliğinin sınırında. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/46/Infinity_Helios.png/revision/latest?cb=20110829101131",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Haos Infinity Helios"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/17/Darkus_Maxus_Infinity_Helios_Ball_Form.PNG/revision/latest?cb=20110821132426",
+      "nickname": "Haos Infinity Helios",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/9b/Infinity_Helios_Ballform_%28closed%29.png/revision/latest?cb=20120121001318",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b4/Infinity_Helios_%28aquos%29_closed_2.jpg/revision/latest?cb=20110605070913",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Infinity_Helios_%28Aquos%29_closed.jpg/revision/latest?cb=20110605070902",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Infinity_Helios_Ballform_%28open%29.png/revision/latest?cb=20120121001337",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f8/Infinity_Helios_Aquos_%28open%29.jpg/revision/latest?cb=20110605070823",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Darkus_infinity_Helios_%28just_part_open%29.JPG/revision/latest?cb=20110722064400",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Darkus_Maxus_Infinity_Helios_Warrior_Form.png/revision/latest?cb=20110821132502",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Infinity_Helios_Doomtronic_%28BallForm%29.png/revision/latest?cb=20120114003406"
+      ]
     },
     {
       "id": "infinity-helios-darkus",
@@ -15692,7 +20411,17 @@ window.BAKU_DATA = {
       "bio": "Spectra’nın son Helios’u. Makine mükemmelliğinin sınırında. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8b/Darkus_infinity_Helios_%28left_view%29.JPG/revision/latest?cb=20110722064307",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Darkus Infinity Helios"
+      "nickname": "Darkus Infinity Helios",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f0/Darkus_infinity_Helios_%28just_part_open%29.JPG/revision/latest?cb=20110722064400",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Darkus_Maxus_Infinity_Helios_Ball_Form.PNG/revision/latest?cb=20110821132426",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0b/Darkus_Infinity_Helios.png/revision/latest?cb=20110701205915",
+        "https://static.wikia.nocookie.net/bakugan/images/1/18/KeithStrife_Darkus_Infinity_Helios.jpg/revision/latest?cb=20130125143331",
+        "https://static.wikia.nocookie.net/bakugan/images/7/76/Darkus_Infinity_Helios_.JPG/revision/latest?cb=20110721201143",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6f/Darkus_infinity_helios.jpg/revision/latest?cb=20110615132437",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/Darkus_Infinity_Helios_%28different_views%29.JPG/revision/latest?cb=20110722064254",
+        "https://static.wikia.nocookie.net/bakugan/images/7/77/Darkus_Infinity_Helios_%28tilted_over%29.JPG/revision/latest?cb=20110722064349"
+      ]
     },
     {
       "id": "infinity-trister",
@@ -15720,8 +20449,18 @@ window.BAKU_DATA = {
         "gForce": 65
       },
       "bio": "Infinity Trister, Sezon 4 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/81/Infinity_Trister.png/revision/latest?cb=20110505202410",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/52/Pyrus_Infinity_Trister_%28back_view%29.jpg/revision/latest?cb=20110605071524",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Pyrus_Infinity_Trister_%28closed%29.jpg/revision/latest?cb=20110605071440",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a0/Pyrus_Infinity_Trister_%28side_view%29.jpg/revision/latest?cb=20110605071552",
+        "https://static.wikia.nocookie.net/bakugan/images/6/62/Pyrus_Infinity_Trister.jpg/revision/latest?cb=20110605071537",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/Pyrus_Titanium_Dragonoid_Haos-Ventus_Mercury_Dragonoid_Aquos_Infinity_Trister.jpg/revision/latest?cb=20110819085440",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Infinity_Trister_Ballform_%28closed%29.png/revision/latest?cb=20120118213119",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fa/Infinity_Trister_Ballform_%28open%29.png/revision/latest?cb=20120118213144",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6d/Infinity_Trister_Crosstriker_BallForm.png/revision/latest?cb=20120113235444",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Patryk_Jan_Cesarz_Infinity_Trister_Haos.PNG/revision/latest?cb=20110416084532"
+      ]
     },
     {
       "id": "iron-dragonoid",
@@ -15749,8 +20488,18 @@ window.BAKU_DATA = {
         "gForce": 59
       },
       "bio": "Iron Dragonoid, Sezon 4 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b4/Iron_Dragonoid-300x180.png/revision/latest?cb=20110210033228",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b4/Iron_Dragonoid-300x180.png/revision/latest?cb=20110210033228"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/eb/Pyrus_IronDragonoid_Open.png/revision/latest?cb=20110624030251",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b4/Iron_Dragonoid-300x180.png/revision/latest?cb=20110210033228",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/Pyrus_Iron_Dragonoid.JPG/revision/latest?cb=20110209060325",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bc/Dimensions_Darkus_Iron_Dragonoid_Pyrus_Bolcanon.png/revision/latest?cb=20180725063634",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Pyrus_IronDragonoid.png/revision/latest?cb=20110223123000",
+        "https://static.wikia.nocookie.net/bakugan/images/3/30/KeithStrife_Pyrus_IronDragonoid_BakuGold.JPG/revision/latest?cb=20121023030052",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/PyrusIronDragonoid.png/revision/latest?cb=20110621223642",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3d/V._Iron_Dragonoid.png/revision/latest?cb=20110221012624",
+        "https://static.wikia.nocookie.net/bakugan/images/9/97/Black_and_red_iron_Dragonoid.jpg/revision/latest?cb=20250604223217",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Aquos_Iron_Dragonoid.jpg/revision/latest?cb=20110213192941"
+      ]
     },
     {
       "id": "jaakor",
@@ -15779,7 +20528,17 @@ window.BAKU_DATA = {
       },
       "bio": "Jaakor, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/91/Bakuganspotlightjaakor.png/revision/latest?cb=20110819173324",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/91/Bakuganspotlightjaakor.png/revision/latest?cb=20110819173324"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/91/Bakuganspotlightjaakor.png/revision/latest?cb=20110819173324",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/7/76/Jaakor_ball_form.jpg/revision/latest?cb=20111014003117",
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Haos_Jaakor.JPG/revision/latest?cb=20110826231018",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6b/Haos_Jaakor.jpg/revision/latest?cb=20111109225120",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d2/Shun_and_Jaakor_2.png/revision/latest?cb=20240522025431",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Gi-jaakor.png/revision/latest?cb=20111130024635",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2c/S4.75_BakuSolo-Jaakor_BakuCycloneStrike.jpg/revision/latest?cb=20120328145425",
+        "https://static.wikia.nocookie.net/bakugan/images/2/26/Jaakor_Fortratron_%28ballform%29.png/revision/latest?cb=20120114011332",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Shun_and_Jaakor.png/revision/latest?cb=20110925112913"
+      ]
     },
     {
       "id": "kodokor",
@@ -15808,7 +20567,15 @@ window.BAKU_DATA = {
       },
       "bio": "Kodokor, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/7a/PyrusKodokor.png/revision/latest?cb=20110910045007",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7a/PyrusKodokor.png/revision/latest?cb=20110910045007"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/7a/PyrusKodokor.png/revision/latest?cb=20110910045007",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/29/Kodokor_ball_form.jpg/revision/latest?cb=20111108074836",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ae/Kodokor.png/revision/latest?cb=20110909230432",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c4/Kodokor.jpg/revision/latest?cb=20110911091540",
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Kodokor_is.jpg/revision/latest?cb=20121111170411",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4e/Kodokor-Portal.png/revision/latest?cb=20111203115303",
+        "https://static.wikia.nocookie.net/bakugan/images/d/da/European_Kodokor.jpeg/revision/latest?cb=20120314070305"
+      ]
     },
     {
       "id": "krakenoid-pyrus",
@@ -15837,8 +20604,18 @@ window.BAKU_DATA = {
       },
       "bio": "Gundalia’nın aquos tehdidi. Stoica’nın sadık krakeni. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e8/Pyrus_Krakenoid_BD.png/revision/latest?cb=20110412195531",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c2/Krakenoid0.png/revision/latest?cb=20110505202447",
-      "nickname": "Pyrus Krakenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e8/Pyrus_Krakenoid_BD.png/revision/latest?cb=20110412195531",
+      "nickname": "Pyrus Krakenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Pyrus_Krakenoid_Open.png/revision/latest?cb=20110624031103",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a0/Krakenoid_Ballform_%28closed%29.png/revision/latest?cb=20120119205158",
+        "https://static.wikia.nocookie.net/bakugan/images/2/29/Krakenoid_Ballform_%28open%29.png/revision/latest?cb=20120119205218",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Subterra_Krakenoid_Open.png/revision/latest?cb=20110624031114",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Haos_Krakenoid_Open.png/revision/latest?cb=20110624031054",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Aquos_Krakenoid_Open.png/revision/latest?cb=20110624031009",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Ventus_Krakenoid_Open.png/revision/latest?cb=20110624031124",
+        "https://static.wikia.nocookie.net/bakugan/images/d/df/Clear_Krakenoid_Open.png/revision/latest?cb=20110624031026"
+      ]
     },
     {
       "id": "krakenoid-aquos",
@@ -15867,8 +20644,18 @@ window.BAKU_DATA = {
       },
       "bio": "Gundalia’nın aquos tehdidi. Stoica’nın sadık krakeni. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/ad/Aquos_Krakenoid_Open.png/revision/latest?cb=20110624031009",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c2/Krakenoid0.png/revision/latest?cb=20110505202447",
-      "nickname": "Aquos Krakenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a6/Aquos_krakenoid.png/revision/latest?cb=20110423224722",
+      "nickname": "Aquos Krakenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Aquos_Krakenoid.png/revision/latest?cb=20110828161726",
+        "https://static.wikia.nocookie.net/bakugan/images/0/03/KeithStrife_Aquos_Krakenoid.jpg/revision/latest?cb=20130125143330",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a0/Krakenoid_Ballform_%28closed%29.png/revision/latest?cb=20120119205158",
+        "https://static.wikia.nocookie.net/bakugan/images/2/29/Krakenoid_Ballform_%28open%29.png/revision/latest?cb=20120119205218",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Subterra_Krakenoid_Open.png/revision/latest?cb=20110624031114",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Haos_Krakenoid_Open.png/revision/latest?cb=20110624031054",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Ventus_Krakenoid_Open.png/revision/latest?cb=20110624031124",
+        "https://static.wikia.nocookie.net/bakugan/images/d/df/Clear_Krakenoid_Open.png/revision/latest?cb=20110624031026"
+      ]
     },
     {
       "id": "krakenoid-ventus",
@@ -15897,8 +20684,18 @@ window.BAKU_DATA = {
       },
       "bio": "Gundalia’nın aquos tehdidi. Stoica’nın sadık krakeni. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4c/Ventus_Krakenoid_Open.png/revision/latest?cb=20110624031124",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c2/Krakenoid0.png/revision/latest?cb=20110505202447",
-      "nickname": "Ventus Krakenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e4/Ventus_Krakenoid.png/revision/latest?cb=20110412195558",
+      "nickname": "Ventus Krakenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a0/Krakenoid_Ballform_%28closed%29.png/revision/latest?cb=20120119205158",
+        "https://static.wikia.nocookie.net/bakugan/images/2/29/Krakenoid_Ballform_%28open%29.png/revision/latest?cb=20120119205218",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Subterra_Krakenoid_Open.png/revision/latest?cb=20110624031114",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Haos_Krakenoid_Open.png/revision/latest?cb=20110624031054",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Aquos_Krakenoid_Open.png/revision/latest?cb=20110624031009",
+        "https://static.wikia.nocookie.net/bakugan/images/d/df/Clear_Krakenoid_Open.png/revision/latest?cb=20110624031026",
+        "https://static.wikia.nocookie.net/bakugan/images/3/32/Darkus_Krakenoid_Open.png/revision/latest?cb=20110624031036",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Pyrus_Krakenoid_Open.png/revision/latest?cb=20110624031103"
+      ]
     },
     {
       "id": "krakenoid-subterra",
@@ -15927,8 +20724,18 @@ window.BAKU_DATA = {
       },
       "bio": "Gundalia’nın aquos tehdidi. Stoica’nın sadık krakeni. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c3/Subterra_Krakenoid_Open.png/revision/latest?cb=20110624031114",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c2/Krakenoid0.png/revision/latest?cb=20110505202447",
-      "nickname": "Subterra Krakenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0a/Subterra_Krakenoid.png/revision/latest?cb=20111005200640",
+      "nickname": "Subterra Krakenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a0/Krakenoid_Ballform_%28closed%29.png/revision/latest?cb=20120119205158",
+        "https://static.wikia.nocookie.net/bakugan/images/2/29/Krakenoid_Ballform_%28open%29.png/revision/latest?cb=20120119205218",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Haos_Krakenoid_Open.png/revision/latest?cb=20110624031054",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Aquos_Krakenoid_Open.png/revision/latest?cb=20110624031009",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Ventus_Krakenoid_Open.png/revision/latest?cb=20110624031124",
+        "https://static.wikia.nocookie.net/bakugan/images/d/df/Clear_Krakenoid_Open.png/revision/latest?cb=20110624031026",
+        "https://static.wikia.nocookie.net/bakugan/images/3/32/Darkus_Krakenoid_Open.png/revision/latest?cb=20110624031036",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Pyrus_Krakenoid_Open.png/revision/latest?cb=20110624031103"
+      ]
     },
     {
       "id": "krakenoid-haos",
@@ -15957,8 +20764,18 @@ window.BAKU_DATA = {
       },
       "bio": "Gundalia’nın aquos tehdidi. Stoica’nın sadık krakeni. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/7c/Haos_Krakenoid_Open.png/revision/latest?cb=20110624031054",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c2/Krakenoid0.png/revision/latest?cb=20110505202447",
-      "nickname": "Haos Krakenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/3e/Haos_Krakenoid.png/revision/latest?cb=20110421221203",
+      "nickname": "Haos Krakenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a0/Krakenoid_Ballform_%28closed%29.png/revision/latest?cb=20120119205158",
+        "https://static.wikia.nocookie.net/bakugan/images/2/29/Krakenoid_Ballform_%28open%29.png/revision/latest?cb=20120119205218",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Subterra_Krakenoid_Open.png/revision/latest?cb=20110624031114",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Aquos_Krakenoid_Open.png/revision/latest?cb=20110624031009",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Ventus_Krakenoid_Open.png/revision/latest?cb=20110624031124",
+        "https://static.wikia.nocookie.net/bakugan/images/d/df/Clear_Krakenoid_Open.png/revision/latest?cb=20110624031026",
+        "https://static.wikia.nocookie.net/bakugan/images/3/32/Darkus_Krakenoid_Open.png/revision/latest?cb=20110624031036",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Pyrus_Krakenoid_Open.png/revision/latest?cb=20110624031103"
+      ]
     },
     {
       "id": "krakenoid-darkus",
@@ -15988,7 +20805,17 @@ window.BAKU_DATA = {
       "bio": "Gundalia’nın aquos tehdidi. Stoica’nın sadık krakeni. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/32/Darkus_Krakenoid_Open.png/revision/latest?cb=20110624031036",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c2/Krakenoid0.png/revision/latest?cb=20110505202447",
-      "nickname": "Darkus Krakenoid"
+      "nickname": "Darkus Krakenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Darkus_Krakenoid.png/revision/latest?cb=20110412195645",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a0/Krakenoid_Ballform_%28closed%29.png/revision/latest?cb=20120119205158",
+        "https://static.wikia.nocookie.net/bakugan/images/2/29/Krakenoid_Ballform_%28open%29.png/revision/latest?cb=20120119205218",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Subterra_Krakenoid_Open.png/revision/latest?cb=20110624031114",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7c/Haos_Krakenoid_Open.png/revision/latest?cb=20110624031054",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Aquos_Krakenoid_Open.png/revision/latest?cb=20110624031009",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Ventus_Krakenoid_Open.png/revision/latest?cb=20110624031124",
+        "https://static.wikia.nocookie.net/bakugan/images/d/df/Clear_Krakenoid_Open.png/revision/latest?cb=20110624031026"
+      ]
     },
     {
       "id": "krowll",
@@ -16017,7 +20844,17 @@ window.BAKU_DATA = {
       },
       "bio": "Krowll, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/13/Krowllieee.jpg/revision/latest?cb=20110429021905",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/13/Krowllieee.jpg/revision/latest?cb=20110429021905"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/13/Krowllieee.jpg/revision/latest?cb=20110429021905",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/07/Darkus_Clawsaurus_faces_Haos_Krowll.png/revision/latest?cb=20221230075304",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Cryskull_Krowll.jpg/revision/latest?cb=20190901141336",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Krowll_Grab_%28NA%29.jpg/revision/latest?cb=20111223180910",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Krowll_grab.jpg/revision/latest?cb=20230616132520",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7a/Krowll.png/revision/latest?cb=20110314190440",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Krowll.red.ability.jpg/revision/latest?cb=20230627141755",
+        "https://static.wikia.nocookie.net/bakugan/images/0/05/Krowll_Slicerix_BallForm.png/revision/latest?cb=20120107033628",
+        "https://static.wikia.nocookie.net/bakugan/images/2/27/Krowll%27s_general_data.png/revision/latest?cb=20120129221255"
+      ]
     },
     {
       "id": "mag-mel",
@@ -16046,7 +20883,17 @@ window.BAKU_DATA = {
       },
       "bio": "Sezon 4’ün gölge efendisi. Eski düşmanların yankısıyla Chaos’u yönetir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9f/Bak_magmel_174x252.png/revision/latest?cb=20110511055040",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9f/Bak_magmel_174x252.png/revision/latest?cb=20110511055040"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9f/Bak_magmel_174x252.png/revision/latest?cb=20110511055040",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a3/MS_Mag-Mel_1600x1200.jpg/revision/latest?cb=20110603223546",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Mag_mel.png/revision/latest?cb=20110608152010",
+        "https://static.wikia.nocookie.net/bakugan/images/1/10/Magmel_raz34.png/revision/latest?cb=20111122153244",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/New_Mag_Mel.jpg/revision/latest?cb=20131111232237",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Dextra_Bakugan_%28Mag_Mel%29.png/revision/latest?cb=20120822004456",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Mag_Mel_and_Razenoid.PNG/revision/latest?cb=20110807144331",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2f/Mag_Mel.JPG/revision/latest?cb=20110401193142",
+        "https://static.wikia.nocookie.net/bakugan/images/5/58/Mag-Mel_being_himself.jpg/revision/latest?cb=20111111135901"
+      ]
     },
     {
       "id": "mechtavius-destroyer",
@@ -16075,7 +20922,14 @@ window.BAKU_DATA = {
       },
       "bio": "Mechtavius Destroyer, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/18/Battletactic-mechtaviusdestroyer.png/revision/latest?cb=20111111023741",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/18/Battletactic-mechtaviusdestroyer.png/revision/latest?cb=20111111023741"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/18/Battletactic-mechtaviusdestroyer.png/revision/latest?cb=20111111023741",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Death_of_Mechtavius_Destroyer.png/revision/latest?cb=20190901143521",
+        "https://static.wikia.nocookie.net/bakugan/images/5/57/Mechtavius_Destroyer_.png/revision/latest?cb=20110916000335",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Mechtavius_Destroyer_attacks.PNG/revision/latest?cb=20111216124522",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3f/Mechtavius_Destroyer.jpg/revision/latest?cb=20130302072200",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a3/Mechtavius_Destroyer_Hybrid_symbol.png/revision/latest?cb=20111221185800"
+      ]
     },
     {
       "id": "meta-dragonoid",
@@ -16103,8 +20957,18 @@ window.BAKU_DATA = {
         "gForce": 56
       },
       "bio": "Meta Dragonoid, Sezon 4 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Meta_Dragonoid-300x173.png/revision/latest?cb=20110210033322",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Meta_Dragonoid-300x173.png/revision/latest?cb=20110210033322"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/22/Pyrus_Meta_Dragonoid_%28different_views%29.JPG/revision/latest?cb=20110621141914",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/ff/Meta_Dragonoid-300x173.png/revision/latest?cb=20110210033322",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Pyrus_Meta_Dragonoid_%28closed%29.JPG/revision/latest?cb=20110621141929",
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Pyrus_Meta_Dragonoid_%28gate_card%29.JPG/revision/latest?cb=20110621141844",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/Pyrus_Meta_Dragonoid_%28tilted%29.JPG/revision/latest?cb=20110621141821",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Pyrus_Hex_Meta_Dragonoid.png/revision/latest?cb=20111103192149",
+        "https://static.wikia.nocookie.net/bakugan/images/4/43/Pyrus_Meta_Dragonoid_plus_Hyper_Pulsor.JPG/revision/latest?cb=20110621141855",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Meta_Dragonoid_%28NA%29.png/revision/latest?cb=20180602070644",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Shuko%27s_Meta_Dragonoid.png/revision/latest?cb=20110513235128",
+        "https://static.wikia.nocookie.net/bakugan/images/8/85/Zoompha_meta_dragonoid.png/revision/latest?cb=20110414164349"
+      ]
     },
     {
       "id": "mutabrid",
@@ -16133,7 +20997,13 @@ window.BAKU_DATA = {
       },
       "bio": "Mutabrid, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e7/AquosMutabrid.png/revision/latest?cb=20110910045208",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e7/AquosMutabrid.png/revision/latest?cb=20110910045208"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e7/AquosMutabrid.png/revision/latest?cb=20110910045208",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a6/Mutabrid_ball_form.jpg/revision/latest?cb=20111108075832",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a9/Mutabrid.png/revision/latest?cb=20110909233224",
+        "https://static.wikia.nocookie.net/bakugan/images/3/33/Mutabrid.PNG/revision/latest?cb=20111218084159",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/MUTABRID-pORTAL.png/revision/latest?cb=20111203115451"
+      ]
     },
     {
       "id": "mutant-elfin",
@@ -16162,7 +21032,17 @@ window.BAKU_DATA = {
       },
       "bio": "Mutant Elfin, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e8/Mutant_Elfin-300x180.png/revision/latest?cb=20110210033000",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e8/Mutant_Elfin-300x180.png/revision/latest?cb=20110210033000"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e8/Mutant_Elfin-300x180.png/revision/latest?cb=20110210033000",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b3/Ventus_Mutant_Elfin_%28closed%29.jpg/revision/latest?cb=20110614180500",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ee/Aquos_Mutant_Elfin_closed.jpg/revision/latest?cb=20110605071331",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d5/Aquos_mutant_Elfin_%28closed%29.jpg/revision/latest?cb=20110614180714",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/Ventus_Mutant_Elfin_%28open%29.jpg/revision/latest?cb=20110614180324",
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Aquos_Mutant_Elfin_%28open%29.jpg/revision/latest?cb=20110614180646",
+        "https://static.wikia.nocookie.net/bakugan/images/6/67/Mutant_Elfin_Description_BD.png/revision/latest?cb=20110324040325",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Mutant_Elfin_%28NA%29.png/revision/latest?cb=20180602070503",
+        "https://static.wikia.nocookie.net/bakugan/images/8/86/Mutant_Elfin_-_Darkus.png/revision/latest?cb=20110214233116"
+      ]
     },
     {
       "id": "radizen",
@@ -16191,7 +21071,17 @@ window.BAKU_DATA = {
       },
       "bio": "Radizen, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/9b/SubterraRadizen_BakuFusion.png/revision/latest?cb=20110714044605",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9b/SubterraRadizen_BakuFusion.png/revision/latest?cb=20110714044605"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/9b/SubterraRadizen_BakuFusion.png/revision/latest?cb=20110714044605",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/83/Marucho_%26_Radizen_MS_Arc_2.png/revision/latest?cb=20240522045910",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/Radizen_Clawbruk_%28ballform%29.png/revision/latest?cb=20120114011250",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0c/Radizen_Blasterate_%28ballform%29.png/revision/latest?cb=20120114011208",
+        "https://static.wikia.nocookie.net/bakugan/images/7/76/Radizen.PNG/revision/latest?cb=20110707190255",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/Radizen_using_an_ability.PNG/revision/latest?cb=20111216124703",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bc/Radizen.png/revision/latest?cb=20110912081747",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/Radizen-pull.png/revision/latest?cb=20111106085144",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/Radizen-roxtor.png/revision/latest?cb=20111020204903"
+      ]
     },
     {
       "id": "raptorix",
@@ -16219,8 +21109,18 @@ window.BAKU_DATA = {
         "gForce": 75
       },
       "bio": "Raptorix, Sezon 4 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/61/BK_SA_Raptorix.png/revision/latest?cb=20100429164524",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/42/Pyrus_Raptorix_Open.png/revision/latest?cb=20110418003722",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Pyrus_Raptorix_Closed.png/revision/latest?cb=20110621144403",
+        "https://static.wikia.nocookie.net/bakugan/images/9/94/Pyrus_Raptorix.png/revision/latest?cb=20101012000541",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e5/Pyrus_Raptorix_BD.png/revision/latest?cb=20110225163709",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/Haos_Merlix_Longfly_Scaboid_Raptorix_Ball.png/revision/latest?cb=20110308133614",
+        "https://static.wikia.nocookie.net/bakugan/images/0/00/Haos_Merlix_Longfly_Scaboid_Raptorix_Ball.PNG/revision/latest?cb=20110123180238",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Raptorix_ball.jpg/revision/latest?cb=20100401041122",
+        "https://static.wikia.nocookie.net/bakugan/images/9/91/Raptorix_haos_ball.jpg/revision/latest?cb=20100917115609",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/Raptorix_Ball.jpg/revision/latest?cb=20100614205100"
+      ]
     },
     {
       "id": "razenoid-pyrus",
@@ -16248,9 +21148,19 @@ window.BAKU_DATA = {
         "gForce": 99
       },
       "bio": "Mag Mel’in pençesi. Razenoid uyanınca Mechtanium karışır. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e4/RazenoidMS.png/revision/latest?cb=20110301031308",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e4/RazenoidMS.png/revision/latest?cb=20110301031308",
-      "nickname": "Pyrus Razenoid"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/d7/Pyrus_Razenoid_Open.png/revision/latest?cb=20110626195734",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a9/Pyrus_Razenoid.png/revision/latest?cb=20110223123309",
+      "nickname": "Pyrus Razenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Razenoid_Ballform_%28closed%29.png/revision/latest?cb=20120120032045",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Combat_Razenoid_Closed.png/revision/latest?cb=20110628234224",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Razenoid_Ballform_%28open%29.png/revision/latest?cb=20120120032234",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Razenoid_Standing.png/revision/latest?cb=20111221165505",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Haos_Razenoid_Open.png/revision/latest?cb=20110626195723",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Subterra_Razenoid_Open.png/revision/latest?cb=20110626195823",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Aquos_Razenoid_Open.png/revision/latest?cb=20110626195627",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Ventus_Razenoid_Open.png/revision/latest?cb=20110626195839"
+      ]
     },
     {
       "id": "razenoid-aquos",
@@ -16278,9 +21188,19 @@ window.BAKU_DATA = {
         "gForce": 99
       },
       "bio": "Mag Mel’in pençesi. Razenoid uyanınca Mechtanium karışır. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e4/RazenoidMS.png/revision/latest?cb=20110301031308",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e4/RazenoidMS.png/revision/latest?cb=20110301031308",
-      "nickname": "Aquos Razenoid"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/08/Aquos_Razenoid_Open.png/revision/latest?cb=20110626195627",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/53/512px-Aquos_Razenoid.png/revision/latest?cb=20110515225556",
+      "nickname": "Aquos Razenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Razenoid_Ballform_%28closed%29.png/revision/latest?cb=20120120032045",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Combat_Razenoid_Closed.png/revision/latest?cb=20110628234224",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Razenoid_Ballform_%28open%29.png/revision/latest?cb=20120120032234",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Razenoid_Standing.png/revision/latest?cb=20111221165505",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Haos_Razenoid_Open.png/revision/latest?cb=20110626195723",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Subterra_Razenoid_Open.png/revision/latest?cb=20110626195823",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Ventus_Razenoid_Open.png/revision/latest?cb=20110626195839",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f8/Clear_Razenoid_Open.png/revision/latest?cb=20110626195642"
+      ]
     },
     {
       "id": "razenoid-ventus",
@@ -16309,8 +21229,18 @@ window.BAKU_DATA = {
       },
       "bio": "Mag Mel’in pençesi. Razenoid uyanınca Mechtanium karışır. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Ventus_Razenoid.png/revision/latest?cb=20110218022839",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e4/RazenoidMS.png/revision/latest?cb=20110301031308",
-      "nickname": "Ventus Razenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5e/Ventus_Razenoid.png/revision/latest?cb=20110218022839",
+      "nickname": "Ventus Razenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Ventus_Razenoid_Open.png/revision/latest?cb=20110626195839",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ea/Ventus_Razenoid_BD.png/revision/latest?cb=20110223123243",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Razenoid_Ballform_%28closed%29.png/revision/latest?cb=20120120032045",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Combat_Razenoid_Closed.png/revision/latest?cb=20110628234224",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Razenoid_Ballform_%28open%29.png/revision/latest?cb=20120120032234",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Razenoid_Standing.png/revision/latest?cb=20111221165505",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Haos_Razenoid_Open.png/revision/latest?cb=20110626195723",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Subterra_Razenoid_Open.png/revision/latest?cb=20110626195823"
+      ]
     },
     {
       "id": "razenoid-subterra",
@@ -16339,8 +21269,18 @@ window.BAKU_DATA = {
       },
       "bio": "Mag Mel’in pençesi. Razenoid uyanınca Mechtanium karışır. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6e/Subterra_Razenoid.png/revision/latest?cb=20110223123253",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e4/RazenoidMS.png/revision/latest?cb=20110301031308",
-      "nickname": "Subterra Razenoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6e/Subterra_Razenoid.png/revision/latest?cb=20110223123253",
+      "nickname": "Subterra Razenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Subterra_Razenoid_Open.png/revision/latest?cb=20110626195823",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Razenoid_Ballform_%28closed%29.png/revision/latest?cb=20120120032045",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Combat_Razenoid_Closed.png/revision/latest?cb=20110628234224",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Razenoid_Ballform_%28open%29.png/revision/latest?cb=20120120032234",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Razenoid_Standing.png/revision/latest?cb=20111221165505",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Haos_Razenoid_Open.png/revision/latest?cb=20110626195723",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Aquos_Razenoid_Open.png/revision/latest?cb=20110626195627",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Ventus_Razenoid_Open.png/revision/latest?cb=20110626195839"
+      ]
     },
     {
       "id": "razenoid-haos",
@@ -16368,9 +21308,19 @@ window.BAKU_DATA = {
         "gForce": 99
       },
       "bio": "Mag Mel’in pençesi. Razenoid uyanınca Mechtanium karışır. Bu kayıt Haos (Işık) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e4/RazenoidMS.png/revision/latest?cb=20110301031308",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e4/RazenoidMS.png/revision/latest?cb=20110301031308",
-      "nickname": "Haos Razenoid"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/f5/Haos_Razenoid_Open.png/revision/latest?cb=20110626195723",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/dc/Haos_Razenoid.png/revision/latest?cb=20110223123202",
+      "nickname": "Haos Razenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Razenoid_Ballform_%28closed%29.png/revision/latest?cb=20120120032045",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Combat_Razenoid_Closed.png/revision/latest?cb=20110628234224",
+        "https://static.wikia.nocookie.net/bakugan/images/1/12/Razenoid_Ballform_%28open%29.png/revision/latest?cb=20120120032234",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Razenoid_Standing.png/revision/latest?cb=20111221165505",
+        "https://static.wikia.nocookie.net/bakugan/images/5/52/Subterra_Razenoid_Open.png/revision/latest?cb=20110626195823",
+        "https://static.wikia.nocookie.net/bakugan/images/0/08/Aquos_Razenoid_Open.png/revision/latest?cb=20110626195627",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5d/Ventus_Razenoid_Open.png/revision/latest?cb=20110626195839",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f8/Clear_Razenoid_Open.png/revision/latest?cb=20110626195642"
+      ]
     },
     {
       "id": "razenoid-darkus",
@@ -16400,7 +21350,17 @@ window.BAKU_DATA = {
       "bio": "Mag Mel’in pençesi. Razenoid uyanınca Mechtanium karışır. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/1/1e/Darkus_Combat_Razenoid.png/revision/latest?cb=20110711080642",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e4/RazenoidMS.png/revision/latest?cb=20110301031308",
-      "nickname": "Darkus Razenoid"
+      "nickname": "Darkus Razenoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/4a/Darkus_Razenoid_Open.png/revision/latest?cb=20110626195702",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dd/Darkus_Razenoid.png/revision/latest?cb=20110220074318",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d3/KeithStrife_Darkus_Razenoid.JPG/revision/latest?cb=20121124014220",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7e/Darkus_Razenoid_R.png/revision/latest?cb=20110726075909",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9d/Darkus_Razenoid_BD.png/revision/latest?cb=20110223123141",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f7/Darkus_Razenoid.JPG/revision/latest?cb=20110209055715",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Razenoid_Ballform_%28closed%29.png/revision/latest?cb=20120120032045",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Combat_Razenoid_Closed.png/revision/latest?cb=20110628234224"
+      ]
     },
     {
       "id": "reptak",
@@ -16429,7 +21389,17 @@ window.BAKU_DATA = {
       },
       "bio": "Reptak, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8e/PyrusReptak_SkyRaider.png/revision/latest?cb=20110713184855",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8e/PyrusReptak_SkyRaider.png/revision/latest?cb=20110713184855"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/1/16/Pyrus_Reptak_%28packaging%29.jpg/revision/latest?cb=20110721201451",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Gunz_%26_Reptak_Mechtanium_Surge_Arc_2.JPG/revision/latest?cb=20240522051216",
+        "https://static.wikia.nocookie.net/bakugan/images/3/39/Reptak_Combustoid_%28ballform%29.png/revision/latest?cb=20120114011418",
+        "https://static.wikia.nocookie.net/bakugan/images/0/06/Reptak_Doomtronic_%28ballform%29.png/revision/latest?cb=20120114011543",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/KeithStrife_Haos_Reptak.JPG/revision/latest?cb=20121023030052",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9f/Reptak_fighting_Gunz.PNG/revision/latest?cb=20120106084254",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/Reptak.png/revision/latest?cb=20110912080713",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b8/My_Aquos_Reptak.jpg/revision/latest?cb=20130605205914",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4c/Haos_Reptak.png/revision/latest?cb=20110917165947"
+      ]
     },
     {
       "id": "roxtor",
@@ -16458,7 +21428,17 @@ window.BAKU_DATA = {
       },
       "bio": "Roxtor, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6e/SubterraRoxtor_BakuFusion.png/revision/latest?cb=20110717122820",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6e/SubterraRoxtor_BakuFusion.png/revision/latest?cb=20110717122820"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6e/SubterraRoxtor_BakuFusion.png/revision/latest?cb=20110717122820",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/d0/KeithStrife_Subterra_Roxtor.jpg/revision/latest?cb=20120826150746",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/Roxtor.png/revision/latest?cb=20110715171315",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/Radizen-roxtor.png/revision/latest?cb=20111020204903",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Roxtor.JPG/revision/latest?cb=20111220081934",
+        "https://static.wikia.nocookie.net/bakugan/images/d/dc/Roxtor-Portal.png/revision/latest?cb=20111205075757",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9d/Roxtor-Portal-1.png/revision/latest?cb=20111206060318",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Roxtor_is.jpg/revision/latest?cb=20121021165540",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/Roxtor_this_is.jpg/revision/latest?cb=20140530182335"
+      ]
     },
     {
       "id": "silent-strike",
@@ -16486,8 +21466,18 @@ window.BAKU_DATA = {
         "gForce": 56
       },
       "bio": "Silent Strike, Sezon 4 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/9/91/Silent_Strike.png/revision/latest?cb=20110807010445",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/91/Silent_Strike.png/revision/latest?cb=20110807010445"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/7/7f/Aquos_SilentStrike_Open.png/revision/latest?cb=20110624032244",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/9/91/Silent_Strike.png/revision/latest?cb=20110807010445",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/81/Aquos_SilentStrike_Closed.png/revision/latest?cb=20110621050734",
+        "https://static.wikia.nocookie.net/bakugan/images/1/17/Aquos_SilentStrike.png/revision/latest?cb=20110412200611",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f8/Pyrus_SilentStrike_Closed.png/revision/latest?cb=20110621050835",
+        "https://static.wikia.nocookie.net/bakugan/images/3/35/Subterra_SilentStrike_Closed.png/revision/latest?cb=20110621050843",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8e/Ventus_SilentStrike_Closed.png/revision/latest?cb=20110621050852",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1b/Haos_SilentStrike_Closed.png/revision/latest?cb=20110621050823",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/Darkus_SilentStrike_Closed.png/revision/latest?cb=20110621050810",
+        "https://static.wikia.nocookie.net/bakugan/images/a/af/Clear_SilentStrike_Closed.png/revision/latest?cb=20110621050743"
+      ]
     },
     {
       "id": "slycerak",
@@ -16516,7 +21506,17 @@ window.BAKU_DATA = {
       },
       "bio": "Slycerak, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a7/VentusSlycerak_PackagingImage.png/revision/latest?cb=20111210100527",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a7/VentusSlycerak_PackagingImage.png/revision/latest?cb=20111210100527"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a7/VentusSlycerak_PackagingImage.png/revision/latest?cb=20111210100527",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5c/Slycerak_%28NA%29.jpg/revision/latest?cb=20111223015331",
+        "https://static.wikia.nocookie.net/bakugan/images/3/39/Slycerak_Ventus.jpg/revision/latest?cb=20111028082439",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Advanced_Slycerak_%28NA%29.jpg/revision/latest?cb=20111002175022",
+        "https://static.wikia.nocookie.net/bakugan/images/6/69/Slycerak.PNG/revision/latest?cb=20110424070013",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4e/Slycerak_Description.png/revision/latest?cb=20110930235514",
+        "https://static.wikia.nocookie.net/bakugan/images/5/57/Slycerak.png/revision/latest?cb=20110911142249",
+        "https://static.wikia.nocookie.net/bakugan/images/5/53/Slycerak_and_coredegon.jpg/revision/latest?cb=20110918013224",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Slycerak-Portal.png/revision/latest?cb=20111203215952"
+      ]
     },
     {
       "id": "slynix",
@@ -16544,8 +21544,18 @@ window.BAKU_DATA = {
         "gForce": 85
       },
       "bio": "Slynix, Sezon 4 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c8/Slynix0.png/revision/latest?cb=20110505202611",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c8/Slynix0.png/revision/latest?cb=20110505202611"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a0/Pyrus_Slynix_Open.png/revision/latest?cb=20110310041301",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c8/Slynix0.png/revision/latest?cb=20110505202611",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f5/Pyrus_Slynix_Closed.png/revision/latest?cb=20110621051629",
+        "https://static.wikia.nocookie.net/bakugan/images/6/61/Pack_pyrus_slynix.png/revision/latest?cb=20110912163804",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Pyrus_slynix_pack.png/revision/latest?cb=20110315183955",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8f/Pyrus_Slynix.png/revision/latest?cb=20110412201714",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fb/Pyrus_Slynix_Pack.jpg/revision/latest?cb=20110312100308",
+        "https://static.wikia.nocookie.net/bakugan/images/9/9e/Pyrus_slynix.png/revision/latest?cb=20110414044447",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/Pyrus_Slynix.JPG/revision/latest?cb=20110306094729",
+        "https://static.wikia.nocookie.net/bakugan/images/a/af/Aquos_Slynix_Closed.png/revision/latest?cb=20110621051543"
+      ]
     },
     {
       "id": "smashtor",
@@ -16574,7 +21584,17 @@ window.BAKU_DATA = {
       },
       "bio": "Smashtor, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/40/BG_Smashtor.png/revision/latest?cb=20101007115005",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/40/BG_Smashtor.png/revision/latest?cb=20101007115005"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/40/BG_Smashtor.png/revision/latest?cb=20101007115005",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/f2/Silver_Smashtor_Closed.png/revision/latest?cb=20110621195831",
+        "https://static.wikia.nocookie.net/bakugan/images/5/56/Smashtor_%282%29.png/revision/latest?cb=20110831194146",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d7/Silver_Smashtor.png/revision/latest?cb=20101012011754",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ec/Dharak_Colossus_sin_smashtor_y_riptor.jpg/revision/latest?cb=20110831192454",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7d/Dharak_Colossus_sin_smashtor.jpg/revision/latest?cb=20110831192016",
+        "https://static.wikia.nocookie.net/bakugan/images/5/50/Smashtor_%284%29.png/revision/latest?cb=20110831194456",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/S.Smashtor.png/revision/latest?cb=20110605193202",
+        "https://static.wikia.nocookie.net/bakugan/images/4/41/Smashtor_website.png/revision/latest?cb=20100930001238"
+      ]
     },
     {
       "id": "spatterix",
@@ -16603,7 +21623,17 @@ window.BAKU_DATA = {
       },
       "bio": "Spatterix, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/0d/DarkusSpatterix_BakuFusion.png/revision/latest?cb=20110717123031",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0d/DarkusSpatterix_BakuFusion.png/revision/latest?cb=20110717123031"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0d/DarkusSpatterix_BakuFusion.png/revision/latest?cb=20110717123031",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/26/Spatterix_Ball_Form.png/revision/latest?cb=20120106012920",
+        "https://static.wikia.nocookie.net/bakugan/images/1/18/Stronk_and_spatterix_ball_form.jpg/revision/latest?cb=20111013232714",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0f/Spatterix_%28NA%29.jpg/revision/latest?cb=20180722234831",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a5/Spatterix_with_combustoid.PNG/revision/latest?cb=20120106083733",
+        "https://static.wikia.nocookie.net/bakugan/images/d/d6/Spatterix_BallForm.png/revision/latest?cb=20120101225829",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1f/Spatterix_with_Combustoid.PNG/revision/latest?cb=20111216124739",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2f/Combustiod_with_Spatterix.PNG/revision/latest?cb=20111216130136",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7e/Spatterix_is.jpg/revision/latest?cb=20121021172725"
+      ]
     },
     {
       "id": "spyron-pyrus",
@@ -16632,8 +21662,18 @@ window.BAKU_DATA = {
       },
       "bio": "Sellon’un partneri. Ventus hızını chaos ile kirletir. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/b/b6/Bakugan-FUSION-pyrus-SPYRON-baku-CAMO.jpg/revision/latest?cb=20210512014510",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/28/Spin_prod_190986101.jpg/revision/latest?cb=20110429015314",
-      "nickname": "Pyrus Spyron"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b6/Bakugan-FUSION-pyrus-SPYRON-baku-CAMO.jpg/revision/latest?cb=20210512014510",
+      "nickname": "Pyrus Spyron",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/53/Spyron%2Bbakunano_ball_form_anime.png/revision/latest?cb=20110509165326",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/Spyron_nano_anime.png/revision/latest?cb=20110509165435",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Ventus_spyron.png/revision/latest?cb=20180909153728",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Ventus_spyron_%282%29.png/revision/latest?cb=20180909153844",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Sellon-and-Spyron-bakugan-sellon-24512189-1600-120o.jpg/revision/latest?cb=20120729223716",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Spyron_Daftorix_BallForm.png/revision/latest?cb=20120101013701",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/Spyron.green.ability.jpg/revision/latest?cb=20230627184033",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/Spyron.png/revision/latest?cb=20120101225056"
+      ]
     },
     {
       "id": "spyron-aquos",
@@ -16661,9 +21701,17 @@ window.BAKU_DATA = {
         "gForce": 92
       },
       "bio": "Sellon’un partneri. Ventus hızını chaos ile kirletir. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/28/Spin_prod_190986101.jpg/revision/latest?cb=20110429015314",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/28/Spin_prod_190986101.jpg/revision/latest?cb=20110429015314",
-      "nickname": "Aquos Spyron"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/49/Spyron_nano_anime.png/revision/latest?cb=20110509165435",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/53/Spyron%2Bbakunano_ball_form_anime.png/revision/latest?cb=20110509165326",
+      "nickname": "Aquos Spyron",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Ventus_spyron.png/revision/latest?cb=20180909153728",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Ventus_spyron_%282%29.png/revision/latest?cb=20180909153844",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Sellon-and-Spyron-bakugan-sellon-24512189-1600-120o.jpg/revision/latest?cb=20120729223716",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Spyron_Daftorix_BallForm.png/revision/latest?cb=20120101013701",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/Spyron.green.ability.jpg/revision/latest?cb=20230627184033",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/Spyron.png/revision/latest?cb=20120101225056"
+      ]
     },
     {
       "id": "spyron-ventus",
@@ -16692,8 +21740,17 @@ window.BAKU_DATA = {
       },
       "bio": "Sellon’un partneri. Ventus hızını chaos ile kirletir. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/63/Ventus_spyron.png/revision/latest?cb=20180909153728",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/28/Spin_prod_190986101.jpg/revision/latest?cb=20110429015314",
-      "nickname": "Ventus Spyron"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/63/Ventus_spyron.png/revision/latest?cb=20180909153728",
+      "nickname": "Ventus Spyron",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Ventus_spyron_%282%29.png/revision/latest?cb=20180909153844",
+        "https://static.wikia.nocookie.net/bakugan/images/5/53/Spyron%2Bbakunano_ball_form_anime.png/revision/latest?cb=20110509165326",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/Spyron_nano_anime.png/revision/latest?cb=20110509165435",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Sellon-and-Spyron-bakugan-sellon-24512189-1600-120o.jpg/revision/latest?cb=20120729223716",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Spyron_Daftorix_BallForm.png/revision/latest?cb=20120101013701",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/Spyron.green.ability.jpg/revision/latest?cb=20230627184033",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/Spyron.png/revision/latest?cb=20120101225056"
+      ]
     },
     {
       "id": "spyron-subterra",
@@ -16721,9 +21778,17 @@ window.BAKU_DATA = {
         "gForce": 92
       },
       "bio": "Sellon’un partneri. Ventus hızını chaos ile kirletir. Bu kayıt Subterra (Toprak) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/28/Spin_prod_190986101.jpg/revision/latest?cb=20110429015314",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/28/Spin_prod_190986101.jpg/revision/latest?cb=20110429015314",
-      "nickname": "Subterra Spyron"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/49/Spyron_nano_anime.png/revision/latest?cb=20110509165435",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/53/Spyron%2Bbakunano_ball_form_anime.png/revision/latest?cb=20110509165326",
+      "nickname": "Subterra Spyron",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Ventus_spyron.png/revision/latest?cb=20180909153728",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Ventus_spyron_%282%29.png/revision/latest?cb=20180909153844",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Sellon-and-Spyron-bakugan-sellon-24512189-1600-120o.jpg/revision/latest?cb=20120729223716",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Spyron_Daftorix_BallForm.png/revision/latest?cb=20120101013701",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/Spyron.green.ability.jpg/revision/latest?cb=20230627184033",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/Spyron.png/revision/latest?cb=20120101225056"
+      ]
     },
     {
       "id": "spyron-haos",
@@ -16751,9 +21816,17 @@ window.BAKU_DATA = {
         "gForce": 92
       },
       "bio": "Sellon’un partneri. Ventus hızını chaos ile kirletir. Bu kayıt Haos (Işık) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/28/Spin_prod_190986101.jpg/revision/latest?cb=20110429015314",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/28/Spin_prod_190986101.jpg/revision/latest?cb=20110429015314",
-      "nickname": "Haos Spyron"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/49/Spyron_nano_anime.png/revision/latest?cb=20110509165435",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/53/Spyron%2Bbakunano_ball_form_anime.png/revision/latest?cb=20110509165326",
+      "nickname": "Haos Spyron",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Ventus_spyron.png/revision/latest?cb=20180909153728",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Ventus_spyron_%282%29.png/revision/latest?cb=20180909153844",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Sellon-and-Spyron-bakugan-sellon-24512189-1600-120o.jpg/revision/latest?cb=20120729223716",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Spyron_Daftorix_BallForm.png/revision/latest?cb=20120101013701",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/Spyron.green.ability.jpg/revision/latest?cb=20230627184033",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/Spyron.png/revision/latest?cb=20120101225056"
+      ]
     },
     {
       "id": "spyron-darkus",
@@ -16783,7 +21856,17 @@ window.BAKU_DATA = {
       "bio": "Sellon’un partneri. Ventus hızını chaos ile kirletir. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/28/Spin_prod_190986101.jpg/revision/latest?cb=20110429015314",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/28/Spin_prod_190986101.jpg/revision/latest?cb=20110429015314",
-      "nickname": "Darkus Spyron"
+      "nickname": "Darkus Spyron",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/53/Spyron%2Bbakunano_ball_form_anime.png/revision/latest?cb=20110509165326",
+        "https://static.wikia.nocookie.net/bakugan/images/4/49/Spyron_nano_anime.png/revision/latest?cb=20110509165435",
+        "https://static.wikia.nocookie.net/bakugan/images/6/63/Ventus_spyron.png/revision/latest?cb=20180909153728",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Ventus_spyron_%282%29.png/revision/latest?cb=20180909153844",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8d/Sellon-and-Spyron-bakugan-sellon-24512189-1600-120o.jpg/revision/latest?cb=20120729223716",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Spyron_Daftorix_BallForm.png/revision/latest?cb=20120101013701",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/Spyron.green.ability.jpg/revision/latest?cb=20230627184033",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/Spyron.png/revision/latest?cb=20120101225056"
+      ]
     },
     {
       "id": "stronk",
@@ -16812,7 +21895,14 @@ window.BAKU_DATA = {
       },
       "bio": "Stronk, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/d/dd/DarkusStronk_BakuFusion.png/revision/latest?cb=20110717123529",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/dd/DarkusStronk_BakuFusion.png/revision/latest?cb=20110717123529"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/d/dd/DarkusStronk_BakuFusion.png/revision/latest?cb=20110717123529",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/1/18/Stronk_and_spatterix_ball_form.jpg/revision/latest?cb=20111013232714",
+        "https://static.wikia.nocookie.net/bakugan/images/8/89/Stronk_BallForm.png/revision/latest?cb=20120101230340",
+        "https://static.wikia.nocookie.net/bakugan/images/e/eb/Stronk.png/revision/latest?cb=20110715172036",
+        "https://static.wikia.nocookie.net/bakugan/images/d/db/Stronk_is.jpg/revision/latest?cb=20121021164341",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3e/Stronk-Portal.png/revision/latest?cb=20111205075744"
+      ]
     },
     {
       "id": "swift-sweep",
@@ -16841,7 +21931,12 @@ window.BAKU_DATA = {
       },
       "bio": "Swift Sweep, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/f/fb/SwiftSweep_Websitepic.png/revision/latest?cb=20110807010550",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fb/SwiftSweep_Websitepic.png/revision/latest?cb=20110807010550"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fb/SwiftSweep_Websitepic.png/revision/latest?cb=20110807010550",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/96/Swift-sweep-vs-deezall_o_GIFSoup_com.gif/revision/latest?cb=20110703182300",
+        "https://static.wikia.nocookie.net/bakugan/images/3/31/Swift_Sweep.PNG/revision/latest?cb=20110424073433",
+        "https://static.wikia.nocookie.net/bakugan/images/1/13/Amazon_Swift_Sweep.jpg/revision/latest?cb=20110530172227"
+      ]
     },
     {
       "id": "taylean-pyrus",
@@ -16870,8 +21965,18 @@ window.BAKU_DATA = {
       },
       "bio": "Shun’un Mechtanium partneri. Ninja ve samuray sentezi. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/69/Pyrus_Taylean.jpg/revision/latest?cb=20110213213139",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/TayleanMS.png/revision/latest?cb=20110301041419",
-      "nickname": "Pyrus Taylean"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0f/Pyrus_Taylean.JPG/revision/latest?cb=20110826225059",
+      "nickname": "Pyrus Taylean",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Pyrus_Taylean_Open.png/revision/latest?cb=20110626004139",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1e/Pyrus_Taylean.png/revision/latest?cb=20110223123651",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3c/Pyrus_Taylean_lose.jpg/revision/latest?cb=20110213213243",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Pyrus_Taylean_attacks.jpg/revision/latest?cb=20110213213215",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5c/Pyrus_Mutant_Taylean_%28closed%29.jpg/revision/latest?cb=20110614182205",
+        "https://static.wikia.nocookie.net/bakugan/images/8/86/Taylean_pyrus_bakucore.jpg/revision/latest?cb=20120130224619",
+        "https://static.wikia.nocookie.net/bakugan/images/2/23/Pyrus_Mutant_Taylean_%28open%29.jpg/revision/latest?cb=20110614182150",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Taylean_Ballform_%28closed%29.png/revision/latest?cb=20120118174917"
+      ]
     },
     {
       "id": "taylean-aquos",
@@ -16900,8 +22005,18 @@ window.BAKU_DATA = {
       },
       "bio": "Shun’un Mechtanium partneri. Ninja ve samuray sentezi. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3c/Aquos_Mutant_Taylean_%28closed%29.jpg/revision/latest?cb=20110614182134",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/TayleanMS.png/revision/latest?cb=20110301041419",
-      "nickname": "Aquos Taylean"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/88/Aquos_Taylean_Closed.png/revision/latest?cb=20110628234439",
+      "nickname": "Aquos Taylean",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a7/Aquos_Taylean_Open.png/revision/latest?cb=20110626004047",
+        "https://static.wikia.nocookie.net/bakugan/images/9/93/Aquos_Taylean.png/revision/latest?cb=20110223123703",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Darkus-Aquos_Mutant_taylean_%28closed%29.jpg/revision/latest?cb=20110614181938",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f1/BakuCore_Taylean_%28Aquos%29.jpg/revision/latest?cb=20110121014120",
+        "https://static.wikia.nocookie.net/bakugan/images/8/80/Aquos_mutant_Taylean_%28open%29.jpg/revision/latest?cb=20110614182118",
+        "https://static.wikia.nocookie.net/bakugan/images/f/ff/Darkus-Aquos_Mutant_taylean_%28open%29.jpg/revision/latest?cb=20110614181921",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Taylean_Ballform_%28closed%29.png/revision/latest?cb=20120118174917",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/Taylean_ball_anime.png/revision/latest?cb=20110214015009"
+      ]
     },
     {
       "id": "taylean-ventus",
@@ -16930,8 +22045,18 @@ window.BAKU_DATA = {
       },
       "bio": "Shun’un Mechtanium partneri. Ninja ve samuray sentezi. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Ventus_TAylean.jpg/revision/latest?cb=20110903174239",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/TayleanMS.png/revision/latest?cb=20110301041419",
-      "nickname": "Ventus Taylean"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/7/71/Shun%27s_Ventus_Taylean.png/revision/latest?cb=20110305051606",
+      "nickname": "Ventus Taylean",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Ventus_Taylean_Open.png/revision/latest?cb=20110626004208",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/KeithStrife_Ventus_Taylean.jpg/revision/latest?cb=20121023030054",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b8/Ventus_Taylean.png/revision/latest?cb=20110223123538",
+        "https://static.wikia.nocookie.net/bakugan/images/b/ba/Ventus_Taylean_attacks.jpg/revision/latest?cb=20110221235004",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4d/Ventus_Taylean_wins.jpg/revision/latest?cb=20110221235027",
+        "https://static.wikia.nocookie.net/bakugan/images/f/f9/Ventus_Taylean.jpg/revision/latest?cb=20110221234940",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Ventus_Taylean.ngh.png/revision/latest?cb=20110711074859",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Ventus_Mutant_Taylean_%28closed%29%29.jpg/revision/latest?cb=20110614182103"
+      ]
     },
     {
       "id": "taylean-subterra",
@@ -16959,9 +22084,19 @@ window.BAKU_DATA = {
         "gForce": 95
       },
       "bio": "Shun’un Mechtanium partneri. Ninja ve samuray sentezi. Bu kayıt Subterra (Toprak) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e2/TayleanMS.png/revision/latest?cb=20110301041419",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/TayleanMS.png/revision/latest?cb=20110301041419",
-      "nickname": "Subterra Taylean"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/0a/Subterra_Taylean.png/revision/latest?cb=20110223123556",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/0a/Subterra_Taylean.png/revision/latest?cb=20110223123556",
+      "nickname": "Subterra Taylean",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/f/fe/Subterra_Mutant_Taylean_%28closed%29.jpg/revision/latest?cb=20110614182035",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/Subterra_Mutant_Taylean_%28open%29.jpg/revision/latest?cb=20110614182019",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Taylean_Ballform_%28closed%29.png/revision/latest?cb=20120118174917",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/Taylean_ball_anime.png/revision/latest?cb=20110214015009",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Aquos_Taylean_Closed.png/revision/latest?cb=20110628234439",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a2/Taylean_Ballform_%28open%29.png/revision/latest?cb=20120118174957",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Taylean_%28Darkus%29_%28open%29.jpg/revision/latest?cb=20110516192633",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a7/Aquos_Taylean_Open.png/revision/latest?cb=20110626004047"
+      ]
     },
     {
       "id": "taylean-haos",
@@ -16990,8 +22125,18 @@ window.BAKU_DATA = {
       },
       "bio": "Shun’un Mechtanium partneri. Ninja ve samuray sentezi. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/a/a2/Haos_Taylean.png/revision/latest?cb=20110223123613",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/TayleanMS.png/revision/latest?cb=20110301041419",
-      "nickname": "Haos Taylean"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/a/a2/Haos_Taylean.png/revision/latest?cb=20110223123613",
+      "nickname": "Haos Taylean",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/5a/Haos_Taylean_Open.png/revision/latest?cb=20110626004116",
+        "https://static.wikia.nocookie.net/bakugan/images/0/09/Taylean_Ballform_%28closed%29.png/revision/latest?cb=20120118174917",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0a/Taylean_ball_anime.png/revision/latest?cb=20110214015009",
+        "https://static.wikia.nocookie.net/bakugan/images/8/88/Aquos_Taylean_Closed.png/revision/latest?cb=20110628234439",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a2/Taylean_Ballform_%28open%29.png/revision/latest?cb=20120118174957",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2e/Taylean_%28Darkus%29_%28open%29.jpg/revision/latest?cb=20110516192633",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a7/Aquos_Taylean_Open.png/revision/latest?cb=20110626004047",
+        "https://static.wikia.nocookie.net/bakugan/images/3/36/Ventus_Taylean_Open.png/revision/latest?cb=20110626004208"
+      ]
     },
     {
       "id": "taylean-darkus",
@@ -17021,7 +22166,17 @@ window.BAKU_DATA = {
       "bio": "Shun’un Mechtanium partneri. Ninja ve samuray sentezi. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/2e/Taylean_%28Darkus%29_%28open%29.jpg/revision/latest?cb=20110516192633",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e2/TayleanMS.png/revision/latest?cb=20110301041419",
-      "nickname": "Darkus Taylean"
+      "nickname": "Darkus Taylean",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/cd/Darkus_Taylean_Open.png/revision/latest?cb=20110626004107",
+        "https://static.wikia.nocookie.net/bakugan/images/9/95/Darkus_Taylean.png/revision/latest?cb=20110223123632",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Darkus_Mutant_Taylean_%28closed%29.jpg/revision/latest?cb=20110614182003",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/Darkus-Aquos_Mutant_taylean_%28closed%29.jpg/revision/latest?cb=20110614181938",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c2/Darkus_Mutant_Taylean_%28Closed%29.jpg/revision/latest?cb=20110614182239",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fc/Taylean_protects_Darkus_Clawsaurus_%28Ep._24%29.png/revision/latest?cb=20251125182420",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ab/Darkus_Canon_Taylean_-_BakuHybrid.png/revision/latest?cb=20110822133237",
+        "https://static.wikia.nocookie.net/bakugan/images/4/44/Taylean_%28Darkus%29.jpg/revision/latest?cb=20110516192643"
+      ]
     },
     {
       "id": "titanium-dragonoid-pyrus",
@@ -17050,8 +22205,18 @@ window.BAKU_DATA = {
       },
       "bio": "Mechtanium Surge’ün Drago’su. Mechtogan Zenthon ile bağ kurar. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/30/Bakugan_dragonoid_pyrus_titanium_dragonoid_by_aesd-d4fhybd.png/revision/latest?cb=20120102225604",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Pyrus Titanium Dragonoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/30/Bakugan_dragonoid_pyrus_titanium_dragonoid_by_aesd-d4fhybd.png/revision/latest?cb=20120102225604",
+      "nickname": "Pyrus Titanium Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/Pyrus_Titanium_Dragonoid_Haos-Ventus_Mercury_Dragonoid_Aquos_Infinity_Trister.jpg/revision/latest?cb=20110819085440",
+        "https://static.wikia.nocookie.net/bakugan/images/f/fd/Pyrus_Titanium_Dragonoid.png/revision/latest?cb=20110711075124",
+        "https://static.wikia.nocookie.net/bakugan/images/0/07/Titanium_dragonoid_in_ball_form.jpg/revision/latest?cb=20250604222820",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/Titanium_Dragonoid_in_ball_form_%28open%29.png/revision/latest?cb=20151226060817",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/--Helix_Dragonoid--%2C_--Lumino_Dragonoid--%2C_--Blitz_Dragonoid--%2C_--Titanium_Dragonoid--.jpg/revision/latest?cb=20110827012101",
+        "https://static.wikia.nocookie.net/bakugan/images/3/32/Titanium_Dragonoid_on_Bakugan_Dimensions.png/revision/latest?cb=20110420213955",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bf/Titanium_Dragonoid_in_Bakugan_Form.png/revision/latest?cb=20151226060907",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5f/Titanium_Dragonoid_ready_to_use_ability_Revolutional.png/revision/latest?cb=20151226060915"
+      ]
     },
     {
       "id": "titanium-dragonoid-aquos",
@@ -17079,9 +22244,19 @@ window.BAKU_DATA = {
         "gForce": 97
       },
       "bio": "Mechtanium Surge’ün Drago’su. Mechtogan Zenthon ile bağ kurar. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3c/Titanium_Dragonoid.png/revision/latest?cb=20111014045955",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Aquos Titanium Dragonoid"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4b/Pyrus_Titanium_Dragonoid_Haos-Ventus_Mercury_Dragonoid_Aquos_Infinity_Trister.jpg/revision/latest?cb=20110819085440",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4b/Pyrus_Titanium_Dragonoid_Haos-Ventus_Mercury_Dragonoid_Aquos_Infinity_Trister.jpg/revision/latest?cb=20110819085440",
+      "nickname": "Aquos Titanium Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/07/Titanium_dragonoid_in_ball_form.jpg/revision/latest?cb=20250604222820",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/Titanium_Dragonoid_in_ball_form_%28open%29.png/revision/latest?cb=20151226060817",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/--Helix_Dragonoid--%2C_--Lumino_Dragonoid--%2C_--Blitz_Dragonoid--%2C_--Titanium_Dragonoid--.jpg/revision/latest?cb=20110827012101",
+        "https://static.wikia.nocookie.net/bakugan/images/3/32/Titanium_Dragonoid_on_Bakugan_Dimensions.png/revision/latest?cb=20110420213955",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bf/Titanium_Dragonoid_in_Bakugan_Form.png/revision/latest?cb=20151226060907",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5f/Titanium_Dragonoid_ready_to_use_ability_Revolutional.png/revision/latest?cb=20151226060915",
+        "https://static.wikia.nocookie.net/bakugan/images/0/00/Titanium_dragonoid_on_Zoompha.jpg/revision/latest?cb=20250604222849",
+        "https://static.wikia.nocookie.net/bakugan/images/1/14/Titanium_Dragonoid_about_to_use_ability_Thor_Buster.png/revision/latest?cb=20151226060833"
+      ]
     },
     {
       "id": "titanium-dragonoid-ventus",
@@ -17110,8 +22285,18 @@ window.BAKU_DATA = {
       },
       "bio": "Mechtanium Surge’ün Drago’su. Mechtogan Zenthon ile bağ kurar. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/0f/Titanium_Dragonoid_%28Ventus%29.jpg/revision/latest?cb=20110605070555",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Ventus Titanium Dragonoid"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/c4/Ventus_Titanium_Dragonoid_%28upside_down%29.jpg/revision/latest?cb=20110605072618",
+      "nickname": "Ventus Titanium Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/bb/Ventus_Titanium_Dragonoid.jpg/revision/latest?cb=20110717062843",
+        "https://static.wikia.nocookie.net/bakugan/images/4/4b/Pyrus_Titanium_Dragonoid_Haos-Ventus_Mercury_Dragonoid_Aquos_Infinity_Trister.jpg/revision/latest?cb=20110819085440",
+        "https://static.wikia.nocookie.net/bakugan/images/0/07/Titanium_dragonoid_in_ball_form.jpg/revision/latest?cb=20250604222820",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/Titanium_Dragonoid_in_ball_form_%28open%29.png/revision/latest?cb=20151226060817",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/--Helix_Dragonoid--%2C_--Lumino_Dragonoid--%2C_--Blitz_Dragonoid--%2C_--Titanium_Dragonoid--.jpg/revision/latest?cb=20110827012101",
+        "https://static.wikia.nocookie.net/bakugan/images/3/32/Titanium_Dragonoid_on_Bakugan_Dimensions.png/revision/latest?cb=20110420213955",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bf/Titanium_Dragonoid_in_Bakugan_Form.png/revision/latest?cb=20151226060907",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5f/Titanium_Dragonoid_ready_to_use_ability_Revolutional.png/revision/latest?cb=20151226060915"
+      ]
     },
     {
       "id": "titanium-dragonoid-subterra",
@@ -17139,9 +22324,19 @@ window.BAKU_DATA = {
         "gForce": 97
       },
       "bio": "Mechtanium Surge’ün Drago’su. Mechtogan Zenthon ile bağ kurar. Bu kayıt Subterra (Toprak) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3c/Titanium_Dragonoid.png/revision/latest?cb=20111014045955",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Subterra Titanium Dragonoid"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/46/--Helix_Dragonoid--%2C_--Lumino_Dragonoid--%2C_--Blitz_Dragonoid--%2C_--Titanium_Dragonoid--.jpg/revision/latest?cb=20110827012101",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/07/Titanium_dragonoid_in_ball_form.jpg/revision/latest?cb=20250604222820",
+      "nickname": "Subterra Titanium Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/Titanium_Dragonoid_in_ball_form_%28open%29.png/revision/latest?cb=20151226060817",
+        "https://static.wikia.nocookie.net/bakugan/images/3/32/Titanium_Dragonoid_on_Bakugan_Dimensions.png/revision/latest?cb=20110420213955",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bf/Titanium_Dragonoid_in_Bakugan_Form.png/revision/latest?cb=20151226060907",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5f/Titanium_Dragonoid_ready_to_use_ability_Revolutional.png/revision/latest?cb=20151226060915",
+        "https://static.wikia.nocookie.net/bakugan/images/0/00/Titanium_dragonoid_on_Zoompha.jpg/revision/latest?cb=20250604222849",
+        "https://static.wikia.nocookie.net/bakugan/images/1/14/Titanium_Dragonoid_about_to_use_ability_Thor_Buster.png/revision/latest?cb=20151226060833",
+        "https://static.wikia.nocookie.net/bakugan/images/3/30/Bakugan_dragonoid_pyrus_titanium_dragonoid_by_aesd-d4fhybd.png/revision/latest?cb=20120102225604",
+        "https://static.wikia.nocookie.net/bakugan/images/1/15/Hex_Titanium_Dragonoid.png/revision/latest?cb=20111101230835"
+      ]
     },
     {
       "id": "titanium-dragonoid-haos",
@@ -17169,9 +22364,19 @@ window.BAKU_DATA = {
         "gForce": 97
       },
       "bio": "Mechtanium Surge’ün Drago’su. Mechtogan Zenthon ile bağ kurar. Bu kayıt Haos (Işık) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/3c/Titanium_Dragonoid.png/revision/latest?cb=20111014045955",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Haos Titanium Dragonoid"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4b/Pyrus_Titanium_Dragonoid_Haos-Ventus_Mercury_Dragonoid_Aquos_Infinity_Trister.jpg/revision/latest?cb=20110819085440",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/4b/Pyrus_Titanium_Dragonoid_Haos-Ventus_Mercury_Dragonoid_Aquos_Infinity_Trister.jpg/revision/latest?cb=20110819085440",
+      "nickname": "Haos Titanium Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/07/Titanium_dragonoid_in_ball_form.jpg/revision/latest?cb=20250604222820",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/Titanium_Dragonoid_in_ball_form_%28open%29.png/revision/latest?cb=20151226060817",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/--Helix_Dragonoid--%2C_--Lumino_Dragonoid--%2C_--Blitz_Dragonoid--%2C_--Titanium_Dragonoid--.jpg/revision/latest?cb=20110827012101",
+        "https://static.wikia.nocookie.net/bakugan/images/3/32/Titanium_Dragonoid_on_Bakugan_Dimensions.png/revision/latest?cb=20110420213955",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bf/Titanium_Dragonoid_in_Bakugan_Form.png/revision/latest?cb=20151226060907",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5f/Titanium_Dragonoid_ready_to_use_ability_Revolutional.png/revision/latest?cb=20151226060915",
+        "https://static.wikia.nocookie.net/bakugan/images/0/00/Titanium_dragonoid_on_Zoompha.jpg/revision/latest?cb=20250604222849",
+        "https://static.wikia.nocookie.net/bakugan/images/1/14/Titanium_Dragonoid_about_to_use_ability_Thor_Buster.png/revision/latest?cb=20151226060833"
+      ]
     },
     {
       "id": "titanium-dragonoid-darkus",
@@ -17201,7 +22406,17 @@ window.BAKU_DATA = {
       "bio": "Mechtanium Surge’ün Drago’su. Mechtogan Zenthon ile bağ kurar. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/cf/Darkus_Titanium_Dragonoid.jpg/revision/latest?cb=20110422044556",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2b/Clear_PhantomDharak_Closed.png/revision/latest?cb=20110621160600",
-      "nickname": "Darkus Titanium Dragonoid"
+      "nickname": "Darkus Titanium Dragonoid",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/0/07/Titanium_dragonoid_in_ball_form.jpg/revision/latest?cb=20250604222820",
+        "https://static.wikia.nocookie.net/bakugan/images/0/01/Titanium_Dragonoid_in_ball_form_%28open%29.png/revision/latest?cb=20151226060817",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/--Helix_Dragonoid--%2C_--Lumino_Dragonoid--%2C_--Blitz_Dragonoid--%2C_--Titanium_Dragonoid--.jpg/revision/latest?cb=20110827012101",
+        "https://static.wikia.nocookie.net/bakugan/images/3/32/Titanium_Dragonoid_on_Bakugan_Dimensions.png/revision/latest?cb=20110420213955",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bf/Titanium_Dragonoid_in_Bakugan_Form.png/revision/latest?cb=20151226060907",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5f/Titanium_Dragonoid_ready_to_use_ability_Revolutional.png/revision/latest?cb=20151226060915",
+        "https://static.wikia.nocookie.net/bakugan/images/0/00/Titanium_dragonoid_on_Zoompha.jpg/revision/latest?cb=20250604222849",
+        "https://static.wikia.nocookie.net/bakugan/images/1/14/Titanium_Dragonoid_about_to_use_ability_Thor_Buster.png/revision/latest?cb=20151226060833"
+      ]
     },
     {
       "id": "tremblar",
@@ -17230,7 +22445,15 @@ window.BAKU_DATA = {
       },
       "bio": "Tremblar, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/ea/AquosTremblar_BakuMine.png/revision/latest?cb=20110717123846",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ea/AquosTremblar_BakuMine.png/revision/latest?cb=20110717123846"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/ea/AquosTremblar_BakuMine.png/revision/latest?cb=20110717123846",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/8a/Tremblar_ballform_%28closed%29.png/revision/latest?cb=20120123014850",
+        "https://static.wikia.nocookie.net/bakugan/images/2/29/Tremblar.png/revision/latest?cb=20110715165814",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a8/Tremblar_%288%29.JPG/revision/latest?cb=20120108212736",
+        "https://static.wikia.nocookie.net/bakugan/images/7/72/Tremblar_is.jpg/revision/latest?cb=20121028142020",
+        "https://static.wikia.nocookie.net/bakugan/images/4/45/Tremblar-Potral.png/revision/latest?cb=20111203115704",
+        "https://static.wikia.nocookie.net/bakugan/images/0/04/Haos_Tremblar%E2%80%A6...jpeg/revision/latest?cb=20120307094118"
+      ]
     },
     {
       "id": "trister-pyrus",
@@ -17258,9 +22481,19 @@ window.BAKU_DATA = {
         "gForce": 91
       },
       "bio": "Marucho’nun son dönem partneri. Destek ve baskıyı dengeler. Bu kayıt Pyrus (Ateş) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4b/Pyrus_Titanium_Dragonoid_Haos-Ventus_Mercury_Dragonoid_Aquos_Infinity_Trister.jpg/revision/latest?cb=20110819085440",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/81/Infinity_Trister.png/revision/latest?cb=20110505202410",
-      "nickname": "Pyrus Trister"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/5/52/Pyrus_Infinity_Trister_%28back_view%29.jpg/revision/latest?cb=20110605071524",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b5/Pyrus_Infinity_Trister_%28closed%29.jpg/revision/latest?cb=20110605071440",
+      "nickname": "Pyrus Trister",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/a0/Pyrus_Infinity_Trister_%28side_view%29.jpg/revision/latest?cb=20110605071552",
+        "https://static.wikia.nocookie.net/bakugan/images/6/62/Pyrus_Infinity_Trister.jpg/revision/latest?cb=20110605071537",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Infinity_Trister_Ballform_%28closed%29.png/revision/latest?cb=20120118213119",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/2_Infinite_Trister_Lol.png/revision/latest?cb=20131028221541",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Trister.png/revision/latest?cb=20110418211502",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Trister_using_CLIMG_WATER.png/revision/latest?cb=20110502202221",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Hurt_trister.png/revision/latest?cb=20110412192423",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cd/MY_TRISTER.jpg/revision/latest?cb=20110529134432"
+      ]
     },
     {
       "id": "trister-aquos",
@@ -17288,9 +22521,19 @@ window.BAKU_DATA = {
         "gForce": 91
       },
       "bio": "Marucho’nun son dönem partneri. Destek ve baskıyı dengeler. Bu kayıt Aquos (Su) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4b/Pyrus_Titanium_Dragonoid_Haos-Ventus_Mercury_Dragonoid_Aquos_Infinity_Trister.jpg/revision/latest?cb=20110819085440",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/81/Infinity_Trister.png/revision/latest?cb=20110505202410",
-      "nickname": "Aquos Trister"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Aquos_Infinity_Trister_%281000%29.JPG/revision/latest?cb=20110721155644",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e0/Aquos_Infinity_Trister_%281000%29.JPG/revision/latest?cb=20110721155644",
+      "nickname": "Aquos Trister",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Infinity_Trister_Ballform_%28closed%29.png/revision/latest?cb=20120118213119",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Pyrus_Infinity_Trister_%28closed%29.jpg/revision/latest?cb=20110605071440",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/2_Infinite_Trister_Lol.png/revision/latest?cb=20131028221541",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Trister.png/revision/latest?cb=20110418211502",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Trister_using_CLIMG_WATER.png/revision/latest?cb=20110502202221",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Hurt_trister.png/revision/latest?cb=20110412192423",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cd/MY_TRISTER.jpg/revision/latest?cb=20110529134432",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Trister.PNG/revision/latest?cb=20110417233245"
+      ]
     },
     {
       "id": "trister-ventus",
@@ -17318,9 +22561,18 @@ window.BAKU_DATA = {
         "gForce": 91
       },
       "bio": "Marucho’nun son dönem partneri. Destek ve baskıyı dengeler. Bu kayıt Ventus (Rüzgar) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4b/Pyrus_Titanium_Dragonoid_Haos-Ventus_Mercury_Dragonoid_Aquos_Infinity_Trister.jpg/revision/latest?cb=20110819085440",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/81/Infinity_Trister.png/revision/latest?cb=20110505202410",
-      "nickname": "Ventus Trister"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e4/2_Infinite_Trister_Lol.png/revision/latest?cb=20131028221541",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2a/Infinity_Trister_Ballform_%28closed%29.png/revision/latest?cb=20120118213119",
+      "nickname": "Ventus Trister",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Pyrus_Infinity_Trister_%28closed%29.jpg/revision/latest?cb=20110605071440",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Trister.png/revision/latest?cb=20110418211502",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Trister_using_CLIMG_WATER.png/revision/latest?cb=20110502202221",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Hurt_trister.png/revision/latest?cb=20110412192423",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cd/MY_TRISTER.jpg/revision/latest?cb=20110529134432",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Trister.PNG/revision/latest?cb=20110417233245",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Trister.jpg/revision/latest?cb=20111219230121"
+      ]
     },
     {
       "id": "trister-subterra",
@@ -17348,9 +22600,18 @@ window.BAKU_DATA = {
         "gForce": 91
       },
       "bio": "Marucho’nun son dönem partneri. Destek ve baskıyı dengeler. Bu kayıt Subterra (Toprak) elementidir.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/81/Infinity_Trister.png/revision/latest?cb=20110505202410",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/81/Infinity_Trister.png/revision/latest?cb=20110505202410",
-      "nickname": "Subterra Trister"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/e/e4/2_Infinite_Trister_Lol.png/revision/latest?cb=20131028221541",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2a/Infinity_Trister_Ballform_%28closed%29.png/revision/latest?cb=20120118213119",
+      "nickname": "Subterra Trister",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Pyrus_Infinity_Trister_%28closed%29.jpg/revision/latest?cb=20110605071440",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Trister.png/revision/latest?cb=20110418211502",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Trister_using_CLIMG_WATER.png/revision/latest?cb=20110502202221",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Hurt_trister.png/revision/latest?cb=20110412192423",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cd/MY_TRISTER.jpg/revision/latest?cb=20110529134432",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Trister.PNG/revision/latest?cb=20110417233245",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1d/Trister.jpg/revision/latest?cb=20111219230121"
+      ]
     },
     {
       "id": "trister-haos",
@@ -17379,8 +22640,18 @@ window.BAKU_DATA = {
       },
       "bio": "Marucho’nun son dönem partneri. Destek ve baskıyı dengeler. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/4b/Pyrus_Titanium_Dragonoid_Haos-Ventus_Mercury_Dragonoid_Aquos_Infinity_Trister.jpg/revision/latest?cb=20110819085440",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/81/Infinity_Trister.png/revision/latest?cb=20110505202410",
-      "nickname": "Haos Trister"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/b/b6/Patryk_Jan_Cesarz_Infinity_Trister_Haos.PNG/revision/latest?cb=20110416084532",
+      "nickname": "Haos Trister",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Infinity_Trister_Ballform_%28closed%29.png/revision/latest?cb=20120118213119",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Pyrus_Infinity_Trister_%28closed%29.jpg/revision/latest?cb=20110605071440",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/2_Infinite_Trister_Lol.png/revision/latest?cb=20131028221541",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Trister.png/revision/latest?cb=20110418211502",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Trister_using_CLIMG_WATER.png/revision/latest?cb=20110502202221",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Hurt_trister.png/revision/latest?cb=20110412192423",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cd/MY_TRISTER.jpg/revision/latest?cb=20110529134432",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Trister.PNG/revision/latest?cb=20110417233245"
+      ]
     },
     {
       "id": "trister-darkus",
@@ -17410,7 +22681,17 @@ window.BAKU_DATA = {
       "bio": "Marucho’nun son dönem partneri. Destek ve baskıyı dengeler. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/81/Infinity_Trister.png/revision/latest?cb=20110505202410",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/81/Infinity_Trister.png/revision/latest?cb=20110505202410",
-      "nickname": "Darkus Trister"
+      "nickname": "Darkus Trister",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Infinity_Trister_Ballform_%28closed%29.png/revision/latest?cb=20120118213119",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b5/Pyrus_Infinity_Trister_%28closed%29.jpg/revision/latest?cb=20110605071440",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e4/2_Infinite_Trister_Lol.png/revision/latest?cb=20131028221541",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Trister.png/revision/latest?cb=20110418211502",
+        "https://static.wikia.nocookie.net/bakugan/images/3/3a/Trister_using_CLIMG_WATER.png/revision/latest?cb=20110502202221",
+        "https://static.wikia.nocookie.net/bakugan/images/0/0e/Hurt_trister.png/revision/latest?cb=20110412192423",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cd/MY_TRISTER.jpg/revision/latest?cb=20110529134432",
+        "https://static.wikia.nocookie.net/bakugan/images/5/5e/Trister.PNG/revision/latest?cb=20110417233245"
+      ]
     },
     {
       "id": "venexus",
@@ -17438,8 +22719,18 @@ window.BAKU_DATA = {
         "gForce": 74
       },
       "bio": "Venexus, Sezon 4 Bakugan kataloğu kaydı.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/cc/Venexus.png/revision/latest?cb=20110327052735",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/cc/Venexus.png/revision/latest?cb=20110327052735"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/04/Pyrus_Venexus_Open.png/revision/latest?cb=20110624035932",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/cc/Venexus.png/revision/latest?cb=20110327052735",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/d8/Pyrus_Venexus_Closed.png/revision/latest?cb=20110621043301",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8b/Pyrus_Venexus.png/revision/latest?cb=20110223145422",
+        "https://static.wikia.nocookie.net/bakugan/images/9/98/Clear_Venexus_Closed.png/revision/latest?cb=20110621043239",
+        "https://static.wikia.nocookie.net/bakugan/images/3/38/Haos_Venexus_Closed.png/revision/latest?cb=20110621043255",
+        "https://static.wikia.nocookie.net/bakugan/images/6/62/Subterra_Venexus_Closed.png/revision/latest?cb=20110621043307",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ce/Ventus_Venexus_Closed.png/revision/latest?cb=20110621043312",
+        "https://static.wikia.nocookie.net/bakugan/images/1/18/Combat_Venexus_Closed.png/revision/latest?cb=20110621050513",
+        "https://static.wikia.nocookie.net/bakugan/images/5/53/Aquos_Venexus_Closed.png/revision/latest?cb=20110621043233"
+      ]
     },
     {
       "id": "vertexx-pyrus",
@@ -17468,8 +22759,18 @@ window.BAKU_DATA = {
       },
       "bio": "Vertexx, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6c/Pyrus_Vertexx_Open.png/revision/latest?cb=20110320152416",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Vertexx.png/revision/latest?cb=20110804161539",
-      "nickname": "Pyrus Vertexx"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/ce/Pyrus_Vertexx.png/revision/latest?cb=20110412203014",
+      "nickname": "Pyrus Vertexx",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Vertexx_Ballform_%28closed%29.png/revision/latest?cb=20120119212059",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Vertexx_Ballform_%28open%29.png/revision/latest?cb=20120119212123",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Haos_Vertexx_Open.png/revision/latest?cb=20110320152534",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Subterra_Vertexx_Open.png/revision/latest?cb=20110320152513",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Aquos_Vertexx_Open.png/revision/latest?cb=20110320152433",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Ventus_Vertexx_Open.png/revision/latest?cb=20110320152451",
+        "https://static.wikia.nocookie.net/bakugan/images/3/37/Clear_Vertexx_Open.png/revision/latest?cb=20110320152556",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Darkus_Vertexx_Open.png/revision/latest?cb=20110320152545"
+      ]
     },
     {
       "id": "vertexx-aquos",
@@ -17498,8 +22799,18 @@ window.BAKU_DATA = {
       },
       "bio": "Vertexx, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Aquos_Vertexx.png/revision/latest?cb=20110412203135",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Vertexx.png/revision/latest?cb=20110804161539",
-      "nickname": "Aquos Vertexx"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8a/Aquos_Vertexx.png/revision/latest?cb=20110412203135",
+      "nickname": "Aquos Vertexx",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Aquos_Vertexx_Open.png/revision/latest?cb=20110320152433",
+        "https://static.wikia.nocookie.net/bakugan/images/3/34/Aquos_Ziperator_facing_Subterra_Vertexx..png/revision/latest?cb=20221231155745",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Vertexx_Ballform_%28closed%29.png/revision/latest?cb=20120119212059",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Vertexx_Ballform_%28open%29.png/revision/latest?cb=20120119212123",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Haos_Vertexx_Open.png/revision/latest?cb=20110320152534",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Subterra_Vertexx_Open.png/revision/latest?cb=20110320152513",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Ventus_Vertexx_Open.png/revision/latest?cb=20110320152451",
+        "https://static.wikia.nocookie.net/bakugan/images/3/37/Clear_Vertexx_Open.png/revision/latest?cb=20110320152556"
+      ]
     },
     {
       "id": "vertexx-ventus",
@@ -17528,8 +22839,18 @@ window.BAKU_DATA = {
       },
       "bio": "Vertexx, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/0/03/Ventus_Vertexx.png/revision/latest?cb=20110412202944",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Vertexx.png/revision/latest?cb=20110804161539",
-      "nickname": "Ventus Vertexx"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/0/03/Ventus_Vertexx.png/revision/latest?cb=20110412202944",
+      "nickname": "Ventus Vertexx",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Ventus_Vertexx_Open.png/revision/latest?cb=20110320152451",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Vertexx_Ballform_%28closed%29.png/revision/latest?cb=20120119212059",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Vertexx_Ballform_%28open%29.png/revision/latest?cb=20120119212123",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Haos_Vertexx_Open.png/revision/latest?cb=20110320152534",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Subterra_Vertexx_Open.png/revision/latest?cb=20110320152513",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Aquos_Vertexx_Open.png/revision/latest?cb=20110320152433",
+        "https://static.wikia.nocookie.net/bakugan/images/3/37/Clear_Vertexx_Open.png/revision/latest?cb=20110320152556",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Darkus_Vertexx_Open.png/revision/latest?cb=20110320152545"
+      ]
     },
     {
       "id": "vertexx-subterra",
@@ -17558,8 +22879,18 @@ window.BAKU_DATA = {
       },
       "bio": "Vertexx, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/34/Aquos_Ziperator_facing_Subterra_Vertexx..png/revision/latest?cb=20221231155745",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Vertexx.png/revision/latest?cb=20110804161539",
-      "nickname": "Subterra Vertexx"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/3/34/Aquos_Ziperator_facing_Subterra_Vertexx..png/revision/latest?cb=20221231155745",
+      "nickname": "Subterra Vertexx",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Subterra_Vertexx_Open.png/revision/latest?cb=20110320152513",
+        "https://static.wikia.nocookie.net/bakugan/images/3/30/Subterra_Vertexx.png/revision/latest?cb=20110412203053",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Vertexx_Ballform_%28closed%29.png/revision/latest?cb=20120119212059",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Vertexx_Ballform_%28open%29.png/revision/latest?cb=20120119212123",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Haos_Vertexx_Open.png/revision/latest?cb=20110320152534",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Aquos_Vertexx_Open.png/revision/latest?cb=20110320152433",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Ventus_Vertexx_Open.png/revision/latest?cb=20110320152451",
+        "https://static.wikia.nocookie.net/bakugan/images/3/37/Clear_Vertexx_Open.png/revision/latest?cb=20110320152556"
+      ]
     },
     {
       "id": "vertexx-haos",
@@ -17588,8 +22919,18 @@ window.BAKU_DATA = {
       },
       "bio": "Vertexx, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/25/Haos_Vertexx_Open.png/revision/latest?cb=20110320152534",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Vertexx.png/revision/latest?cb=20110804161539",
-      "nickname": "Haos Vertexx"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/5/5b/Haos_Vertexx.png/revision/latest?cb=20110412203113",
+      "nickname": "Haos Vertexx",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Vertexx_Ballform_%28closed%29.png/revision/latest?cb=20120119212059",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Vertexx_Ballform_%28open%29.png/revision/latest?cb=20120119212123",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Subterra_Vertexx_Open.png/revision/latest?cb=20110320152513",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Aquos_Vertexx_Open.png/revision/latest?cb=20110320152433",
+        "https://static.wikia.nocookie.net/bakugan/images/6/65/Ventus_Vertexx_Open.png/revision/latest?cb=20110320152451",
+        "https://static.wikia.nocookie.net/bakugan/images/3/37/Clear_Vertexx_Open.png/revision/latest?cb=20110320152556",
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Darkus_Vertexx_Open.png/revision/latest?cb=20110320152545",
+        "https://static.wikia.nocookie.net/bakugan/images/6/6c/Pyrus_Vertexx_Open.png/revision/latest?cb=20110320152416"
+      ]
     },
     {
       "id": "vertexx-darkus",
@@ -17619,7 +22960,17 @@ window.BAKU_DATA = {
       "bio": "Vertexx, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/2/2c/Darkus_Vertexx_%28code%29.jpg/revision/latest?cb=20110605072732",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8f/Vertexx.png/revision/latest?cb=20110804161539",
-      "nickname": "Darkus Vertexx"
+      "nickname": "Darkus Vertexx",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/5/54/Darkus_Vertexx_Open.png/revision/latest?cb=20110320152545",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b6/Darkus_Vertexx.png/revision/latest?cb=20110412203033",
+        "https://static.wikia.nocookie.net/bakugan/images/9/92/Darkus_Vertexx.jpg/revision/latest?cb=20110605072746",
+        "https://static.wikia.nocookie.net/bakugan/images/a/ad/Vertexx_Ballform_%28closed%29.png/revision/latest?cb=20120119212059",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Vertexx_Ballform_%28open%29.png/revision/latest?cb=20120119212123",
+        "https://static.wikia.nocookie.net/bakugan/images/2/25/Haos_Vertexx_Open.png/revision/latest?cb=20110320152534",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2a/Subterra_Vertexx_Open.png/revision/latest?cb=20110320152513",
+        "https://static.wikia.nocookie.net/bakugan/images/2/21/Aquos_Vertexx_Open.png/revision/latest?cb=20110320152433"
+      ]
     },
     {
       "id": "wolfurio-pyrus",
@@ -17648,8 +22999,18 @@ window.BAKU_DATA = {
       },
       "bio": "Wolfurio, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Pyrus (Ateş) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/80/Pyrus_Wolfurio_Open.png/revision/latest?cb=20110320153953",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2f/Wolfurio0.png/revision/latest?cb=20110505202831",
-      "nickname": "Pyrus Wolfurio"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/e/e3/Pyrus_Wolfurio_%28closed_2%29.jpg/revision/latest?cb=20110605072059",
+      "nickname": "Pyrus Wolfurio",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/7/7f/Pyrus_Wolfurio_%28closed%29.jpg/revision/latest?cb=20110605071958",
+        "https://static.wikia.nocookie.net/bakugan/images/a/af/Pyrus_Wolfurio.png/revision/latest?cb=20110412201146",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a8/Pyrus_Wolfurio_%28back_view%29.jpg/revision/latest?cb=20110605072016",
+        "https://static.wikia.nocookie.net/bakugan/images/c/cd/Pyrus_Wolfurio.jpg/revision/latest?cb=20110605072045",
+        "https://static.wikia.nocookie.net/bakugan/images/b/b4/Pyrus_Wolfurio_%28left_view%29.jpg/revision/latest?cb=20110605072031",
+        "https://static.wikia.nocookie.net/bakugan/images/8/82/Pyrus_Wolfurio_%28right_view%29.JPG/revision/latest?cb=20110605072122",
+        "https://static.wikia.nocookie.net/bakugan/images/9/99/Wolfurio_Ballform_%28closed%29.png/revision/latest?cb=20120118214021",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Wolfurio_Ballform_%28open%29.png/revision/latest?cb=20120118214040"
+      ]
     },
     {
       "id": "wolfurio-aquos",
@@ -17678,8 +23039,18 @@ window.BAKU_DATA = {
       },
       "bio": "Wolfurio, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Aquos (Su) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/8/8b/Aquos_Wolfurio_Open.png/revision/latest?cb=20110320154003",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2f/Wolfurio0.png/revision/latest?cb=20110505202831",
-      "nickname": "Aquos Wolfurio"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/8/8d/Aquos_Wolfurio.png/revision/latest?cb=20110412201155",
+      "nickname": "Aquos Wolfurio",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/99/Wolfurio_Ballform_%28closed%29.png/revision/latest?cb=20120118214021",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e3/Pyrus_Wolfurio_%28closed_2%29.jpg/revision/latest?cb=20110605072059",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7f/Pyrus_Wolfurio_%28closed%29.jpg/revision/latest?cb=20110605071958",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Wolfurio_Ballform_%28open%29.png/revision/latest?cb=20120118214040",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2d/Wolfurio_standing.JPG/revision/latest?cb=20110418060810",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Haos_Wolfurio_Open.png/revision/latest?cb=20110320154049",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bb/Subterra_Wolfurio_Open.png/revision/latest?cb=20110320154031",
+        "https://static.wikia.nocookie.net/bakugan/images/4/46/Clear_Wolfurio_Open.png/revision/latest?cb=20110320154117"
+      ]
     },
     {
       "id": "wolfurio-ventus",
@@ -17708,8 +23079,18 @@ window.BAKU_DATA = {
       },
       "bio": "Wolfurio, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Ventus (Rüzgar) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/6d/Ventus_Wolfurio.png/revision/latest?cb=20110412201120",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2f/Wolfurio0.png/revision/latest?cb=20110505202831",
-      "nickname": "Ventus Wolfurio"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/6d/Ventus_Wolfurio.png/revision/latest?cb=20110412201120",
+      "nickname": "Ventus Wolfurio",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/9/99/Wolfurio_Ballform_%28closed%29.png/revision/latest?cb=20120118214021",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e3/Pyrus_Wolfurio_%28closed_2%29.jpg/revision/latest?cb=20110605072059",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7f/Pyrus_Wolfurio_%28closed%29.jpg/revision/latest?cb=20110605071958",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Wolfurio_Ballform_%28open%29.png/revision/latest?cb=20120118214040",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2d/Wolfurio_standing.JPG/revision/latest?cb=20110418060810",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Haos_Wolfurio_Open.png/revision/latest?cb=20110320154049",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bb/Subterra_Wolfurio_Open.png/revision/latest?cb=20110320154031",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8b/Aquos_Wolfurio_Open.png/revision/latest?cb=20110320154003"
+      ]
     },
     {
       "id": "wolfurio-subterra",
@@ -17738,8 +23119,18 @@ window.BAKU_DATA = {
       },
       "bio": "Wolfurio, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Subterra (Toprak) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/cf/Subterra_Wolfurio.png/revision/latest?cb=20110412201133",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2f/Wolfurio0.png/revision/latest?cb=20110505202831",
-      "nickname": "Subterra Wolfurio"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/c/cf/Subterra_Wolfurio.png/revision/latest?cb=20110412201133",
+      "nickname": "Subterra Wolfurio",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/b/bb/Subterra_Wolfurio_Open.png/revision/latest?cb=20110320154031",
+        "https://static.wikia.nocookie.net/bakugan/images/9/99/Wolfurio_Ballform_%28closed%29.png/revision/latest?cb=20120118214021",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e3/Pyrus_Wolfurio_%28closed_2%29.jpg/revision/latest?cb=20110605072059",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7f/Pyrus_Wolfurio_%28closed%29.jpg/revision/latest?cb=20110605071958",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Wolfurio_Ballform_%28open%29.png/revision/latest?cb=20120118214040",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2d/Wolfurio_standing.JPG/revision/latest?cb=20110418060810",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Haos_Wolfurio_Open.png/revision/latest?cb=20110320154049",
+        "https://static.wikia.nocookie.net/bakugan/images/8/8b/Aquos_Wolfurio_Open.png/revision/latest?cb=20110320154003"
+      ]
     },
     {
       "id": "wolfurio-haos",
@@ -17768,8 +23159,18 @@ window.BAKU_DATA = {
       },
       "bio": "Wolfurio, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Haos (Işık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/c/c3/Haos_Wolfurio_Open.png/revision/latest?cb=20110320154049",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2f/Wolfurio0.png/revision/latest?cb=20110505202831",
-      "nickname": "Haos Wolfurio"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/f/fe/Haos_Wolfurio.png/revision/latest?cb=20110412201048",
+      "nickname": "Haos Wolfurio",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/2/27/KeithStrife_Haos_Wolfurio.jpg/revision/latest?cb=20130127063523",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/93px-Haos_Wolfurio.png/revision/latest?cb=20110810200304",
+        "https://static.wikia.nocookie.net/bakugan/images/9/99/Wolfurio_Ballform_%28closed%29.png/revision/latest?cb=20120118214021",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e3/Pyrus_Wolfurio_%28closed_2%29.jpg/revision/latest?cb=20110605072059",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7f/Pyrus_Wolfurio_%28closed%29.jpg/revision/latest?cb=20110605071958",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Wolfurio_Ballform_%28open%29.png/revision/latest?cb=20120118214040",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2d/Wolfurio_standing.JPG/revision/latest?cb=20110418060810",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bb/Subterra_Wolfurio_Open.png/revision/latest?cb=20110320154031"
+      ]
     },
     {
       "id": "wolfurio-darkus",
@@ -17799,7 +23200,17 @@ window.BAKU_DATA = {
       "bio": "Wolfurio, Sezon 4 Bakugan kataloğu kaydı. Bu kayıt Darkus (Karanlık) elementidir.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/3/34/Darkus_Wolfurio_Open.png/revision/latest?cb=20110320154102",
       "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/2/2f/Wolfurio0.png/revision/latest?cb=20110505202831",
-      "nickname": "Darkus Wolfurio"
+      "nickname": "Darkus Wolfurio",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/c/c8/Darkus_Wolfurio.png/revision/latest?cb=20110412201106",
+        "https://static.wikia.nocookie.net/bakugan/images/9/99/Wolfurio_Ballform_%28closed%29.png/revision/latest?cb=20120118214021",
+        "https://static.wikia.nocookie.net/bakugan/images/e/e3/Pyrus_Wolfurio_%28closed_2%29.jpg/revision/latest?cb=20110605072059",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7f/Pyrus_Wolfurio_%28closed%29.jpg/revision/latest?cb=20110605071958",
+        "https://static.wikia.nocookie.net/bakugan/images/a/a1/Wolfurio_Ballform_%28open%29.png/revision/latest?cb=20120118214040",
+        "https://static.wikia.nocookie.net/bakugan/images/2/2d/Wolfurio_standing.JPG/revision/latest?cb=20110418060810",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c3/Haos_Wolfurio_Open.png/revision/latest?cb=20110320154049",
+        "https://static.wikia.nocookie.net/bakugan/images/b/bb/Subterra_Wolfurio_Open.png/revision/latest?cb=20110320154031"
+      ]
     },
     {
       "id": "worton",
@@ -17828,7 +23239,16 @@ window.BAKU_DATA = {
       },
       "bio": "Worton, Sezon 4 Bakugan kataloğu kaydı.",
       "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/48/VentusWorton.png/revision/latest?cb=20110910045713",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/48/VentusWorton.png/revision/latest?cb=20110910045713"
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/4/48/VentusWorton.png/revision/latest?cb=20110910045713",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/d/d9/Worton_ball_form.jpg/revision/latest?cb=20111013232824",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ef/Worton_LOL.png/revision/latest?cb=20111205023824",
+        "https://static.wikia.nocookie.net/bakugan/images/0/07/Worton.png/revision/latest?cb=20110909232006",
+        "https://static.wikia.nocookie.net/bakugan/images/c/c0/Worton_with_Clawbruk.PNG/revision/latest?cb=20120106084008",
+        "https://static.wikia.nocookie.net/bakugan/images/2/28/Worton_E.A..png/revision/latest?cb=20110911110235",
+        "https://static.wikia.nocookie.net/bakugan/images/4/43/Worton_is.jpg/revision/latest?cb=20121021165138",
+        "https://static.wikia.nocookie.net/bakugan/images/7/7f/Worton-Portal.png/revision/latest?cb=20111203115533"
+      ]
     },
     {
       "id": "zenthon",
@@ -17856,8 +23276,18 @@ window.BAKU_DATA = {
         "gForce": 100
       },
       "bio": "Drago’nun çağırdığı Mechtogan. Bakugan savaşını yeni bir boyuta taşır.",
-      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/6/69/Zenthonn.png/revision/latest?cb=20110807005802",
-      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/69/Zenthonn.png/revision/latest?cb=20110807005802"
+      "imageOpen": "https://static.wikia.nocookie.net/bakugan/images/4/42/Pyrus_Zenthon_Open.png/revision/latest?cb=20110624034059",
+      "imageClosed": "https://static.wikia.nocookie.net/bakugan/images/6/69/Zenthonn.png/revision/latest?cb=20110807005802",
+      "altImages": [
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/Pyrus_Zenthon_Closed.png/revision/latest?cb=20110621042935",
+        "https://static.wikia.nocookie.net/bakugan/images/8/84/Pyrus_Zenthon_Toy.JPG/revision/latest?cb=20110730205533",
+        "https://static.wikia.nocookie.net/bakugan/images/c/ca/Pyrus_Zenthon_Ingram_Titan.png/revision/latest?cb=20110603202353",
+        "https://static.wikia.nocookie.net/bakugan/images/1/1a/Pyrus_Zenthon.png/revision/latest?cb=20110223121502",
+        "https://static.wikia.nocookie.net/bakugan/images/e/ea/607px-Pyrus_Zenthon.JPG/revision/latest?cb=20110504174636",
+        "https://static.wikia.nocookie.net/bakugan/images/3/39/Pyrus_Zenthon_nano.jpg/revision/latest?cb=20110221234338",
+        "https://static.wikia.nocookie.net/bakugan/images/b/be/Pyrus_Zenthon_win.jpg/revision/latest?cb=20110221234526",
+        "https://static.wikia.nocookie.net/bakugan/images/7/73/Pyrus_Zenthon.JPG/revision/latest?cb=20110212160927"
+      ]
     }
   ]
 };

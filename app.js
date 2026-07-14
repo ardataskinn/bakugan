@@ -15,7 +15,8 @@ const state = {
   query: "",
   selectedId: null,
   form: "closed",
-  page: 0
+  page: 0,
+  gallerySrc: null
 };
 
 const els = {
@@ -53,6 +54,17 @@ function imgTag(src, alt, className) {
   return `<img class="${className}" src="${src}" alt="${alt}" loading="lazy" decoding="async" referrerpolicy="no-referrer" onerror="this.classList.add('is-broken')" />`;
 }
 
+function galleryList(b) {
+  const list = [];
+  const seen = new Set();
+  for (const src of [b.imageOpen, b.imageClosed, ...(b.altImages || [])]) {
+    if (!src || seen.has(src)) continue;
+    seen.add(src);
+    list.push(src);
+  }
+  return list;
+}
+
 function closedVisual(b) {
   const src = b.imageClosed || b.imageOpen;
   const distinct = b.imageClosed && b.imageClosed !== b.imageOpen;
@@ -72,6 +84,13 @@ function openVisual(b) {
   const src = b.imageOpen || b.imageClosed;
   if (!src) return `<div class="form-photo missing">Görsel yok</div>`;
   return `<div class="form-photo">${imgTag(src, `${b.name} açık`, "form-img")}</div>`;
+}
+
+function stageVisual(b) {
+  if (state.gallerySrc) {
+    return `<div class="form-photo">${imgTag(state.gallerySrc, `${b.name} galeri`, "form-img")}</div>`;
+  }
+  return state.form === "closed" ? closedVisual(b) : openVisual(b);
 }
 
 function cardVisual(b) {
@@ -286,7 +305,10 @@ function renderGrid() {
 
 function selectBakugan(id, resetForm = true) {
   state.selectedId = id;
-  if (resetForm) state.form = "closed";
+  if (resetForm) {
+    state.form = "closed";
+    state.gallerySrc = null;
+  }
   renderGrid();
   renderDetail();
 }
@@ -304,6 +326,8 @@ function renderDetail() {
   const season = seasons.find((s) => s.id === Number(b.season));
   const closed = state.form === "closed";
   const variants = variantsOf(b);
+  const gallery = galleryList(b);
+  const activeGallery = state.gallerySrc || (closed ? b.imageClosed || b.imageOpen : b.imageOpen || b.imageClosed);
 
   const variantSwitcher =
     variants.length > 1
@@ -320,27 +344,50 @@ function renderDetail() {
         </div>`
       : "";
 
+  const galleryBlock =
+    gallery.length > 1
+      ? `<div class="image-gallery">
+          <div class="image-gallery-head">
+            <h4>Daha fazla görsel</h4>
+            <span>${gallery.length}</span>
+          </div>
+          <div class="image-gallery-rail" role="list">
+            ${gallery
+              .map((src, idx) => {
+                const active = src === activeGallery ? " is-active" : "";
+                return `<button type="button" class="gallery-thumb${active}" data-gallery-index="${idx}" role="listitem">
+                  ${imgTag(src, `${b.name} görsel ${idx + 1}`, "gallery-img")}
+                </button>`;
+              })
+              .join("")}
+          </div>
+        </div>`
+      : "";
+
   els.detailEmpty.classList.add("is-hidden");
   els.detailBody.classList.remove("is-hidden");
   els.detailBody.style.setProperty("--attr", color);
+
+  const caption = state.gallerySrc
+    ? "Galeri görseli — başka bir görsele veya Kapalı/Açık’a geçebilirsin."
+    : closed
+      ? b.closedNote
+      : b.openNote;
 
   els.detailBody.innerHTML = `
     ${variantSwitcher}
 
     <div class="form-toggle" role="group" aria-label="Form görünümü">
-      <button type="button" data-form="closed" class="${closed ? "is-active" : ""}">Kapalı</button>
-      <button type="button" data-form="open" class="${!closed ? "is-active" : ""}">Açık</button>
+      <button type="button" data-form="closed" class="${closed && !state.gallerySrc ? "is-active" : ""}">Kapalı</button>
+      <button type="button" data-form="open" class="${!closed && !state.gallerySrc ? "is-active" : ""}">Açık</button>
     </div>
 
     <div class="form-stage">
-      <div class="form-closed ${closed ? "" : "is-off"}">
-        ${closedVisual(b)}
-      </div>
-      <div class="form-open ${closed ? "is-off" : ""}">
-        ${openVisual(b)}
-      </div>
-      <p class="form-caption">${closed ? b.closedNote : b.openNote}</p>
+      ${stageVisual(b)}
+      <p class="form-caption">${caption}</p>
     </div>
+
+    ${galleryBlock}
 
     <div class="detail-top">
       <h3>${b.name}</h3>
@@ -455,12 +502,24 @@ els.bakuGrid.addEventListener("click", (e) => {
 els.detailBody.addEventListener("click", (e) => {
   const variantBtn = e.target.closest("[data-variant]");
   if (variantBtn) {
+    state.gallerySrc = null;
     selectBakugan(variantBtn.dataset.variant, false);
+    return;
+  }
+  const galleryBtn = e.target.closest("[data-gallery-index]");
+  if (galleryBtn) {
+    const b = bakugan.find((x) => x.id === state.selectedId);
+    const src = galleryList(b || {})[Number(galleryBtn.dataset.galleryIndex)];
+    if (src) {
+      state.gallerySrc = src;
+      renderDetail();
+    }
     return;
   }
   const formBtn = e.target.closest("[data-form]");
   if (!formBtn) return;
   state.form = formBtn.dataset.form;
+  state.gallerySrc = null;
   renderDetail();
 });
 
