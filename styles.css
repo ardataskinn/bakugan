@@ -858,6 +858,28 @@ input {
   background: var(--attr);
 }
 
+.variant-dots {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.28rem;
+  margin-top: 0.5rem;
+}
+
+.variant-dots i {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background: var(--dot);
+  opacity: 0.45;
+  box-shadow: 0 0 0 1px color-mix(in srgb, var(--dot) 35%, transparent);
+}
+
+.variant-dots i.is-active {
+  opacity: 1;
+  transform: scale(1.2);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--dot) 55%, white 15%);
+}
+
 .g-badge {
   position: absolute;
   top: 0.65rem;
@@ -927,6 +949,52 @@ input {
 .form-toggle button.is-active {
   background: var(--copper);
   color: #1a0f08;
+}
+
+.variant-toggle {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-bottom: 0.85rem;
+}
+
+.variant-toggle button {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  min-height: 2rem;
+  padding: 0 0.65rem;
+  border: 1px solid color-mix(in srgb, var(--attr) 45%, var(--line));
+  background: color-mix(in srgb, var(--attr) 12%, transparent);
+  color: var(--ink-dim);
+  font-family: var(--font-display);
+  font-size: 0.82rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: 0.15s;
+}
+
+.variant-toggle button i {
+  width: 0.45rem;
+  height: 0.45rem;
+  border-radius: 50%;
+  background: var(--attr);
+}
+
+.variant-toggle button:hover {
+  color: var(--ink);
+  border-color: color-mix(in srgb, var(--attr) 70%, white 10%);
+}
+
+.variant-toggle button.is-active {
+  color: #120c08;
+  background: var(--attr);
+  border-color: color-mix(in srgb, var(--attr) 80%, white 20%);
+}
+
+.variant-toggle button.is-active i {
+  background: #120c08;
 }
 
 .form-stage {

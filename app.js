@@ -6,6 +6,7 @@ if (!DATA) {
 
 const { attributes, seasons, warriors, bakugan } = DATA;
 const PAGE_SIZE = 48;
+const ATTR_ORDER = Object.keys(attributes);
 
 const state = {
   warriorSeason: "all",
@@ -147,22 +148,84 @@ function renderAttrFilters() {
     .join("");
 }
 
-function filteredBakugan() {
+function groupKey(b) {
+  return `${b.name}::${b.season}`;
+}
+
+function sortVariants(variants) {
+  return [...variants].sort(
+    (a, b) => ATTR_ORDER.indexOf(a.attribute) - ATTR_ORDER.indexOf(b.attribute)
+  );
+}
+
+function preferredVariant(variants) {
+  if (state.selectedId) {
+    const selected = variants.find((v) => v.id === state.selectedId);
+    if (selected) return selected;
+  }
+  if (state.attr !== "all") {
+    const match = variants.find((v) => v.attribute === state.attr);
+    if (match) return match;
+  }
+  const withPartner = variants.find((v) => v.partner && v.partner !== "—");
+  if (withPartner) return withPartner;
+  return sortVariants(variants)[0];
+}
+
+function variantsOf(b) {
+  if (!b) return [];
+  return sortVariants(bakugan.filter((x) => x.name === b.name && Number(x.season) === Number(b.season)));
+}
+
+function filteredGroups() {
   const q = state.query.trim().toLowerCase();
-  return bakugan.filter((b) => {
-    if (state.season !== "all" && Number(b.season) !== Number(state.season)) return false;
-    if (state.attr !== "all" && b.attribute !== state.attr) return false;
-    if (!q) return true;
-    const blob = [b.name, b.nickname, b.partner, b.form, b.attribute, ...(b.powers || []), ...(b.superPowers || [])]
-      .filter(Boolean)
-      .join(" ")
-      .toLowerCase();
-    return blob.includes(q);
-  });
+  const byGroup = new Map();
+
+  for (const b of bakugan) {
+    if (state.season !== "all" && Number(b.season) !== Number(state.season)) continue;
+    const key = groupKey(b);
+    if (!byGroup.has(key)) byGroup.set(key, []);
+    byGroup.get(key).push(b);
+  }
+
+  const groups = [];
+  for (const [, variantsRaw] of byGroup) {
+    const variants = sortVariants(variantsRaw);
+    if (state.attr !== "all" && !variants.some((v) => v.attribute === state.attr)) continue;
+
+    if (q) {
+      const blob = variants
+        .flatMap((b) => [
+          b.name,
+          b.nickname,
+          b.partner,
+          b.form,
+          b.attribute,
+          attributes[b.attribute]?.name,
+          attributes[b.attribute]?.tr,
+          ...(b.powers || []),
+          ...(b.superPowers || [])
+        ])
+        .filter(Boolean)
+        .join(" ")
+        .toLowerCase();
+      if (!blob.includes(q)) continue;
+    }
+
+    groups.push({
+      key: groupKey(variants[0]),
+      name: variants[0].name,
+      season: variants[0].season,
+      variants,
+      display: preferredVariant(variants)
+    });
+  }
+
+  return groups;
 }
 
 function renderGrid() {
-  const list = filteredBakugan();
+  const list = filteredGroups();
   const total = list.length;
   const maxPage = Math.max(0, Math.ceil(total / PAGE_SIZE) - 1);
   if (state.page > maxPage) state.page = maxPage;
@@ -175,16 +238,34 @@ function renderGrid() {
   }
 
   const cards = pageItems
-    .map((b) => {
+    .map((group) => {
+      const b = group.display;
       const color = attrColor(b.attribute);
-      const selected = state.selectedId === b.id ? " is-selected" : "";
+      const selected = group.variants.some((v) => v.id === state.selectedId) ? " is-selected" : "";
       const attrName = attributes[b.attribute]?.name || b.attribute;
+      const partnerNote = b.partner && b.partner !== "—" ? ` · ${b.partner}` : "";
+      const highlightId = group.variants.some((v) => v.id === state.selectedId) ? state.selectedId : b.id;
+      const variantDots =
+        group.variants.length > 1
+          ? `<div class="variant-dots" aria-label="${group.variants.length} element varyantı">${group.variants
+              .map((v) => {
+                const active = v.id === highlightId ? " is-active" : "";
+                return `<i class="${active}" style="--dot:${attrColor(v.attribute)}" title="${attributes[v.attribute]?.name || v.attribute}"></i>`;
+              })
+              .join("")}</div>`
+          : "";
+      const sub =
+        group.variants.length > 1
+          ? `${group.variants.length} element${partnerNote}`
+          : `${attrName}${partnerNote}`;
+
       return `
         <button type="button" class="baku-card${selected}" style="--attr:${color}" data-baku="${b.id}">
           <span class="g-badge">G ${b.gPower}</span>
           <div class="baku-visual">${cardVisual(b)}</div>
           <h3>${b.name}</h3>
-          <p class="baku-sub">${attrName}${b.partner && b.partner !== "—" ? ` · ${b.partner}` : ""}</p>
+          <p class="baku-sub">${sub}</p>
+          ${variantDots}
           <div class="attr-pill"><i></i>${attrName}</div>
         </button>
       `;
@@ -222,12 +303,30 @@ function renderDetail() {
   const color = attrColor(b.attribute);
   const season = seasons.find((s) => s.id === Number(b.season));
   const closed = state.form === "closed";
+  const variants = variantsOf(b);
+
+  const variantSwitcher =
+    variants.length > 1
+      ? `<div class="variant-toggle" role="group" aria-label="Element varyantı">
+          ${variants
+            .map((v) => {
+              const a = attributes[v.attribute];
+              const active = v.id === b.id ? " is-active" : "";
+              return `<button type="button" data-variant="${v.id}" class="${active}" style="--attr:${attrColor(v.attribute)}" title="${a?.tr || v.attribute}">
+                <i></i><span>${a?.name || v.attribute}</span>
+              </button>`;
+            })
+            .join("")}
+        </div>`
+      : "";
 
   els.detailEmpty.classList.add("is-hidden");
   els.detailBody.classList.remove("is-hidden");
   els.detailBody.style.setProperty("--attr", color);
 
   els.detailBody.innerHTML = `
+    ${variantSwitcher}
+
     <div class="form-toggle" role="group" aria-label="Form görünümü">
       <button type="button" data-form="closed" class="${closed ? "is-active" : ""}">Kapalı</button>
       <button type="button" data-form="open" class="${!closed ? "is-active" : ""}">Açık</button>
@@ -320,8 +419,16 @@ els.attrFilters.addEventListener("click", (e) => {
   if (!btn) return;
   state.attr = btn.dataset.attrFilter;
   state.page = 0;
+  if (state.selectedId) {
+    const current = bakugan.find((x) => x.id === state.selectedId);
+    if (current) {
+      const pick = preferredVariant(variantsOf(current));
+      if (pick) state.selectedId = pick.id;
+    }
+  }
   renderAttrFilters();
   renderGrid();
+  renderDetail();
 });
 
 els.searchInput.addEventListener("input", () => {
@@ -346,6 +453,11 @@ els.bakuGrid.addEventListener("click", (e) => {
 });
 
 els.detailBody.addEventListener("click", (e) => {
+  const variantBtn = e.target.closest("[data-variant]");
+  if (variantBtn) {
+    selectBakugan(variantBtn.dataset.variant, false);
+    return;
+  }
   const formBtn = e.target.closest("[data-form]");
   if (!formBtn) return;
   state.form = formBtn.dataset.form;
@@ -368,8 +480,8 @@ try {
   renderAttrFilters();
   renderGrid();
 
-  const first = filteredBakugan()[0];
-  if (first) selectBakugan(first.id);
+  const first = filteredGroups()[0];
+  if (first) selectBakugan(first.display.id);
 } catch (err) {
   console.error(err);
   window.__bakuErr = String(err);
